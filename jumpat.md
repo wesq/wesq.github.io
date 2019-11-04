@@ -13,4 +13,6 @@ subtitle: Elokatsu järjestää..
 
 hjfhjfgjgfhjg
 
-hkghk![](/uploads/elokatsunkuvavalmennus.jpg)
+hkghk
+
+![](/img/elokatsunkuvavalmennus.jpg)
