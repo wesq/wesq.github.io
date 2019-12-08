@@ -1,9 +1,9 @@
 ---
 layout: page
-title: elokatsu
+title: Esittely
 subtitle: Mitä ja miksi
----
 
+---
 mikä on elokatsu 
 - ihana mussukka
 - paljon muuta
@@ -11,4 +11,4 @@ mikä on elokatsu
 
 ### elokatsun historia 
 
-Tähän *kuvaus* elokatsusta .. 
+Tähän *kuvaus* elokatsusta ..
