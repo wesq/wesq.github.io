@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-#title: elokatsu1
+title: elokatsu
 
 # Short description of your site
 description: uusi lempeä elo
@@ -20,11 +20,26 @@ description: uusi lempeä elo
 
 # List of links in the navigation bar
 navbar-links:
-  Mitä: "aboutme"
+  elokatsu: 
+    - Esittely: "esittely"
+    - Tarina: "tarina"
+    - Arvot: "arvot"
   Palvelut:
+    - Yksilövalmennukset: "yksilovalmennukset" # yksilövalmennukset
+    - Ryhmävalmennukset: "ryhmavalmennukset"
     - Jumpat: "jumpat"
-    - Markdown opas: "http://www.markdowntutorial.com/"
-  Facebook: "https://facebook.com/elokatsu"
+    - Firstbeat-mittaus: "firstbeat"
+    - Työhyvinvointi: "tyohyvinvointi"
+    - Lapsille: "lapset"
+    - Valmennusehdot: "valmennusehdot"
+    #- Markdown opas: "http://www.markdowntutorial.com/"
+  Hinnastot:
+    - Yksilövalmennukset : "hinnasto_yksilo"
+    - Ryhmävalmennukset: "hinnasto_ryhmat"
+  Palaute: "palaute"
+  #Valmennusehdot: "valmennusehdot"
+  #Kauppa: "kauppa"
+  #Facebook: "https://facebook.com/elokatsu"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -39,7 +54,7 @@ avatar: "/img/elokatsu_logo_crop.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#F5F5F5"
-navbar-col: "#ffff84"
+navbar-col: "#ffff84" # Keltainen yläreuna
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 #page-col: "#FFFFFF"

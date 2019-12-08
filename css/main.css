@@ -13,7 +13,6 @@ body {
   position: relative;
   /*background-color: {{ site.page-col }};*/
   background: linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%);
-  background: {{ site.page-gradient }};
  /*  background: rgb(2,0,36);
   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,255,132,1) 0%, rgba(183,224,112,1) 100%);*/
   {% if site.page-img %}
@@ -120,7 +119,7 @@ img {
 }
 
 .navbar-custom .nav li a {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-size: 12px;
   letter-spacing: 1px;
 }
