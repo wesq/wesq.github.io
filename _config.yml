@@ -55,8 +55,11 @@ avatar: "/img/elokatsu_logo_crop.png"
 
 #navbar-col: "#F5F5F5"
 navbar-col: "#ffff84" # Keltainen yläreuna
+#rgba(183,224,112,1) # vihreä
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+#navbar-children-col: "#F5F5F5" # navigointi auki --> harmaa
+#navbar-children-col: rgba(183,224,112,1) # vihreä
+navbar-children-col: "#ffff84"
 #page-col: "#FFFFFF"
 #page-col: 'linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%)'
 #page-col: "#b7e070"
@@ -85,7 +88,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false 
+#  rss: false 
   email: "kati@elokatsu.fi"
   facebook: elokatsu
 #  github: daattali
@@ -98,7 +101,7 @@ social-network-links:
   instagram: elokatsu
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: +358
+  telephone: +35840
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
