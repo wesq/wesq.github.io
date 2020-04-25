@@ -22,21 +22,25 @@ description: uusi lempeä elo
 navbar-links:
   elokatsu: 
     - Esittely: "esittely"
-    - Tarina: "tarina"
+    - Missio: "missio"
     - Arvot: "arvot"
+    - -> Facebook: "https://facebook.com/elokatsu"
+    - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
-    - Yksilövalmennukset: "yksilovalmennukset" # yksilövalmennukset
-    - Ryhmävalmennukset: "ryhmavalmennukset"
+    - Yksilövalmennus: "yksilovalmennukset"
+    - Ryhmävalmennus: "ryhmavalmennukset"
     - Jumpat: "jumpat"
     - Firstbeat-mittaus: "firstbeat"
     - Työhyvinvointi: "tyohyvinvointi"
-    - Lapsille: "lapset"
+    - Lapset: "lapset"
     - Valmennusehdot: "valmennusehdot"
     #- Markdown opas: "http://www.markdowntutorial.com/"
-  Hinnastot:
-    - Yksilövalmennukset : "hinnasto_yksilo"
-    - Ryhmävalmennukset: "hinnasto_ryhmat"
-  Palaute: "palaute"
+  Ajankohtaista:
+    - Syksy 2020: "syksy2020"
+  Yhteys: 
+    - Jätä palautetta: "palaute"
+    - Ota yhteyttä: "ota_yhteytta"
+    - Ilmainen konsultointi: "konsultointi"
   #Valmennusehdot: "valmennusehdot"
   #Kauppa: "kauppa"
   #Facebook: "https://facebook.com/elokatsu"
@@ -61,11 +65,13 @@ navbar-text-col: "#404040"
 #navbar-children-col: rgba(183,224,112,1) # vihreä
 navbar-children-col: "#ffff84"
 #page-col: "#FFFFFF"
-#page-col: 'linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%)'
+page-col: "linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%)"
+#/*  background: linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%);* #tämä oli main.css:ssä
 #page-col: "#b7e070"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#F5F5F5" # harmaa
+footer-col: rgba(183,224,112,1)
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -203,6 +209,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+#      comments: true
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
