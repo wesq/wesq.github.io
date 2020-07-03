@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Missio
-subtitle: elokatsun missio
----
+subtitle: Mitä haluan toiminnallani tuoda?
 
+---
 #### MISSIO 
 
 Tällä hetkellä elokatsu toimii liikunnan parissa ohjaten lasten ja aikuisten ryhmäliikuntaa. Lisäksi elokatsu tarjoaa yksilö- ja ryhmävalmennuksia hyvinvoinnin eri osa-alueiden tiimoilta, löydät palveluni ja hinnastoni erikseen täältä facebookista.
@@ -17,4 +17,4 @@ Nuoresta saakka liikunta ja liike ovat kuuluneet elämääni. Minulla on kuitenk
 
 Oma kiinnostus hyvinvoinnistani kasvoi pala palalta, ja palo sisälläni sysäsi minua myös eteenpäin opiskelemaan aiheesta. Vuonna 2013-2014 opiskelin vuoden funktionaalisen lääketieteen ravitsemustieteitä, jonka jälkeen ravinto ja sen avulla hyvinvoinnin lisääminen on ollut lähellä sydäntäni. Vuosien varrella olen opiskellut erilaisia nettikursseja ravinnosta ja muusta hyvinvoinnista ja tullut kokoajan tietoisemmaksi halustani auttaa myös muita sen parissa. Vuonna 2018 aloitin hyvinvointivalmentajan opinnot, joissa nähtiin ihminen kokonaisuutena. Saimme opetella asioita ravinnosta, palautumisesta ja levosta, luonnon vaikutuksesta hyvinvointiin, sekä liikkeestä esimerkiksi jumpan ja kuntosalimaailman puolella. Samalla opiskelin myös yliopistossa ravitsemustieteen perusopinnot, jotta ymmärtäisin ravitsemuksen kokonaisuutta paremmin.
 
-Näiden opiskelujen myötä minua alkoi myös enemmän kiehtomaan, miten yksilön motivaatiota muutokseen voisi synnyttää ja ylläpitää. Siispä vuonna 2019 polkuni jatkui opiskelemaan psyykkistä valmennusta yliopistoon liikuntapsykologian opintojen pariin. Tämä polku jatkuu edelleen, ja tästä ammennetaan kokoajan lisää hyvin innostuneena ja kiinnostuneena juurikin tukemaan yksilön matkaa kohti omaa hyvinvoivaa arkea, mitä ikinä se kenellekin merkitsee. 
+Näiden opiskelujen myötä minua alkoi myös enemmän kiehtomaan, miten yksilön motivaatiota muutokseen voisi synnyttää ja ylläpitää. Siispä vuonna 2019 polkuni jatkui opiskelemaan psyykkistä valmennusta yliopistoon liikuntapsykologian opintojen pariin. Tämä polku jatkuu edelleen, ja tästä ammennetaan kokoajan lisää hyvin innostuneena ja kiinnostuneena juurikin tukemaan yksilön matkaa kohti omaa hyvinvoivaa arkea, mitä ikinä se kenellekin merkitsee.
