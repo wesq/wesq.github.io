@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Arvot
-subtitle: elokatsun arvot
----
+subtitle: Toiminnan tukena olevat arvot
 
+---
 Elokatsun toiminnan ARVOT ja kulmakivet koostuvat kirjaimista: **E L O A** :
 
 **ELOISUUS**
