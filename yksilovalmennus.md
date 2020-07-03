@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yksilövalmennukset
-subtitle: elokatsun yksilövalmennukset
+subtitle: Räätälöidyt hyvinvointivalmennukset sinulle
 comments: false
 
 ---
