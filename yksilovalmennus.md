@@ -5,6 +5,6 @@ subtitle: elokatsun yksilövalmennukset
 comments: false
 
 ---
-#### ![](/img/pienryhmatreenit_6.jpg)Yksilövalmennukset
+#### Yksilövalmennukset
 
-Hyvinvointivalmennusta Sinun omiin tarpeisiisi. Valmennus räätälöidään yksilöllisesti, varaa aika ilmaiseen konsultointiin, jossa voimme pohtia millainen valmennus palvelisi parhaiten tarpeitasi.
+Hyvinvointivalmennusta Sinun omiin tarpeisiisi. Valmennus räätälöidään yksilöllisesti, varaa aika ilmaiseen konsultointiin, jossa voimme pohtia millainen valmennus palvelisi parhaiten tarpeitasi.![](/img/pienryhmatreenit_6.jpg)
