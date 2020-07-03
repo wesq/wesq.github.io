@@ -27,11 +27,11 @@ navbar-links:
     - -> Facebook: "https://facebook.com/elokatsu"
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
-    - Yksilövalmennus: "yksilovalmennukset"
-    - Ryhmävalmennus: "ryhmavalmennukset"
-    - Jumpat: "jumpat"
-    - Firstbeat-mittaus: "firstbeat"
+    - Yksilövalmennus: "yksilovalmennus"
+    - Hyvinvointivalmennus: "hyvinvointivalmennus"
+    - Pienryhmätreeni: "pienryhmatreeni"
     - Työhyvinvointi: "tyohyvinvointi"
+    - Firstbeat-mittaus: "firstbeat"
     - Lapset: "lapset"
     - Valmennusehdot: "valmennusehdot"
     #- Markdown opas: "http://www.markdowntutorial.com/"
@@ -57,21 +57,19 @@ avatar: "/img/elokatsu_logo_crop.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-#navbar-col: "#F5F5F5"
-navbar-col: "#ffff84" # Keltainen yläreuna
-#rgba(183,224,112,1) # vihreä
+#navbar-col: "#ffff84" # Elokatsun-Keltainen yläreuna
+navbar-col: rgba(255, 255, 132, 1) # Keltainen
 navbar-text-col: "#404040"
-#navbar-children-col: "#F5F5F5" # navigointi auki --> harmaa
-#navbar-children-col: rgba(183,224,112,1) # vihreä
-navbar-children-col: "#ffff84"
-#page-col: "#FFFFFF"
-page-col: "linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%)"
-#/*  background: linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%);* #tämä oli main.css:ssä
-#page-col: "#b7e070"
+navbar-children-col: rgba(255, 255, 159, 1) # Keltainen-10%
+
+#page-col: rgba(183, 224, 112, 1) # Elokatsun Vihreä
+page-col: "#E2FAB5" # Keltavihreä
+
+
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5" # harmaa
-footer-col: rgba(183,224,112,1)
+#footer-col: "#F5F5F5" # harmaa
+footer-col: rgba(183,224,112,1) # Elokatsun Vihreä
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -81,6 +79,9 @@ footer-link-col: "#404040"
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
+#page-img: linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%)
+#/*  background: linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%);* #tämä oli main.css:ssä
+
 
 # --- Footer options --- #
 
@@ -201,7 +202,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:

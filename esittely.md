@@ -2,11 +2,10 @@
 layout: page
 title: Esittely
 subtitle: Kuka on elokatsu?
-bigimg: "./img/hello_world.jpeg"
 comments: false
 ---
 
-![elokatsu](./img/elokatsunkuvavalmennus_crop.jpg){: .center-block :}
+![elokatsu](./img/elokatsu.jpg){: .center-block :}
 
 ***Elokatsun*** takana pyörii siis minä, **Kati Mäkelä**.
 

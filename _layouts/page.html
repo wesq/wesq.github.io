@@ -20,6 +20,12 @@ layout: base
           {% include just_comments.html %}
         </div>
 	    {% endif %}
+
+      {% if page.formspree_comment %}
+        <div class="formspree_comment">
+          {% include formspree_comment.html %}
+        </div>
+      {% endif %}
     </div>
   </div>
 </div>
