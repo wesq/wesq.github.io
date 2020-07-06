@@ -1,0 +1,25 @@
+---
+label: Perussivu
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: boolean
+  name: formspree_comment
+  label: formspree_comment
+- type: text
+  name: comment_teksti
+  label: comment_teksti
+- type: boolean
+  name: comments
+  label: comments
+- type: file
+  name: bigimg
+  label: bigimg
