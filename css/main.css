@@ -213,16 +213,17 @@ img {
   .navbar-custom .avatar-container .avatar-img {
     width: 100%;
   }
+
 /*custom image positions*/
   .image-left{
-    width: 60%;
+    width: 45%;
     float: left;
     margin-right: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
   }
   .image-right{
-    width: 60%;
+    width: 45%;
     float: right;
     margin-right: 10px;
   }
@@ -863,20 +864,7 @@ pre {
   margin-top: 10%;
 }
 
-.wrapper{
-  /*
-  position: relative; 
-  margin-top: 250px;
-  background-color: #E2FAB5;
-  width: 100vw;
-  width: 100%;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  */
-}
-.leipateksti{
+.etusivun_leipateksti{
   /*kellertävä*/
   background-color: #E2FAB5; 
   /*tummempi*/
@@ -889,10 +877,25 @@ pre {
   text-align: center;
   margin:auto;
   padding: 10px;
-  margin:auto;
   width: 100%;
   opacity: 0.7;
 
+}
+.leipateksti{
+  /*kellertävä*/
+  background-color: #E2FAB5; 
+  /*tummempi*/
+  /*background-color: #eefdec;*/ 
+  /*vihreä*/
+  /*background-color: #b7e070;*/ 
+  border-radius:25px;
+  font-size:20px; font-family:'Montserrat'; font-weight:200;
+  position: relative; 
+  text-align: left;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding: 10px;
+  width: 100%;
 }
 .page-heading {
   text-align: center;

@@ -62,8 +62,8 @@ navbar-col: rgba(255, 255, 132, 1) # Keltainen
 navbar-text-col: "#404040"
 navbar-children-col: rgba(255, 255, 159, 1) # Keltainen-10%
 
-#page-col: rgba(183, 224, 112, 1) # Elokatsun Vihreä
-page-col: "#E2FAB5" # Keltavihreä
+page-col: rgba(183, 224, 112, 1) # Elokatsun Vihreä
+#page-col: "#E2FAB5" # Keltavihreä
 
 
 link-col: "#008AFF"

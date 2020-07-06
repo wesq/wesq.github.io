@@ -4,7 +4,7 @@ title: Arvot
 subtitle: Toiminnan tukena olevat arvot
 
 ---
-Elokatsun toiminnan ARVOT ja kulmakivet koostuvat kirjaimista: **E L O A** :
+Elokatsun toiminnan arvot ja kulmakivet koostuvat kirjaimista: **E L O A**:
 
 **ELOISUUS**
 Valmennuksessani korostuu eloisuus ja innostus, sekä yhdessä tekemisen hauskuus ja kannustuksen voima. Toivon jokaisen löytävän liikunnan ilon, kaiken ei aina tarvitse olla niin jäykkää ja suunniteltua, vaan rennon tekemisen kautta usein löytyy se innostus ja elämän energia.
