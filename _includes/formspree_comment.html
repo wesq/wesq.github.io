@@ -2,7 +2,11 @@
 	<div id="php_comment">
 		<form method="post" action="https://formspree.io/xeqrlnbz">
 			<div class = "form">
+				{% if page.comment_teksti %}
+				<label for="message">{{ page.comment_teksti }}</label>
+				{% else %}
 					<label for="message">Viesti</label>
+      			{% endif %}
 				<div class = "row">
 					<textarea rows="5" name="message"></textarea>
 				</div>
