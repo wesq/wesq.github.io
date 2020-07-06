@@ -1566,6 +1566,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+
 }
 @media (min-width: 768px) {
   .container {
@@ -6438,6 +6439,7 @@ button.close {
   }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
+
   .visible-md {
     display: block !important;
   }
