@@ -4,7 +4,12 @@ title: Yksilövalmennukset
 subtitle: Räätälöidyt hyvinvointivalmennukset sinulle
 formspree_comment: true
 comment_teksti: Ota yhteyttä yksilövalmennuksista
+=======
+comments: false
+formspree_comment: false
+>>>>>>> d22cb330e05481ffdcdf62dd1430586feb178cea
 bigimg: "/img/yksilotreeni.jpg"
+comment_teksti: Ota yhteyttä yksilövalmennuksista
 
 ---
 #### Yksilövalmennukset
@@ -22,7 +27,6 @@ Curabitur ut commodo elit. Praesent mi libero, rhoncus et posuere eget, tincidun
 
 Treeni2
 Proin at consequat nulla, vel tempor mi. Sed molestie dignissim risus sit amet commodo. Curabitur bibendum, lectus sed mattis tincidunt, mi dui tincidunt turpis, non elementum lectus ante eget ligula. Integer sit amet interdum risus. Sed auctor ultricies tellus eget scelerisque. Vivamus quis nunc consectetur, sodales ligula ac, convallis erat. Donec pharetra vehicula egestas. Donec vulputate urna velit, lobortis volutpat nisi bibendum vitae. Nullam fermentum, mi non euismod interdum, ante ex commodo nulla, vitae egestas enim diam vitae dolor. Aenean ligula dolor, rutrum vitae viverra et, imperdiet et ante. Nam risus nibh, imperdiet ac scelerisque viverra, fermentum sed justo. In quis faucibus ante. Nunc nunc diam, tristique in ipsum molestie, aliquam scelerisque eros.
-
 
 Pellentesque id ligula finibus, hendrerit quam et, egestas nulla. Nunc iaculis lorem et scelerisque malesuada. Fusce accumsan consectetur enim vel suscipit. Fusce commodo vulputate rhoncus. Duis lacinia erat augue, vitae egestas augue pellentesque et. Ut ut ex aliquet, laoreet eros ut, consectetur diam. Ut sit amet lorem a lacus dictum euismod.
 ![treeni3](/img/pienryhmatreenit_3.jpg){:.image-left}
