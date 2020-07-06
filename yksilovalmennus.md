@@ -5,7 +5,7 @@ subtitle: Räätälöidyt hyvinvointivalmennukset sinulle
 formspree_comment: true
 comment_teksti: Ota yhteyttä yksilövalmennuksista
 comments: false
-formspree_comment: false
+formspree_comment: true
 bigimg: "/img/yksilotreeni.jpg"
 comment_teksti: Ota yhteyttä yksilövalmennuksista
 
