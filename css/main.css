@@ -213,6 +213,19 @@ img {
   .navbar-custom .avatar-container .avatar-img {
     width: 100%;
   }
+/*custom image positions*/
+  .image-left{
+    width: 60%;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .image-right{
+    width: 60%;
+    float: right;
+    margin-right: 10px;
+  }
 }
 
 /* Multi-level navigation links */
@@ -243,6 +256,7 @@ img {
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
   }
+
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav .navlinks-container {
