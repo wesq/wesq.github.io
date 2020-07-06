@@ -4,7 +4,6 @@ title: Yksilövalmennukset
 subtitle: Räätälöidyt hyvinvointivalmennukset sinulle
 formspree_comment: true
 comment_teksti: Ota yhteyttä yksilövalmennuksista
-=======
 comments: false
 formspree_comment: false
 >>>>>>> d22cb330e05481ffdcdf62dd1430586feb178cea
