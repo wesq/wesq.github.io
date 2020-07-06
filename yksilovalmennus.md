@@ -2,8 +2,9 @@
 layout: page
 title: Yksilövalmennukset
 subtitle: Räätälöidyt hyvinvointivalmennukset sinulle
-comments: false
-
+formspree_comment: true
+comment_teksti: Ota yhteyttä yksilövalmennuksista
+cover-img: yksilotreeni.jpg
 ---
 #### Yksilövalmennukset
 

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Työhyvinvointi
-subtitle:     
+subtitle: Hyvinvointia yrityksesi tueksi
 ---
 ---

@@ -412,10 +412,6 @@ footer .theme-by {
   font-weight: 800;
 }
 
-@media only screen and (min-width: 768px) {
-  .post-preview .post-title {
-    font-size: 36px;
-  }
 }
 
 /* --- Tags --- */
@@ -501,10 +497,6 @@ footer .theme-by {
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
-.intro-header .page-heading h1 {
-  margin-top: 0;
-  font-size: 50px;
-}
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 35px;
@@ -556,10 +548,10 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 55px;/*this was 80px*/
   }
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 37px;
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
@@ -839,8 +831,7 @@ pre {
 .below-hero {
   text-align: center;
   position: relative;
-  margin-top: 300px;
-
+  margin-top: 5%;
   color: #b7e070;
   z-index:10;
 }
@@ -869,7 +860,7 @@ pre {
 }
 
 .etusivu{
-  margin-top: 100px;
+  margin-top: 10%;
 }
 
 .wrapper{

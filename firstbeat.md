@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Firstbeat-mittaukset
-subtitle:    
+subtitle: Mittaukset palautumisen tueksi
 ---
 ---
