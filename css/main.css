@@ -29,7 +29,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 500;
 }
 a {
   color: {{ site.link-col }};
@@ -832,7 +832,7 @@ pre {
 .below-hero {
   text-align: center;
   position: relative;
-  margin-top: 5%;
+  margin-top: 20%;
   color: #b7e070;
   z-index:10;
 }
@@ -865,13 +865,12 @@ pre {
 }
 
 .etusivun_leipateksti{
-  /*kellertävä*/
-  background-color: #E2FAB5; 
+  background-color: #E2FAB5; /*kellertävä*/
   /*tummempi*/
   /*background-color: #eefdec;*/ 
   /*vihreä*/
   /*background-color: #b7e070;*/ 
-  border-radius:25px;
+  border-radius:15px;
   font-size:20px; font-family:'Montserrat'; font-weight:200;
   position: relative; 
   text-align: center;
@@ -882,21 +881,34 @@ pre {
 
 }
 .leipateksti{
-  /*kellertävä*/
-  background-color: #E2FAB5; 
-  /*tummempi*/
-  /*background-color: #eefdec;*/ 
-  /*vihreä*/
-  /*background-color: #b7e070;*/ 
-  border-radius:25px;
+  /*background-color: #E2FAB5; /*kellertävä*/
+  /*background-color: #f4fdf4; /*vaalean sininen*/
+  /*background-color: #f3fff3; /*vaaleampi sininen*/
+  /*background-color: #D0F0C0; /*tea*/
+  border-radius:5px;
   font-size:20px; font-family:'Montserrat'; font-weight:200;
   position: relative; 
   text-align: left;
-  margin-left: -15px;
-  margin-right: -15px;
   padding: 10px;
   width: 100%;
 }
+
+
+.yhteydenotto {
+  /*background-color: #E2FAB5; /*kellertävä*/
+  border-radius:5px;
+  font-size:20px; font-family:'Montserrat'; font-weight:200;
+  position: relative; 
+  text-align: left;
+  margin-top:10px;
+  padding: 5px;
+  width: 100%;
+  max-width: 100%;
+}
+input[type="text"], input[type="email"] {
+    max-width:90%;
+}
+
 .page-heading {
   text-align: center;
 }

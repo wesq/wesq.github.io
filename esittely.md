@@ -2,7 +2,8 @@
 layout: page
 title: Esittely
 subtitle: Kuka on elokatsu?
-comments: false
+
+bigimg: img/IMG_20181011_110736.jpg
 ---
 
 ![elokatsu](./img/elokatsu.jpg){: .center-block :}

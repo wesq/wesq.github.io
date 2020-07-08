@@ -3,14 +3,15 @@ layout: page
 title: Missio
 subtitle: Mitä haluan toiminnallani tuoda?
 
+bigimg: img/aloituskuvia_FB_IMG_1562946199301.jpg
 ---
-#### MISSIO 
+### MISSIO 
 
 Tällä hetkellä elokatsu toimii liikunnan parissa ohjaten lasten ja aikuisten ryhmäliikuntaa. Lisäksi elokatsu tarjoaa yksilö- ja ryhmävalmennuksia hyvinvoinnin eri osa-alueiden tiimoilta, löydät palveluni ja hinnastoni erikseen täältä facebookista.
 Sloganini ”uusi lempeä elo” kuvastaa ideologiaani hyvinvointivalmentajana ja tapaa, millä haluan valmentajana kohdata Sinut. Haluan auttaa ihmisiä kokonaisvaltaisen hyvinvoinnin parissa painottaen lempeän hyväksymisen tärkeyttä.
 Matka syvemmälle itseeni ja lempeän hyväksyvä suhtautuminen tekemisiini on minullakin jatkuvaa opettelua ja haparoimista, elämän pituinen matka jossa aina voi oppia uutta. Haluan olla valmennettavilleni rinnallakulkija ja kanssaeläjä, tukien ja kannustaen matkaa kohti hyvinvointia.
 
-#### Mistä kaikki on lähtenyt liikkeelle?
+### Mistä kaikki on lähtenyt liikkeelle?
 
 Elokatsun matka on lähtenyt liikkeelle yhden ihmisen vahvasta palosta hyvinvointiin ja hyvinvoinnin lisäämiseen niin, että meidän jokaisen olisi mahdollista nauttia kokonaisvaltaisesta hyvinvoinnista.
 Nuoresta saakka liikunta ja liike ovat kuuluneet elämääni. Minulla on kuitenkin ollut elämässäni jakso, kun en jaksanut tai ollut kiinnostunut kiinnittämään huomiota hyvinvointiini. Voin huonosti niin henkisesti kuin fyysisesti, mutten ollut valmis muutokseen. Jossain vaiheessa kuitenkin oivalsin, että vain minä itse olen vastuussa itsestäni, voin ottaa ohjat omiin käsiini, ja myös voida paremmin ja oppia arvostamaan itseäni, olemaan itseni puolella. Olen siis itsekin tehnyt elämäntapamuutoksen ja harjoitellut samojen asioiden äärellä, siispä ymmärrän hyvin mitä asiakkaani käyvät läpi.

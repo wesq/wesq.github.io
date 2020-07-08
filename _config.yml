@@ -47,12 +47,12 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/elokatsu_logo_crop.png"
+avatar: "/img/logo_crop_circle.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
-
+# title-img: "/img/elokatsu_logo_crop.png"
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
@@ -62,9 +62,10 @@ navbar-col: rgba(255, 255, 132, 1) # Keltainen
 navbar-text-col: "#404040"
 navbar-children-col: rgba(255, 255, 159, 1) # Keltainen-10%
 
-page-col: rgba(183, 224, 112, 1) # Elokatsun Vihreä
-#page-col: "#E2FAB5" # Keltavihreä
-
+#page-col: rgba(183, 224, 112, 1) # Elokatsun Vihreä
+page-col: "#E2FAB5" # Keltavihreä
+page-col: "#e7fac4" # Vaaleampi keltavihreä
+#page-col: "#FFFFFF"
 
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -78,11 +79,14 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
 #page-img: linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%)
-#/*  background: linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%);* #tämä oli main.css:ssä
+#page-col: "linear-gradient(to bottom, #ffff84, #b7e070);"
 
-
+#page-img: "img/backgrounds/background-1747776_960_720.jpg" # siniharmaa
+#page-img: "img/backgrounds/clean-2721102_1920.jpg" # liian tumma
+#page-img: "img/backgrounds/clean-2721101_1920.jpg"
+#page-img: "img/backgrounds/background-1747777_1280.jpg" # vihreämpi
+#page-img: "img/backgrounds/background-1747774_1280.jpg" #vihrein
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -156,15 +160,16 @@ share-links-active:
 # fb_comment_id: ""
 
 # To use Staticman comments, fill in repository, branch, and endpoint
-staticman:
-  repository : wesq/elokatsu # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
-  reCaptcha:
-    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
-    # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+
+#staticman:
+#  repository : wesq/elokatsu # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+#  reCaptcha:
+#    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
+#    # If you use reCaptcha, you must also set these parameters in staticman.yml
+#    siteKey  : # Use your own site key, you need to apply for one on Google
+#    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
@@ -284,5 +289,6 @@ plugins:
   - jekyll-sitemap
 
 repository: wesq/elokatsu
+#remote_theme: daattali/beautiful-jekyll@3.0.0
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

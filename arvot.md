@@ -3,6 +3,7 @@ layout: page
 title: Arvot
 subtitle: Toiminnan tukena olevat arvot
 
+bigimg: img/IMG_20190915_174829.jpg
 ---
 Elokatsun toiminnan arvot ja kulmakivet koostuvat kirjaimista: **E L O A**:
 
