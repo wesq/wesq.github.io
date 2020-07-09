@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Palaute
-subtitle: Jätä palautetta
+title: Asiakaspalautteet
+subtitle: Jätä & lue palautteita elokatsun valmennuksista
 formspree_comment: true
-comment_teksti: Sana on vapaa
+comment_teksti: Mitä mieltä olet elokatsun palveluista?
 ---
 
-> Nam euismod turpis felis. Vestibulum tempus laoreet sodales. Donec erat magna, lobortis nec elit nec, aliquet dapibus lectus. Vestibulum nec dictum nisl, ac tristique mi. 
+***Asiakkaiden antamia palautteita elokatsun palveluista:***
+> "Katin jumpat ovat iloisia ja hän huomio hyvin jokaisen jumppaajan erikseen. Omine vaivoineen/rajoitteineen voi siis huoleti tulla tunnille, sillä kunkin on aidosti mahdollista treenata oman vointinsa mukaisesti ja saada aina vaihtoehtoisia liikkeitä. Tunnit ovat sisällöltään ja rakenteeltaan kivan vaihtelevia ja aika kuluu aina nopeasti! Tunnelma on rento ja mutkaton!"
 
-> Curabitur ut commodo elit. Praesent mi libero, rhoncus et posuere eget, tincidunt eget ante. Sed magna diam, pellentesque in nibh at, tempor mollis purus. 
+> "Elokatsu tarjoaa todella hyvää valmennusta parempaan liikkumiseen ja muutokseen! Suosittelen lämpimästi. Kati on erittäin hyvä valmentaja ja ohjaaja, ja harvoin kohtaa näin suurta huolenpitoa!"
+
+> "Lempeä elo-valmennus tuli minulle juuri oikeaan aikaan elämässä. Olen kamppaillut jaksamisen ja ylisuorittamisen kanssa, ja valmennuksen avulla opin keskittymään oleelliseen ja pysähtymään kun kroppa sitä tarvitsee. Opin itselleni sopivia, riittävän matalakynnyksisiä liikuntamuotoja kiireuseen arkeen. Valmennuksessa oli ihana, tiivis ryhmähenki. Aina naurettiin itkettiin ja vuodatettiin murheemme sekä ilomme. Tekisi mieli ottaa toinen samanmoinen heti perään. ❤️"

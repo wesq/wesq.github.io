@@ -4,7 +4,7 @@
 title: elokatsu
 
 # Short description of your site
-description: uusi lempeä elo
+description: "- uusi lempeä elo"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,7 @@ description: uusi lempeä elo
 
 # List of links in the navigation bar
 navbar-links:
-  elokatsu: 
+  Valmentajasi: 
     - Esittely: "esittely"
     - Missio: "missio"
     - Arvot: "arvot"
@@ -32,7 +32,8 @@ navbar-links:
     - Pienryhmätreeni: "pienryhmatreeni"
     - Työhyvinvointi: "tyohyvinvointi"
     - Firstbeat-mittaus: "firstbeat"
-    - Lapset: "lapset"
+    - Yhteistyö: "yhteistyo"
+#    - Lapset: "lapset"
     - Valmennusehdot: "valmennusehdot"
     #- Markdown opas: "http://www.markdowntutorial.com/"
   Ajankohtaista:

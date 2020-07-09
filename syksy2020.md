@@ -1,0 +1,31 @@
+---
+layout: page
+title: Syksy 2020
+subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
+formspree_comment: true
+comment_teksti: Ilmoittaudu mukaan! Kerro viestissä mihin ryhmään ilmoittaudut.
+---
+### ***Elokuussa 2020 alkamassa kaksi erilaista pienryhmävalmennusta:***
+
+**Uusi lempeä elo - _Hyvinvointi&shy;valmennus_** on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi.
+
+LIIKUNNAN ILO - UNI&PALAUTUMINEN - RAVINTO  
+HYVINVOIVA KEHO - LEMPEÄMPI ELO
+
+Valmennuksessa pääset pysähtymään sen äärelle, mistä sinun hyvinvoiva arki koostuu, ja millaisilla askelilla sitä kannattaa lähteä tavoittelemaan. Valmennus sisältää ryhmätapaamisten lisäksi henkilökohtaisia valmennustapaamisia, sekä jatkuvan valmentajan tuen koko valmennuksen ajan. Soveltuu kaikille, jotka kaipaavat lempeää muutosta elämäänsä. 
+
+Uusi lempeä elo - Hyvinvointivalmennusta järjestetään Sipoon Nikkilässä.
+
+
+
+**Eloisan kehon _pienryhmä&shy;valmennus_** tuo arkeesi liikunan iloa omaa kehoa kuunnellen.
+
+ELOISA KEHO ON VAHVA, LIIKKUVA JA ENERGINEN
+
+Eloisan kehon pienryhmätreenit on sinulle, joka kaipaat arkeesi hyvän mielen liikuntaa rennolla otteella. Liikkeitä harjoitellaan tekniikka edellä omaa kehoa kuunnellen, tule juuri sellaisena kuin olet.
+
+Eloisan kehon pienryhmävalmennusta järjestetään Sipoon Nikkilässä, sekä Helsingin Myllypurossa.
+
+***Yksilöllinen hyvinvointivalmennus***
+
+Nyt voimassa syksyn alennus
