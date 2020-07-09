@@ -931,3 +931,23 @@ input[type="text"], input[type="email"] {
   text-align: center;
 }
 
+#otsikkolistapalkki {
+  font-weight: 400;
+  width: 80%;
+  border:3px; 
+  border-style:solid; 
+  border-color:#199070;
+
+
+  text-align: center;
+
+  padding:10px;
+  border-radius: 15px;
+  
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:auto;
+  margin-bottom:auto;
+  
+
+}

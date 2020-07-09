@@ -22,6 +22,10 @@ layout: base
           {% include just_comments.html %}
         </div>
 	    {% endif %}
+      
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
 
       {% if page.formspree_comment %}
         <div class="formspree_comment">

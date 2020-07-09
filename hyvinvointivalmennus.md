@@ -8,7 +8,7 @@ comment_teksti: "Ilmoittaudu mukaan ryhmään:"
 ---
 #### **Uusi lempeä elo - _Hyvinvointi&shy;valmennus_** on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi. 
 <br/>
-<p>LIIKUNNAN ILO - UNI&PALAUTUMINEN - RAVINTO  - HYVINVOIVA KEHO - LEMPEÄMPI ELO</p>{: .text-center:}
+<p id="otsikkolistapalkki">LIIKUNNAN ILO - UNI&PALAUTUMINEN - RAVINTO  - HYVINVOIVA KEHO - LEMPEÄMPI ELO</p>
 <br/>
 
 <!--<img src="/img/uusilempeaelo_valmennus.jpg" alt="Uusi lempeä elo - Hyvinvointivalmennus" width="500" class="center-block"/> 
@@ -56,11 +56,11 @@ os. Iso Kylätie 9, 2krs. käynti takapihan puolelta
 - Ryhmätapaamiset 19.4.-17.5. parillisten viikkojen torstait klo 18:45-20:15
 + Ryhmän oma alusta Facebookissa tai WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle
 
-Henkilökohtaiset valmennustapaamiset 60 min. yhdessä sovittuna aikana:
-- Oman matkan suunnittelua
-- Oma liikunnan suunnittelu + henkilökohtainen ohjelma
-- Omien tavoitteiden tarkastelua ja matkan jatkumista
-- Valmentajan etätuki koko matkan ajan  
+Henkilökohtaiset valmennustapaamiset 60 min. yhdessä sovittuna aikana:  
+    - Oman matkan suunnittelua  
+    - Oma liikunnan suunnittelu + henkilökohtainen ohjelma  
+    - Omien tavoitteiden tarkastelua ja matkan jatkumista  
+    - Valmentajan etätuki koko matkan ajan  
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 45€ / 1h ohjaus esim. liikuntaan/palautumiseen tms.
 

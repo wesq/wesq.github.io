@@ -28,7 +28,8 @@ reddit:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+#  baseURL: "mailto:"
+  baseURL: "/ota_yhteytta/#Contact"
   icon: "fa-envelope"
 
 linkedin:
@@ -68,7 +69,8 @@ spotify:
 
 telephone:
   name: "Phone"
-  baseURL: "tel:"
+#  baseURL: "tel:"
+  baseURL: "/ota_yhteytta/#Contact"
   icon: "fa-phone"
 
 rss:

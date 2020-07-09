@@ -4,6 +4,7 @@ title: Syksy 2020
 subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: Ilmoittaudu mukaan! Kerro viestissä mihin ryhmään ilmoittaudut.
+social-share: true
 ---
 ### ***Elokuussa 2020 alkamassa kaksi erilaista pienryhmävalmennusta:***
 

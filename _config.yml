@@ -1,10 +1,23 @@
 # --- General options --- #
 
 # Name of website
-title: elokatsu
+title: "elokatsu"
 
 # Short description of your site
-description: "- uusi lempeä elo"
+description: "hyvinvointia lempeydellä"
+
+## SEO ##
+#https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+tagline: "elokatsun hyvinvointivalmennukset"
+author: "Kati Mäkelä"
+logo: img/logo_crop_circle.jpg
+
+social:
+  name: elokatsu
+  links:
+    - https://www.facebook.com/elokatsu
+    - https://instagram.com/elokatsu
+
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -12,9 +25,10 @@ description: "- uusi lempeä elo"
 
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
+url: "https://wesq.github.io/elokatsu"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -101,7 +115,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: false 
-  email: "kati@elokatsu.fi"
+  email: "/"
   facebook: elokatsu
 #  github: daattali
 #  twitter: daattali
@@ -113,17 +127,17 @@ social-network-links:
   instagram: elokatsu
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: +35840
+  telephone: 
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-#  twitter: true
+  twitter: true
   facebook: true
   instagram: true
-#  linkedin: true
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -288,6 +302,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 repository: wesq/elokatsu
 #remote_theme: daattali/beautiful-jekyll@3.0.0
