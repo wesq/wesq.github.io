@@ -35,7 +35,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   Valmentajasi: 
-    - Esittely: "esittely"
+    - Esittely: "elokatsu"
     - Missio: "missio"
     - Arvot: "arvot"
     - -> Facebook: "https://facebook.com/elokatsu"
