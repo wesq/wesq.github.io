@@ -7,7 +7,7 @@ formspree_comment: true
 comment_teksti: "Kysy lisää hyvinvointianalyysistä:"
 ---
 
-### ***Firstbeat - Hyvinvointianalyysit***
+### Firstbeat - Hyvinvointianalyysit
 
 ***Tiedätkö millä tavalla päiväsi kuormittavat sinua, ja millä tavalla se vaikuttaa palautumiseen ja sitä kautta hyvinvointiisi?  
 Tätä on mahdollista mitata!***

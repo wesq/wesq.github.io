@@ -9,7 +9,7 @@ comment_teksti: "Ota yhteyttä yksilö&shy;valmennuksista:"
 bigimg: [img/aloituskuva_yksilovalmennukset.jpg]
 
 ---
-### ***Hyvinvointivalmennusta Sinun omiin tarpeisiisi***  
+### Hyvinvointivalmennusta Sinun omiin tarpeisiisi
 <p></p>
 <p class="otsikkolistapalkki">HYVÄÄ OLOA & ENERGIAA ARKEESI</p>
 
@@ -37,7 +37,7 @@ palautumisen valmennus tms.)
 \+ paketti sisältää myös yksilöllisesti laaditun ohjelman kirjallisena
 <br/><br/>
 
-#### ***Hyvinvointivalmennuspaketit:***
+#### Hyvinvointivalmennuspaketit:
 
 *Kokonaisvaltainen valmennuspaketti muutoksen prosessin tukemisessa sisältäen; tavoitteenasettelu & motivaatio, teot &
 rutiinit arkeen, hyvinvoiva keho/treeni, ravintovalmennus, palautumisen valmennus, arjen hyvinvointitapojen

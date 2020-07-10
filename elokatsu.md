@@ -6,7 +6,7 @@ subtitle: Kuka on elokatsu?
 bigimg: img/kati_luonnossa_02.jpg
 ---
 
-### ***Elokatsun*** *takana pyörii siis minä,* ***Kati Mäkelä.***
+### Elokatsun takana pyörii siis minä, Kati Mäkelä.
 <br/>
 ![elokatsu](/img/elokatsu4.jpg "elokatsu"){: .image-right :}
 <br/>
@@ -16,7 +16,7 @@ Mä oon yrittäjä, **hyvinvointivalmentaja**, **lähihoitaja**, avopuoliso ja l
 
 ![Elämäntapamuutos](/img/eloisakeho3.jpg "Elämäntapamuutos"){: .image-left :}
 <br/>
-Inspiroidun uusista asioista ja innostun aika helposti. Oon monessa asiassa sellainen "ensin toimitaan, sitten mietitään persoona", joka varmasti on sekä mun vahvuus, että heikkous. Tiedän myös hyvin miltä tuntuu, kun esim. elämäntapamuutosta tehdessä on fiilis, että "kaikki mulle heti nyt ja missä ihmeessä ne tulokset jo on!"
+Inspiroidun uusista asioista ja innostun aika helposti. Oon monessa asiassa sellainen "ensin toimitaan, sitten mietitään" - persoona, joka varmasti on sekä mun vahvuus, että heikkous. Tiedän myös hyvin miltä tuntuu, kun esim. elämäntapamuutosta tehdessä on fiilis, että "kaikki mulle heti nyt ja missä ihmeessä ne tulokset jo on!"
 Tämän rinnalla olen itse tehnyt paljon töitä lempeän pysähtymisen ja itsensä arvostuksen kanssa, ja tätä sanomaa mä haluan myös tuoda asiakkailleni.
 
 <br/><br/><br/><br/>

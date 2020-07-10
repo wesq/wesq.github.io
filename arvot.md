@@ -6,7 +6,7 @@ subtitle: Toimintani alla on vahvat arvot
 bigimg: img/aloituskuva_arvot.jpg
 ---
 
-### ***Kokonaisvaltaista hyvää oloa lempeyden kautta***
+### Kokonaisvaltaista hyvää oloa lempeyden kautta
 
 <p></p>
 <p class="otsikkolistapalkki">Elokatsun toiminnan arvot ja kulmakivet koostuvat kirjaimista: <b>E L O A</b></p>

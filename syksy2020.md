@@ -8,14 +8,14 @@ social-share: true
 bigimg: [img/aloituskuva_syksy.jpg]
 
 ---
-### ***Yksilöllinen hyvinvointivalmennus***
+### Yksilöllinen hyvinvointivalmennus
 
 **Nyt voimassa syksyn alennus!**  
 Ostaessasi 3 kuukauden hyvinvointivalmennuspaketin 2.8. mennessä, saat sen hintaan 149€/kk (normaalisti 169€/kk) 
 [Lue lisää valmennuspaketeista](/yksilovalmennus)  
 <br/>
 
-### ***Elokuussa 2020 alkamassa kaksi erilaista pienryhmävalmennusta:***
+### Elokuussa 2020 alkamassa kaksi erilaista pienryhmävalmennusta:
 
 **Uusi lempeä elo - _Hyvinvointi&shy;valmennus_** on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi.
 <p class="otsikkolistapalkki">

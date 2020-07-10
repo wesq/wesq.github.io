@@ -6,12 +6,12 @@ bigimg: img/aloituskuva_hyvinvointivalmennus.jpg
 formspree_comment: true
 comment_teksti: "Ilmoittaudu mukaan ryhmään:"
 ---
-### **Uusi lempeä elo - _Hyvinvointi&shy;valmennus_** on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi. 
+### Uusi lempeä elo - _Hyvinvointi&shy;valmennus_ on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi. 
 <p></p>
 <p class="otsikkolistapalkki">LIIKUNNAN ILO - UNI&PALAUTUMINEN - RAVINTO  - HYVINVOIVA KEHO - LEMPEÄMPI ELO</p>
 
 ![Uusi lempeä elo porukka vauhdissa](./img/pienryhmatreenit_6.jpg){: .image-right :}
-#### ***Uusi lempeä elo***
+#### Uusi lempeä elo
 
 Uusi lempeä elo on pienryhmässä tapahtuva hyvinvointivalmennus, joka tähtää siihen, että Sinä löydät ne palikat, joista sinun oma
 hyvinvoiva arki koostuu. Pääset pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! 
