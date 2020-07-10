@@ -7,9 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
-/*  font-family: 'Lora', 'Times New Roman', serif;*/
   font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -880,11 +878,7 @@ pre {
 }
 
 .etusivun_leipateksti{
-  background-color: #E2FAB5; /*kellertävä*/
-  /*tummempi*/
-  /*background-color: #eefdec;*/ 
-  /*vihreä*/
-  /*background-color: #b7e070;*/ 
+  background-color: #ecf9d4;
   border-radius:15px;
   font-size:20px; font-family:'Montserrat'; font-weight:200;
   position: relative; 
@@ -896,10 +890,6 @@ pre {
 
 }
 .leipateksti{
-  /*background-color: #E2FAB5; /*kellertävä*/
-  /*background-color: #f4fdf4; /*vaalean sininen*/
-  /*background-color: #f3fff3; /*vaaleampi sininen*/
-  /*background-color: #D0F0C0; /*tea*/
   border-radius:5px;
   font-size:20px; font-family:'Montserrat'; font-weight:200;
   position: relative; 
