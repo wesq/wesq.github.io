@@ -304,6 +304,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+google_analytics: UA-172369094-1
+
 repository: wesq/elokatsu
 #remote_theme: daattali/beautiful-jekyll@3.0.0
 # Beautiful Jekyll / Dean Attali
