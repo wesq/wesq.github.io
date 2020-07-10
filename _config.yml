@@ -80,8 +80,8 @@ navbar-children-col: rgba(255, 255, 159, 1) # Keltainen-10%
 #page-col: rgba(183, 224, 112, 1) # Elokatsun Vihreä
 #page-col: "#E2FAB5" # Keltavihreä
 #page-col: "#e7fac4" # Vaaleampi keltavihreä
+#page-col: "#ecf9d4"
 page-col: "#ecf9d4"
-
 link-col: "#008AFF"
 hover-col: "#0085A1"
 #footer-col: "#F5F5F5" # harmaa
