@@ -876,7 +876,7 @@ pre {
 .etusivu{
   margin-top: 10%;
 }
-
+g
 .etusivun_leipateksti{
   background-color: #ecf9d4;
   border-radius:15px;
@@ -916,6 +916,9 @@ input[type="text"], input[type="email"] {
 
 .page-heading {
   text-align: center;
+}
+.notbold {
+  font-weight: normal;
 }
 
 .otsikkolistapalkki {

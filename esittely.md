@@ -6,7 +6,7 @@ subtitle: Kuka on elokatsu?
 bigimg: img/kati_luonnossa_02.jpg
 ---
 
-### Elokatsun takana pyörii siis minä, Kati Mäkelä.
+<h3>Elokatsun <span class='notbold'> takana pyörii siis minä, </span>Kati Mäkelä.</h3>
 <br/>
 ![elokatsu](/img/elokatsu4.jpg "elokatsu"){: .image-right :}
 <br/>
