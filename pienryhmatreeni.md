@@ -6,7 +6,11 @@ bigimg: img/aloituskuva_eloisakeho.jpg
 formspree_comment: true
 comment_teksti: "Ilmoittaudu mukaan pienryhmä&shy;treeneihin:"
 ---
-### **Eloisan kehon pienryhmä&shy;valmennus**
+### **Eloisan kehon pienryhmä&shy;valmennus**  tuo arkeesi liikunnan iloa omaa kehoa kuunnellen.
+<p></p>
+<p class="otsikkolistapalkki">
+ELOISA KEHO ON VAHVA, LIIKKUVA JA ENERGINEN
+</p>
 
 _Eloisa keho on vahva, jotta se jaksaa kannatella sinua arjen muuttuvissa hetkissä.
 Eloisa keho on liikkuva, jotta sinun on joustavan hyvä olo kehossasi ilman särkyjä.
@@ -25,10 +29,9 @@ Kyseessä on pienryhmävalmennus ja ryhmiin otetaan max. 10 osallistujaa.
 ![Pienryhmätreeni](/img/nikkila.jpg "Nikkilän pienryhmä"){: .image-left :}
 
 ***SIPOON NIKKILÄN RYHMÄ***
-Sipoon hieronta ja hyvinvointi-tiloissa os. Iso Kylätie 9, 2krs. käynti takapihan puolelta [Sipoon hieronta ja hyvinvointi](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"}
+[Sipoon hieronta ja hyvinvointi](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"}-tiloissa os. Iso Kylätie 9, 2krs. käynti takapihan puolelta 
 
-Valmennus ajalla 17.8.-21.12.2020 (ei 12.10.)
-MAANANTAISIN klo 17:30-18:30 x18
+Valmennus **MAANANTAISIN** ajalla 17.8.-21.12.2020 (18 krt, ei 12.10.) **klo 17:30-18:30**  
 Hinta: 198€ (voidaan maksaa yhdessä tai kahdessa osassa)
 <br/><br/>
 
@@ -37,8 +40,8 @@ Hinta: 198€ (voidaan maksaa yhdessä tai kahdessa osassa)
 ***HELSINGIN MYLLYPURON RYHMÄ***
 Myllykylän kylätalolla os. Ryynimyllynkatu 1
 
-Valmennus ajalla 13.8.-17.12.2020 (ei 15.10.)
-TORSTAISIN klo 17:00-18:00 x18
+Valmennus **TORSTAISIN** ajalla 13.8.-17.12.2020 (18 krt, ei 15.10.)  
+**klo 17:00-18:00**  
 Hinta: 190€ (voidaan maksaa yhdessä tai kahdessa osassa)
 <br/><br/>
 

@@ -5,7 +5,13 @@ subtitle: Toimintani alla on vahvat arvot
 
 bigimg: img/arvot2.jpg
 ---
-### Elokatsun toiminnan arvot ja kulmakivet koostuvat kirjaimista: **E L O A**
+
+### ***Kokonaisvaltaista hyvää oloa lempeyden kautta***
+
+<p></p>
+<p class="otsikkolistapalkki">Elokatsun toiminnan arvot ja kulmakivet koostuvat kirjaimista: <b>E L O A</b></p>
+
+
 
 ***ELOISUUS***
 Valmennuksessani korostuu eloisuus ja innostus, sekä yhdessä tekemisen hauskuus ja kannustuksen voima. Toivon jokaisen löytävän liikunnan ilon, kaiken ei aina tarvitse olla niin jäykkää ja suunniteltua, vaan rennon tekemisen kautta usein löytyy se innostus ja elämän energia.

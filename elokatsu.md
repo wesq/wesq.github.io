@@ -15,7 +15,7 @@ Mä oon yrittäjä, **hyvinvointivalmentaja**, **lähihoitaja**, avopuoliso ja l
 <br/><br/><br/>
 
 ![Elämäntapamuutos](/img/eloisakeho3.jpg "Elämäntapamuutos"){: .image-left :}
-<br/><br/>
+<br/>
 Inspiroidun uusista asioista ja innostun aika helposti. Oon monessa asiassa sellainen "ensin toimitaan, sitten mietitään persoona", joka varmasti on sekä mun vahvuus, että heikkous. Tiedän myös hyvin miltä tuntuu, kun esim. elämäntapamuutosta tehdessä on fiilis, että "kaikki mulle heti nyt ja missä ihmeessä ne tulokset jo on!"
 Tämän rinnalla olen itse tehnyt paljon töitä lempeän pysähtymisen ja itsensä arvostuksen kanssa, ja tätä sanomaa mä haluan myös tuoda asiakkailleni.
 
@@ -33,7 +33,7 @@ Valmentajana lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yks
 
 
 Koulutukseltani olen lähihoitaja ja hyvinvointivalmentaja (hyvinvointivalmentajan opintoihini on sisältynyt hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta).
-Lisäksi olen lukenut avoimessa yliopistossa ravitsemustieteen, sekä liikuntapsykologian perusopinnot. Koulutan myös jatkuvasti itseäni oppiakseni uutta.
+Lisäksi olen lukenut avoimessa yliopistossa ravitsemustieteen, sekä liikuntapsykologian perusopinnot. Olen myös kouluttanut itseäni mm. PowerMethod-valmentajaksi, sekä Äitiysliikunnan ohjaajaksi. Koulutan jatkuvasti itseäni oppiakseni uutta, tällä hetkellä opiskelen palautumisen valmennusta.
 <br>
 <br>
 ![Elokatsu](/img/elokatsu.jpg "Kati"){: .image-right :}

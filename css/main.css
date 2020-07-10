@@ -184,7 +184,7 @@ img {
   .image-right{
     width: 50%;
     float: right;
-    margin-right: 10px;
+    margin-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
   }
@@ -215,7 +215,7 @@ img {
   display: none;
 }
 
-@media only screen and (min-width: 1212px) {/*leveys oli 768px*/
+@media only screen and (min-width: 1280px) {/*leveys oli 768px*/
   .navbar-custom .avatar-container {
     width: 100px;
     margin-top: -50px;
@@ -243,7 +243,7 @@ img {
   .image-right{
     width: 55%;
     float: right;
-    margin-right: 10px;
+    margin-left: 10px;
   }
 }
 
@@ -931,7 +931,7 @@ input[type="text"], input[type="email"] {
   text-align: center;
 }
 
-#otsikkolistapalkki {
+.otsikkolistapalkki {
   font-weight: 400;
   width: 80%;
   border:3px; 
@@ -950,4 +950,7 @@ input[type="text"], input[type="email"] {
   margin-bottom:auto;
   
 
+}
+.otsikkolistapalkki b {
+  white-space: nowrap;
 }
