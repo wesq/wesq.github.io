@@ -954,3 +954,8 @@ input[type="text"], input[type="email"] {
 .otsikkolistapalkki b {
   white-space: nowrap;
 }
+
+#Contact{
+  width: 400px;
+  text-align: center;
+}

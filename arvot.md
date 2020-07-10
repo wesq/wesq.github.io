@@ -3,7 +3,7 @@ layout: page
 title: Arvot
 subtitle: Toimintani alla on vahvat arvot
 
-bigimg: img/arvot2.jpg
+bigimg: img/aloituskuva_arvot.jpg
 ---
 
 ### ***Kokonaisvaltaista hyvää oloa lempeyden kautta***

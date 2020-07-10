@@ -53,9 +53,9 @@ navbar-links:
   Ajankohtaista:
     - Syksy 2020: "syksy2020"
   Yhteys: 
-    - Jätä palautetta: "palaute"
     - Ota yhteyttä: "ota_yhteytta"
     - Ilmainen konsultointi: "konsultointi"
+    - Palautteet: "palaute"
   #Valmennusehdot: "valmennusehdot"
   #Kauppa: "kauppa"
   #Facebook: "https://facebook.com/elokatsu"
