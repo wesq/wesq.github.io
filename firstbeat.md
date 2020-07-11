@@ -2,7 +2,7 @@
 layout: page
 title: Firstbeat
 subtitle: Firstbeat-Hyvinvointianalyysit palautumisen tueksi
-bigimg: img/hetket.jpg
+bigimg: img/a_firstbeat.jpg
 formspree_comment: true
 comment_teksti: "Kysy lisää hyvinvointianalyysistä:"
 ---

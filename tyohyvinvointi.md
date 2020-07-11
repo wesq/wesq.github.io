@@ -2,7 +2,7 @@
 layout: page
 title: Työhyvinvointi
 subtitle: Hyvinvointia yrityksesi tueksi
-bigimg: img/aloituskuva_tyohyvinvointi.jpg
+bigimg: img/a_tyohyvinvointi.jpg
 
 formspree_comment: true
 comment_teksti: Kerro miten voin auttaa Sinua?

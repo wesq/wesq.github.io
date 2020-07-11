@@ -2,7 +2,7 @@
 layout: page
 title: Yhteistyö
 subtitle: Yhteistyössä on voimaa
-bigimg: img/aloituskuva_yhteistyo.jpg
+bigimg: img/a_yhteistyo.jpg
 ---
 
 ### Elokatsu tekee yhteistyötä seuraavien tahojen kanssa

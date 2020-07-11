@@ -2,7 +2,7 @@
 layout: page
 title: Pienryhmä&shy;treenit
 subtitle: Liikunnan iloa omaa kehoa kuunnellen
-bigimg: img/aloituskuva_eloisakeho.jpg
+bigimg: img/a_eloisakeho.jpg
 formspree_comment: true
 comment_teksti: "Ilmoittaudu mukaan pienryhmä&shy;treeneihin:"
 ---

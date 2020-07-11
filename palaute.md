@@ -4,7 +4,7 @@ title: Asiakaspalautteet
 subtitle: Jätä & lue palautteita elokatsun valmennuksista
 formspree_comment: true
 comment_teksti: Mitä mieltä olet elokatsun palveluista?
-bigimg: img/aloituskuva_jata_palautetta.jpg
+bigimg: img/a_jata_palautetta.jpg
 ---
 
 ***Asiakkaiden antamia palautteita elokatsun palveluista:***

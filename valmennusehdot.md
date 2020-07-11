@@ -2,7 +2,7 @@
 layout: page
 title: Valmennusehdot
 subtitle: Valmennussopimuksien ehdot
-bigimg: img/aloituskuva_valmennusehdot.jpg
+bigimg: img/a_valmennusehdot.jpg
 ---
 
 Ilmoittautuminen elokatsun valmennuksiin on sitova, ja pienryhmävalmennuksissa ilmoittaudutaan koko kauteen.

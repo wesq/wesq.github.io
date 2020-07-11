@@ -3,7 +3,7 @@ layout: page
 title: Missio
 subtitle: Mitä haluan toiminnallani tuoda arkeesi?
 
-bigimg: img/aloituskuva_missio.jpg
+bigimg: img/a_missio.jpg
 ---
 ### Hyvinvointia lempeydellä
 

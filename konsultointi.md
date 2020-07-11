@@ -4,7 +4,7 @@ title: Konsultointi
 subtitle: "Suunnitellaan yhdessä Sinua tukeva valmennuspaketti!"
 formspree_comment: true
 comment_teksti: "Miten voin auttaa Sinua, vapaa sana:"
-bigimg: img/aloituskuva_konsultointi.jpg
+bigimg: img/a_konsultointi.jpg
 ---
 
 ### Valmennus Sinun yksilöllisiin tarpeisiin

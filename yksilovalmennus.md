@@ -6,7 +6,7 @@ subtitle: Räätälöidyt hyvinvointi&shy;valmennukset Sinulle
 formspree_comment: true
 comment_teksti: "Ota yhteyttä yksilö&shy;valmennuksista:"
 
-bigimg: [img/aloituskuva_yksilovalmennukset.jpg]
+bigimg: [img/a_yksilovalmennukset.jpg]
 
 ---
 ### Hyvinvointivalmennusta Sinun omiin tarpeisiisi

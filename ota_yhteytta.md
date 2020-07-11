@@ -4,7 +4,7 @@ title: Ota yhteyttä
 subtitle: Kuinka voin auttaa Sinua?
 formspree_comment: true
 comment_teksti: Kerro miten voin auttaa?
-bigimg: img/aloituskuva_otayhteytta.jpg
+bigimg: img/a_otayhteytta.jpg
 ---
 
 ### Kaipaatko tukeani?
