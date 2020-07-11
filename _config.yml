@@ -4,7 +4,7 @@
 title: "elokatsu"
 
 # Short description of your site
-description: "hyvinvointia lempeydellä"
+description: "Hyvinvointia lempeydellä"
 
 ## SEO ##
 #https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
@@ -25,7 +25,8 @@ social:
 
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
-url: "https://wesq.github.io"
+#url: "https://wesq.github.io"
+url: "https://www.elokatsu.fi"
 
 # baseurl should be an empty string
 baseurl: ""
