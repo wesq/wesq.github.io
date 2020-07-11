@@ -5,7 +5,7 @@ subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: Ilmoittaudu mukaan! Kerro viestissä mihin ilmoittaudut.
 social-share: true
-bigimg: [img/a_syksy.jpg]
+bigimg: img/a_syksy.jpg
 
 ---
 ### Yksilöllinen hyvinvointivalmennus
