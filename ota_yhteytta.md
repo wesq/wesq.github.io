@@ -18,6 +18,5 @@ Olen kiinnostunut kuulemaan lisää toiveistasi ja unelmistasi.
 
 
 ![elokatsu](/img/elokatsu4.jpg){: .center-block :}
-<p></p>{: #Contact }
-p. 040 543 00 27  
-kati (at) elokatsu.fi
+
+![elokatsu](/img/contact.png){: .center-block #Contact :}
