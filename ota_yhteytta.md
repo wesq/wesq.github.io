@@ -19,5 +19,7 @@ Olen kiinnostunut kuulemaan lisää toiveistasi ja unelmistasi.
 
 ![elokatsu](/img/elokatsu4.jpg){: .center-block :}
 
-<p id ="Contact"><br/></p>
-![elokatsu](/img/contact.png){: .center-block :}
+[Facebookista](https://www.facebook.com/elokatsu "Facebook"){:target="_blank"} ja [Instagramista](https://www.instagram.com/elokatsu "Instagram"){:target="_blank"} löydät minut nimellä ***elokatsu***.  
+Tavoitat minut myös puhelimitse tai sähköpostitse: 
+
+![elokatsu](/img/contact.png){: .center-block #Contact :}
