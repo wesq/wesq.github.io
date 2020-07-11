@@ -510,6 +510,7 @@ footer .theme-by {
 .intro-header .page-heading {
   text-align: center;
 }
+.intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 100px 0;
   color: #FFF;
@@ -902,7 +903,6 @@ pre {
   width: 100%;
 }
 
-
 .yhteydenotto {
   /*background-color: #E2FAB5; /*kellertävä*/
   border-radius:5px;
@@ -931,7 +931,6 @@ input[type="text"], input[type="email"] {
   border:3px; 
   border-style:solid; 
   border-color:#199070;
-
 
   text-align: center;
 
