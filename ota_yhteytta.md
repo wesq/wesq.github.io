@@ -19,4 +19,5 @@ Olen kiinnostunut kuulemaan lisää toiveistasi ja unelmistasi.
 
 ![elokatsu](/img/elokatsu4.jpg){: .center-block :}
 
-![elokatsu](/img/contact.png){: .center-block #Contact :}
+<p id ="Contact"><br/></p>
+![elokatsu](/img/contact.png){: .center-block :}
