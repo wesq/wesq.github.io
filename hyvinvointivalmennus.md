@@ -4,32 +4,31 @@ title: Hyvinvointi&shy;valmennukset
 subtitle: Pienryhmä&shy;valmennukset hyvinvointisi tueksi
 bigimg: img/a_hyvinvointivalmennus.jpg
 formspree_comment: true
-comment_teksti: "Ilmoittaudu mukaan ryhmään:"
+comment_teksti: "Ilmoittaudu mukaan valmennusryhmään:"
 ---
-### Uusi lempeä elo - _Hyvinvointi&shy;valmennus_ on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi. 
+### Uusi lempeä elo - _Hyvinvointi&shy;valmennus_ on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi 
 <p></p>
 <p class="otsikkolistapalkki">LIIKUNNAN ILO - UNI&PALAUTUMINEN - RAVINTO  - HYVINVOIVA KEHO - LEMPEÄMPI ELO</p>
 
 ![Uusi lempeä elo porukka vauhdissa](./img/pienryhmatreenit_6.jpg){: .image-right :}
-#### Uusi lempeä elo
-
-Uusi lempeä elo on pienryhmässä tapahtuva hyvinvointivalmennus, joka tähtää siihen, että Sinä löydät ne palikat, joista sinun oma
+#### Uusi lempeä elo  
+Uusi lempeä elo on pienryhmässä tapahtuva hyvinvointivalmennus. Valmennus tähtää siihen, että Sinä löydät ne palikat, joista sinun oma
 hyvinvoiva arki koostuu. Pääset pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! 
 
 ![Ravitsemus](/img/monipuolinenravitsemus.jpg "Ravinto"){: .image-left :}
 <br/>
 Valmennuksessa käymme läpi
 oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
-mistä terveellinen ravinto koostuu, sekä miten tukea omaa unta & palautumista ja vähentää stressiä. Valmennuksessa
+millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista ja vähentää stressiä. Valmennuksessa
 työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia.
 <br/><br/>
 !["Hyvinvointivalmennus"](/img/uusilempeaelo-hyvinvointivalmennus.jpg "Uusi lempeä elo - hyvinvointivalmennus"){: .image-right :}
-Tavoitteena on löytää Sinua tukeva kokonaisuus, jotta sinä voit voida paremmin.
-Omat tavoitteesi muutoksen suhteen ovat keskiössä. Teemme matkaa yhdessä, mutta jokainen omista tavoitteistaan käsin.
+**Tavoitteena on löytää Sinua tukeva kokonaisuus, jotta sinä voit voida paremmin.
+Omat tavoitteesi muutoksen suhteen ovat keskiössä.** Teemme matkaa yhdessä, mutta jokainen omista tavoitteistaan käsin.
 Valmennus sisältää yhteistä liikettä, kehonhuoltoa, palautumisen tukemista, ravinnon merkitystä, henkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisempää tukea tarjotakseni otan ryhmään vain max. 6 osallistujaa.
 <br/><br/>
 !["Uusi lempeä elo"](/img/uusilempeaelo4.jpg "Rentoutuminen"){: .center-block :}
-> Rentoutuminen ja pysähtyminen tukemassa hyvinvointia  
+> Pysähtymisen & rentoutumisen kautta lisää hyvinvointia.  
 
 **Tarkemmat tiedot toteutuksesta:**
 
@@ -39,20 +38,20 @@ os. Iso Kylätie 9, 2krs. käynti takapihan puolelta
 Saat yhteensä 23 valmennustapaamista; 18 ryhmätapaamista, 2 webinaaria, 3 henkilökohtaista valmennusta. Lisäksi
 ryhmän tuki, sekä jatkuva etätuki valmentajan kanssa antaa sinulle paljon lisäbuustia matkallesi.
 
-Valmennus ajalla 24.8.2020 – 17.5.2021 JOKA TOINEN TORSTAI klo 18:45-20:15 sisältäen:
+**Valmennus ajalla 24.8.2020 – 17.5.2021 JOKA TOINEN MAANANTAI klo 18:45-20:15 sisältäen:**
 
 
-- Ryhmätapaamiset 24.8.-14.12. parittomien viikkojen torstait klo 18:45-20:15
-- Nettiwebinaari 28.12. klo 19-20
-- Ryhmätapaamiset 11.1.-22.3. parillisten viikkojen torstait klo 18:45-20:15
-- Nettiwebinaari 5.4. klo 19-20
-- Ryhmätapaamiset 19.4.-17.5. parillisten viikkojen torstait klo 18:45-20:15
+- Ryhmätapaamiset 24.8.-14.12. parittomien viikkojen maanantait klo 18:45-20:15
+- Nettiwebinaari 28.12. maanantaina klo 19-20
+- Ryhmätapaamiset 11.1.-22.3. parillisten viikkojen maanantait klo 18:45-20:15
+- Nettiwebinaari 5.4. maanantaina klo 19-20
+- Ryhmätapaamiset 19.4.-17.5. parillisten viikkojen maanantait klo 18:45-20:15
 - Ryhmän oma alusta Facebookissa tai WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle matkan aikana
 
 
 - Henkilökohtaiset valmennustapaamiset 60 min. x3 yhdessä sovittuna aikana:  
     - Oman matkan suunnittelua  
-    - Oma liikunnan suunnittelu + henkilökohtainen ohjelma  
+    - Oman liikunnan suunnittelu + henkilökohtainen ohjelma  
     - Omien tavoitteiden tarkastelua ja matkan jatkumista  
 <br/>
 - Valmentajan jatkuva etätuki koko matkan ajan  

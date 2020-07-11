@@ -78,5 +78,7 @@ Etätuki koko valmennuksen ajan
 
 ![yksilovalmennus](/img/yksilovalmennus_1.jpg "Yksilövalmennus"){: .center-block :}
 
+> Yksilöllistä valmennusta Sinun tarpeesi edellä.
+
 
 ***Valmennukset räätälöidään aina yksilöllisesti, joten varaa aika ilmaiseen konsultointiin, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi.***

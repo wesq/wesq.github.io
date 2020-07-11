@@ -115,6 +115,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: false 
+  telephone: 
   email: ""
   facebook: elokatsu
 #  github: daattali
@@ -127,7 +128,7 @@ social-network-links:
   instagram: elokatsu
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: 
+
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname

@@ -11,4 +11,4 @@ bigimg: img/a_yhteistyo.jpg
 Sipoon hieronta ja hyvinvointi tarjoaa monipuolisia kehon ja mielen hyvinvointia huoltavia, tukevia ja vahvistavia palveluja. Ohjaan heidän tiloissaan ryhmäliikuntaa, sekä hyvinvointivalmennusta yksilöille ja pienryhmille.
 
 [Liiku leiki ja loista](https://liikuleikiloista.fi/){:target="_blank":}  
-Liike, leiki ja loista tuo ihmisten arkeen monipuolisia liikunnan ja hyvinvoinnin palveluja rennolla twistillä. Ohjaan heidän tiloissaan erilaisia tunteja aikuisille ja lapsille, sekä Feel Good - valmennusta pienryhymille.
+Liiku, leiki ja loista tuo ihmisten arkeen monipuolisia liikunnan ja hyvinvoinnin palveluja rennolla twistillä. Ohjaan heidän tiloissaan erilaisia tunteja aikuisille ja lapsille, sekä Feel Good - valmennusta pienryhymille.

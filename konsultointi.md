@@ -3,7 +3,7 @@ layout: page
 title: Konsultointi
 subtitle: "Suunnitellaan yhdessä Sinua tukeva valmennuspaketti!"
 formspree_comment: true
-comment_teksti: "Miten voin auttaa Sinua, vapaa sana:"
+comment_teksti: Kerro miten voin auttaa Sinua?
 bigimg: img/a_konsultointi.jpg
 ---
 

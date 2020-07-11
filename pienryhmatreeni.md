@@ -6,7 +6,7 @@ bigimg: img/a_eloisakeho.jpg
 formspree_comment: true
 comment_teksti: "Ilmoittaudu mukaan pienryhmä&shy;treeneihin:"
 ---
-### **Eloisan kehon pienryhmä&shy;valmennus**  tuo arkeesi liikunnan iloa omaa kehoa kuunnellen.
+### **Eloisan kehon pienryhmä&shy;valmennus**  tuo arkeesi liikunnan iloa omaa kehoa kuunnellen
 <p></p>
 <p class="otsikkolistapalkki">
 ELOISA KEHO ON VAHVA, LIIKKUVA JA ENERGINEN
