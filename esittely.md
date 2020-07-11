@@ -5,7 +5,7 @@ subtitle: Kuka on elokatsu?
 bigimg: img/kati_luonnossa_02.jpg
 
 ---
-### **_Elokatsun_** _takana pyörii siis minä,_ **_Kati Mäkelä._**
+### <span class="notbold">Olen</span> Kati Mäkelä, elokatsun <span class="notbold">perustaja.</span>
 
 <br/>
 ![elokatsu](/img/elokatsu4.jpg "elokatsu"){: .image-right :} <br/> Olen yrittäjä, **hyvinvointivalmentaja**, **lähihoitaja**, avopuoliso ja lempeän kohtaamisen vahva kannattaja.

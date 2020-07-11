@@ -9,7 +9,7 @@ bigimg: img/a_jata_palautetta.jpg
 
 ### Asiakkaiden antamia palautteita elokatsun palveluista:
 <p></p>
-> "Uusi lempeä elo-hyvinvointivalmennus on lisännyt ymmärrystäni ja opettanut kuulemaan omaa kehoani. Olen oppinut, että kun aloittaa pienestä, on helpompaa lähteä tekemään ja tuloksia syntyy. Olen tajunnut myös, että kaikki liike kelpaa, jnoka myötä olen löytänyt liikunnan ilon ekaa kertaa elämässäni. Syyllisyys on jäänyt taka-alalle. Valmennuksessa saadut kotitehtävät lisäsivät itsetuntemustani, ja olen oppinut paljon asioita, joihin voin aina palata."
+> "Uusi lempeä elo-hyvinvointivalmennus on lisännyt ymmärrystäni ja opettanut kuulemaan omaa kehoani. Olen oppinut, että kun aloittaa pienestä, on helpompaa lähteä tekemään ja tuloksia syntyy. Olen tajunnut myös, että kaikki liike kelpaa, jonka myötä olen löytänyt liikunnan ilon ekaa kertaa elämässäni. Syyllisyys on jäänyt taka-alalle. Valmennuksessa saadut kotitehtävät lisäsivät itsetuntemustani, ja olen oppinut paljon asioita, joihin voin aina palata."
 
 > "Olen yrittänyt muutosta aiemminkin, mutta se on mennyt metsään kun yrittänyt liikaa. En ole aiemmin koskaan pysähtynyt miettimään mitä MINÄ oikeasti tarvitsen ja haluan! Aiemmin elin myös eräänlaisessa välitilassa "sitten kun oon laiha". Uusi lempeä elo valmennuksen avulla olen löytänyt joustavuutta, armollisuutta ja itsevarmuutta mennä pienillä askelilla eteenpäin kohti suurempaa tavoitetta. Olen löytänyt oman tavan liikkua, kiitos."
 > "Ihana vetäjä joka innostaa ja kannustaa! Pienet ryhmät ja henkilökohtaisempaa ohjausta, jossa keskitytään liikkeiden oikeaoppiseen tekemiseen"
@@ -22,6 +22,6 @@ bigimg: img/a_jata_palautetta.jpg
 
 > "Elokatsu tarjoaa todella hyvää valmennusta parempaan liikkumiseen ja muutokseen! Suosittelen lämpimästi. Kati on erittäin hyvä valmentaja ja ohjaaja, ja harvoin kohtaa näin suurta huolenpitoa!"
 
-> "Lempeä elo-valmennus tuli minulle juuri oikeaan aikaan elämässä. Olen kamppaillut jaksamisen ja ylisuorittamisen kanssa, ja valmennuksen avulla opin keskittymään oleelliseen ja pysähtymään kun kroppa sitä tarvitsee. Opin itselleni sopivia, riittävän matalakynnyksisiä liikuntamuotoja kiireuseen arkeen. Valmennuksessa oli ihana, tiivis ryhmähenki. Aina naurettiin itkettiin ja vuodatettiin murheemme sekä ilomme. Tekisi mieli ottaa toinen samanmoinen heti perään. ❤️"
+> "Lempeä elo-valmennus tuli minulle juuri oikeaan aikaan elämässä. Olen kamppaillut jaksamisen ja ylisuorittamisen kanssa, ja valmennuksen avulla opin keskittymään oleelliseen ja pysähtymään kun kroppa sitä tarvitsee. Opin itselleni sopivia, riittävän matalakynnyksisiä liikuntamuotoja kiireiseen arkeen. Valmennuksessa oli ihana, tiivis ryhmähenki. Aina naurettiin itkettiin ja vuodatettiin murheemme sekä ilomme. Tekisi mieli ottaa toinen samanmoinen heti perään. ❤️"
 
 > "Hyviä kotijumppia kaiken kuntoisille 🤩"
