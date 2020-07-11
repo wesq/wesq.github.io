@@ -3,7 +3,7 @@ layout: page
 title: Esittely
 subtitle: Kuka on elokatsu?
 
-bigimg: img/kati_luonnossa_02.jpg
+bigimg: img/a_esittely.jpg
 ---
 
 <h3>Elokatsun <span class='notbold'> takana pyörii siis minä, </span>Kati Mäkelä.</h3>
