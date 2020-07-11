@@ -16,30 +16,30 @@ Mä oon yrittäjä, **hyvinvointivalmentaja**, **lähihoitaja**, avopuoliso ja l
 
 ![Elämäntapamuutos](/img/eloisakeho3.jpg "Elämäntapamuutos"){: .image-left :}
 <br/>
-Inspiroidun uusista asioista ja innostun aika helposti. Oon monessa asiassa sellainen "ensin toimitaan, sitten mietitään" - persoona, joka varmasti on sekä mun vahvuus, että heikkous. Tiedän myös hyvin miltä tuntuu, kun esim. elämäntapamuutosta tehdessä on fiilis, että "kaikki mulle heti nyt ja missä ihmeessä ne tulokset jo on!"
-Tämän rinnalla olen itse tehnyt paljon töitä lempeän pysähtymisen ja itsensä arvostuksen kanssa, ja tätä sanomaa mä haluan myös tuoda asiakkailleni.
+Omassa arjessani inspiroidun ja innostun helposti uusista asioista, ja olenkin monesti sellainen "ensin toimitaan, sitten mietitään" - persoona. Tiedän myös hyvin miltä tuntuu, kun esim. elämäntapamuutosta tehdessä on fiilis, että "kaikki mulle heti nyt ja missä ihmeessä ne tulokset jo on!"
+Tämän rinnalla olen itse tehnyt paljon töitä lempeän pysähtymisen ja itsensä arvostuksen kanssa. Kun ehdin pysähtyä enemmän, näen itsessäni ja ympärilläni selkeämmin sen kauneuden ja riittävyyden, tässä ja nyt.  Tätä sanomaa haluan tuoda myös asiakkaideni elämään.
 
 <br/><br/><br/><br/>
 
 ![Kati ja luonto](/img/elokatsu_luonto.jpg "Kati ja luonto"){: .image-right :}
 Mun omaa sydäntäni lähellä on liikunnan ilo ja monipuolisuus, hetkiin pysähtyminen ja palautumisen arvostaminen, sekä luonnon hoitava voima.
 Rakastan marjasmoothieita, suklaata, metsässä fiilistelyä ja niitä arjen pieniä hetkiä, joita saan jakaa mun läheisten kanssa. Nautin myös lempeistä kohtaamisista niin itseni, kuin uusien ihmistenkin parissa.
-Hyvinvoinnin puolella toivon voivani tuoda enemmän lempeyttä ja pysähtymistä arjen keskelle. Mä oon itse elänyt läpi haastavien aikojen, jossa vaan ruoskin itseäni tekemään enemmän ja paremmin ajatuksella, että hyvinvoinnin eteen pitää tehdä töitä, älä oo laiska. Mutta herkkänä ihmisenä voin tuolloin vaan entistä huonommin, kun koin että mun pitäisi aina vaan jotain enemmän tai vähemmän...
-Kun oon alkanut kyseenalaistamaan tämän omassa elämässäni, kuulla itseäni ja omia tarpeitani hiukan paremmin, on löytynyt se lempeämpi ääni, joka muistuttaa suorittajaa välillä myös hellittämään... Eli kyllä, tiedän hyvin myös mitä on suorittaminen ja se, kun ei uskalla luottaa siihen, että minä olen täydellisen riittävä, juuri näin.<br/><br/>
+Hyvinvoinnin puolella toivon voivani tuoda enemmän lempeyttä ja pysähtymistä arjen keskelle. Mä oon itse elänyt läpi haastavien aikojen, jolloin vaan ruoskin itseäni tekemään enemmän ja paremmin ajatuksella, että "hyvinvoinnin eteen pitää tehdä paljon töitä, älä oo laiska". Mutta herkkänä ihmisenä voin tuolloin vaan entistä huonommin, kun koin, että mun pitäisi aina vaan jotain enemmän tai vähemmän...
+Kun olen alkanut kyseenalaistamaan tämän omassa elämässäni, kuulla itseäni ja omia tarpeitani hiukan paremmin, on löytynyt se lempeämpi ääni, joka muistuttaa suorittajaa välillä myös hellittämään... Eli kyllä, tiedän hyvin myös mitä on suorittaminen ja se, kun ei uskalla luottaa siihen, että minä olen täydellisen riittävä, juuri näin, tässä hetkessä.<br/><br/>
 
 ![Valmentaja](/img/valmentajasi.jpg "Valmentaja"){: .center-block :}
 
-Valmentajana lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, tekniikka edellä liikkeen ohjaaminen, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin merkitys arjessa.
+**Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, tekniikka edellä liikkeen ohjaaminen, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin merkitys arjessa.**
 
 
-Koulutukseltani olen lähihoitaja ja hyvinvointivalmentaja (hyvinvointivalmentajan opintoihini on sisältynyt hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta).
-Lisäksi olen lukenut avoimessa yliopistossa ravitsemustieteen, sekä liikuntapsykologian perusopinnot. Olen myös kouluttanut itseäni mm. PowerMethod-valmentajaksi, sekä Äitiysliikunnan ohjaajaksi. Koulutan jatkuvasti itseäni oppiakseni uutta, tällä hetkellä opiskelen palautumisen valmennusta.
+Koulutukseltani olen **lähihoitaja** ja **hyvinvointivalmentaja** (hyvinvointivalmentajan opintoihini on sisältynyt hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta).
+**Lisäksi olen lukenut** avoimessa yliopistossa **ravitsemustieteen, sekä liikuntapsykologian perusopinnot**. Olen myös kouluttanut itseäni mm. **PowerMethod-valmentaja**ksi, sekä **Äitiysliikunnan ohjaaja**ksi. Koulutan jatkuvasti itseäni oppiakseni uutta, **tällä hetkellä opiskelen palautumisen valmennusta**.
 <br>
 <br>
 ![Elokatsu](/img/elokatsu.jpg "Kati"){: .image-right :}
 <br>
-Jos sinua kiinnostaa hyvinvointi ja lempeämpi ote sen kanssa, niin otahan yhteyttä ja katsotaan yhdessä miten voisin auttaa Sinua.
+*Jos sinua kiinnostaa hyvinvointi ja lempeämpi ote sen kanssa, niin otahan yhteyttä ja katsotaan yhdessä miten voisin auttaa Sinua.*
 
-Löydät sivuiltani lisää tietoja palveluistani "Palvelut" kohdasta.
+Löydät "Palvelut"-välilehdeltä lisätietoa valmennuksistani.
 
 Kiva kun olet, juuri siinä. -Kati ❤️
