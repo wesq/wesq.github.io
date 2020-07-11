@@ -43,7 +43,7 @@ navbar-links:
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
     - Yksilövalmennus: "yksilovalmennus"
-    - Hyvinvointivalmennus: "hyvinvointivalmennus"
+    - Hyvinvointivalmennus pienryhmässä: "hyvinvointivalmennus"
     - Pienryhmätreeni: "pienryhmatreeni"
     - Työhyvinvointi: "tyohyvinvointi"
     - Firstbeat-mittaus: "firstbeat"

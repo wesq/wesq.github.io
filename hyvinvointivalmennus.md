@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hyvinvointi&shy;valmennukset
-subtitle: Pienryhmä&shy;valmennukset hyvinvointisi tueksi
+subtitle: Hyvinvointi&shy;valmennukset pienryhmässä muutoksesi tueksi
 bigimg: img/a_hyvinvointivalmennus.jpg
 formspree_comment: true
 comment_teksti: "Ilmoittaudu mukaan valmennusryhmään:"
