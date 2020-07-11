@@ -13,7 +13,7 @@ bigimg: img/a_esittely.jpg
 <br/><br/><br/>
 
 ![Elämäntapamuutos](/img/eloisakeho3.jpg "Elämäntapamuutos"){: .image-left :}
-<br/><br/>
+<br/>
 Inspiroidun uusista asioista ja innostun aika helposti. Oon monessa asiassa sellainen "ensin toimitaan, sitten mietitään persoona", joka varmasti on sekä mun vahvuus, että heikkous. Tiedän myös hyvin miltä tuntuu, kun esim. elämäntapamuutosta tehdessä on fiilis, että "kaikki mulle heti nyt ja missä ihmeessä ne tulokset jo on!"
 Tämän rinnalla olen itse tehnyt paljon töitä lempeän pysähtymisen ja itsensä arvostuksen kanssa, ja tätä sanomaa mä haluan myös tuoda asiakkailleni.
 
