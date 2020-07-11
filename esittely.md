@@ -2,7 +2,7 @@
 layout: page
 title: Esittely
 subtitle: Kuka on elokatsu?
-bigimg: img/kati_luonnossa_02.jpg
+bigimg: img/a_esittely.jpg
 
 ---
 ### <span class="notbold">Olen</span> Kati Mäkelä, elokatsun <span class="notbold">perustaja.</span>
@@ -25,7 +25,7 @@ Rakastan marjasmoothieita, suklaata, metsässä fiilistelyä ja niitä arjen pie
 Hyvinvoinnin puolella toivon voivani tuoda enemmän lempeyttä ja pysähtymistä arjen keskelle. Mä oon itse elänyt läpi haastavien aikojen, jossa vaan ruoskin itseäni tekemään enemmän ja paremmin ajatuksella, että hyvinvoinnin eteen pitää tehdä töitä, älä oo laiska. Mutta herkkänä ihmisenä voin tuolloin vaan entistä huonommin, kun koin että mun pitäisi aina vaan jotain enemmän tai vähemmän...
 Kun oon alkanut kyseenalaistamaan tämän omassa elämässäni, kuulla itseäni ja omia tarpeitani hiukan paremmin, on löytynyt se lempeämpi ääni, joka muistuttaa suorittajaa välillä myös hellittämään... Eli kyllä, tiedän hyvin myös mitä on suorittaminen ja se, kun ei uskalla luottaa siihen, että minä olen täydellisen riittävä, juuri näin.<br/><br/>
 
-![Valmentaja](/img/valmentajasi.jpg "Valmentaja"){: .center-block :}
+
 
 Valmentajana lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, tekniikka edellä liikkeen ohjaaminen, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin merkitys arjessa.
 
@@ -33,7 +33,7 @@ Koulutukseltani olen lähihoitaja ja hyvinvointivalmentaja (hyvinvointivalmentaj
 Lisäksi olen lukenut avoimessa yliopistossa ravitsemustieteen, sekä liikuntapsykologian perusopinnot. Koulutan myös jatkuvasti itseäni oppiakseni uutta.
 <br>
 <br>
-![Elokatsu](/img/elokatsu.jpg "Kati"){: .image-right :}
+![Valmentaja](/img/valmentajasi.jpg "Valmentaja"){: .image-right :}
 <br>
 Jos sinua kiinnostaa hyvinvointi ja lempeämpi ote sen kanssa, niin otahan yhteyttä ja katsotaan yhdessä miten voisin auttaa Sinua.
 
