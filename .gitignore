@@ -4,6 +4,8 @@ _site
 .vagrant
 .bundle
 old
+vendor
+serve.sh
 # general
 .DS_Store
 Thumbs.db

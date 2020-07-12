@@ -23,7 +23,7 @@ LIIKUNNAN ILO - UNI&PALAUTUMINEN - RAVINTO -
 HYVINVOIVA KEHO - LEMPEÄMPI ELO
 </p>
 Valmennuksessa pääset pysähtymään sen äärelle, mistä Sinun hyvinvoiva arki koostuu, ja millaisilla askelilla sitä kannattaa lähteä tavoittelemaan. Valmennus sisältää ryhmätapaamisten lisäksi henkilökohtaisia valmennustapaamisia, sekä jatkuvan valmentajan tuen koko valmennuksen ajan. Soveltuu kaikille, jotka kaipaavat lempeää muutosta elämäänsä.   
-Uusi lempeä elo - Hyvinvointivalmennusta järjestetään Sipoon Nikkilässä. [Lue lisää](/hyvinvointivalmennus)
+Uusi lempeä elo - Hyvinvointivalmennusta järjestetään Sipoon Nikkilässä. [Lue lisää ryhmävalmennuksesta](/hyvinvointivalmennus)
 <br>
 
 - **Eloisan kehon _pienryhmä&shy;valmennus_** tuo arkeesi liikunan iloa omaa kehoa kuunnellen.
@@ -33,7 +33,11 @@ ELOISA KEHO ON VAHVA, LIIKKUVA JA ENERGINEN
 </p>
 Eloisan kehon pienryhmätreenit on sinulle, joka kaipaat arkeesi hyvän mielen liikuntaa rennommalla otteella. Liikkeitä harjoitellaan tekniikka edellä omaa kehoa kuunnellen, tule juuri sellaisena kuin olet.  
 Eloisan kehon pienryhmävalmennusta järjestetään Sipoon Nikkilässä, sekä Helsingin Myllypurossa.
-[Lue lisää](/pienryhmatreeni)
+[Lue lisää pienryhmätreeneistä](/pienryhmatreeni)
+<br/><br/>
 
 
+### * Koronatilanteen poikkeusolosuhteet:
+
+Poikkeustilanteen aikana valmennuksissa huomioidaan vaadittavat turvavälit ja huolehditaan riittävästä käsihygieniasta. Ethän saavu valmennuksiin sairaana. Elokatsu seuraa jatkuvasti vaadittavia ohjeita ja toimii niiden mukaisesti.
 

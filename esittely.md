@@ -31,7 +31,7 @@ Kun olen alkanut kyseenalaistamaan tämän omassa elämässäni, kuulla itseäni
 **Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, tekniikka edellä liikkeen ohjaaminen, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin merkitys arjessa.**
 
 
-Koulutukseltani olen **lähihoitaja** ja **hyvinvointivalmentaja** (hyvinvointivalmentajan opintoihini on sisältynyt hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta).
+Koulutukseltani olen **lähihoitaja** ja **hyvinvointivalmentaja** (hyvinvointivalmentajan opinnot (Riveria) on sisältynyt hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta).
 **Lisäksi olen lukenut** avoimessa yliopistossa **ravitsemustieteen, sekä liikuntapsykologian perusopinnot**. Olen myös kouluttanut itseäni mm. **PowerMethod-valmentaja**ksi, sekä **Äitiysliikunnan ohjaaja**ksi. Koulutan jatkuvasti itseäni oppiakseni uutta, **tällä hetkellä opiskelen palautumisen valmennusta**.
 <br>
 <br>
@@ -39,6 +39,6 @@ Koulutukseltani olen **lähihoitaja** ja **hyvinvointivalmentaja** (hyvinvointiv
 <br>
 *Jos sinua kiinnostaa hyvinvointi ja lempeämpi ote sen kanssa, niin otahan yhteyttä ja katsotaan yhdessä miten voisin auttaa Sinua.*
 
-Löydät "Palvelut"-välilehdeltä lisätietoa valmennuksistani.
+Löydät "Palvelut"-välilehdeltä lisätietoa valmennuksistani. Toimin Sipoon ja Helsingin alueella.
 
 Kiva kun olet, juuri siinä. -Kati ❤️

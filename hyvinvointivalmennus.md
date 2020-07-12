@@ -67,6 +67,7 @@ TAI kuukausilaskutuksella 66€/kk x10**
 
 **Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.**
 <br/>
+[Lue valmennusehdot](/valmennusehdot) 
 
 !["Hyvinvointivalmennus"](/img/Kati2.jpg "Tervetuloa mukaan"){: .center-block :}
 > Tule mukaan etsimään yhdessä Sinun arjen hyvinvointia tukevat palikat!

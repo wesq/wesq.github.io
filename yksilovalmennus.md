@@ -4,7 +4,7 @@ title: Yksilö&shy;valmennukset
 subtitle: Räätälöidyt hyvinvointi&shy;valmennukset Sinulle
 
 formspree_comment: true
-comment_teksti: "Ota yhteyttä yksilö&shy;valmennuksista:"
+comment_teksti: Mitä haluaisit kysyä yksilö&shy;valmennuksista?
 
 bigimg: img/a_yksilovalmennukset.jpg
 
@@ -16,10 +16,10 @@ bigimg: img/a_yksilovalmennukset.jpg
 *Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi?  
 Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttaa sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika ilmaiseen konsultaatioon, niin voimme yhdessä miettiä, mikä kokonaisuus palvelisi Sinua parhaiten!*
 
-**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, painonhallintaan, palautumisen vahvistamiseen tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen", vaan autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa, ja joita voit toteuttaa läpi elämän. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti hyvinvointia.**
+**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, painonhallintaan, palautumisen vahvistamiseen tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen", vaan autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia.**
 
 **VALMENNUKSET SISÄLTÄVÄT:**  
-- Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi  
+- Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi (kasvotusten/puhelimitse) 
 - Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)  
 - Palautumisen ja ravitsemuksen tarkastelua  
 - Muutoksen tukemista erilaisin tehtävin ja keskusteluin  
@@ -73,7 +73,8 @@ Etätuki koko valmennuksen ajan
 \* _Lisäohjaukset valmennusasiakkaille 45€ / 1h ohjaus  
 (esim. ohjattuja treenejä lisää)_
 
-***Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.***
+***Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.***  
+[Lue valmennusehdot](/valmennusehdot)  
 
 
 ![yksilovalmennus](/img/yksilovalmennus_1.jpg "Yksilövalmennus"){: .center-block :}
@@ -82,3 +83,5 @@ Etätuki koko valmennuksen ajan
 
 
 ***Valmennukset räätälöidään aina yksilöllisesti, joten varaa aika ilmaiseen konsultointiin, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi.***
+
+***Valmennukset voidaan toteuttaa Sipoon ja Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä missä tahansa!***
