@@ -32,7 +32,7 @@ Kyseessä on pienryhmävalmennus ja ryhmiin otetaan max. 10 osallistujaa.
 [Sipoon hieronta ja hyvinvointi](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"}-tiloissa os. Iso Kylätie 9, 2krs. käynti takapihan puolelta 
 
 Valmennus **MAANANTAISIN** ajalla 17.8.-21.12.2020 (18 krt, ei 12.10.) **klo 17:30-18:30**  
-Hinta: 198€ (voidaan maksaa yhdessä tai kahdessa osassa)
+Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa)
 <br/><br/>
 
 ![Pienryhmätreeni](/img/myllypuro.jpg "Myllypuron pienryhmä"){: .image-left :}
@@ -42,7 +42,7 @@ Myllypurossa ulkona/kylätalolla/verkossa
 
 Valmennus **TORSTAISIN** ajalla 13.8.-17.12.2020 (18 krt, ei 15.10.)  
 **klo 17:00-18:00**  
-Hinta: 190€ (voidaan maksaa yhdessä tai kahdessa osassa)
+Hinta: 190€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa)
 <br/><br/>
 
 

@@ -27,10 +27,10 @@ Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttaa
 
 Esimerkkejä valmennuspaketeista ja hinnoista:
 
-- ***Yksittäinen Kertatapaaminen 79€***  
+- ***Yksittäinen Kertatapaaminen 79€ (sis. alv)***  
 Sisältää: alkukartoitus 30 min. + ohjaus 60 min.
 
-- ***3 kerran ohjauspaketti 199€***  
+- ***3 kerran ohjauspaketti 199€ (sis. alv)***  
 Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
 Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
 \+ paketti sisältää myös yksilöllisesti laaditun ohjelman kirjallisena
@@ -42,7 +42,7 @@ Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (hyvi
 rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen tarkastelu, arjen hyvinvointitapojen
 omaksuminen ja oman hyvinvoivan arjen kirkastaminen*
 
-- ***3 kk Hyvinvointivalmennus 169€/kk*** [* Katso tarjous!](/syksy2020#Yksilöllinen-hyvinvointivalmennus)  
+- ***3 kk Hyvinvointivalmennus 169€/kk (sis. alv)*** [* Katso tarjous!](/syksy2020#Yksilöllinen-hyvinvointivalmennus)  
 Valmennus sisältää:  
 Alkukartoitus  
 6 Valmennustapaamista  
@@ -51,7 +51,7 @@ Palautumisen ja unen merkitys hyvinvointiin
 Ravitsemuksen merkitys hyvinvointiin  
 Etätuki koko valmennuksen ajan  
 
-- ***6kk Hyvinvointivalmennus 159€/kk***  
+- ***6kk Hyvinvointivalmennus 159€/kk (sis. alv)***  
 Valmennus sisältää:  
 Alkukartoitus  
 12 Valmennustapaamista  
@@ -60,7 +60,7 @@ Palautumisen ja unen merkitys hyvinvointiin
 Ravitsemuksen merkitys hyvinvointiin  
 Etätuki koko valmennuksen ajan  
 
-- ***12kk Hyvinvointivalmennus 139€/kk***  
+- ***12kk Hyvinvointivalmennus 139€/kk (sis. alv)***  
 Valmennus sisältää:  
 Alkukartoitus  
 24 Valmennustapaamista  
@@ -70,7 +70,7 @@ Ravitsemuksen merkitys hyvinvointiin
 Etätuki koko valmennuksen ajan  
 
 
-\* _Lisäohjaukset valmennusasiakkaille 45€ / 1h ohjaus  
+\* _Lisäohjaukset valmennusasiakkaille 45€ / 1h ohjaus (sis. alv)   
 (esim. ohjattuja treenejä lisää)_
 
 ***Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.***  

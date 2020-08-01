@@ -17,7 +17,7 @@ Mittauksen avulla opit tunnistamaan hyvinvointiisi vaikuttavia tekijöitä, hall
 Hyvinvointianalyysi pitää sisällään 3 vuorokauden mittauksen. Mittauksesta saat itsellesi laajan henkilökohtaisen raportin, jonka avulla pääset näkemään mitkä teot arjessasi vaikuttavat jaksamiseesi ja hyvinvointiisi.  Raportista näet muunmuassa aktiivisuutesi ja halutessasi kuntotasosi, sekä lisäksi arjen stressitasosi, palautumisesi määrän ja unesi laadun. Tämän datan avulla meidän on  mahdollista konkreettisesti päästä kiinni siihen, mitkä asiat arjessa sinua kuormittavat ja mitkä valinnat taas tukevat jaksamistasi ja parantavat hyvinvointia.  
 Saat mittauksesta itsellesi henkilökohtaisen palautteen, sekä valmentajan ohjausta hyvinvointisi tueksi.
 
-**Firstbeat hyvinvointianalyysit yksilölle 169€.**  
+**Firstbeat hyvinvointianalyysit yksilölle 169€ (sis. alv).**  
 Kysy tarjousta ryhmille!
 
 Tutustu [täältä](https://www.firstbeat.com/fi/tyo-ja-hyvinvointi/hyvinvointianalyysi/){:target="_blank"} Firstbeat - Hyvinvointianalyysiin
