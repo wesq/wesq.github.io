@@ -11,7 +11,7 @@ bigimg: img/a_syksy.jpg
 ### * Yksilöllinen hyvinvointivalmennus:
 
 **Nyt voimassa "nettisivujen avajais" - alennus!**  
-Ostaessasi **3 kuukauden hyvinvointivalmennuspaketin** 2.8. mennessä, saat sen nyt hintaan **149€/kk** (normaalisti 169€/kk), valmennus tulee aloittaa vuoden 2020 aikana. 
+Ostaessasi **3 kuukauden hyvinvointivalmennuspaketin** 16.8.2020 mennessä, saat sen nyt hintaan **149€/kk** (normaalisti 169€/kk), valmennus tulee aloittaa vuoden 2020 aikana. 
 [Lue lisää valmennuspaketeista](/yksilovalmennus)  
 <br/>
 
