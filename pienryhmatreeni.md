@@ -36,7 +36,7 @@ Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa)
 
 ***HELSINGIN MYLLYPURON RYHMÄ***
 Myllykylän Kylätalolla os. Ryynimyllynkatu 1  
-TAI ULKONA Myllypurossa niin kauan kuin säät sallivat
+(ULKONA Myllypurossa niin kauan kuin säät sallivat kesällä)
 
 
 Valmennus **TORSTAISIN** ajalla 13.8.-17.12.2020 (18 krt, ei 15.10.)  
