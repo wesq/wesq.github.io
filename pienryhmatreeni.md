@@ -38,7 +38,8 @@ Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa)
 ![Pienryhmätreeni](/img/myllypuro.jpg "Myllypuron pienryhmä"){: .image-left :}
 
 ***HELSINGIN MYLLYPURON RYHMÄ***
-Myllypurossa ulkona/kylätalolla/verkossa
+Myllykylän Kylätalolla os. Ryynimyllynkatu 1  
+TAI ULKONA Myllypurossa niin kauan kuin säät sallivat
 
 Valmennus **TORSTAISIN** ajalla 13.8.-17.12.2020 (18 krt, ei 15.10.)  
 **klo 17:00-18:00**  
