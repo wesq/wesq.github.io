@@ -1,4 +1,4 @@
 ---
-redirect:   https://webmail.louhi.net/whm33.php
+redirect:   https://whm33.louhi.net/mail
 layout:     redirect
 ---
