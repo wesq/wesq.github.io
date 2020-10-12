@@ -33,19 +33,16 @@ Valmennus sisältää yhteistä liikettä, kehonhuoltoa, palautumisen tukemista,
 **Tarkemmat tiedot toteutuksesta:**
 
 RYHMÄ KOKOONTUU NIKKILÄSSÄ, [Sipoon hieronta ja hyvinvointi](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"} tiloissa
-os. Iso Kylätie 9, 2krs. käynti takapihan puolelta 
+os. Iso Kylätie 9, 2krs. käynti takapihan puolelta. 
 
 Saat yhteensä 23 valmennustapaamista; 18 ryhmätapaamista, 2 webinaaria, 3 henkilökohtaista valmennusta. Lisäksi
 ryhmän tuki, sekä jatkuva etätuki valmentajan kanssa antaa sinulle paljon lisäbuustia matkallesi.
 
-**Valmennus ajalla 24.8.2020 – 17.5.2021 JOKA TOINEN MAANANTAI klo 18:45-20:15 sisältäen:**
+**Valmennustapaamiset JOKA TOINEN MAANANTAI klo 18:45-20:15 sisältäen:**
 
 
-- Ryhmätapaamiset 24.8.-14.12. parittomien viikkojen maanantait klo 18:45-20:15
-- Nettiwebinaari 28.12. maanantaina klo 19-20
-- Ryhmätapaamiset 11.1.-22.3. parillisten viikkojen maanantait klo 18:45-20:15
-- Nettiwebinaari 5.4. maanantaina klo 19-20
-- Ryhmätapaamiset 19.4.-17.5. parillisten viikkojen maanantait klo 18:45-20:15
+- Ryhmätapaamiset
+- Nettiwebinaarit
 - Ryhmän oma alusta Facebookissa tai WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle matkan aikana
 
 

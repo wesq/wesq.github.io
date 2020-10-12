@@ -8,11 +8,13 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-### * Elokuussa 2020 alkamassa kaksi erilaista pienryhmävalmennusta:
-
+### * Marraskuussa vapautumassa paikka henkilökohtaiseen valmennukseen, kysy lisätietoja. [Yksilövalmennus](/yksilövalmennus)    
 <p></p>
 
-* **Uusi lempeä elo - _Hyvinvointi­valmennus_** on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi.
+### * Tammikuussa 2021 alkamassa uudet pienryhmät (Eloisan kehon pienryhmävalmennus & Uusi lempeä elo - Hyvinvointivalmennus), lisätietoja tulossa pian!  
+<br/>
+* **Uusi lempeä elo - _Hyvinvointi­valmennus_** on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi.  
+
   <p class="otsikkolistapalkki">
   LIIKUNNAN ILO - UNI&PALAUTUMINEN - RAVINTO -  
   HYVINVOIVA KEHO - LEMPEÄMPI ELO
@@ -32,4 +34,4 @@ Eloisan kehon pienryhmävalmennusta järjestetään Sipoon Nikkilässä, sekä H
 
 ### * Koronatilanteen poikkeusolosuhteet:
 
-Poikkeustilanteen aikana valmennuksissa huomioidaan vaadittavat turvavälit ja huolehditaan riittävästä käsihygieniasta. Ethän saavu valmennuksiin sairaana. Elokatsu seuraa jatkuvasti vaadittavia ohjeita ja toimii niiden mukaisesti.
+Poikkeustilanteen aikana valmennuksissa huomioidaan vaadittavat turvavälit ja huolehditaan riittävästä käsihygieniasta. Ethän saavu valmennuksiin sairaana. Elokatsu seuraa jatkuvasti vaadittavia ohjeita ja toimii niiden mukaisesti. Tällä hetkellä pienryhmätreenit järjestetään pääasiassa ulkona, sisätreeneissä mahdollisuus myös olla livenä etänä kotoa käsin mukana.
