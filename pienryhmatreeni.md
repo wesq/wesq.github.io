@@ -23,25 +23,27 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 Valmennuksessa vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmävalmennus ja ryhmiin otetaan max. 9 osallistujaa. <br/><br/>
 
-![Pienryhmätreeni](/img/nikkila.jpg "Nikkilän pienryhmä"){: .image-left :}
+![Pienryhmätreeni](/img/Nikkila_treeni.jpg "Nikkilän pienryhmä"){: .image-left :}
 
 **_SIPOON NIKKILÄN RYHMÄ_**
-[Sipoon hieronta ja hyvinvointi](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"}-tiloissa os. Iso Kylätie 9, 2krs. käynti takapihan puolelta
+[Sipoon hieronta ja hyvinvointi](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"}-tiloissa os. Iso Kylätie 9, 2krs. käynti takapihan puolelta  
+(Tässä ryhmässä mahdollisuus treenata myös etänä, kysy lisää!)
 
-Valmennus **MAANANTAISIN** ajalla 17.8.-21.12.2020 (18 krt, ei 12.10.) **klo 17:30-18:30**  
+Valmennus **MAANANTAISIN** ajalla 11.1.-17.5.2021 (EI treenejä 22.2. & 5.4.) **klo 17:30-18:30**  
 Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa)
 <br/><br/>
-
-![Pienryhmätreeni](/img/myllypuro.jpg "Myllypuron pienryhmä"){: .image-left :}
+<br/><br/>
+<br/><br/>
+![Pienryhmätreeni](/img/myllypuro.jpg "Myllypuron pienryhmä"){: .image-right :}
 
 ***HELSINGIN MYLLYPURON RYHMÄ***
 Myllykylän Kylätalolla os. Ryynimyllynkatu 1  
-(ULKONA Myllypurossa niin kauan kuin säät sallivat kesällä)
+(Tämä ryhmä treenaa paljon myös ulkona, silloin kun olemme sisällä, on mahdollisuus osallistua treeniin myös etänä, kysy lisää!)
 
 
-Valmennus **TORSTAISIN** ajalla 13.8.-17.12.2020 (18 krt, ei 15.10.)  
+Valmennus **TORSTAISIN** ajalla 7.1.-6.5.2021 (EI treeniä 25.2.)  
 **klo 17:00-18:00**  
-Hinta: 190€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa)
+Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa)
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  

@@ -38,7 +38,7 @@ os. Iso Kylätie 9, 2krs. käynti takapihan puolelta.
 Saat yhteensä 23 valmennustapaamista; 18 ryhmätapaamista, 2 webinaaria, 3 henkilökohtaista valmennusta. Lisäksi
 ryhmän tuki, sekä jatkuva etätuki valmentajan kanssa antaa sinulle paljon lisäbuustia matkallesi.
 
-**Valmennustapaamiset JOKA TOINEN MAANANTAI klo 18:45-20:15 sisältäen:**
+**Valmennustapaamiset JOKA TOINEN VIIKKO 1,5h sisältäen:**
 
 
 - Ryhmätapaamiset

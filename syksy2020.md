@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syksy 2020
+title: Kevät 2021
 subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: 'Ilmoittaudu mukaan! Kerro viestissäsi mihin ilmoittaudut:'
@@ -8,10 +8,20 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-### * Marraskuussa vapautumassa paikka henkilökohtaiseen valmennukseen, kysy lisätietoja. [Yksilövalmennus](/yksilövalmennus)    
+### * 1 vapaa paikka henkilökohtaiseen valmennukseen, kysy lisätietoja. [Yksilövalmennus](/yksilövalmennus)    
 <p></p>
 
-### * Tammikuussa 2021 alkamassa uudet pienryhmät (Eloisan kehon pienryhmävalmennus & Uusi lempeä elo - Hyvinvointivalmennus), lisätietoja tulossa pian!  
+### * Tammikuussa 2021 alkamassa uudet eloisan kehon pienryhmät Nikkilässä ja Myllypurossa; molempiin 1 VAPAA PAIKKA JÄLJELLÄ! [Pienryhmätreenit](/pienryhmatreeni)   
+
+<br/>
+* **Eloisan kehon _pienryhmä­valmennus_** tuo arkeesi liikunan iloa omaa kehoa kuunnellen.
+<p class="otsikkolistapalkki">
+ELOISA KEHO ON VAHVA, LIIKKUVA JA ENERGINEN
+</p>
+Eloisan kehon pienryhmätreenit on sinulle, joka kaipaat arkeesi hyvän mielen liikuntaa rennommalla otteella. Liikkeitä harjoitellaan tekniikka edellä omaa kehoa kuunnellen, tule juuri sellaisena kuin olet.  
+Eloisan kehon pienryhmävalmennusta järjestetään Sipoon Nikkilässä, sekä Helsingin Myllypurossa.
+[Lue lisää pienryhmätreeneistä](/pienryhmatreeni)
+<br/><br/>
 <br/>
 * **Uusi lempeä elo - _Hyvinvointi­valmennus_** on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi.  
 
@@ -22,15 +32,8 @@ bigimg: img/a_syksy.jpg
   Valmennuksessa pääset pysähtymään sen äärelle, mistä Sinun hyvinvoiva arki koostuu, ja millaisilla askelilla sitä kannattaa lähteä tavoittelemaan. Valmennus sisältää ryhmätapaamisten lisäksi henkilökohtaisia valmennustapaamisia, sekä jatkuvan valmentajan tuen koko valmennuksen ajan. Soveltuu kaikille, jotka kaipaavat lempeää muutosta elämäänsä.  
   Uusi lempeä elo - Hyvinvointivalmennusta järjestetään Sipoon Nikkilässä. [Lue lisää ryhmävalmennuksesta](/hyvinvointivalmennus)
   <br>
-* **Eloisan kehon _pienryhmä­valmennus_** tuo arkeesi liikunan iloa omaa kehoa kuunnellen.
 
-<p class="otsikkolistapalkki">
-ELOISA KEHO ON VAHVA, LIIKKUVA JA ENERGINEN
-</p>
-Eloisan kehon pienryhmätreenit on sinulle, joka kaipaat arkeesi hyvän mielen liikuntaa rennommalla otteella. Liikkeitä harjoitellaan tekniikka edellä omaa kehoa kuunnellen, tule juuri sellaisena kuin olet.  
-Eloisan kehon pienryhmävalmennusta järjestetään Sipoon Nikkilässä, sekä Helsingin Myllypurossa.
-[Lue lisää pienryhmätreeneistä](/pienryhmatreeni)
-<br/><br/>
+
 
 ### * Koronatilanteen poikkeusolosuhteet:
 
