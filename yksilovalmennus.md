@@ -29,10 +29,10 @@ Esimerkkejä valmennuspaketeista ja hinnoista:
 
 * **_Yksittäinen Kertatapaaminen 79€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min.
-* **_3 kerran ohjauspaketti 199€ (sis. alv)_**  
+* **_3 kerran ohjauspaketti-tarjous 199€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
   Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
-  \+ paketti sisältää myös yksilöllisesti laaditun ohjelman kirjallisena
+  \+ paketti sisältää myös sinulle yksilöllisesti laaditun ohjelman kirjallisena
   <br/><br/>
 
 #### Hyvinvointivalmennuspaketit:
@@ -44,26 +44,26 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen_
 * **_3 kk Hyvinvointivalmennus 169€/kk (sis. alv)_**  
   Valmennus sisältää:  
   Alkukartoitus  
-  6 Valmennustapaamista  
+  6 Valmennustapaamista +  
   Yksilöllinen harjoitusohjelma  
-  Palautumisen ja unen merkitys hyvinvointiin
-  Ravitsemuksen merkitys hyvinvointiin  
+  Palautumisen ja unen merkitys hyvinvointiin-neuvonta  
+  Ravitsemuksen merkitys hyvinvointiin-neuvonta  
   Etätuki koko valmennuksen ajan
 * **_6kk Hyvinvointivalmennus 159€/kk (sis. alv)_**  
   Valmennus sisältää:  
   Alkukartoitus  
-  12 Valmennustapaamista  
+  12 Valmennustapaamista +  
   Yksilöllinen harjoitusohjelma ja sen päivitys  
-  Palautumisen ja unen merkitys hyvinvointiin  
-  Ravitsemuksen merkitys hyvinvointiin  
+  Palautumisen ja unen merkitys hyvinvointiin-neuvonta  
+  Ravitsemuksen merkitys hyvinvointiin-neuvonta  
   Etätuki koko valmennuksen ajan
 * **_12kk Hyvinvointivalmennus 139€/kk (sis. alv)_**  
   Valmennus sisältää:  
   Alkukartoitus  
-  24 Valmennustapaamista  
+  24 Valmennustapaamista +  
   Yksilöllinen harjoitusohjelma ja sen päivitykset  
-  Palautumisen ja unen merkitys hyvinvointiin  
-  Ravitsemuksen merkitys hyvinvointiin  
+  Palautumisen ja unen merkitys hyvinvointiin-neuvonta  
+  Ravitsemuksen merkitys hyvinvointiin-neuvonta  
   Etätuki koko valmennuksen ajan
 
 \* _Lisäohjaukset valmennusasiakkaille 45€ / 1h ohjaus (sis. alv)  

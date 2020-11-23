@@ -8,10 +8,10 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-### * 1 vapaa paikka henkilökohtaiseen valmennukseen, kysy lisätietoja. [Yksilövalmennus](/yksilövalmennus)    
+### * Tammikuussa vapautumassa paikka henkilökohtaiseen valmennukseen, kysy lisätietoja. [Yksilövalmennus](/yksilovalmennus)    
 <p></p>
 
-### * Tammikuussa 2021 alkamassa uudet eloisan kehon pienryhmät Nikkilässä ja Myllypurossa; molempiin 1 VAPAA PAIKKA JÄLJELLÄ! [Pienryhmätreenit](/pienryhmatreeni)   
+### * Tammikuussa 2021 alkamassa uudet eloisan kehon pienryhmät Nikkilässä ja Myllypurossa; Nikkilän ryhmään 1 VAPAA PAIKKA JÄLJELLÄ! [Pienryhmätreenit](/pienryhmatreeni)   
 
 <br/>
 * **Eloisan kehon _pienryhmä­valmennus_** tuo arkeesi liikunan iloa omaa kehoa kuunnellen.
