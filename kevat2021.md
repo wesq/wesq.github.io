@@ -3,15 +3,24 @@ layout: page
 title: Kevät 2021
 subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
-comment_teksti: 'Ilmoittaudu mukaan! Kerro viestissäsi mihin ilmoittaudut:'
+comment_teksti: 'Varaa paikkasi valmennukseen! Kerro viestissäsi mihin ilmoittaudut:'
 social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-### * Tammikuussa vapautumassa paikka henkilökohtaiseen valmennukseen, kysy lisätietoja. [Yksilövalmennus](/yksilovalmennus)    
+
+* **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
+ 
+*  **[Yksilövalmennukseen](/yksilovalmennus) nyt joulukuun ajan JOULUALE; kaikista valmennuksista -10% jos maksat valmennuksen joulukuun aikana.**    
 <p></p>
 
-### * Tammikuussa 2021 alkamassa uudet eloisan kehon pienryhmät Nikkilässä ja Myllypurossa; Nikkilän ryhmään 1 VAPAA PAIKKA JÄLJELLÄ! [Pienryhmätreenit](/pienryhmatreeni)   
+* **Tammikuun [pienryhmät](/pienryhmatreeni) täynnä.**   
+
+* **Poikkeusolosuhteet:**
+
+Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. 2020 syksyllä pienryhmätreenit on järjestetty pääosin ulkona, tai sisätreeneissä on ollut mahdollista olla myös livenä virtuaalisesti mukana. Joustavat tavat harrastaa tulevat jatkumaan myös 2021 keväällä vallitseva tilanne huomioiden.  
+Tulethan valmennuksiin vain täysin terveenä ja huomioit suositukset.  
+
 
 <br/>
 * **Eloisan kehon _pienryhmä­valmennus_** tuo arkeesi liikunan iloa omaa kehoa kuunnellen.
@@ -32,9 +41,3 @@ Eloisan kehon pienryhmävalmennusta järjestetään Sipoon Nikkilässä, sekä H
   Valmennuksessa pääset pysähtymään sen äärelle, mistä Sinun hyvinvoiva arki koostuu, ja millaisilla askelilla sitä kannattaa lähteä tavoittelemaan. Valmennus sisältää ryhmätapaamisten lisäksi henkilökohtaisia valmennustapaamisia, sekä jatkuvan valmentajan tuen koko valmennuksen ajan. Soveltuu kaikille, jotka kaipaavat lempeää muutosta elämäänsä.  
   Uusi lempeä elo - Hyvinvointivalmennusta järjestetään Sipoon Nikkilässä. [Lue lisää ryhmävalmennuksesta](/hyvinvointivalmennus)
   <br>
-
-
-
-### * Koronatilanteen poikkeusolosuhteet:
-
-Poikkeustilanteen aikana valmennuksissa huomioidaan vaadittavat turvavälit ja huolehditaan riittävästä käsihygieniasta. Ethän saavu valmennuksiin sairaana. Elokatsu seuraa jatkuvasti vaadittavia ohjeita ja toimii niiden mukaisesti. Tällä hetkellä pienryhmätreenit järjestetään pääasiassa ulkona, sisätreeneissä mahdollisuus myös olla livenä etänä kotoa käsin mukana.

@@ -14,7 +14,7 @@ Olivatpa tavoitteesi niin liikunnan ilon löytämisessä & liikkeen lisäämises
 
 Olen kiinnostunut kuulemaan lisää toiveistasi ja unelmistasi. 
 
-***Ota ensimmäinen askeleesi kohti Sinun omaa hyvinvoivaa arkea!***
+***Ota ensimmäinen askeleesi kohti Sinun omaa hyvinvoivaa arkea ja varaa paikka ilmaiseen konsultointiin!***
 
 
 ![elokatsu](/img/elokatsu4.jpg){: .center-block :}

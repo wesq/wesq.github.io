@@ -32,13 +32,13 @@ Kun olen alkanut kyseenalaistamaan tämän omassa elämässäni, kuulla itseäni
 
 
 Koulutukseltani olen **lähihoitaja** ja **hyvinvointivalmentaja** (hyvinvointivalmentajan opinnot (Riveria) on sisältynyt hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta).
-**Lisäksi olen lukenut** avoimessa yliopistossa **ravitsemustieteen, sekä liikuntapsykologian perusopinnot**. Olen myös kouluttanut itseäni mm. **PowerMethod-valmentaja**ksi, sekä **Äitiysliikunnan ohjaaja**ksi. Koulutan jatkuvasti itseäni oppiakseni uutta, **tällä hetkellä opiskelen palautumisen valmennusta**.
+**Lisäksi olen lukenut** avoimessa yliopistossa **ravitsemustieteen, sekä liikuntapsykologian perusopinnot**. Olen myös kouluttanut itseäni mm. **PowerMethod-valmentaja**ksi, sekä **Äitiysliikunnan ohjaaja**ksi. Koulutan jatkuvasti itseäni oppiakseni uutta, tällä hetkellä opiskelen **palautumisen valmentajaksi**. Tammikuussa 2021 suuntaan jälleen vakituisesti koulun penkille, kun lähden opiskelemaan itselleni liikunnan ammattitutkintoa - **liikuntaneuvoja**.
 <br>
 <br>
 ![Valmentaja](/img/valmentajasi.jpg "Valmentaja"){: .image-right :}
 <br>
 *Jos sinua kiinnostaa hyvinvointi ja lempeämpi ote sen kanssa, niin otahan yhteyttä ja katsotaan yhdessä miten voisin auttaa Sinua.*
 
-Löydät "Palvelut"-välilehdeltä lisätietoa valmennuksistani. Toimin Sipoon ja Helsingin alueella.
+Löydät "Palvelut"-välilehdeltä lisätietoa valmennuksistani. Toimin Tuusulan, Sipoon ja Helsingin alueella.
 
 Kiva kun olet, juuri siinä. -Kati ❤️

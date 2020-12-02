@@ -27,7 +27,7 @@ Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttaa
 
 Esimerkkejä valmennuspaketeista ja hinnoista:
 
-* **_Yksittäinen Kertatapaaminen 79€ (sis. alv)_**  
+* **_Yksittäinen Kertatapaaminen 75€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min.
 * **_3 kerran ohjauspaketti-tarjous 199€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
@@ -36,31 +36,25 @@ Esimerkkejä valmennuspaketeista ja hinnoista:
   <br/><br/>
 
 #### Hyvinvointivalmennuspaketit:
+[Kurkkaa JOULUALE yksilövalmennuksista!](/kevat2021)
 
 _Kokonaisvaltainen valmennuspaketti muutoksen prosessin tukemisessa sisältäen; tavoitteenasettelu & motivaatio, teot &
 rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen tarkastelu, arjen hyvinvointitapojen
 omaksuminen ja oman hyvinvoivan arjen kirkastaminen_
 
-* **_3 kk Hyvinvointivalmennus 169€/kk (sis. alv)_**  
+* **_3-6 kk Hyvinvointivalmennus 159€/kk (sis. alv)_**  
   Valmennus sisältää:  
-  Alkukartoitus  
-  6 Valmennustapaamista +  
-  Yksilöllinen harjoitusohjelma  
-  Palautumisen ja unen merkitys hyvinvointiin-neuvonta  
-  Ravitsemuksen merkitys hyvinvointiin-neuvonta  
-  Etätuki koko valmennuksen ajan
-* **_6kk Hyvinvointivalmennus 159€/kk (sis. alv)_**  
-  Valmennus sisältää:  
-  Alkukartoitus  
-  12 Valmennustapaamista +  
+  Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
+  6-12 Valmennustapaamista +  
   Yksilöllinen harjoitusohjelma ja sen päivitys  
   Palautumisen ja unen merkitys hyvinvointiin-neuvonta  
   Ravitsemuksen merkitys hyvinvointiin-neuvonta  
   Etätuki koko valmennuksen ajan
-* **_12kk Hyvinvointivalmennus 139€/kk (sis. alv)_**  
+
+* **_7-12kk Hyvinvointivalmennus 139€/kk (sis. alv)_**  
   Valmennus sisältää:  
-  Alkukartoitus  
-  24 Valmennustapaamista +  
+  Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
+  14-24 Valmennustapaamista +  
   Yksilöllinen harjoitusohjelma ja sen päivitykset  
   Palautumisen ja unen merkitys hyvinvointiin-neuvonta  
   Ravitsemuksen merkitys hyvinvointiin-neuvonta  
