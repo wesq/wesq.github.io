@@ -8,13 +8,13 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
+* **1.3. alkamassa FasciaMethod - etävalmennus, lisätietoja tulossa pian**
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
- 
-*  **[Yksilövalmennukseen](/yksilovalmennus) nyt joulukuun ajan JOULUALE; kaikista valmennuksista -10% jos maksat valmennuksen joulukuun aikana.**    
+  
 <p></p>
 
-* **Tammikuun [pienryhmät](/pienryhmatreeni) täynnä.**   
+* **Kevään eloisan kehon [pienryhmät](/pienryhmatreeni) täynnä**   
 
 * **Poikkeusolosuhteet:**
 

@@ -36,7 +36,6 @@ Esimerkkejä valmennuspaketeista ja hinnoista:
   <br/><br/>
 
 #### Hyvinvointivalmennuspaketit:
-[Kurkkaa JOULUALE yksilövalmennuksista!](/kevat2021)
 
 _Kokonaisvaltainen valmennuspaketti muutoksen prosessin tukemisessa sisältäen; tavoitteenasettelu & motivaatio, teot &
 rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen tarkastelu, arjen hyvinvointitapojen
