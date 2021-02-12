@@ -10,3 +10,4 @@ serve.sh
 .DS_Store
 Thumbs.db
 ehthumbs.db
+Gemfile.lock
