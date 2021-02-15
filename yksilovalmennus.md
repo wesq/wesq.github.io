@@ -27,7 +27,7 @@ Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttaa
 
 Esimerkkejä valmennuspaketeista ja hinnoista:
 
-* **_Yksittäinen Kertatapaaminen 75€ (sis. alv)_**  
+* **_Yksittäinen Kertatapaaminen 79€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min.
 * **_3 kerran ohjauspaketti-tarjous 199€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
