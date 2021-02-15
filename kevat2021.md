@@ -8,7 +8,7 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **1.3. alkamassa FasciaMethod - etävalmennus, lisätietoja tulossa pian**
+* **1.3. alkamassa FasciaMethod - etävalmennus, [ilmoittaudu mukaan](/fasciamethod)**
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
   

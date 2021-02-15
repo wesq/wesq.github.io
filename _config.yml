@@ -42,7 +42,7 @@ navbar-links:
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
     - Yksilövalmennus: "yksilovalmennus"
-    - FasciaMethod: "fasciaMethod"
+    - FasciaMethod: "fasciamethod"
     - Pienryhmätreeni: "pienryhmatreeni"
     - Hyvinvointivalmennus pienryhmässä: "hyvinvointivalmennus"
     - Työhyvinvointi: "tyohyvinvointi"
