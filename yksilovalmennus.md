@@ -25,41 +25,43 @@ Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttaa
 * Muutoksen tukemista erilaisin tehtävin ja keskusteluin
 * Jatkuvan etätuen & tilannetsekkauksen säännöllisin väliajoin
 
-Esimerkkejä valmennuspaketeista ja hinnoista:
+Esimerkkejä valmennuspaketeista ja hinnoista (maksaa voit laskulla, sekä yleisimmillä liikuntaeduilla):
 
-* **_Yksittäinen Kertatapaaminen 79€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + ohjaus 60 min.
+* **_Yksittäinen ohjauskerta 79€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + suunnittelu + ohjaus 60 min.  
+  \+ kirjallinen ohjelma asiakkaalle tapaamisen sisällöstä
 * **_3 kerran ohjauspaketti-tarjous 199€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
   Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
-  \+ paketti sisältää myös sinulle yksilöllisesti laaditun ohjelman kirjallisena
+  \+ paketti sisältää myös sinulle yksilöllisesti suunnitellun ohjelman kirjallisena
+  + ohjauspaketit eivät sisällä etätukea
   <br/><br/>
 
 #### Hyvinvointivalmennuspaketit:
 
-_Kokonaisvaltainen valmennuspaketti muutoksen prosessin tukemisessa sisältäen; tavoitteenasettelu & motivaatio, teot &
+_Kokonaisvaltainen valmennuspaketti muutoksen prosessin tukemisessa sisältäen muunmuassa; tavoitteenasettelu & motivaatio, teot &
 rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen tarkastelu, arjen hyvinvointitapojen
-omaksuminen ja oman hyvinvoivan arjen kirkastaminen_
+omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat aina asiakkaan tarpeiden ja toiveiden mukaisesti. Alla olevat paketit ovat esimerkkejä, joista räätälöidään Sinua tukeva kokonaisuus._
 
 * **_3-6 kk Hyvinvointivalmennus 159€/kk (sis. alv)_**  
   Valmennus sisältää:  
-  Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
-  6-12 Valmennustapaamista +  
-  Yksilöllinen harjoitusohjelma ja sen päivitys  
-  Palautumisen ja unen merkitys hyvinvointiin-neuvonta  
-  Ravitsemuksen merkitys hyvinvointiin-neuvonta  
-  Etätuki koko valmennuksen ajan
+  + Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
+  + 6-12 Valmennustapaamista  
+  + Yksilöllinen harjoitusohjelma ja sen päivitys  
+  + Palautumisen ja unen merkitys hyvinvointiin - tarkastelu&neuvonta  
+  + Ravitsemuksen merkitys hyvinvointiin - tarkastelu&neuvonta  
+  + Etätuki koko valmennuksen ajan
 
 * **_7-12kk Hyvinvointivalmennus 139€/kk (sis. alv)_**  
   Valmennus sisältää:  
-  Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
-  14-24 Valmennustapaamista +  
-  Yksilöllinen harjoitusohjelma ja sen päivitykset  
-  Palautumisen ja unen merkitys hyvinvointiin-neuvonta  
-  Ravitsemuksen merkitys hyvinvointiin-neuvonta  
-  Etätuki koko valmennuksen ajan
+  + Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
+  + 14-24 Valmennustapaamista  
+  + Yksilöllinen harjoitusohjelma ja sen päivitykset  
+  + Palautumisen ja unen merkitys hyvinvointiin - tarkastelu&neuvonta  
+  + Ravitsemuksen merkitys hyvinvointiin - tarkastelu&neuvonta  
+  + Etätuki koko valmennuksen ajan
 
-\* _Lisäohjaukset valmennusasiakkaille 45€ / 1h ohjaus (sis. alv)  
+\+  _Lisäohjaukset valmennusasiakkaille 39€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
@@ -71,4 +73,4 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen_
 
 **_Valmennukset räätälöidään aina yksilöllisesti, joten varaa aika ilmaiseen konsultointiin, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi._**
 
-**_Valmennukset voidaan toteuttaa Sipoon ja Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä missä tahansa!_**
+**_Valmennukset voidaan toteuttaa Tuusulan, Järvenpään, Sipoon ja Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä missä tahansa!_**

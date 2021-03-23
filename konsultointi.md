@@ -11,3 +11,5 @@ bigimg: img/a_konsultointi.jpg
 
 Varaa aika ilmaiseen kartoitukseen, joka ei sido sinua vielä mihinkään. Kartoitus voidaan toteuttaa kasvotusten tai puhelimitse. 
 Pohditaan yhdessä olisinko oikea valmentaja, ja minkälainen valmennus sinulle parhaiten sopisi kohti Sinun kokonaisvaltaista hyvinvointia.
+
+Tiesithän, että kaikki elokatsun palvelut voit maksaa laskun lisäksi myös yleisimmillä liikuntaeduilla (Edenred, Smartum, ePassi, eazybreak).

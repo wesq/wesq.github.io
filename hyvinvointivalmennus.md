@@ -61,7 +61,7 @@ TAI kahdessa osassa 315€ + 315€
 TAI kuukausilaskutuksella 66€/kk x10**  
 (hinnat sis. alv)
 
-\* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 45€ / 1h ohjaus esim. liikuntaan/palautumiseen
+\* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 39€ / 1h ohjaus esim. liikuntaan/palautumiseen
 
 **Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.**
 <br/>
