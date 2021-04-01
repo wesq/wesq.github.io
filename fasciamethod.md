@@ -25,7 +25,7 @@ FasciaMethod – etävalmennus tuo treenit kotiisi! Se sisältää 2 kertaa viik
 
 **Valmennus ajalla 19.4.-16.5.2021**<br/>
 **Sisältö:** 2 krt/vko 25-30 minuutin FasciaMethod-ohjaus ( yht. 8x 30min. )<br/>
-**Hinta:** 35€ (sis. alv)
+**Hinta:** 35€ (sis. alv) - maksu laskulla tai liikuntaedulla (Edenred, Smartum, ePassi, eazybreak)
 
 ### Mitä on FasciaMethod?
 
