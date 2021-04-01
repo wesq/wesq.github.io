@@ -30,7 +30,7 @@ Valmennuksessa vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen 
 (Tässä ryhmässä mahdollisuus treenata myös etänä, kysy lisää!)
 
 Valmennus **MAANANTAISIN** ajalla 11.1.-17.5.2021 (EI treenejä 22.2. & 5.4.) **klo 17:30-18:30**  
-Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa)
+Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla)
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -43,7 +43,7 @@ Myllykylän Kylätalolla os. Ryynimyllynkatu 1
 
 Valmennus **TORSTAISIN** ajalla 7.1.-6.5.2021 (EI treeniä 25.2.)  
 **klo 17:00-18:00**  
-Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa)
+Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla)
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  

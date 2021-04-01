@@ -15,17 +15,10 @@ bigimg: img/a_yksilovalmennukset.jpg
 _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi?  
 Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttaa sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika ilmaiseen konsultaatioon, niin voimme yhdessä miettiä, mikä kokonaisuus palvelisi Sinua parhaiten!_
 
-**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, painonhallintaan, palautumisen vahvistamiseen tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen", vaan autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia.**
+**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, painonhallintaan, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita ohjelmaratkaisuja, vaan autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia.**
 
-**VALMENNUKSET SISÄLTÄVÄT:**
 
-* Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi (kasvotusten/puhelimitse)
-* Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)
-* Palautumisen ja ravitsemuksen tarkastelua
-* Muutoksen tukemista erilaisin tehtävin ja keskusteluin
-* Jatkuvan etätuen & tilannetsekkauksen säännöllisin väliajoin
-
-Esimerkkejä valmennuspaketeista ja hinnoista (maksaa voit laskulla, sekä yleisimmillä liikuntaeduilla):
+Esimerkkejä ohjauksista ja valmennuspaketeista, sekä hinnoista (KAIKKI OHJAUKSET JA VALMENNUKSET VOIT MAKSAA LASKUN LISÄKSI MYÖS YLEISIMMILLÄ LIIKUNTAEDUILLA: Edenred, ePassi, Smartum, eazybreak):
 
 * **_Yksittäinen ohjauskerta 79€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + suunnittelu + ohjaus 60 min.  
@@ -34,15 +27,24 @@ Esimerkkejä valmennuspaketeista ja hinnoista (maksaa voit laskulla, sekä yleis
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
   Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
   \+ paketti sisältää myös sinulle yksilöllisesti suunnitellun ohjelman kirjallisena
-  + ohjauspaketit eivät sisällä etätukea
+  + ohjauspaketit eivät sisällä etätukea, kuten pitkäkestoisemmat valmennukset
   <br/><br/>
 
+ 
 #### Hyvinvointivalmennuspaketit:
 
 _Kokonaisvaltainen valmennuspaketti muutoksen prosessin tukemisessa sisältäen muunmuassa; tavoitteenasettelu & motivaatio, teot &
 rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen tarkastelu, arjen hyvinvointitapojen
 omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat aina asiakkaan tarpeiden ja toiveiden mukaisesti. Alla olevat paketit ovat esimerkkejä, joista räätälöidään Sinua tukeva kokonaisuus._
 
+ **VALMENNUKSET SISÄLTÄVÄT:**
+
+* Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi (kasvotusten/puhelimitse)
+* Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)
+* Palautumisen ja ravitsemuksen tarkastelua
+* Muutoksen tukemista erilaisin tehtävin ja keskusteluin
+* Jatkuvan etätuen & tilannetsekkauksen säännöllisin väliajoin
+  <br/><br/>
 * **_3-6 kk Hyvinvointivalmennus 159€/kk (sis. alv)_**  
   Valmennus sisältää:  
   + Alkukartoitus - tavoitteet, toiveet ja suunnittelu  

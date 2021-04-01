@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FasciaMethod
-subtitle: FasciaMethod - etävalmennus suoraan kotiisi 1.-28.3.2021
+subtitle: FasciaMethod - etävalmennus suoraan kotiisi 19.4.-16.5.2021
 
 formspree_comment: true
 comment_teksti: Kysy lisätietoja valmennuksesta
@@ -21,9 +21,9 @@ TUNNE LIIKKEEN VAPAUTTAVA VOIMA KEHOSSASI
 *Etätyön jumiuttama keho? Pitäisi liikkua päivisin, mutta kun..? Kuulostaako tutulta?
 Miltä kuulostaisi säännöllisesti kotiin tulevat liikkuvuusharjoitteet, joissa valmentaja tekee kokoajan mukanasi opastaen ja motivoiden?*
 
-FasciaMethod – etävalmennus tuo treenit kotiisi! Se sisältää 2 kertaa viikossa puolen tunnin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitukset tehdään arkipäivinä livenä lounasaikaan, ja lisäksi ne jäävät tallenteena ryhmään koko valmennuksen ajaksi, voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii. Lisäksi tulen antamaan ryhmässä vinkkejä, ja jakamaan lyhyitä aamu- ja taukojumppia myös näiden kahden valmennuskerran lisäksi.
+FasciaMethod – etävalmennus tuo treenit kotiisi! Se sisältää 2 kertaa viikossa puolen tunnin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitukset tehdään arkipäivinä päiväsaikaan, ja lisäksi ne jäävät tallenteena ryhmään 30.5.2021 asti, voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii.
 
-**Valmennus ajalla 1.3.-28.3.2021**<br/>
+**Valmennus ajalla 19.4.-16.5.2021**<br/>
 **Sisältö:** 2 krt/vko 30 minuutin FasciaMethod-ohjaus ( yht. 8x 30min. )<br/>
 **Hinta:** 35€ (sis. alv)
 
