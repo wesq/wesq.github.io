@@ -21,10 +21,10 @@ TUNNE LIIKKEEN VAPAUTTAVA VOIMA KEHOSSASI
 *Etätyön jumiuttama keho? Pitäisi liikkua päivisin, mutta kun..? Kuulostaako tutulta?
 Miltä kuulostaisi säännöllisesti kotiin tulevat liikkuvuusharjoitteet, joissa valmentaja tekee kokoajan mukanasi opastaen ja motivoiden?*
 
-FasciaMethod – etävalmennus tuo treenit kotiisi! Se sisältää 2 kertaa viikossa puolen tunnin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitukset tehdään arkipäivinä päiväsaikaan, ja lisäksi ne jäävät tallenteena ryhmään 30.5.2021 asti, voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii.
+FasciaMethod – etävalmennus tuo treenit kotiisi! Se sisältää 2 kertaa viikossa puolen tunnin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitukset toteutuvat livenä arkipäivinä päiväsaikaan, ja lisäksi ne jäävät tallenteena ryhmään 30.5.2021 asti. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii.
 
 **Valmennus ajalla 19.4.-16.5.2021**<br/>
-**Sisältö:** 2 krt/vko 30 minuutin FasciaMethod-ohjaus ( yht. 8x 30min. )<br/>
+**Sisältö:** 2 krt/vko 25-30 minuutin FasciaMethod-ohjaus ( yht. 8x 30min. )<br/>
 **Hinta:** 35€ (sis. alv)
 
 ### Mitä on FasciaMethod?
