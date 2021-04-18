@@ -45,7 +45,7 @@ ulkona Myllypuron alueella. (Kovan rankkasateen sattuessa harjoitus tapahtuu et�
 
 Valmennus **TORSTAISIN** ajalla 20.05-22.6.2021 (**poikkeuksena** 22.6. harjoitukset TIISTAINA samalla kellonajalla)  
 **klo 17:00-18:00**  yhteensä 6 harjoitusta.
-**Hinta: 70€** (sis. alv) voidaan maksaa yhdessä laskulla, sekä yleisimmillä liikuntaeduilla.  
+**Hinta: 70€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
 
 
 [ILMOITTAUDU MYLLYPURON RYHMÄÄN TÄSTÄ](https://forms.gle/ShTYed8cURMS3vH96){:target="_blank"} 
