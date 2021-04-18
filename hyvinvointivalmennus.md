@@ -35,7 +35,7 @@ Valmennus sisältää yhteistä liikettä, kehonhuoltoa, palautumisen tukemista,
 RYHMÄ KOKOONTUU NIKKILÄSSÄ, [Sipoon hieronta ja hyvinvointi](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"} tiloissa
 os. Iso Kylätie 9, 2krs. käynti takapihan puolelta. 
 
-Saat yhteensä 23 valmennustapaamista; 18 ryhmätapaamista, 2 webinaaria, 3 henkilökohtaista valmennusta. Lisäksi
+Tässä kymmenen kuukautta kestävässä valmennuksessa saat yhteensä 23 valmennustapaamista; 18 ryhmätapaamista, 2 webinaaria, 3 henkilökohtaista valmennusta. Lisäksi
 ryhmän tuki, sekä jatkuva etätuki valmentajan kanssa antaa sinulle paljon lisäbuustia matkallesi.
 
 **Valmennustapaamiset JOKA TOINEN VIIKKO 1,5h sisältäen:**

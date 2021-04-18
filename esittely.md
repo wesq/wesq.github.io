@@ -31,8 +31,8 @@ Kun olen alkanut kyseenalaistamaan tämän omassa elämässäni, kuulla itseäni
 **Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, tekniikka edellä liikkeen ohjaaminen, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin merkitys arjessa.**
 
 
-Koulutukseltani olen **lähihoitaja** ja **hyvinvointivalmentaja** (hyvinvointivalmentajan opinnot (Riveria) on sisältynyt hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta).
-**Lisäksi olen lukenut** avoimessa yliopistossa **ravitsemustieteen, sekä liikuntapsykologian perusopinnot**. Olen myös kouluttanut itseäni mm. **PowerMethod-valmentaja**ksi, sekä **Äitiysliikunnan ohjaaja**ksi. Koulutan jatkuvasti itseäni oppiakseni uutta, tällä hetkellä opiskelen **palautumisen valmentajaksi**. Tammikuussa 2021 suuntaan jälleen vakituisesti koulun penkille, kun lähden opiskelemaan itselleni liikunnan ammattitutkintoa - **liikuntaneuvoja**.
+**Koulutukseltani** olen **lähihoitaja** ja **hyvinvointivalmentaja** (hyvinvointivalmentajan opinnot (Riveria) on sisältynyt hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta).
+**Lisäksi olen lukenut** avoimessa yliopistossa **ravitsemustieteen, sekä liikuntapsykologian perusopinnot**. Olen myös lisäkouluttanut itseäni mm. **PowerMethod- ja FasciaMethod-valmentaja**ksi, sekä **Äitiysliikunnan ohjaaja**ksi. Koulutan jatkuvasti itseäni oppiakseni uutta, ja tällä hetkellä opiskelen Kisakallion urheiluopistossa liikunnan ammattitutkintoa; **liikuntaneuvoja**, sekä kouluttaudun samalla **Personaltraineriksi**.
 <br>
 <br>
 ![Valmentaja](/img/valmentajasi.jpg "Valmentaja"){: .image-right :}

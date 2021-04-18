@@ -4,7 +4,7 @@ title: Pienryhmä&shy;treenit
 subtitle: Liikunnan iloa omaa kehoa kuunnellen
 bigimg: img/a_eloisakeho.jpg
 formspree_comment: true
-comment_teksti: 'Ilmoittaudu mukaan pienryhmä&shy;treeneihin:'
+comment_teksti: 'Kysy lisää eloisan kehon valmennuksesta:'
 
 ---
 ### **Eloisan kehon pienryhmä­valmennus**  tuo arkeesi liikunnan iloa omaa kehoa kuunnellen
@@ -21,29 +21,34 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 ![pienryhmä](/img/pienryhmatreenit_3.jpg "Eloisan kehon pienryhmätreenit"){: .image-right :}
 
-Valmennuksessa vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmävalmennus ja ryhmiin otetaan max. 9 osallistujaa. <br/><br/>
+Valmennuksessa vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmävalmennus ja ryhmiin otetaan max. 9 osallistujaa.  <br/><br/>
 
-![Pienryhmätreeni](/img/Nikkila_treeni.jpg "Nikkilän pienryhmä"){: .image-left :}
+**KESÄN ULKOTREENIRYHMÄT OVAT TÄÄLLÄ JA ALKAVAT TOUKOKUUSSA, ILMOITTAUDU MUKAAN!** <br/><br/>
 
-**_SIPOON NIKKILÄN RYHMÄ_**
-[Sipoon hieronta ja hyvinvointi](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"}-tiloissa os. Iso Kylätie 9, 2krs. käynti takapihan puolelta  
-(Tässä ryhmässä mahdollisuus treenata myös etänä, kysy lisää!)
+![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "Kellokosken pienryhma"){: .image-left :}
 
-Valmennus **MAANANTAISIN** ajalla 11.1.-17.5.2021 (EI treenejä 22.2. & 5.4.) **klo 17:30-18:30**  
-Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla)
+**_TUUSULAN KELLOKOSKEN RYHMÄ_**
+ulkona Kellokosken alueella. (Kovan rankkasateen sattuessa harjoitus tapahtuu etänä Google meetin välityksellä.)
+
+Valmennus **KESKIVIIKKOISIN** ajalla 12.5.-23.6.2021 **klo 17:30-18:30**  yhteensä 7 harjoitusta.
+**Hinta: 80€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
+
+ 
+[ILMOITTAUDU KELLOKOSKEN RYHMÄÄN TÄSTÄ](https://forms.gle/LUdCexmwcE6TmzJV7){:target="_blank"} 
 <br/><br/>
 <br/><br/>
 <br/><br/>
 ![Pienryhmätreeni](/img/myllypuro.jpg "Myllypuron pienryhmä"){: .image-right :}
 
 ***HELSINGIN MYLLYPURON RYHMÄ***
-Myllykylän Kylätalolla os. Ryynimyllynkatu 1  
-(Tämä ryhmä treenaa paljon myös ulkona, silloin kun olemme sisällä, on mahdollisuus osallistua treeniin myös etänä, kysy lisää!)
+ulkona Myllypuron alueella. (Kovan rankkasateen sattuessa harjoitus tapahtuu etänä Google meetin välityksellä.)
+
+Valmennus **TORSTAISIN** ajalla 20.05-22.6.2021 (**poikkeuksena** 22.6. harjoitukset TIISTAINA samalla kellonajalla)  
+**klo 17:00-18:00**  yhteensä 6 harjoitusta.
+**Hinta: 70€** (sis. alv) voidaan maksaa yhdessä laskulla, sekä yleisimmillä liikuntaeduilla.  
 
 
-Valmennus **TORSTAISIN** ajalla 7.1.-6.5.2021 (EI treeniä 25.2.)  
-**klo 17:00-18:00**  
-Hinta: 198€ (sis. alv) (voidaan maksaa yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla)
+[ILMOITTAUDU MYLLYPURON RYHMÄÄN TÄSTÄ](https://forms.gle/ShTYed8cURMS3vH96){:target="_blank"} 
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  

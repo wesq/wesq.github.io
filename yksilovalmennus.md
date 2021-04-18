@@ -22,7 +22,7 @@ Esimerkkejä ohjauksista ja valmennuspaketeista, sekä hinnoista (KAIKKI OHJAUKS
 
 * **_Yksittäinen ohjauskerta 79€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + suunnittelu + ohjaus 60 min.  
-  \+ kirjallinen ohjelma asiakkaalle tapaamisen sisällöstä
+  \+ kirjallinen ohje asiakkaalle tapaamisen sisällöstä
 * **_3 kerran ohjauspaketti-tarjous 199€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
   Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
