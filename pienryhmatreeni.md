@@ -21,7 +21,7 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 ![pienryhmä](/img/pienryhmatreenit_3.jpg "Eloisan kehon pienryhmätreenit"){: .image-right :}
 
-Valmennuksessa vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmävalmennus ja ryhmiin otetaan max. 9 osallistujaa.  <br/><br/>
+Valmennuksessa vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmävalmennus, ja ryhmissä on 9-10 paikkaa riippuen ryhmästä.  <br/><br/>
 
 **KESÄN ULKOTREENIRYHMÄT OVAT TÄÄLLÄ JA ALKAVAT TOUKOKUUSSA, ILMOITTAUDU MUKAAN!** <br/><br/>
 
