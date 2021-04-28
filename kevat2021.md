@@ -8,7 +8,7 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **Eloisan kehon KESÄN RYHMÄT ovat nyt julki! Lue lisää ja [ilmoittaudu ryhmiin](/pienryhmatreeni)**
+* **Eloisan kehon KESÄN RYHMÄT OVAT TÄYTTYNEET! Lue lisää ja [ilmoittaudu ryhmiin](/pienryhmatreeni)**
 * **19.4. alkamassa FasciaMethod - etävalmennus, vielä ehdit [ilmoittautua mukaan](/fasciamethod)**
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
