@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FasciaMethod
-subtitle: FasciaMethod - etävalmennus suoraan kotiisi 19.4.-16.5.2021
+subtitle: FasciaMethod - kesän etävalmennus 1.-24.6.2021
 
 formspree_comment: true
 comment_teksti: Kysy lisätietoja valmennuksesta
@@ -9,7 +9,7 @@ comment_teksti: Kysy lisätietoja valmennuksesta
 bigimg: img/FaMe.kansikuva.jpg
 ---
 
-### Valmennus tuo kotiisi kehonhuoltomenetelmän, joka huoltaa etätyön jumiuttamaa kehoasi lempeästi.
+### Valmennus tuo sinulle kehonhuoltomenetelmän, joka huoltaa ja vahvistaa kehoasi lempeästi.
 <p></p>
 <p class="otsikkolistapalkki">
 TUNNE LIIKKEEN VAPAUTTAVA VOIMA KEHOSSASI
@@ -18,14 +18,14 @@ TUNNE LIIKKEEN VAPAUTTAVA VOIMA KEHOSSASI
 ![fasciamethod](/img/Fame.mainoskuva.jpg "FasciaMethod"){: .image-right :}
 
 
-*Etätyön jumiuttama keho? Pitäisi liikkua päivisin, mutta kun..? Kuulostaako tutulta?
+*Kankea ja vetämätön olo? Pitäisi liikkua päivisin, mutta kun..? Kuulostaako tutulta?
 Miltä kuulostaisi säännöllisesti kotiin tulevat liikkuvuusharjoitteet, joissa valmentaja tekee kokoajan mukanasi opastaen ja motivoiden?*
 
-FasciaMethod – etävalmennus tuo treenit kotiisi! Se sisältää 2 kertaa viikossa puolen tunnin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitukset toteutuvat livenä arkipäivinä päiväsaikaan, ja lisäksi ne jäävät tallenteena ryhmään 30.5.2021 asti. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii.
+FasciaMethod – kesän etävalmennus tuo treenit kotiisi tai vaikka mökin laiturille! Se sisältää yhden kerran viikossa puolen tunnin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitukset toteutuvat livenä arkipäivinä päiväsaikaan, ja lisäksi ne jäävät tallenteena ryhmään 31.7.2021 asti. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii.
 
-**Valmennus ajalla 19.4.-16.5.2021**<br/>
-**Sisältö:** 2 krt/vko 25-30 minuutin FasciaMethod-ohjaus ( yht. 8x 30min. )<br/>
-**Hinta:** 35€ (sis. alv) - maksu laskulla tai liikuntaedulla (Edenred, Smartum, ePassi, eazybreak)
+**Valmennus ajalla 1.-24.6.2021** + tallenteet katsottavissa 31.7. asti <br/>
+**Sisältö:** 1 krt/vko 25-30 minuutin FasciaMethod-ohjaus ( yht. 4x 30min. )<br/>
+**Hinta:** 20€ (sis. alv) - maksu Mobilepaylla tai liikuntaedulla (Edenred, Smartum, ePassi, eazybreak)
 
 ### Mitä on FasciaMethod?
 
@@ -42,4 +42,4 @@ Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää 
 
 Harjoituksia varten tarvitset pitkän kuminauhan, sekä mieluiten kovan fasciapallon, mutta myös tennispallo käy. Halutessasi voit ostaa minulta fasciapallon hintaan 11€ (sis. alv).
 
-[ILMOITTAUDU VALMENNUKSEEN TÄTÄ LINKKIÄ PAINAMALLA](https://docs.google.com/forms/d/1P4zxux0-86QEDK6iB8QBYtDsfWQjuVUOGPLx-oXckcQ/){:target="_blank"} 
+[ILMOITTAUDU VALMENNUKSEEN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/PmNj6ZDVsE86KkXw5){:target="_blank"} 

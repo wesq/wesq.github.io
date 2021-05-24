@@ -8,8 +8,10 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **Eloisan kehon KESÄN RYHMÄT OVAT TÄYTTYNEET! Lue lisää ja [ilmoittaudu ryhmiin](/pienryhmatreeni)**
-* **19.4. alkamassa FasciaMethod - etävalmennus, vielä ehdit [ilmoittautua mukaan](/fasciamethod)**
+* **1.6. alkamassa FasciaMethod - etävalmennus, vielä ehdit [ilmoittautua mukaan](/fasciamethod)**  
+* **Tiedätkö miten palaudut arjessasi? Osaatko rytmittää treenisi järkevästi? Firstbeat-Hyvinvointianalyysi ja minä voimme auttaa sinua, [tutustu Firstbeat-Hyvinvointianalyysiin](/firstbeat)**  
+
+* **Eloisan kehon syyskausi starttaa elokuussa Myllypurossa & Kellokoskella, lisätietoja aikatauluista tulossa pian! [Tästä voit tutustua eloisan kehon käynnissä oleviin ryhmiin](/pienryhmatreeni)**
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
   
@@ -18,13 +20,12 @@ bigimg: img/a_syksy.jpg
 
 * **Poikkeusolosuhteet:**
 
-Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. 2020 syksyllä pienryhmätreenit on järjestetty pääosin ulkona, tai sisätreeneissä on ollut mahdollista olla myös livenä virtuaalisesti mukana. Joustavat tavat harrastaa tulevat jatkumaan myös 2021 keväällä vallitseva tilanne huomioiden.  
-Tulethan valmennuksiin vain täysin terveenä ja huomioit suositukset.  
+Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Vallitsevassa maailmantilanteessa pienryhmätreenit on järjestetty pääosin ulkona, tai sisätreeneissä on ollut mahdollista olla myös livenä virtuaalisesti mukana. Joustavat tavat harrastaa tulevat jatkumaan elokatsun yksilöasiakkaiden ja pienryhmien osalta myös syksyllä 2021. Tulethan valmennuksiin vain täysin terveenä.  
 
 
 <br/>
 * **Eloisan kehon _pienryhmä­valmennus_** tuo arkeesi liikunan iloa omaa kehoa kuunnellen.
-<p class="otsikkolistapalkki">
+<p class="otsikkolistapalkki">  
 ELOISA KEHO ON VAHVA, LIIKKUVA JA ENERGINEN
 </p>
 Eloisan kehon pienryhmätreenit on sinulle, joka kaipaat arkeesi hyvän mielen liikuntaa rennommalla otteella. Liikkeitä harjoitellaan tekniikka edellä omaa kehoa kuunnellen, tule juuri sellaisena kuin olet.  
