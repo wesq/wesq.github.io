@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kevät 2021
+title: Syksy 2021
 subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: 'Varaa paikkasi valmennukseen! Kerro viestissäsi mihin ilmoittaudut:'
@@ -8,10 +8,9 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **1.6. alkamassa FasciaMethod - etävalmennus, vielä ehdit [ilmoittautua mukaan](/fasciamethod)**  
 * **Tiedätkö miten palaudut arjessasi? Osaatko rytmittää treenisi järkevästi? Firstbeat-Hyvinvointianalyysi ja minä voimme auttaa sinua, [tutustu Firstbeat-Hyvinvointianalyysiin](/firstbeat)**  
 
-* **Eloisan kehon syyskausi starttaa elokuussa Myllypurossa & Kellokoskella, lisätietoja aikatauluista tulossa pian! [Tästä voit tutustua eloisan kehon käynnissä oleviin ryhmiin](/pienryhmatreeni)**
+* **Eloisan kehon syyskausi starttaa elokuussa Myllypurossa & Kellokoskella, ilmoittautuminen alkaa pian! [Tästä voit tutustua eloisan kehon ryhmiin](/pienryhmatreeni)**
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
   
