@@ -34,7 +34,7 @@ Valmennus **MAANANTAISIN** ajalla 9.8.-29.11.2021 **klo 17:30-18:30**  yhteensä
 **Hinta: 186€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
 
  
-[ILMOITTAUTUMINEN ALKAA 21.6.](https://forms.gle/LUdCexmwcE6TmzJV7){:target="_blank"} 
+[ILMOITTAUDU KELLOKOSKEN PIENRYHMÄÄN TÄSTÄ](https://forms.gle/7mdXJyi4EQj7ecMs9){:target="_blank"} 
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -47,7 +47,7 @@ Valmennus **TORSTAISIN** ajalla 12.8.-16.12.2021 **klo 17:00-18:00**  yhteensä 
 **Hinta: 198€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
 
 
-[ILMOITTAUTUMINEN ALKAA 21.6.](https://forms.gle/ShTYed8cURMS3vH96){:target="_blank"} 
+[ILMOITTAUDU MYLLYPURON PIENRYHMÄÄN TÄSTÄ](https://forms.gle/mtntqhB2wxSdSxtH8){:target="_blank"} 
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  

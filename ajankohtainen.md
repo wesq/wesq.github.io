@@ -10,7 +10,7 @@ bigimg: img/a_syksy.jpg
 ---
 * **Tiedätkö miten palaudut arjessasi? Osaatko rytmittää treenisi järkevästi? Firstbeat-Hyvinvointianalyysi ja minä voimme auttaa sinua, [tutustu Firstbeat-Hyvinvointianalyysiin](/firstbeat)**  
 
-* **Eloisan kehon syyskausi starttaa elokuussa Myllypurossa & Kellokoskella, ilmoittautuminen alkaa pian! [Tästä voit tutustua eloisan kehon ryhmiin](/pienryhmatreeni)**
+* **Eloisan kehon syyskausi starttaa elokuussa Myllypurossa & Kellokoskella, ilmoittautuminen alkaa 21.6. [Tästä voit tutustua eloisan kehon ryhmiin](/pienryhmatreeni)**
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
   
