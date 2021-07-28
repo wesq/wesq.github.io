@@ -15,8 +15,10 @@ bigimg: img/a_yksilovalmennukset.jpg
 _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi?  
 Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttaa sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika ilmaiseen konsultaatioon, niin voimme yhdessä miettiä, mikä kokonaisuus palvelisi Sinua parhaiten!_
 
+![Yksilövalmennus](/img/yksilo_ohjaus.jpg "Yksilövalmennus"){: .image-right :}
 **Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, painonhallintaan, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita ohjelmaratkaisuja, vaan autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia.**
 
+<br/>
 
 Esimerkkejä ohjauksista ja valmennuspaketeista, sekä hinnoista (KAIKKI OHJAUKSET JA VALMENNUKSET VOIT MAKSAA LASKUN LISÄKSI MYÖS YLEISIMMILLÄ LIIKUNTAEDUILLA: Edenred, ePassi, Smartum, eazybreak):
 

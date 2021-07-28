@@ -42,4 +42,4 @@ Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää 
 
 Harjoituksia varten tarvitset pitkän kuminauhan, sekä mieluiten kovan fasciapallon, mutta myös tennispallo käy. Halutessasi voit ostaa minulta fasciapallon hintaan 11€ (sis. alv).
 
-[ILMOITTAUDU VALMENNUKSEEN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/PmNj6ZDVsE86KkXw5){:target="_blank"} 
+[ILMOITTAUDU VALMENNUKSEEN TÄTÄ TEKSTILINKKIÄ PAINAMALLA (aukeaa erillinen ilmoittautumiskaavake)](https://forms.gle/PmNj6ZDVsE86KkXw5){:target="_blank"} 

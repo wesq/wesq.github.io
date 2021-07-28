@@ -45,6 +45,7 @@ navbar-links:
     - FasciaMethod: "fasciamethod"
     - Pienryhmätreeni: "pienryhmatreeni"
     - Hyvinvointivalmennus pienryhmässä: "hyvinvointivalmennus"
+    - Yksityistunnit: "yksityistunnit"
     - Työhyvinvointi: "tyohyvinvointi"
     - Firstbeat-mittaus: "firstbeat"
     - Yhteistyö: "yhteistyo"
@@ -55,8 +56,9 @@ navbar-links:
     - Syksy 2021: "ajankohtainen"
   Yhteys: 
     - Ota yhteyttä: "ota_yhteytta"
-    - Ilmainen konsultointi: "konsultointi"
     - Palautteet: "palaute"
+  Blogi: "blogi"
+
   #Valmennusehdot: "valmennusehdot"
   #Kauppa: "kauppa"
   #Facebook: "https://facebook.com/elokatsu"
