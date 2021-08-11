@@ -10,8 +10,7 @@ comment_teksti: Haluatko kommentoida blogitekstiä?
 
 
 
-Pimenevät illat ja viileä tuuli, se on syksy kolkuttelemassa taas ovella. Hyvinvointialalla on jälleen kulta-aikaa sille, että “jotain tarttis tehdä” kesän jälkeen. Harrastus on ehkä ollut tauolla ja on tullut syötyä vähän sitä sun tätä, ja nyt on “otettava itseä niskasta kiinni” ja tehtävä totaalinen ryhtiliike. “Salitreenit neljä kertaa viikossa, pari peruskestävyyslenkkiä, kehonhuoltoa vähintään 
-kerta viikkoon ja ruokailut tietty tiukasti taas kuntoon, tällä lähtee!” Kuulostaako tutulta?
+Pimenevät illat ja viileä tuuli, se on syksy kolkuttelemassa taas ovella. On otollinen aika sille, että “jotain tarttis tehdä” kesän jälkeen. Harrastus on ehkä ollut tauolla ja on tullut syötyä vähän sitä sun tätä, ja nyt on “otettava itseä niskasta kiinni” ja tehtävä totaalinen ryhtiliike. “Salitreenit neljä kertaa viikossa, pari peruskestävyyslenkkiä, kehonhuoltoa vähintään kerta viikkoon ja ruokailut tietty tiukasti taas kuntoon, tällä lähtee!” Kuulostaako tutulta?
 
 Muu arki rullaa taustalla ja parin viikon päästä alkaa uuvuttamaan, joten lyödään hanskat tiskiin ajatuksella “ei musta vaan ollut tähän, olenpa mä huono”. Kuulostaako edelleen tutulta? Entä jos ongelma ei olekaan siinä, että susta ei ole siihen, tai sulla ei ole riittävästi itsekuria? Oletko koskaan miettinyt, että mitä jos ongelma onkin siinä tavassa tehdä muutosta? Hyvinvointia ei tarvitse suorittaa, usein se tulee vähemmällä.
 
@@ -19,7 +18,7 @@ Muu arki rullaa taustalla ja parin viikon päästä alkaa uuvuttamaan, joten ly�
 >>>**"Hyvinvointia saa usein vähemmälläkin."**
 
 
-Ei ole lainkaan ihme, että pelkkä ajatus muutoksen tekemisestä alkaa uuvuttaa ja hengästyttää, jos koko paketti pitäisi laittaa kerralla uusiksi. Sehän on aivan valtava muutos! Netti on myös pullollaan toinen toistaan hienompia valmennuksia ajatuksella “elämäntapamuutos 8 viikossa”. Itse lähinnä pohdin, miten ihmeessä kenenkään keho ja mieli voisi ehtiä tuollaiseen valmennukseen mukaan. Samaan aikaan kuitenkin tiedämme, että uusien rutiinien muodostumiseen vaaditaan roimasti toistoja.
+Ei ole lainkaan ihme, että pelkkä ajatus muutoksen tekemisestä alkaa uuvuttaa ja hengästyttää, jos koko paketti pitäisi laittaa kerralla heti uusiksi. Tahdonvoima kun ei ole mikään ehtymätön virta, josta riittää aina vaan. Kuten lihas, sekin väsyy. Netti on myös pullollaan toinen toistaan houkuttelevampia lupauksia ajatuksella “elämäntapamuutos 8 viikossa”. Itse lähinnä pohdin, miten ihmeessä kenenkään keho ja mieli voisi ehtiä tuollaiseen ralliin mukaan. Samaan aikaan kuitenkin tiedämme, että uusien rutiinien muodostumiseen vaaditaan roimasti toistoja.
 
 
 #### Pienet teot kantavat muuttuvan arjen keskellä
