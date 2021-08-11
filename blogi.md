@@ -1,6 +1,6 @@
 ---
 layout: home
-title: elokatsu blog
+title: elokatsu blogi
 subtitle: Hyvinvointia lempeydellä
 bigimg: img/a_elokatsu_blog.jpg
 ---
