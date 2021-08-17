@@ -18,4 +18,6 @@ Voin tarjota yrityksellenne mm. Firstbeat-mittauksia palautumisen tukemisen näk
 
 *Ota yhteyttä niin räätälöidään yhdessä teille sopiva paketti!*  
 <br/>
+**_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
+[Lue elokatsun valmennusehdot tästä](/valmennusehdot)
 

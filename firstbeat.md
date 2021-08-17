@@ -26,3 +26,6 @@ Tutustu [täältä](https://www.firstbeat.com/fi/tyo-ja-hyvinvointi/hyvinvointia
 
 <img src="/img/firstbeat_logo.jpg" alt="Firstbeat" width="400" class="center-block"/> 
 
+**_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
+[Lue elokatsun valmennusehdot tästä](/valmennusehdot)
+

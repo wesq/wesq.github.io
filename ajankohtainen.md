@@ -10,7 +10,7 @@ bigimg: img/a_syksy.jpg
 ---
 * **Tiedätkö miten palaudut arjessasi? Osaatko rytmittää treenisi järkevästi? Firstbeat-Hyvinvointianalyysi ja minä voimme auttaa sinua, [tutustu Firstbeat-Hyvinvointianalyysiin](/firstbeat)**  
 
-* **Eloisan kehon syyskausi starttaa elokuussa Myllypurossa & Kellokoskella, ilmoittautuminen alkaa 21.6. [Ilmoittaudu mukaan!](/pienryhmatreeni)**
+* **Eloisan kehon syyskausi on startannut Myllypurossa & Kellokoskella. Kellokosken ryhmässä vielä tilaa. [Ilmoittaudu mukaan!](/pienryhmatreeni)**
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
   
@@ -19,7 +19,8 @@ bigimg: img/a_syksy.jpg
 
 * **Poikkeusolosuhteet:**
 
-Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Vallitsevassa maailmantilanteessa pienryhmätreenit on järjestetty pääosin ulkona, tai sisätreeneissä on ollut mahdollista olla myös livenä virtuaalisesti mukana. Joustavat tavat harrastaa tulevat jatkumaan elokatsun yksilöasiakkaiden ja pienryhmien osalta myös syksyllä 2021. Tulethan valmennuksiin vain täysin terveenä.  
+Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Vallitsevassa maailmantilanteessa pienryhmätreenit on järjestetty pääosin ulkona, tai sisätreeneissä on ollut mahdollista olla myös livenä virtuaalisesti mukana. Joustavat tavat harrastaa tulevat jatkumaan elokatsun yksilöasiakkaiden ja pienryhmien osalta myös syksyllä 2021. Tulethan valmennuksiin vain täysin terveenä.
+[Tutustu myös toiminnan ehtoihin tästä](/valmennusehdot)  .
 
 
 <br/>

@@ -23,12 +23,12 @@ Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttaa
 Esimerkkejä ohjauksista ja valmennuspaketeista, sekä hinnoista (KAIKKI OHJAUKSET JA VALMENNUKSET VOIT MAKSAA LASKUN LISÄKSI MYÖS YLEISIMMILLÄ LIIKUNTAEDUILLA: Edenred, ePassi, Smartum, eazybreak):
 
 * **_Yksittäinen ohjauskerta 79€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + suunnittelu + ohjaus 60 min.  
+  Sisältää: alkukartoitus 30 min. (1.kerralla) + suunnittelu + ohjaus 60 min.  
   \+ kirjallinen ohje asiakkaalle tapaamisen sisällöstä
 * **_3 kerran ohjauspaketti-tarjous 199€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
-  Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
-  \+ paketti sisältää myös sinulle yksilöllisesti suunnitellun ohjelman kirjallisena
+  Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (treeni/hyvinvoiva keho, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
+  \+ paketti sisältää kirjallisen ohjeen asiakkaalle tapaamisen sisällöstä
   + ohjauspaketit eivät sisällä etätukea, kuten pitkäkestoisemmat valmennukset
   <br/><br/>
 
@@ -69,7 +69,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 (esim. ohjattuja treenejä lisää)_
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
-[Lue valmennusehdot](/valmennusehdot)
+[Lue valmennusehdot tästä](/valmennusehdot)
 
 ![yksilovalmennus](/img/yksilovalmennus_1.jpg "Yksilövalmennus"){: .center-block :}
 

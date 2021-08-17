@@ -21,3 +21,6 @@ Tulen myös luoksesi, tai autan sinua löytämään sopivan tilan, palvelu ja hi
 **_Paritreenit, perhetreenit, polttarit ja muut yksityistunnit_**
 
 Voit myös suunnitella kanssani yksityistunnin täysin omiin tarpeisiisi. Treenit puolison tai perheen kesken, tai vaikka unohtumattomat aikuisten synttärit tai polttarit, jossa liikunnallista aktiviteettia. Studio tarjoaa hyvät puitteet, ja mieluisan aktiviteetin kanssa räätälöimme yhdessä toimivan paketin mm. lempeää kehonhuoltoa tai toiminnallista harjoittelua. Kysy mahdollisuutta myös ulkona tapahtuville yksityistunneille!
+
+**_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
+[Lue ryhmien valmennusehdot tästä](/valmennusehdot)
