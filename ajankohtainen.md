@@ -10,7 +10,7 @@ bigimg: img/a_syksy.jpg
 ---
 * **Tiedätkö miten palaudut arjessasi? Osaatko rytmittää treenisi järkevästi? Firstbeat-Hyvinvointianalyysi ja minä voimme auttaa sinua, [tutustu Firstbeat-Hyvinvointianalyysiin](/firstbeat)**  
 
-* **Eloisan kehon syyskausi on startannut Myllypurossa & Kellokoskella. Kellokosken ryhmässä vielä tilaa. [Ilmoittaudu mukaan!](/pienryhmatreeni)**
+* **Uusi FasciaMethod ETÄvalmennus starttaa taas syyskuussa. [Ilmoittaudu mukaan!](/fasciamethod)**
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
   

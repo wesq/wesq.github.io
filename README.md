@@ -1,1 +1,2 @@
-# This site is under construction
+# elokatsu -- Hyvinvointia lempeydellä!
+
