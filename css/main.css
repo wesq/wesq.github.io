@@ -187,6 +187,11 @@ img {
     margin-top: 10px;
     margin-bottom: 10px;
   }
+  .image-center{
+    width: 50%; 
+    display: table;
+    margin: auto;
+  }
 }
 
 .navbar-custom .avatar-container {

@@ -13,10 +13,10 @@ bigimg: img/a_yksilovalmennukset.jpg
 <p class="otsikkolistapalkki">HYVÄÄ OLOA & ENERGIAA ARKEESI</p>
 
 _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi?  
-Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttaa sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika ilmaiseen konsultaatioon, niin voimme yhdessä miettiä, mikä kokonaisuus palvelisi Sinua parhaiten!_
+Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika ilmaiseen konsultaatioon, niin voimme yhdessä miettiä, mikä kokonaisuus palvelisi Sinua parhaiten!_
 
 ![Yksilövalmennus](/img/yksilo_ohjaus.jpg "Yksilövalmennus"){: .image-right :}
-**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, painonhallintaan, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita ohjelmaratkaisuja, vaan autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia.**
+**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita ohjelmaratkaisuja. Autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Muutoksen tekemisessä autan sinua pohtimaan mikä sinulle on tärkeää, mitkä valinnat ylläpitävät hyvinvointiasi, ja mistä tavoista olisi hyvä luopua. Muutos vaatii aina myös luopumista, ja näitäkin teemoja käsittelemme hyvinvointivalmennuksissa. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia.**
 
 <br/>
 
@@ -52,8 +52,8 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
   + Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
   + 6-12 Valmennustapaamista  
   + Yksilöllinen harjoitusohjelma ja sen päivitys  
-  + Palautumisen ja unen merkitys hyvinvointiin - tarkastelu&neuvonta  
-  + Ravitsemuksen merkitys hyvinvointiin - tarkastelu&neuvonta  
+  + Palautumisen ja unen merkitys hyvinvointiin - tarkastelu/neuvonta  
+  + Ravitsemuksen merkitys hyvinvointiin - tarkastelu/neuvonta  
   + Etätuki koko valmennuksen ajan
 
 * **_7-12kk Hyvinvointivalmennus 139€/kk (sis. alv)_**  
@@ -61,8 +61,8 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
   + Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
   + 14-24 Valmennustapaamista  
   + Yksilöllinen harjoitusohjelma ja sen päivitykset  
-  + Palautumisen ja unen merkitys hyvinvointiin - tarkastelu&neuvonta  
-  + Ravitsemuksen merkitys hyvinvointiin - tarkastelu&neuvonta  
+  + Palautumisen ja unen merkitys hyvinvointiin - tarkastelu/neuvonta  
+  + Ravitsemuksen merkitys hyvinvointiin - tarkastelu/neuvonta  
   + Etätuki koko valmennuksen ajan
 
 \+  _Lisäohjaukset valmennusasiakkaille 39€ / 1h ohjaus (sis. alv)  
