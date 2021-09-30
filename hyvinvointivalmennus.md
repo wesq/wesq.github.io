@@ -25,7 +25,7 @@ työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä 
 !["Hyvinvointivalmennus"](/img/uusilempeaelo-hyvinvointivalmennus.jpg "Uusi lempeä elo - hyvinvointivalmennus"){: .image-right :}
 **Tavoitteena on löytää Sinua tukeva kokonaisuus, jotta sinä voit voida paremmin.
 Omat tavoitteesi muutoksen suhteen ovat keskiössä.** Teemme matkaa yhdessä, mutta jokainen omista tavoitteistaan käsin.
-Valmennus sisältää yhteistä liikettä, kehonhuoltoa, palautumisen tukemista, ravinnon merkitystä, henkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisempää tukea tarjotakseni otan ryhmään vain max. 6 osallistujaa.
+Valmennus sisältää yhteistä liikettä, kehonhuoltoa, palautumisen tukemista, ravinnon merkitystä, henkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisempää tukea tarjotakseni otan ryhmään vain max. 8 osallistujaa.
 <br/><br/>
 !["Uusi lempeä elo"](/img/uusilempeaelo4.jpg "Rentoutuminen"){: .center-block :}
 > Pysähtymisen & rentoutumisen kautta lisää hyvinvointia.  
@@ -46,7 +46,7 @@ ryhmän tuki, sekä jatkuva etätuki valmentajan kanssa antaa sinulle paljon lis
 - Ryhmän oma alusta Facebookissa tai WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle matkan aikana
 
 
-- Henkilökohtaiset valmennustapaamiset 60 min. x3 yhdessä sovittuna aikana:  
+- Henkilökohtaiset valmennustapaamiset 45 min. x3 yhdessä sovittuna aikana:  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma  
     - Omien tavoitteiden tarkastelua ja matkan jatkumista  
@@ -56,12 +56,10 @@ ryhmän tuki, sekä jatkuva etätuki valmentajan kanssa antaa sinulle paljon lis
 
 
 
-**HINTA: 599€ kertamaksulla  
-TAI kahdessa osassa 315€ + 315€  
-TAI kuukausilaskutuksella 66€/kk x10**  
+**HINTA: PÄIVITTYMÄSSÄ    
 (hinnat sis. alv) Voit maksaa myös yleisimmillä liikuntaeduilla.
 
-\* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 39€ / 1h ohjaus esim. liikuntaan/palautumiseen
+\* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 64€ / 1h ohjaus esim. liikuntaan/palautumiseen
 
 **Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.**
 <br/>

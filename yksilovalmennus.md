@@ -19,18 +19,8 @@ Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttam
 **Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita ohjelmaratkaisuja. Autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Muutoksen tekemisessä autan sinua pohtimaan mikä sinulle on tärkeää, mitkä valinnat ylläpitävät hyvinvointiasi, ja mistä tavoista olisi hyvä luopua. Muutos vaatii aina myös luopumista, ja näitäkin teemoja käsittelemme hyvinvointivalmennuksissa. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia.**
 
 <br/>
+KAIKKI OHJAUKSET JA VALMENNUKSET VOIT MAKSAA LASKUN LISÄKSI MYÖS YLEISIMMILLÄ LIIKUNTAEDUILLA: Edenred, ePassi, Smartum, eazybreak.
 
-Esimerkkejä ohjauksista ja valmennuspaketeista, sekä hinnoista (KAIKKI OHJAUKSET JA VALMENNUKSET VOIT MAKSAA LASKUN LISÄKSI MYÖS YLEISIMMILLÄ LIIKUNTAEDUILLA: Edenred, ePassi, Smartum, eazybreak):
-
-* **_Yksittäinen ohjauskerta 79€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. (1.kerralla) + suunnittelu + ohjaus 60 min.  
-  \+ kirjallinen ohje asiakkaalle tapaamisen sisällöstä
-* **_3 kerran ohjauspaketti-tarjous 199€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
-  Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (treeni/hyvinvoiva keho, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
-  \+ paketti sisältää kirjallisen ohjeen asiakkaalle tapaamisen sisällöstä
-  + ohjauspaketit eivät sisällä etätukea, kuten pitkäkestoisemmat valmennukset
-  <br/><br/>
 
  
 #### Hyvinvointivalmennuspaketit:
@@ -41,35 +31,41 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 
  **VALMENNUKSET SISÄLTÄVÄT:**
 
-* Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi (kasvotusten/puhelimitse)
+* Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi ja toiveesi
+* 2 Valmennustapaamista / kk
+* Liikunnan suunnittelu & Yksilöllinen harjoitusohjelma
 * Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)
-* Palautumisen ja ravitsemuksen tarkastelua
+* Ravitsemuksen merkitys hyvinvointiin - tarkastelu/neuvonta
+* Palautumisen ja unen merkitys hyvinvointiin - tarkastelu/neuvonta
 * Muutoksen tukemista erilaisin tehtävin ja keskusteluin
-* Jatkuvan etätuen & tilannetsekkauksen säännöllisin väliajoin
+* Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>
-* **_3-6 kk Hyvinvointivalmennus 159€/kk (sis. alv)_**  
-  Valmennus sisältää:  
-  + Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
-  + 6-12 Valmennustapaamista  
-  + Yksilöllinen harjoitusohjelma ja sen päivitys  
-  + Palautumisen ja unen merkitys hyvinvointiin - tarkastelu/neuvonta  
-  + Ravitsemuksen merkitys hyvinvointiin - tarkastelu/neuvonta  
-  + Etätuki koko valmennuksen ajan
+**HINTA:**
+* **_3-5 kk Hyvinvointivalmennus 169€/kk (sis. alv)_**
+  <br/>
+* **_6-8 kk Hyvinvointivalmennus 164€/kk (sis. alv)_**
+  <br/>
+* **_9 kk-> Hyvinvointivalmennus 159€/kk (sis. alv)_**  
 
-* **_7-12kk Hyvinvointivalmennus 139€/kk (sis. alv)_**  
-  Valmennus sisältää:  
-  + Alkukartoitus - tavoitteet, toiveet ja suunnittelu  
-  + 14-24 Valmennustapaamista  
-  + Yksilöllinen harjoitusohjelma ja sen päivitykset  
-  + Palautumisen ja unen merkitys hyvinvointiin - tarkastelu/neuvonta  
-  + Ravitsemuksen merkitys hyvinvointiin - tarkastelu/neuvonta  
-  + Etätuki koko valmennuksen ajan
-
-\+  _Lisäohjaukset valmennusasiakkaille 39€ / 1h ohjaus (sis. alv)  
+\+  _Lisäohjaukset valmennusasiakkaille 64€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
+
+* **_Valmennus, jossa tapaamiset 1krt/kk - 89€/kk (sis. alv)_**  
+ Suositellaan jatkopalveluna valmennusasiakkaille, palvelun sisältö ja etätuki kuluvat tähän pakettiin kuten yllä.
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot)
+<br/><br/>
+#### Ohjaukset:
+
+* **_Yksittäinen ohjauskerta 79€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. (1.kerralla) + suunnittelu + ohjaus 60 min.  
+  \+ kirjallinen ohje asiakkaalle tapaamisen sisällöstä
+* **_3 kerran ohjauspaketti-tarjous 205€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
+  Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (treeni/hyvinvoiva keho, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
+  \+ paketti sisältää kirjallisen ohjeen asiakkaalle tapaamisen sisällöstä
+  + ohjauspaketit eivät sisällä etätukea, kuten pitkäkestoisemmat valmennukset!
 
 ![yksilovalmennus](/img/yksilovalmennus_1.jpg "Yksilövalmennus"){: .center-block :}
 
