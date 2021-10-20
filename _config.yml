@@ -41,17 +41,16 @@ navbar-links:
     - -> Facebook: "https://facebook.com/elokatsu"
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
+    - Liikuntakeskus Ruukki: "liikuntakeskusruukki"
     - Yksilövalmennus: "yksilovalmennus"
-    - FasciaMethod: "fasciamethod"
+    - Uusi lempeä elo Muutosvalmennus: "muutosvalmennus"
     - Pienryhmätreeni: "pienryhmatreeni"
-    - Hyvinvointivalmennus pienryhmässä: "hyvinvointivalmennus"
-    - Yksityistunnit: "yksityistunnit"
-    - Työhyvinvointi: "tyohyvinvointi"
+    - FasciaMethod: "fasciamethod"
     - Firstbeat-mittaus: "firstbeat"
+    - Työhyvinvointi: "tyohyvinvointi"
+    - Yksityistunnit: "yksityistunnit"
     - Yhteistyö: "yhteistyo"
-#    - Lapset: "lapset"
     - Valmennusehdot: "valmennusehdot"
-    #- Markdown opas: "http://www.markdowntutorial.com/"
   Ajankohtaista:
     - Syksy 2021: "ajankohtainen"
   Yhteys: 
@@ -83,10 +82,6 @@ navbar-col: rgba(255, 255, 132, 1) # Keltainen
 navbar-text-col: "#404040"
 navbar-children-col: rgba(255, 255, 159, 1) # Keltainen-10%
 
-#page-col: rgba(183, 224, 112, 1) # Elokatsun Vihreä
-#page-col: "#E2FAB5" # Keltavihreä
-#page-col: "#e7fac4" # Vaaleampi keltavihreä
-#page-col: "#ecf9d4"
 page-col: "#f3fae6"
 
 link-col: "#008AFF"
@@ -98,17 +93,6 @@ footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
-
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-#page-img: linear-gradient(to bottom right, rgba(255,255,132,1) 10%, rgba(183,224,112,1) 35%)
-#page-col: "linear-gradient(to bottom, #ffff84, #b7e070);"
-
-#page-img: "img/backgrounds/background-1747776_960_720.jpg" # siniharmaa
-#page-img: "img/backgrounds/clean-2721102_1920.jpg" # liian tumma
-#page-img: "img/backgrounds/clean-2721101_1920.jpg"
-#page-img: "img/backgrounds/background-1747777_1280.jpg" # vihreämpi
-#page-img: "img/backgrounds/background-1747774_1280.jpg" #vihrein
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
