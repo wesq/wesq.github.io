@@ -10,7 +10,7 @@ bigimg: img/a_otayhteytta.jpg
 ### Kaipaatko tukeani?
 Varaa aika ilmaiseen hyvinvointikartoitukseen, joka ei sido sinua vielä mihinkään. 30 minuutin ilmainen hyvinvointikartoitus auttaa sinua selkiyttämään omaa tavoitettasi, sekä auttaa sinua muodostamaan selkeitä tekoja kohti muutosta. Kartoitus voidaan toteuttaa kasvotusten tai puhelimitse. Pohditaan yhdessä olisinko oikea valmentaja, ja minkälainen valmennus sinulle voisi parhaiten sopia kohti Sinun kokonaisvaltaista hyvinvointia. Olen kiinnostunut kuulemaan lisää toiveistasi ja unelmistasi.
 
- Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, tekniikka edellä liikkeen ohjaaminen, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin merkitys arjessa.
+ Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin tarkastelu ja merkitys arjessa.
 
 Tiesithän, että kaikki elokatsun palvelut voit maksaa laskun lisäksi myös yleisimmillä liikuntaeduilla (Edenred, Smartum, ePassi, eazybreak).
 Palveluuni kuuluvat erilaiset kehon ja mielen hyvinvointia tukevat yksilöille ja ryhmille räätälöidyt valmennukset ja liikunnanohjaukset. 

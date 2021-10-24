@@ -14,7 +14,7 @@ bigimg: img/a_yksityistunnit.jpg
 ![liikuntasynttärit](/img/liikutasynttarit.jpg "Lasten liikuntasynttärit"){: .image-right :}
 **_Järjestä lapsellesi unohtumattomat liikuntasynttärit omalla lempiteemalla!_**
 
-Elokatsu järjestää yhteistyössä [Sipoon hieronta ja hyvinvointi](https://www.sipoonhierontajahyvinvointi.fi/)-studion kanssa yksilöllisesti räätälöityjä lasten liikuntasynttäreitä Sipoon Nikkilässä. Hauskat ja muistorikkaat synttärit järjestät helposti studiolla oman teeman mukaisesti. Saat tunnin liikunnallisen ohjatun ohjelman, jonka jälkeen tila on käytössäsi herkutteluun ja muuhun vapaaseen toimintaan.
+Elokatsu järjestää yhteistyössä [Sipoon hyvinvointikeskus](https://www.sipoonhierontajahyvinvointi.fi/) kanssa yksilöllisesti räätälöityjä lasten liikuntasynttäreitä Sipoon Nikkilässä. Hauskat ja muistorikkaat synttärit järjestät helposti studiolla oman teeman mukaisesti. Saat tunnin liikunnallisen ohjatun ohjelman, jonka jälkeen tila on käytössäsi herkutteluun ja muuhun vapaaseen toimintaan.
 Tulen myös luoksesi, tai autan sinua löytämään sopivan tilan, palvelu ja hinta muodostuvat tarpeidesi mukaan.
 
 ![yksityistunnit](/img/raataloidyt_tunnit.jpg "Suunnittele oma yksityistunti"){: .image-left :}

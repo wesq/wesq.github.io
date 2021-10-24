@@ -51,7 +51,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 (esim. ohjattuja treenejä lisää)_
 
 * **_Valmennus, jossa tapaamiset 1krt/kk - 89€/kk (sis. alv)_**  
- Suositellaan jatkopalveluna valmennusasiakkaille, palvelun sisältö ja etätuki kuluvat tähän pakettiin kuten yllä.
+ Suositellaan jatkopalveluna valmennusasiakkaille, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot)
@@ -71,6 +71,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 
 > Yksilöllistä valmennusta Sinun tarpeesi edellä.
 
-**_Valmennukset räätälöidään aina yksilöllisesti, joten varaa aika ilmaiseen konsultointiin, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi._**
+**_Valmennukset räätälöidään aina yksilöllisesti.  Voit varata ajan ilmaiseen hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi._**  
+[VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
 **_Valmennukset voidaan toteuttaa Tuusulan, Järvenpään, Sipoon ja Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä missä tahansa!_**

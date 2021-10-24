@@ -49,7 +49,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 (esim. ohjattuja treenejä lisää)_
 
 * _Valmennus, jossa tapaamiset 1krt/kk - 89€/kk (sis. alv)_  
- Suositellaan jatkopalveluna valmennusasiakkaille, palvelun sisältö ja etätuki kuluvat tähän pakettiin kuten yllä.  
+ Suositellaan jatkopalveluna valmennusasiakkaille, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  
 <br/>
 
 #### Uusi Minä-pienryhmävalmennus
@@ -88,6 +88,3 @@ Saat mittauksesta itsellesi henkilökohtaisen raportin ja palautteen, sekä valm
 _Firstbeat hyvinvointianalyysit yksilölle 169€ (sis. alv)_  
 Kysy tarjousta ryhmille!
 
-#### FasciaMethod
-
-Lisätietoja tulossa pian.

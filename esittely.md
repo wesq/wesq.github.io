@@ -27,7 +27,7 @@ Hyvinvoinnin puolella toivon voivani tuoda enemmän lempeyttä ja pysähtymistä
 Kun olen alkanut kyseenalaistamaan tämän omassa elämässäni, kuulla itseäni ja omia tarpeitani hiukan paremmin, on löytynyt se lempeämpi ääni, joka muistuttaa suorittajaa välillä myös hellittämään... Eli kyllä, tiedän hyvin myös mitä on suorittaminen ja se, kun ei uskalla luottaa siihen, että minä olen täydellisen riittävä, juuri näin, tässä hetkessä.<br/><br/>
 
 
-**Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin merkitys arjessa. Kuljen rinnalla, olen läsnä ja Sinua varten.**
+**Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin tarkastelu ja  merkitys arjessa. Kuljen rinnalla, olen läsnä ja Sinua varten.**
 
 
 **Koulutukseltani** olen **lähihoitaja** ja **hyvinvointivalmentaja**. Hyvinvointivalmentajan opinnot (Riveria) ovat sisältäneet hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta.
