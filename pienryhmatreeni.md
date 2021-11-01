@@ -30,11 +30,11 @@ Valmennuksessa vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen 
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
 treenaa ulkona Kellokosken alueella. (Kovalla rankkasateella tai kovalla pakkasella harjoitus tapahtuu etänä Google meetin välityksellä.)
 
-Valmennus **MAANANTAISIN** ajalla 9.8.-29.11.2021 **klo 17:30-18:30**  yhteensä 16 harjoitusta, EI treenejä 18.10.
-**Hinta: 186€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
+Valmennus **MAANANTAISIN** ajalla 10.1.-16.5.2022 **klo 17:30-18:30**  yhteensä 17 harjoitusta, EI treenejä 21.2. & 18.4.
+**Hinta: 199€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
 
  
-[ILMOITTAUDU KELLOKOSKEN PIENRYHMÄÄN TÄSTÄ](https://forms.gle/7mdXJyi4EQj7ecMs9){:target="_blank"} 
+[ILMOITTAUDU KELLOKOSKEN PIENRYHMÄÄN TÄSTÄ](https://forms.gle/6EGHuv3MTVVGLpmq7){:target="_blank"} 
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -43,11 +43,11 @@ Valmennus **MAANANTAISIN** ajalla 9.8.-29.11.2021 **klo 17:30-18:30**  yhteensä
 ***HELSINGIN MYLLYPURON RYHMÄ***
 treenaa ulkona Myllypuron alueella. (Kovalla rankkasateella tai kovalla pakkasella harjoitus tapahtuu etänä Google meetin välityksellä.)
 
-Valmennus **TORSTAISIN** ajalla 12.8.-16.12.2021 **klo 17:00-18:00**  yhteensä 17 harjoitusta, EI treenejä 21.10., 11.11.
-**Hinta: 198€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
+Valmennus **TORSTAISIN** ajalla 13.1.-19.5.2022 **klo 17:15-18:15**  yhteensä 18 harjoitusta, EI treenejä 24.2.
+**Hinta: 211€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
 
 
-[ILMOITTAUDU MYLLYPURON PIENRYHMÄÄN TÄSTÄ](https://forms.gle/mtntqhB2wxSdSxtH8){:target="_blank"} 
+[ILMOITTAUDU MYLLYPURON PIENRYHMÄÄN TÄSTÄ](https://forms.gle/GqyggVh5pvWAvdXa8){:target="_blank"} 
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  

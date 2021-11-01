@@ -61,7 +61,7 @@ työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä 
 
  VALMENNUS SISÄLTÄÄ:
 
-* Ryhmätapaamiset 2x/kk - 1,5h/kerta (aikataulu päivittyy pian)
+* Ryhmätapaamiset 2x/kk - 1,5h/kerta (aikataulu alla)
 * Henkilökohtaiset valmennustapaamiset 45 min. x2
 * Valmentajan etätuki koko valmennuksen ajan
 * Ryhmän tuki (ryhmän toivomalla alustalla)  
@@ -75,6 +75,7 @@ Voit maksaa myös yleisimmillä liikuntaeduilla.
  TARKEMMAT TIEDOT TOTEUTUKSESTA: 
 
 Valmennus toteutetaan ajalla 01.-06.2022 Tiistaisin 18:30-20:00, ryhmätapaamiset 2 kertaa kuukaudessa. Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennusta.
+Ryhmätapaamiset: 11.1., 25.1., 8.2., 15.2, 1.3., 15.3., 29.3., 12.4., 26.4., 10.5., 31.5., 14.6.
 
 Lähde nyt mukaan pienryhmään tekemään pysyviä muutoksia! [ILMOITTAUDU VALMENNUKSEEN TÄSTÄ](https://forms.gle/dyQEjf7G8YXLnjU86){:target="_blank"} 
 

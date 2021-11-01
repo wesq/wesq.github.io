@@ -32,7 +32,7 @@ Valmennus sisältää yhteistä liikettä, kehonhuoltoa, palautumisen tukemista,
 **Tarkemmat tiedot toteutuksesta:** 
 
 Valmennus toteutetaan ajalla 01.-06.2022 Perjantaisin klo 17:30-19:00, ryhmätapaamiset 2 kertaa kuukaudessa. Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennusta. Lisäksi
-ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi.
+ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Ryhmätapaamisten aikataulu: 14.1., 28.1., 11.2., 18.2., 4.3., 18.3., 1.4., 22.4., 6.5., 20.5., 3.6., 17.6.
 
 RYHMÄ KOKOONTUU NIKKILÄSSÄ, [Sipoon hyvinvointikeskus](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"} tiloissa
 os. Iso Kylätie 9, 2krs. käynti takapihan puolelta.
@@ -40,7 +40,7 @@ os. Iso Kylätie 9, 2krs. käynti takapihan puolelta.
 **Valmennus sisältää:**
 
 
-- Ryhmätapaamiset 2x/kk - 1,5h/kerta (aikataulu päivittyy pian)
+- Ryhmätapaamiset 2x/kk - 1,5h/kerta (aikataulu yllä)
 - Henkilökohtaiset valmennustapaamiset 45 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
