@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syksy 2021
+title: Kevät 2022
 subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: 'Haluaisitko kysyä jotain ajankohtaisista asioista?'
@@ -8,9 +8,13 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
+* **Eloisan kehon treenit jatkuvat keväällä Kellokoskella & Myllypurossa, [ilmoittaudu nyt mukaan!](/pienryhmatreeni)**
+
+* **Uusi lempeä elo pienryhmävalmennus elämäntapamuutoksen tueksi alkaa taas TAMMIKUUSSA Sipoossa. Tämä pienryhmässä tapahtuva valmennus antaa sinulle paljon konkreettista apua ja tukea elämäntapamuutoksessa, [lue lisää ilmoittaudu mukaan!](/muutosvalmennus)**
+
 * **Tiedätkö miten palaudut arjessasi? Osaatko rytmittää treenisi järkevästi? Firstbeat-Hyvinvointianalyysilla voimme selvittää näitä asioita, [tutustu Firstbeat-Hyvinvointianalyysiin täältä](/firstbeat)**  
 
-* **Eloisan kehon treenit jatkuvat keväällä, [ilmoittautuminen aukeaa marraskuussa!](/pienryhmatreeni)**
+* **Elokatsu on alkanut tekemään yhteistyötä Liikuntakeskus Ruukin kanssa. Yksilövalmennuksen lisäksi tammikuussa on alkamassa pienryhmävalmennus elämäntapamuutoksen tueksi, [lue lisää palveluista & ilmoittaudu mukaan!](/liikuntakeskusruukki)**
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
   
