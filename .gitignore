@@ -1,5 +1,7 @@
 # project
 _site*
+*.bat
+*gitignore
 .sass-cache
 .vagrant
 .bundle
