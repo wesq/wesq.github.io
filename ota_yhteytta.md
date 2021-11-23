@@ -21,8 +21,8 @@ Olivatpa tavoitteesi niin liikunnan ilon löytämisessä & liikkeen lisäämises
 ***Ota ensimmäinen askeleesi kohti Sinun omaa hyvinvoivaa arkea ja varaa paikka ilmaiseen hyvinvointikartoitukseen!***  
 
 
-[Facebookista](https://www.facebook.com/elokatsu "Facebook"){:target="_blank"} ja [Instagramista](https://www.instagram.com/elokatsu "Instagram"){:target="_blank" #Contact } löydät minut nimellä ***elokatsu***.  
-Tavoitat minut myös puhelimitse tai sähköpostitse: 
+[Facebookista](https://www.facebook.com/elokatsu "Facebook"){:target="_blank"} ja [Instagramista](https://www.instagram.com/elokatsu "Instagram"){:target="_blank" #Contact } löydät minut nimellä ***elokatsu***. Löydät elokatsun myös YouTubesta, [kurkkaa esittelyvideoni täältä!](https://www.youtube.com/watch?v=fRYVjl_-ndc){:target="_blank"}
+Voit tavoitella minua myös puhelimitse tai sähköpostitse: 
 
 ![elokatsu](/img/contact.png){: .center-block :}
 
