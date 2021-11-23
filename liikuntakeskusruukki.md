@@ -81,17 +81,6 @@ Ryhmätapaamiset: 11.1., 25.1., 8.2., 15.2, 1.3., 15.3., 29.3., 12.4., 26.4., 10
 
 Lähde nyt mukaan pienryhmään tekemään pysyviä muutoksia! [ILMOITTAUDU VALMENNUKSEEN TÄSTÄ](https://forms.gle/dyQEjf7G8YXLnjU86){:target="_blank"} 
 
-#### FasciaMethod
-
-Tuntuuko kehosi kankealta tai kärsitkö lihasjumeista?
-FasciaMethod viikkotunnit alkavat Liikuntakeskus Ruukissa tammikuussa!
-Tunnit sunnuntaisin klo 19:00-20:00, 2.1.2022 alkaen.
-Ilmoittaudu tunnille [Liikuntakeskus Ruukin](https://liikuntakeskusruukki.fi/){:target="_blank"} sivuilta.
-
-FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita. Harjoittelua rytmitetään hengityksellä.
-
-Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme.
-
 #### Temppujumppa 4-6v.
 
 Lapsen ikioma temppujumppa, jossa vauhdikas ja iloinen meininki! Tunnilla keskiössä ovat liikunnan ilo ja lasten toiveet. Jumpassa opetellaan leikkien kautta motorisia perustaitoja ja ryhmässä toimimista lapsilähtöisesti ja innostavasti.
@@ -103,6 +92,17 @@ Kurssin hinta 59€ (6 jumppatuntia), kurssi toteutetaan Liikuntakeskus Ruukin t
 
 [ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/BGa9iZ7TukrNr2STA){:target="_blank"} 
 
+#### FasciaMethod
+
+Tuntuuko kehosi kankealta tai kärsitkö lihasjumeista?
+FasciaMethod viikkotunnit alkavat Liikuntakeskus Ruukissa tammikuussa!
+Tunnit sunnuntaisin klo 19:00-20:00, 2.1.2022 alkaen.
+Ilmoittaudu tunnille [Liikuntakeskus Ruukin](https://liikuntakeskusruukki.fi/){:target="_blank"} sivuilta.
+
+FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita. Harjoittelua rytmitetään hengityksellä.
+
+Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme.
+
 #### Firstbeat-Hyvinvointianalyysit
 
 Mittauksen avulla opit tunnistamaan hyvinvointiisi vaikuttavia tekijöitä, hallitsemaan stressiä ja palautumaan paremmin, sekä liikkumaan fiksummin arjessasi.
@@ -111,5 +111,5 @@ Hyvinvointianalyysi pitää sisällään 3 vuorokauden mittauksen. Mittauksesta 
 Saat mittauksesta itsellesi henkilökohtaisen raportin ja palautteen, sekä valmentajan ohjausta palautumisen ja hyvinvointisi tueksi.
 
 _Firstbeat hyvinvointianalyysit yksilölle 169€ (sis. alv)_  
-Kysy tarjousta ryhmille!
+Laita viestiä, jos mittaus kiinnostaa! Voit myös kysyä tarjousta ryhmille.
 
