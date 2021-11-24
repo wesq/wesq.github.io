@@ -59,7 +59,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 Uusi Minä - valmennus on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Valmennuksessa käymme läpi
 oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
 millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista, sekä vähentää stressiä. Valmennuksessa
-työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia.  
+työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia. Pienryhmään otetaan maksimissaan 8 osallistujaa, jotta voidaan taata yksilöllisempää ohjausta. Ryhmä toteutuu minimissään kun ryhmässä on 4 osallistujaa.  
 
  VALMENNUS SISÄLTÄÄ:
 
@@ -88,7 +88,7 @@ Lapsen ikioma temppujumppa, jossa vauhdikas ja iloinen meininki! Tunnilla keski�
 Tämä kurssi on lapsen ikioma temppujumppa. Kuitenkin jos oma harrastus vielä vähän jännittää, voi ensimmäiselle tunnille ottaa oman aikuisen, tai vaikka oman pehmolelun turvaksi mukaan.
 
 Kurssi ajalla 11.1.-15.2.2022 TIISTAISIN klo 17:15-18:00.
-Kurssin hinta 59€ (6 jumppatuntia), kurssi toteutetaan Liikuntakeskus Ruukin tiloissa. Ohjaajana toimii Hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
+Kurssin hinta 59€ (6 jumppatuntia), kurssi toteutetaan Liikuntakeskus Ruukin tiloissa. Pienryhmässä on 9 paikkaa. Ohjaajana toimii Hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
 [ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/BGa9iZ7TukrNr2STA){:target="_blank"} 
 
@@ -101,7 +101,7 @@ Ilmoittaudu tunnille [Liikuntakeskus Ruukin](https://liikuntakeskusruukki.fi/){:
 
 FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita. Harjoittelua rytmitetään hengityksellä.
 
-Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme.
+Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme. Tunnit toteutetaan pienryhmissä ja niissä on 9 paikkaa.
 
 #### Firstbeat-Hyvinvointianalyysit
 
