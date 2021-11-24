@@ -12,6 +12,14 @@ bigimg: img/a_Liikuntakeskus_Ruukki.jpg
 <p></p>
 <p class="otsikkolistapalkki">HYVÄÄ OLOA & LIIKUNNAN ILOA</p>
 
+Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa: 
+ - [Ilmainen hyvinvointikartoitus](#ilmainen-hyvinvointikartoitus)
+ - [Hyvinvointivalmennus](#hyvinvointivalmennus)
+ - [Uusi Minä-pienryhmävalmennus](#uusi-minä-pienryhmävalmennus)
+ - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
+ - [FasciaMethod](#fasciamethod)
+ - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
+
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
 
 _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi? Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi._  

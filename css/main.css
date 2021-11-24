@@ -959,3 +959,6 @@ input[type="text"], input[type="email"] {
   width: 300px;
   text-align: center;
 }
+html {
+  scroll-padding-top: 53px; /* height of sticky header -- fix overlapping anchor tags issue*/
+}
