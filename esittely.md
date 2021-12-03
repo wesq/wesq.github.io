@@ -10,7 +10,7 @@ bigimg: img/a_esittely.jpg
 <br/>
 ![elokatsu](/img/elokatsu4.jpg "elokatsu"){: .image-right :}
 <br/>
-Olen yrittäjä, **hyvinvointivalmentaja**, **lähihoitaja**, avopuoliso ja lempeän kohtaamisen vahva kannattaja. Olen innostuja ja pirskahteleva haaveilija, jonka missio on tarjota ihmisille hyvinvointia lempeydellä.  
+Olen yrittäjä, **Hyvinvointivalmentaja**, **Personal Trainer**, **Lähihoitaja**, avopuoliso ja lempeän kohtaamisen vahva kannattaja. Olen innostuja ja pirskahteleva haaveilija, jonka missio on tarjota ihmisille hyvinvointia lempeydellä.  
 <br/><br/>
 
 ![Elämäntapamuutos](/img/eloisakeho3.jpg "Elämäntapamuutos"){: .image-left :}
@@ -30,8 +30,8 @@ Kun olen alkanut kyseenalaistamaan tämän omassa elämässäni, kuulla itseäni
 **Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin tarkastelu ja  merkitys arjessa. Kuljen rinnalla, olen läsnä ja Sinua varten.**
 
 
-**Koulutukseltani** olen **lähihoitaja** ja **hyvinvointivalmentaja**. Hyvinvointivalmentajan opinnot (Riveria) ovat sisältäneet hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta.
-**Lisäksi olen lukenut** avoimessa yliopistossa **ravitsemustieteen, sekä liikuntapsykologian perusopinnot**. Olen myös lisäkouluttanut itseäni mm. **PowerMethod- ja FasciaMethod-valmentaja**ksi, sekä **Äitiysliikunnan ohjaaja**ksi. Koulutan jatkuvasti itseäni oppiakseni uutta, ja tällä hetkellä opiskelen Kisakallion urheiluopistossa liikunnan ammattitutkintoa; **liikuntaneuvoja**, sekä kouluttaudun samalla **Personal traineriksi**.
+**Koulutukseltani** olen **lähihoitaja**, **hyvinvointivalmentaja** ja **personal trainer**. Hyvinvointivalmentajan opinnot (Riveria) ovat sisältäneet hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta. Personal Trainer opinnot olen suorittanut Kisakallion Urheiluopistossa.
+**Lisäksi olen lukenut** avoimessa yliopistossa **ravitsemustieteen, sekä liikuntapsykologian perusopinnot**. Olen myös lisäkouluttanut itseäni mm. **PowerMethod- ja FasciaMethod-valmentaja**ksi. Koulutan jatkuvasti itseäni oppiakseni uutta, ja tällä hetkellä opiskelen Kisakallion urheiluopistossa liikunnan ammattitutkintoa, josta valmistun 2022 **liikuntaneuvojaksi**.
 <br>
 <br>
 ![Valmentaja](/img/valmentajasi.jpg "Valmentaja"){: .image-right :}
