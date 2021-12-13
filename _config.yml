@@ -36,8 +36,6 @@ baseurl: ""
 navbar-links:
   Valmentajasi: 
     - Esittely: "esittely"
-    - Missio: "missio"
-    - Arvot: "arvot"
     - -> Facebook: "https://facebook.com/elokatsu"
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
