@@ -5,7 +5,6 @@ subtitle: elokatsun palvelut Liikuntakeskus Ruukissa
 formspree_comment: true
 comment_teksti: "Jäikö sinulle kysymyksiä? Kysy lisää palveluista:"
 bigimg: img/a_Liikuntakeskus_Ruukki.jpg
-
 ---
 ### Hyvinvointivalmennusta Kellokoskella Sinun tarpeisiisi
 
@@ -109,7 +108,7 @@ Ilmoittaudu tunnille [Liikuntakeskus Ruukin](https://liikuntakeskusruukki.fi/){:
 
 FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita. Harjoittelua rytmitetään hengityksellä.
 
-Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme. Tunnit toteutetaan pienryhmissä ja niissä on 9 paikkaa.
+Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme. Tunnit toteutetaan pienryhmissä ja niissä on 6 paikkaa.
 
 #### Firstbeat-Hyvinvointianalyysit
 
