@@ -1,29 +1,38 @@
 <div class="comments">
-	<div id="php_comment">
-		<form method="post" action="https://formspree.io/xeqrlnbz">
-			<div class="yhteydenotto">
-				<div class = "form">
-					{% if page.comment_teksti %}
-					<label for="message">{{ page.comment_teksti }}</label>
-					{% else %}
-						<label for="message">Viesti</label>
-	      			{% endif %}
-					<div class = "form_row">
-						<textarea rows="3" name="message" style="width: 80%;"></textarea>
-					</div>
-						<label for="name" >Nimi</label>
-					<div class = "form_row">
-						<input type="text" name="name">
-					</div>
-						<label for="email" >Sähköposti</label>
-					<div class = "form_row">
-						<input type="email" name="_replyto">
-					</div>
-					<div class = "form_row">
-						<input type="submit" value="Lähetä viesti" style="margin-top:10px;">
-					</div>
-				</div>
-			</div>
-		</form> 
-	</div>
+  <div id="php_comment">
+    <form method="post" action="https://formspree.io/xeqrlnbz">
+      <div class="yhteydenotto">
+        <div class="form">
+          <div class="form_row">
+            {% if page.comment_teksti %}
+            <label for="message">{{ page.comment_teksti }}</label>
+            {% else %}
+            <label for="message">Viesti</label>
+            {% endif %}
+            <textarea rows="3" name="message" style="width: 80%"></textarea>
+			<input name="subject" value="{{ page.title }}" type="hidden"/>
+          </div>
+          <div class="form_row">
+            <label for="name">Nimi</label>
+          </div>
+          <div class="form_row">
+            <input type="text" name="name" />
+          </div>
+          <div class="form_row">
+            <label for="email">Sähköposti</label>
+          </div>
+          <div class="form_row">
+            <input type="email" name="_replyto" />
+          </div>
+          <div class="form_row">
+            <input
+              type="submit"
+              value="Lähetä viesti"
+              style="margin-top: 10px"
+            />
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
 </div>

@@ -1,2 +1,2 @@
-# elokatsu -- Hyvinvointia lempeydellä!
+# www.elokatsu.fi -- Hyvinvointia lempeydellä!
 
