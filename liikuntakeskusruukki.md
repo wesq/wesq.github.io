@@ -12,7 +12,7 @@ bigimg: img/a_Liikuntakeskus_Ruukki.jpg
 <p class="otsikkolistapalkki">HYVÄÄ OLOA & LIIKUNNAN ILOA</p>
 
 Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa: 
- - [Ilmainen hyvinvointikartoitus](#ilmainen-hyvinvointikartoitus)
+ - [Maksuton hyvinvointikartoitus](#maksuton-hyvinvointikartoitus)
  - [Hyvinvointivalmennus](#hyvinvointivalmennus)
  - [Uusi Minä-pienryhmävalmennus](#uusi-minä-pienryhmävalmennus)
  - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
@@ -23,12 +23,12 @@ Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www
 
 _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi? Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi._  
 
-**Jos vastasit kyllä, niin varaa aika ilmaiseen hyvinvointikartoitukseen!**
+**Jos vastasit kyllä, niin varaa aika maksuttomaan hyvinvointikartoitukseen!**
 <br/><br/>
 
-#### Ilmainen hyvinvointikartoitus
+#### Maksuton hyvinvointikartoitus
 
-Hyvinvointikartoitus selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta. Kartoituksen aikana esittelen sinulle myös palveluvaihtoehtoja muutoksesi tueksi. Kesto 30 minuuttia.  
+Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Hyvinvointikartoitus selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta. Kartoituksen aikana esittelen sinulle myös palveluvaihtoehtoja muutoksesi tueksi. Kesto 30 minuuttia.  
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/RAhfPePEmEmNigtB9){:target="_blank"} 
 
 #### Hyvinvointivalmennus
@@ -39,8 +39,9 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
  VALMENNUKSET SISÄLTÄVÄT:
 
 * Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi ja toiveesi
-* 2 Valmennustapaamista / kk
+* 2 Valmennustapaamista / kk (tapaamisten kesto 60 min.)
 * Liikunnan suunnittelu & Yksilöllinen harjoitusohjelma
+* Pääsy Sportyplanner-ohjelmistoon
 * Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)
 * Ravitsemuksen merkitys hyvinvointiin - tarkastelu/neuvonta
 * Palautumisen ja unen merkitys hyvinvointiin - tarkastelu/neuvonta
@@ -70,7 +71,7 @@ työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä 
 
  VALMENNUS SISÄLTÄÄ:
 
-* Ryhmätapaamiset 2x/kk - 1,5h/kerta (aikataulu alla)
+* Ryhmätapaamiset 2x/kk - 90 min./kerta (aikataulu alla)
 * Henkilökohtaiset valmennustapaamiset 45 min. x2
 * Valmentajan etätuki koko valmennuksen ajan
 * Ryhmän tuki (ryhmän toivomalla alustalla)  
@@ -83,8 +84,8 @@ Voit maksaa myös yleisimmillä liikuntaeduilla.
 
  TARKEMMAT TIEDOT TOTEUTUKSESTA: 
 
-Valmennus toteutetaan ajalla 01.-06.2022 Tiistaisin 18:30-20:00, ryhmätapaamiset 2 kertaa kuukaudessa. Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennusta.
-Ryhmätapaamiset: 11.1., 25.1., 8.2., 15.2, 1.3., 15.3., 29.3., 12.4., 26.4., 10.5., 31.5., 14.6.
+Valmennus toteutetaan Tiistaisin 18:30-20:00, ryhmätapaamiset 2 kertaa kuukaudessa. Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennusta.
+Pahentuneen koronatilanteen vuoksi ryhmän alkaminen siirtyy keväälle. Voit ilmoittautua mukaan, ja saat tarkemmat aikataulutiedot, kun ryhmä alkaa.
 
 Lähde nyt mukaan pienryhmään tekemään pysyviä muutoksia! [ILMOITTAUDU VALMENNUKSEEN TÄSTÄ](https://forms.gle/dyQEjf7G8YXLnjU86){:target="_blank"} 
 
@@ -103,7 +104,7 @@ Kurssin hinta 59€ (6 jumppatuntia), kurssi toteutetaan Liikuntakeskus Ruukin t
 
 Tuntuuko kehosi kankealta tai kärsitkö lihasjumeista?
 FasciaMethod viikkotunnit alkavat Liikuntakeskus Ruukissa tammikuussa!
-Tunnit sunnuntaisin klo 19:00-20:00, 2.1.2022 alkaen.
+Tunnit sunnuntaisin klo 19:00-20:00.
 Ilmoittaudu tunnille [Liikuntakeskus Ruukin](https://liikuntakeskusruukki.fi/){:target="_blank"} sivuilta.
 
 FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita. Harjoittelua rytmitetään hengityksellä.

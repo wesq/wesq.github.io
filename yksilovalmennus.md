@@ -32,8 +32,9 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
  **VALMENNUKSET SISÄLTÄVÄT:**
 
 * Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi ja toiveesi
-* 2 Valmennustapaamista / kk
+* 2 Valmennustapaamista / kk (tapaamisten kesto 60 min.)
 * Liikunnan suunnittelu & Yksilöllinen harjoitusohjelma
+* Pääsy Sportyplanner-ohjelmistoon
 * Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)
 * Ravitsemuksen merkitys hyvinvointiin - tarkastelu/neuvonta
 * Palautumisen ja unen merkitys hyvinvointiin - tarkastelu/neuvonta
@@ -71,7 +72,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 
 > Yksilöllistä valmennusta Sinun tarpeesi edellä.
 
-**_Valmennukset räätälöidään aina yksilöllisesti.  Voit varata ajan ilmaiseen hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi._**  
+**_Valmennukset räätälöidään aina yksilöllisesti.  Voit varata ajan maksuttomaan hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi. Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Hyvinvointikartoitus selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta._**  
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
 **_Valmennukset voidaan toteuttaa Tuusulan, Järvenpään, Sipoon ja Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä missä tahansa!_**
