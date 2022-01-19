@@ -32,8 +32,7 @@ Vallitseva aika voi haastaa myös monen ajatuksia siitä, mitä kaikkea liike vo
 
 Olemme viime aikoina saattaneet olla pakon edessä kokeilemassa mm. ulko- ja etäliikuntaa, joka voi herättää meissä valtavasti tunteita. Saattaa jännittää tai pelottaa. Ehkä mietityttää mitä tästä tulee, tai ärsyttää ja suututtaa koko tilanne. Kaikki nämä tunteet ovat sallittuja. Voit kuulostella ja puhua ääneen näitä fiiliksiä, mitä ne sinussa herättävät. Sallia nämä kokemukset, olla niiden äärellä. Ja silti, voit myös joustavasti antaa mahdollisuuden, ja lähteä kokeilemaan uutta.
 
-![Hyvinvointia lempeydellä](/img/blogi_4_kotitreeni.jpg "Hyvinvointia lempeydellä"){: .image-left48 :}
-![Hyvinvointia lempeydellä](/img/blogi_4_ulkotreeni.jpg "Hyvinvointia lempeydellä"){: .image-right48 :}
+![Hyvinvointia lempeydellä](/img/blogi_4_ulkotreeni.jpg "Hyvinvointia lempeydellä"){: .center-block :}
 
 > Kokeile rohkeasti ja löydä sun oma liike, joka liikuttaa sua!
 
