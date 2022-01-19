@@ -40,6 +40,8 @@ Olemme viime aikoina saattaneet olla pakon edessä kokeilemassa mm. ulko- ja et�
 Kuka tietää, jos sieltä vaikka löytyykin joku mieluinen tapa liikuttaa sun kehoa?
 Lopuksi voin kertoa vielä yhden salaisuuden. En pari vuotta sitten olisi koskaan voinut kuvitella olevani se liikuttaja, joka ohjaa ryhmiään ulkona talvella.  Ja nyt mulla pyörii ympäri vuoden liikuntaryhmiä ulkona, säällä kuin säällä. Niin ne ajat ja ajatukset vaan voivat muuttua!
 
+Haluaisitko lähteä lisäämään liikettä pienillä askelilla sun arkeen? Jos kaipaat tässä apua, niin ([lue viime elokuinen postaus hyvinvoinnin rakentamisesta pienin teoin](https://www.elokatsu.fi/2021-08-11-Hyvinvointia_lempeydella_-_saako_vahemmalla_kuitenkin_lopulta_enemman/){:target="_blank"}) ja lähde sen avulla kokeilemaan ja etsimään sulle sopivaa liikettä. Ja aina voit myös ottaa yhtyettä minuun ja starttailla yksilövalmennusta, jos sellainen innostaa.
+
 Meidän kehot nauttii siitä, kun ne saa pysyä liikkeessä. Millä uudella ( tai vanhalla hyvällä ) tavalla sä voisit lähteä liikuttamaan tänään sun kehoa? Nauttien liikkeestä. Ja arvostaen kehosi kykyä pysyä liikkeessä.
 
 Lempeydellä; Kati
