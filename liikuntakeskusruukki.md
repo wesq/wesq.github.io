@@ -67,9 +67,9 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 Jos liikunnan aloitus yksin tuntuu haastavalta ja kaipaat ympärillesi samassa tilanteessa olevia ihmisiä, tämä kurssi on sinulle! Ryhmään ei vaadita minkäänlaista liikuntataustaa, mutta sinulla voi myös olla tilanne, että liikunta on hiipunut elämästä ja kaipaisit taas motivaatiota jatkaa liikettä. Ryhmä on sinulle, joka haluat saada varmuutta liikkeen lisäämiseen ja neuvoja oikeaan tekemiseen, sekä motivaatioon.
 
 Kurssi toteutetaan ajalla 28.2.-4.4.2022 MAANANTAISIN klo 19:05-20:00.
-Kurssin hinta 78€ (6 kertaa), tunnit toteutetaan pääasiassa Liikuntakeskus Ruukin tiloissa. Ryhmässä liikutaan myös kerran tai pari ulkona, Kellokosken alueella. Teemme monipuolisesti liikkuvuus- ja lihaskuntoharjoittelua koko keholle. Kurssi toteutetaan pienryhmänä ja siihen otetaan maksimissaan 7 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua liikkeelle! Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
+Kurssin hinta 78€ (6 kertaa), tunnit toteutetaan pääasiassa Liikuntakeskus Ruukin tiloissa. Ryhmässä liikutaan myös kerran yhdessä ulkona, Kellokosken alueella. Teemme monipuolisesti liikkuvuus- ja lihaskuntoharjoittelua koko keholle. Kurssi toteutetaan pienryhmänä ja siihen otetaan maksimissaan 7 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua liikkeelle! Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
-ILMOITTAUTUMINEN KURSSILLE ALKAA PIAN!
+[ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/DVqFsiYxfwT9VUPc9){:target="_blank"} 
 
 #### Temppujumppa 4-6v.
 
