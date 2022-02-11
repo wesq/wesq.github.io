@@ -14,7 +14,7 @@ bigimg: img/a_Liikuntakeskus_Ruukki.jpg
 Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa: 
  - [Maksuton hyvinvointikartoitus](#maksuton-hyvinvointikartoitus)
  - [Hyvinvointivalmennus](#hyvinvointivalmennus)
- - [Uusi Minä-pienryhmävalmennus](#uusi-minä-pienryhmävalmennus)
+ - [Liikunta tavaksi-Starttikurssi](#liikunta-tavaksi-starttikurssi)
  - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
  - [FasciaMethod](#fasciamethod)
  - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
@@ -62,32 +62,14 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
  Suositellaan jatkopalveluna valmennusasiakkaille, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  
 <br/>
 
-#### Uusi Minä-pienryhmävalmennus
+#### Liikunta tavaksi-Starttikurssi
 
-Uusi Minä - valmennus on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Valmennuksessa käymme läpi
-oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
-millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista, sekä vähentää stressiä. Valmennuksessa
-työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia. Pienryhmään otetaan maksimissaan 8 osallistujaa, jotta voidaan taata yksilöllisempää ohjausta. Ryhmä toteutuu minimissään kun ryhmässä on 4 osallistujaa.  
+Jos liikunnan aloitus yksin tuntuu haastavalta ja kaipaat ympärillesi samassa tilanteessa olevia ihmisiä, tämä kurssi on sinulle! Ryhmään ei vaadita minkäänlaista liikuntataustaa, mutta sinulla voi myös olla tilanne, että liikunta on hiipunut elämästä ja kaipaisit taas motivaatiota jatkaa liikettä. Ryhmä on sinulle, joka haluat saada varmuutta liikkeen lisäämiseen ja neuvoja oikeaan tekemiseen, sekä motivaatioon.
 
- VALMENNUS SISÄLTÄÄ:
+Kurssi toteutetaan ajalla 28.2.-4.4.2022 MAANANTAISIN klo 19:05-20:00.
+Kurssin hinta 78€ (6 kertaa), tunnit toteutetaan pääasiassa Liikuntakeskus Ruukin tiloissa. Ryhmässä liikutaan myös kerran tai pari ulkona, Kellokosken alueella. Kurssi toteutetaan pienryhmänä ja siihen otetaan maksimissaan 7 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua liikkeelle! Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
-* Ryhmätapaamiset 2x/kk - 90 min./kerta (aikataulu alla)
-* Henkilökohtaiset valmennustapaamiset 45 min. x2
-* Valmentajan etätuki koko valmennuksen ajan
-* Ryhmän tuki (ryhmän toivomalla alustalla)  
-
- HINTA:  
- _89€/kk TAI 530€ kertamaksulla (hinnat sis. alv)_  
-Voit maksaa myös yleisimmillä liikuntaeduilla.
-
-\* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 64€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).  
-
- TARKEMMAT TIEDOT TOTEUTUKSESTA: 
-
-Valmennus toteutetaan Tiistaisin 18:30-20:00, ryhmätapaamiset 2 kertaa kuukaudessa. Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennusta.
-Pahentuneen koronatilanteen vuoksi ryhmän alkaminen siirtyy keväälle. Voit ilmoittautua mukaan, ja saat tarkemmat aikataulutiedot, kun ryhmä alkaa.
-
-Lähde nyt mukaan pienryhmään tekemään pysyviä muutoksia! [ILMOITTAUDU VALMENNUKSEEN TÄSTÄ](https://forms.gle/dyQEjf7G8YXLnjU86){:target="_blank"} 
+ILMOITTAUTUMINEN KURSSILLE ALKAA PIAN!
 
 #### Temppujumppa 4-6v.
 
@@ -95,16 +77,15 @@ Lapsen ikioma temppujumppa, jossa vauhdikas ja iloinen meininki! Tunnilla keski�
 
 Tämä kurssi on lapsen ikioma temppujumppa. Kuitenkin jos oma harrastus vielä vähän jännittää, voi ensimmäiselle tunnille ottaa oman aikuisen, tai vaikka oman pehmolelun turvaksi mukaan.
 
-Kurssi ajalla 1.3.-17.5.2022 TIISTAISIN klo 17:05-17:50.
-Kurssin hinta 118€ (12 jumppatuntia), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 7 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii Hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
+Kurssi toteutetaan ajalla 1.3.-17.5.2022 TIISTAISIN klo 17:05-17:50.
+Kurssin hinta 118€ (12 jumppatuntia), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 7 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
 [ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/GWDtFm72UhujK8uf8){:target="_blank"} 
 
 #### FasciaMethod
 
 Tuntuuko kehosi kankealta tai kärsitkö lihasjumeista?
-FasciaMethod viikkotunnit alkavat Liikuntakeskus Ruukissa tammikuussa!
-Tunnit sunnuntaisin klo 19:00-20:00.
+FasciaMethod viikkotunnit pyörivät Liikuntakeskus Ruukissa sunnuntaisin klo 19:00-20:00.
 Ilmoittaudu tunnille [Liikuntakeskus Ruukin](https://liikuntakeskusruukki.fi/){:target="_blank"} sivuilta.
 
 FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita. Harjoittelua rytmitetään hengityksellä.
