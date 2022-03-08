@@ -16,9 +16,9 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [Hyvinvointivalmennus](#hyvinvointivalmennus)
  - [Liikunta tavaksi-Starttikurssi](#liikunta-tavaksi-starttikurssi)
  - [PowerMethod](#powermethod)
- - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
  - [FasciaMethod](#fasciamethod)
  - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
+ - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
 
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
 
@@ -79,7 +79,17 @@ PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohje
 Kevätkausi toteutetaan ajalla 12.4.-31.5.2022 TIISTAISIN klo 18:00-19:00.
 Kevätkauden hinta 116€ (8 kertaa), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 7 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/TYrAQ8f4cqtxHxjN9){:target="_blank"} 
+[ILMOITTAUDU TUNNEILLE TÄSTÄ](https://forms.gle/TYrAQ8f4cqtxHxjN9){:target="_blank"} 
+
+#### FasciaMethod
+
+Tuntuuko kehosi kankealta tai kärsitkö lihasjumeista?
+FasciaMethod viikkotunnit pyörivät Liikuntakeskus Ruukissa sunnuntaisin klo 19:00-20:00.
+Ilmoittaudu tunnille [Liikuntakeskus Ruukin](https://liikuntakeskusruukki.fi/){:target="_blank"} sivuilta.
+
+FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita. Harjoittelua rytmitetään hengityksellä.
+
+Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme. Tunnit toteutetaan pienryhmissä ja niissä on 7 paikkaa.
 
 #### Temppujumppa 4-6v.
 
@@ -91,16 +101,6 @@ Kurssi toteutetaan ajalla 1.3.-17.5.2022 TIISTAISIN klo 17:05-17:50.
 Kurssin hinta 118€ (12 jumppatuntia), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 7 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
 [ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/GWDtFm72UhujK8uf8){:target="_blank"} 
-
-#### FasciaMethod
-
-Tuntuuko kehosi kankealta tai kärsitkö lihasjumeista?
-FasciaMethod viikkotunnit pyörivät Liikuntakeskus Ruukissa sunnuntaisin klo 19:00-20:00.
-Ilmoittaudu tunnille [Liikuntakeskus Ruukin](https://liikuntakeskusruukki.fi/){:target="_blank"} sivuilta.
-
-FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita. Harjoittelua rytmitetään hengityksellä.
-
-Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme. Tunnit toteutetaan pienryhmissä ja niissä on 6 paikkaa.
 
 #### Firstbeat-Hyvinvointianalyysit
 
