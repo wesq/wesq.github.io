@@ -15,6 +15,7 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [Maksuton hyvinvointikartoitus](#maksuton-hyvinvointikartoitus)
  - [Hyvinvointivalmennus](#hyvinvointivalmennus)
  - [Liikunta tavaksi-Starttikurssi](#liikunta-tavaksi-starttikurssi)
+ - [PowerMethod](#powermethod)
  - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
  - [FasciaMethod](#fasciamethod)
  - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
@@ -70,6 +71,15 @@ Kurssi toteutetaan ajalla 7.3.-11.4.2022 MAANANTAISIN klo 19:05-20:00.
 Kurssin hinta 78€ (6 kertaa), tunnit toteutetaan pääasiassa Liikuntakeskus Ruukin tiloissa. Ryhmässä liikutaan myös kerran yhdessä ulkona, Kellokosken alueella. Teemme monipuolisesti ja matalalla kynnyksellä liikkuvuus- ja lihaskuntoharjoittelua koko keholle. Kurssi toteutetaan pienryhmänä ja siihen otetaan maksimissaan 7 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua liikkeelle! Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
 [ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/DVqFsiYxfwT9VUPc9){:target="_blank"} 
+
+#### PowerMethod
+
+PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohjelma, jonka tavoitteena on voiman lisäksi kehittää liikehallintaa ja liikkuvuutta, sekä ennaltaehkäistä tuki- ja liikuntaelinvaivoja. Tuki- ja voimaharjoittelun yhdistämisellä pystymme mahdollistamaan tehokkaan ja turvallisen harjoittelun. Tunnilla opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Menevä tunti, jota pystyt skaalaamaan oman kuntosi mukaan.
+
+Ryhmä toteutetaan ajalla 12.4.-31.5.2022 TIISTAISIN klo 18:00-19:00.
+Kurssin hinta 116€ (8 kertaa), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 7 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
+
+[ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/TYrAQ8f4cqtxHxjN9){:target="_blank"} 
 
 #### Temppujumppa 4-6v.
 
