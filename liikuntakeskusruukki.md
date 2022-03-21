@@ -54,9 +54,9 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
   <br/>
 * _6-8 kk Hyvinvointivalmennus 164€/kk (sis. alv)_
   <br/>
-* _9-11 kk Hyvinvointivalmennus 159€/kk (sis. alv)_ 
+* _9-11 kk Hyvinvointivalmennus 159€/kk (sis. alv)_
    <br/>
-* _12 -> kk Hyvinvointivalmennus 155€/kk (sis. alv)_
+* _12 -> kk Hyvinvointivalmennus 155€/kk (sis. alv)_ 
 
 \+  _Lisäohjaukset valmennusasiakkaille 64€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
