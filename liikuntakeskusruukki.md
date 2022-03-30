@@ -14,7 +14,7 @@ bigimg: img/a_Liikuntakeskus_Ruukki.jpg
 Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa: 
  - [Maksuton hyvinvointikartoitus](#maksuton-hyvinvointikartoitus)
  - [Hyvinvointivalmennus](#hyvinvointivalmennus)
- - [Liikunta tavaksi-Starttikurssi](#liikunta-tavaksi-starttikurssi)
+ - [Lempeästi liikkeessä - kurssi](#lempeästi-liikkeessä)
  - [PowerMethod](#powermethod)
  - [FasciaMethod](#fasciamethod)
  - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
@@ -65,14 +65,14 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
  Suositellaan jatkopalveluna valmennusasiakkaille, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  
 <br/>
 
-#### Liikunta tavaksi-Starttikurssi
+#### Lempeästi liikkeessä
 
-Jos liikunnan aloitus yksin tuntuu haastavalta ja kaipaat ympärillesi samassa tilanteessa olevia ihmisiä, tämä kurssi on sinulle! Ryhmään ei vaadita minkäänlaista liikuntataustaa, mutta sinulla voi myös olla tilanne, että liikunta on hiipunut elämästä ja kaipaisit taas motivaatiota jatkaa liikettä. Ryhmä on sinulle, joka haluat saada varmuutta liikkeen lisäämiseen ja neuvoja oikeaan tekemiseen, sekä motivaatioon.
+Jos liikunnan ylläpito arjessa yksin tuntuu haastavalta ja kaipaat ympärillesi samassa tilanteessa olevia ihmisiä, tämä kurssi on sinulle! Ryhmään ei vaadita minkäänlaista liikuntataustaa, mutta sinulla voi myös olla tilanne, että liikunta on hiipunut elämästä ja kaipaisit taas tsemppiä liikkeessä pysymiseen. Ryhmä on sinulle, joka haluat saada varmuutta liikkeen aloittamiseen tai ylläpitämiseen, sekä kaipaat lempeää ja ohjattua liikettä pienryhmässä.
 
-Kurssi toteutetaan ajalla 7.3.-11.4.2022 MAANANTAISIN klo 19:05-20:00.
-Kurssin hinta 78€ (6 kertaa), tunnit toteutetaan pääasiassa Liikuntakeskus Ruukin tiloissa. Ryhmässä liikutaan myös kerran yhdessä ulkona, Kellokosken alueella. Teemme monipuolisesti ja matalalla kynnyksellä liikkuvuus- ja lihaskuntoharjoittelua koko keholle. Kurssi toteutetaan pienryhmänä ja siihen otetaan maksimissaan 7 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua liikkeelle! Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
+Kurssi toteutetaan ajalla 25.4.-20.6.2022 MAANANTAISIN klo 19:05-20:00.
+Kurssin hinta 117€ (9 kertaa), tunnit toteutetaan pääasiassa Liikuntakeskus Ruukin tiloissa. Kesän tullessa jos ryhmä toivoo, voidaan tunteja pitää myös ulkona lähipuistossa. Teemme monipuolisesti ja matalalla kynnyksellä liikkuvuus- ja lihaskuntoharjoittelua koko keholle. Tunneilla panostetaan oikeaan liiketekniikkaan ja opit miten teet liikkeitä turvallisesti ja järkevästi. Kurssi toteutetaan pienryhmänä ja siihen otetaan maksimissaan 8 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua pysymään liikkeessä! Ohjaajana toimii Hyvinvointivalmentaja ja Personal Trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/DVqFsiYxfwT9VUPc9){:target="_blank"} 
+[ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/3ADSXCQC2KAwyXE78){:target="_blank"} 
 
 #### PowerMethod
 
