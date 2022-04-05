@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Seniorin eloisa keho
-subtitle: Liikunnan iloa omaa kehoa kuunnellen
+subtitle: Liikunnan iloa & yhteisöllistä menoa!
 bigimg: img/a_sennujumppa.jpg
 formspree_comment: true
 comment_teksti: 'Kysy lisää seniorikurssista:'
 
 ---
-### **Seniorin eloisan kehon kurssi**  tuo arkeesi liikunnan iloa & yhteisöllisyyttä
+### **Seniorin eloisan kehon kurssi**  tuo arkeesi liikunnan iloa & lempeää yhteisöllisyyttä
 
 <p></p>
 <p class="otsikkolistapalkki">
@@ -21,18 +21,17 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 ![pienryhmä](/img/sennukurssi1.jpg "Eloisan kehon senioritreenit"){: .image-right :}
 
-Eloisan kehon seniorikurssilla vahvistat näitä ominaisuuksia, omaa kehoasi kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, ryhmäkoko max. 8 henkilöä. Hyppää mukaan, tämä kurssi tuo arkeesi yhteisöllisyyttä ja liikunnan iloa.  <br/><br/>
+Eloisan kehon seniorikurssilla vahvistat näitä ominaisuuksia, omaa kehoasi kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan rauhassa tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti ja järkevästi. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Ikää ei ole rajattu, jokainen on tervetullut joka tuntee kuuluvansa tähän ryhmään. Kyseessä on pienryhmä, ryhmäkoko max. 8 henkilöä. Hyppää mukaan, tämä kurssi tuo arkeesi yhteisöllisyyttä ja liikunnan iloa.  <br/><br/>
 
 ![Pienryhmätreeni](/img/sennukurssi2.jpg "seniorin eloisa keho"){: .image-left :}  
 
 ***SENIORIN ELOISA KEHO***
-treenaa ulkona Myllypuron alueella. Treenataan mm. kuntoportailla ja liikuntapuistossa.
+treenaa ulkona Myllypuron alueella. Treenataan mm. kuntoportailla ja liikuntapuistossa. Treenit ohjaa Hyvinvointivalmentaja, Personal Trainer ja Lähihoitaja Kati Mäkelä.
 
-Harjoitukset **TORSTAISIN** ajalla 21.4.-19.5.2022 **klo 12:00-12:45**  yhteensä 5 harjoitusta.
+Kurssipäivä **TORSTAISIN** ajalla 21.4.-19.5.2022 **klo 12:00-12:45**  yhteensä 5 harjoitusta.
 **Hinta: 49€** (sis. alv) maksetaan laskulla.  
 
-
-[ILMOITTAUDU SENIORIKURSSILLE TÄSTÄ](https://forms.gle/GqyggVh5pvWAvdXa8){:target="_blank"} 
+[ILMOITTAUDU SENIORIKURSSILLE TÄTÄ TEKSTILINKKIÄ PAINAMALLA](https://forms.gle/x88Ey4LGEXRwzzfD7){:target="_blank"} 
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
