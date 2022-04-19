@@ -83,12 +83,13 @@ Kevätkausi toteutetaan ajalla 12.4.-31.5.2022 TIISTAISIN klo 18:00-19:00.
 Kevätkauden hinta 116€ (8 kertaa), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 [ILMOITTAUDU TUNNEILLE TÄSTÄ](https://forms.gle/TYrAQ8f4cqtxHxjN9){:target="_blank"} 
+RYHMÄ ON TÄYTTYNYT, SUNNUNTAIN RYHMÄSSÄ VIELÄ TILAA, LISÄTIETOJA ALTA!
 
 #### PowerMethod 2
 
 PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohjelma, jonka tavoitteena on voiman lisäksi kehittää liikehallintaa ja liikkuvuutta, sekä ennaltaehkäistä tuki- ja liikuntaelinvaivoja. Tuki- ja voimaharjoittelun yhdistämisellä pystymme mahdollistamaan tehokkaan ja turvallisen harjoittelun. Tunnilla opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Menevä tunti, jota pystyt skaalaamaan oman kuntosi mukaan.
 
-PowerMethod 2 tunnille voit osallistua omana tuntinaan, tai ottaa sen toiseksi ohjatuksi tunniksi tiistain PoMe-tunnin lisäksi. Tunti on samankaltainen koko kehon toiminallinen tunti, ja siellä tehdään eri treeniohjelma kuin tiistaina.
+PowerMethod 2 tunnille voit osallistua omana tuntinaan, tai ottaa sen toiseksi ohjatuksi tunniksi tiistain PoMe-tunnin lisäksi. Tunti on samankaltainen koko kehon toiminallinen harjoitus, kehittäen voimaa, liikkuvuutta ja liikehallintaa.
 Kevätkausi toteutetaan ajalla 24.4.-12.6.2022 SUNNUNTAISIN klo 17:50-18:50.
 Kevätkauden hinta 116€ (8 kertaa), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
