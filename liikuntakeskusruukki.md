@@ -62,7 +62,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 \+  _Lisäohjaukset valmennusasiakkaille 64€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
 
-* _Valmennus, jossa tapaamiset 1krt/kk - 89€/kk (sis. alv)_  
+* _Valmennus, jossa tapaamiset 1krt/kk - 85€/kk (sis. alv)_  
  Suositellaan jatkopalveluna valmennusasiakkaille, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  
 <br/>
 
