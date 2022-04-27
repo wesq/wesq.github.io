@@ -25,7 +25,7 @@ Hoidon aikana palautumista tapahtuu niin fyysisesti, kuin henkisesti. Värähtel
 TULE HOITOON  
 Elokatsu tarjoaa Neurosonic-hoitoja kotitoimistolla Kellokoskella. Laita viestiä ja varaa aika hoitoon. Aluksi voit tulla vain kokeilemaan, mutta saavuttaaksesi hoidon pidempiä vaikutuksia, hoitoa suositellaan ottamaan säännöllisesti.
 
-**Hinnat;  
+**Hinnat: (sis. alv)  
 Kertakäynti 30€  
 5 kertaa 130€  
 10 kertaa 230€**  
