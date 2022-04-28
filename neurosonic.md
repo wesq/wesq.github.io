@@ -11,7 +11,7 @@ comment_teksti: "Kysy neurosonic-hoidosta / varaa aikaa hoitoon:"
 
 ***Neurosonic-hoito auttaa sinua palautumaan, lievittämään stressiä kehossasi, sekä nukkumaan laadukkaampaa unta. Olet lämpimästi tervetullut kokeilemaan hoitoa!❤️***
 
-Neurosonic tuottaa erittäin matalataajuista värähtelyä. Luonnollisena mekanismina värähtelyenergia vaikuttaa tasapainottavasti suoraan autonomiseen hermostoon. Neurosonic rentoutusmenetelmä ohjaa kehoa meditaation kaltaiseen tilaan, jolloin palautuminen nopeutuu ja tehostuu. Unen terveet mekanismit palautuvat ja samalla moni muukin asia kehossa ja mielessä saavat mahdollisuuden korjaantumiselle.
+Neurosonic hoitopatja tuottaa erittäin matalataajuista värähtelyä. Patjalle mennään makaamaan ja annetaan värähtelyn vaikuttaa kehossa. Luonnollisena mekanismina värähtelyenergia vaikuttaa tasapainottavasti suoraan autonomiseen hermostoon. Neurosonic rentoutusmenetelmä ohjaa kehoa meditaation kaltaiseen tilaan, jolloin palautuminen nopeutuu ja tehostuu. Unen terveet mekanismit palautuvat ja samalla moni muukin asia kehossa ja mielessä saavat mahdollisuuden korjaantumiselle.
 
 UNEN LAADUN PARANTAMINEN  
 Neurosonic vaikuttaa värähtelyn kautta rauhoittavasti kehoon, joka saa autonomisen hermoston käyntiin. Autonominen hermosto vastaa rentoutumisesta ja rauhoittumisesta, jolloin kehon stressihormonit vähenevät ja unimekanismit palautuvat. Ihmisen keho rauhoittuu, joka helpottaa nukahtamista. Myös yölliset heräämiset vähenevät, jolloin unesta tulee laadukkaampaa ja palauttavampaa.
@@ -23,14 +23,14 @@ PALAUTUMINEN
 Hoidon aikana palautumista tapahtuu niin fyysisesti, kuin henkisesti. Värähtely kasvattaa sykevälivaihtelua, joka tasapainottaa hermoston toimintaa. Keho rauhoittuu ja sitä korjaavat mekanismit pääsevät toimimaan. Myös lihasten verenkierto ja aineenvaihdunta palautuvat ennalleen nopeammin, ja lihasjännitys helpottuu.
 
 TULE HOITOON  
-Elokatsu tarjoaa Neurosonic-hoitoja kotitoimistolla Kellokoskella. Laita viestiä ja varaa aika hoitoon. Aluksi voit tulla vain kokeilemaan, mutta saavuttaaksesi hoidon pidempiä vaikutuksia, hoitoa suositellaan ottamaan säännöllisesti.
+Elokatsu tarjoaa Neurosonic-hoitoja kotitoimistolla Kellokoskella. Laita viestiä ja varaa aika hoitopatjalla rentoutumiseen. Aluksi voit tulla vain kokeilemaan, mutta saavuttaaksesi hoidon pidempiä vaikutuksia, hoitoa suositellaan ottamaan säännöllisesti.
 
 **Hinnat: (sis. alv)  
 Kertakäynti 30€  
 5 kertaa 130€  
 10 kertaa 230€**  
 
-Neurosonic -hoitoa ei tule vastaanottaa seuraavissa tilanteissa:
+Sinun ei tule vastaanottaa Neurosonic-hoitoa seuraavissa tilanteissa:
 
 Akuutti tulehdustila / Akuutti veritulppa / Aktiivinen syöpä / Flunssa ja kuume / Raskaus / Välilevyn pullistumat akuutissa vaiheessa / Vakava silmäsairaus (mykiön tai linssin irtoamisen vaara, silmäleikkaus) / Jos sinut on juuri avoleikattu tai sinulla on jokin muu verenvuodon vaara / Jos olet ottanut rokotuksen, älä käytä Neurosonicia 24-tuntiin rokotteen ottamisesta.
 
