@@ -25,13 +25,13 @@ Hoidon aikana palautumista tapahtuu niin fyysisesti, kuin henkisesti. Värähtel
 TULE HOITOON  
 Elokatsu tarjoaa Neurosonic-hoitoja kotitoimistolla Kellokoskella. Laita viestiä ja varaa aika hoitopatjalla rentoutumiseen. Aluksi voit tulla vain kokeilemaan, mutta saavuttaaksesi hoidon pidempiä vaikutuksia, hoitoa suositellaan ottamaan säännöllisesti.
 
-**Hinnat: (sis. alv)  
+**Hinnat: (sis. alv 24%)  
 Kertakäynti 30€  
 5 kertaa 130€  
 10 kertaa 230€**  
 
-Sinun ei tule vastaanottaa Neurosonic-hoitoa seuraavissa tilanteissa:
+Sinun EI tule vastaanottaa Neurosonic-hoitoa seuraavissa tilanteissa:
 
-Akuutti tulehdustila / Akuutti veritulppa / Aktiivinen syöpä / Flunssa ja kuume / Raskaus / Välilevyn pullistumat akuutissa vaiheessa / Vakava silmäsairaus (mykiön tai linssin irtoamisen vaara, silmäleikkaus) / Jos sinut on juuri avoleikattu tai sinulla on jokin muu verenvuodon vaara / Jos olet ottanut rokotuksen, älä käytä Neurosonicia 24-tuntiin rokotteen ottamisesta.
+Akuutti tulehdustila kehossa, flunssa & kuume, akuutti veritulppa, aktiivinen syöpä, raskaus, akuutit välilevyn pullistumat, vakava silmäsairaus (mykiön tai linssin irtoamisen vaara, silmäleikkaus), välittömästi avoleikkauksen jälkeen tai jos sinulla on jokin muu verenvuodon vaara, sekä rokotuksien jälkeinen vuorokausi.
 
 Voit tutustua [täältä](https://neurosonic.fi/){:target="_blank"} lisää Neurosonic-patjaan ja sen vaikutuksiin kehossa.
