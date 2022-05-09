@@ -111,10 +111,10 @@ Lapsen ikioma temppujumppa, jossa vauhdikas ja iloinen meininki! Tunnilla keski�
 
 Tämä kurssi on lapsen ikioma temppujumppa. Kuitenkin jos oma harrastus vielä vähän jännittää, voi ensimmäiselle tunnille ottaa oman aikuisen, tai vaikka oman pehmolelun turvaksi mukaan.
 
-Kurssi toteutetaan ajalla 1.3.-17.5.2022 TIISTAISIN klo 17:05-17:50.
-Kurssin hinta 118€ (12 jumppatuntia), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 7 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
+Kurssi toteutetaan ajalla 9.8.-29.11.2022 TIISTAISIN klo 17:00-17:45, EI jumppaa syyslomaviikolla, 18.10. tiistaina.
+Kurssin hinta 157€ (16 jumppatuntia), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 7 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/GWDtFm72UhujK8uf8){:target="_blank"} 
+[ILMOITTAUDU KURSSILLE TÄSTÄ](https://forms.gle/HsGSW8neEbzFvSrK6){:target="_blank"} 
 
 #### Firstbeat-Hyvinvointianalyysit
 
