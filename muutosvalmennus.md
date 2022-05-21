@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Uusi lempeä elo
+title: Muutosvalmennus
 subtitle: Hyvinvointi&shy;valmennus pienryhmässä muutoksesi tueksi
 bigimg: img/a_hyvinvointivalmennus.jpg
 formspree_comment: true
 comment_teksti: "Kysy lisää valmennuksesta:"
 ---
-### Uusi lempeä elo - _Hyvinvointi&shy;valmennus_ on muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi 
+### Muutokseen tähtäävä pienryhmävalmennus Sinun hyvinvointisi tueksi 
 <p></p>
 <p class="otsikkolistapalkki">LIIKUNNAN ILO - UNI&PALAUTUMINEN - RAVINTO  - HYVINVOIVA KEHO - LEMPEÄMPI ELO</p>
 
-![Uusi lempeä elo porukka vauhdissa](./img/pienryhmatreenit_6.jpg){: .image-right :}
-#### Uusi lempeä elo  
-Uusi lempeä elo on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! 
+![Muutosvalmennuksen porukka vauhdissa](./img/pienryhmatreenit_6.jpg){: .image-right :}
+#### Muutosvalmennus  
+Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! 
 
 ![Ravitsemus](/img/monipuolinenravitsemus.jpg "Ravinto"){: .image-left :}
 <br/>
@@ -31,16 +31,15 @@ Valmennus sisältää yhteistä liikettä, kehonhuoltoa, palautumisen tukemista,
 
 **Tarkemmat tiedot toteutuksesta:** 
 
-Valmennus alkaa keväällä 2022 ja se toteutetaan Perjantaisin klo 17:30-19:00, ryhmätapaamiset 2 kertaa kuukaudessa. Tarkempi aikataulu selviää myöhemmin. Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennusta. Lisäksi
+Uusi ryhmä käynnistyy 2023 tammikuussa!  
+Tarkempi aikataulu ilmoitetaan myöhemmin.  
+Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennusta. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
-
-RYHMÄ KOKOONTUU NIKKILÄSSÄ, [Sipoon hyvinvointikeskus](https://www.sipoonhierontajahyvinvointi.fi/){:target="_blank"} tiloissa
-os. Iso Kylätie 9, 2krs. käynti takapihan puolelta.
 
 **Valmennus sisältää:**
 
 
-- Ryhmätapaamiset 2x/kk - 90 min./kerta (aikataulu yllä)
+- Ryhmätapaamiset 2x/kk - 90 min./kerta (aikataulu tarkentuu myöhemmin)
 - Henkilökohtaiset valmennustapaamiset 45 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
@@ -56,8 +55,6 @@ os. Iso Kylätie 9, 2krs. käynti takapihan puolelta.
 Voit maksaa myös yleisimmillä liikuntaeduilla.
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 64€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).
-
-ILMOITTAUDU VALMENNUKSEEN [Sipoon hyvinvointikeskuksen ajanvarauksen](https://www.varaaheti.fi/sipoonhyvinvointi/fi){:target="_blank"} LINKKIÄ PAINAMALLA
 
 **Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.**
 <br/>

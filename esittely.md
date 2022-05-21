@@ -27,7 +27,7 @@ Hyvinvoinnin puolella toivon voivani tuoda enemmän lempeyttä ja pysähtymistä
 Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin tarkastelu ja  merkitys arjessa.
 
 
-**Koulutukseltani** olen **lähihoitaja**, **hyvinvointivalmentaja** ja **personal trainer**. Hyvinvointivalmentajan opinnot (Riveria) ovat sisältäneet hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja henkisen hyvinvoinnin valmennusta. Personal Trainer opinnot olen suorittanut Kisakallion Urheiluopistossa.
+**Koulutukseltani** olen **lähihoitaja**, **hyvinvointivalmentaja** ja **personal trainer**. Hyvinvointivalmentajan opinnot (Riveria) ovat sisältäneet hyvinvointivalmennuksen lisäksi kuntosaliohjausta ja ryhmäliikunnanohjausta, sekä palautumisen ja psyykkisen hyvinvoinnin valmennusta. Personal Trainer opinnot olen suorittanut Kisakallion Urheiluopistossa.
 **Lisäksi olen lukenut** avoimessa yliopistossa **ravitsemustieteen, sekä liikuntapsykologian perusopinnot**. Olen myös lisäkouluttanut itseäni mm. **PowerMethod- ja FasciaMethod-valmentaja**ksi. Koulutan jatkuvasti itseäni oppiakseni uutta, ja tällä hetkellä opiskelen Kisakallion urheiluopistossa liikunnan ammattitutkintoa, josta valmistun 2022 **liikuntaneuvojaksi**.
 <br>
 <br>

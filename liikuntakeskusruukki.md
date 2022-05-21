@@ -6,7 +6,7 @@ formspree_comment: true
 comment_teksti: "Jäikö sinulle kysymyksiä? Kysy lisää palveluista:"
 bigimg: img/a_Liikuntakeskus_Ruukki.jpg
 ---
-### Hyvinvointivalmennusta Kellokoskella Sinun tarpeisiisi
+### Liikuntakeskus Ruukki & elokatsu Kellokoskella Sinua varten
 
 <p></p>
 <p class="otsikkolistapalkki">HYVÄÄ OLOA & LIIKUNNAN ILOA</p>

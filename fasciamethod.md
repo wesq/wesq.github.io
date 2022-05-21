@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FasciaMethod
-subtitle: FasciaMethod - ETÄvalmennus 4.-25.2.2022
+subtitle: FasciaMethod - etänä suoraan kotiisi!
 
 formspree_comment: true
 comment_teksti: Kysy lisätietoja valmennuksesta
@@ -21,11 +21,13 @@ TUNNE LIIKKEEN VAPAUTTAVA VOIMA KEHOSSASI
 *Kankea ja vetämätön olo? Pitäisi saada liikettä päiviin, mutta mitä sitä tekisi? Ja yksin ei kuitenkaan tule kotona oikein tehtyä... Kuulostaako tutulta?
 Miltä kuulostaisi säännöllisesti kotiin tulevat liikkuvuusharjoitteet, joissa valmentaja tekee kokoajan mukanasi opastaen ja motivoiden?*
 
-FasciaMethod – ETÄvalmennus tuo harjoitukset kotiisi verkon välityksellä! Se sisältää kerran viikossa 40 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitus ohjataan livenä perjantaisin klo 16:00, ihana aloitus siis viikonlopulle! Lisäksi kaikki harjoitukset jäävät tallenteena ryhmään 6.3.2022 asti. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii!
+FasciaMethod – ETÄvalmennus tuo harjoitukset kotiisi verkon välityksellä! Se sisältää kerran viikossa 40 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitus ohjataan livenä Facebookin välityksellä. Lisäksi kaikki harjoitukset jäävät tallenteena suljettuun ryhmään valmennuksen ajaksi. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii!
 
-**Valmennus ajalla 4.-25.2022** + tallenteet katsottavissa 6.3.2022 asti <br/>
-**Sisältö:** 1 krt/vko 40 minuutin FaMe-ohjaus ( yht. 4 kertaa )<br/>
-**Hinta:** 24€ (sis. alv) - maksu ensisijaisesti Mobilepaylla tai liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), halutessasi saat myös laskun
+**Valmennus ajalla:** uusi ryhmä käynnistyy syksyllä 2022 <br/>
+**Sisältö:** 1 krt/vko 40 minuutin FaMe-ohjaus ( yht. 8 kertaa )<br/>
+**Hinta:** 48€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), tai laskulla
+
+**FasciaMethod tunnit pyörivät myös lähitunteina Kellokoskella Liikuntakeskus Ruukissa**, tutustu tarjontaan [täältä](/liikuntakeskusruukki).
 
 ### Mitä on FasciaMethod?
 
@@ -38,8 +40,6 @@ suunnattuja liikehallinta- ja liikkuvuusharjoitteita, sekä hyödynnämme hieron
 Harjoittelua rytmitetään hengityksellä. 
 
 Harjoituksia varten tarvitset noin jumppamaton verran tilaa, sekä kovan fasciapallon. Voit hyvin tehdä pallohieronnan myös tennispallolla, tai jättää sen halutessasi myös välistä ja rentoutua ja hengitellä sen aikaa. 
-
-[ILMOITTAUDU VALMENNUKSEEN TÄTÄ TEKSTILINKKIÄ PAINAMALLA (aukeaa erillinen ilmoittautumiskaavake)](https://forms.gle/uiJZhkxpU8GkTwGHA){:target="_blank"} 
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue ryhmien valmennusehdot tästä](/valmennusehdot)
