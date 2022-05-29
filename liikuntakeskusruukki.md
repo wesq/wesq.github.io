@@ -20,8 +20,8 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [PowerMethod TI](#powermethod-ti)
  - [PowerMethod SU](#powermethod-su)
  - [FasciaMethod](#fasciamethod)
- - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
  - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
+ - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
 
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
 
@@ -142,7 +142,7 @@ Tämä kurssi on lapsen ikioma temppujumppa. Kuitenkin jos oma harrastus vielä 
 
 Temppujumpailut jatkuvat syksyllä tiistaisin!
 **Syyskausi** toteutetaan ajalla **9.8.-29.11.2022 TIISTAISIN klo 17:00-17:45** (EI jumppaa syyslomaviikolla, 18.10. tiistaina).
-Kurssin hinta 157€ (16 jumppatuntia), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 7 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
+Kurssin hinta 157€ (16 jumppatuntia), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
 [ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/HsGSW8neEbzFvSrK6){:target="_blank"} 
 
