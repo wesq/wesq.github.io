@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kesä 2022
+title: Kesä & Syksy 2022
 subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: 'Haluaisitko kysyä jotain ajankohtaisista asioista?'
@@ -8,7 +8,9 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **Eloisan kehon kesätreenit jatkuvat juhannukseen asti Kellokoskella & Myllypurossa [tarkemmat tiedot täältä](/pienryhmatreeni), ilmoittaudu mukaan NYT!**
+* **Eloisan kehon kesätreenit & syyskausi jatkuvat Kellokoskella & Myllypurossa, [tarkemmat tiedot täältä](/pienryhmatreeni), ilmoittaudu mukaan NYT!**
+
+* **Kellokosken Liikuntakeskus Ruukissa jatkuvat syksyllä PowerMethod, FasciaMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät, [tutustu tarjontaan täältä](/liikuntakeskusruukki), ja varaa paikkasi pienryhmästä NYT!**
 
 * **Kaipaatko valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
@@ -21,5 +23,5 @@ bigimg: img/a_syksy.jpg
 
 * **Poikkeusolosuhteet:**
 
-Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Rajoitusten myötä elokatsun palveluita voidaan toteuttaa joustavasti ulkona ja etänä. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Eloisan kehon treenarit treenaa ulkona, ja muut pienryhmävalmennukset ja yksilövalmennukset toteutetaan turvallisesti suositusten mukaisesti sisällä ja ulkona asiakkaiden toivomalla tavalla. Joustavat tavat harrastaa tulevat jatkumaan elokatsun yksilöasiakkaiden ja pienryhmien osalta myös jatkossa. Tulethan valmennuksiin vain täysin terveenä.
+Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Rajoitusten myötä elokatsun palveluita voidaan toteuttaa joustavasti myös ulkona ja etänä. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Eloisan kehon treenarit treenaa ulkona, ja muut pienryhmävalmennukset ja yksilövalmennukset toteutetaan turvallisesti suositusten mukaisesti sisällä ja ulkona asiakkaiden toivomalla tavalla. Joustavat tavat harrastaa tulevat jatkumaan elokatsun yksilöasiakkaiden ja pienryhmien osalta myös jatkossa. Tulethan valmennuksiin vain täysin terveenä.
 [Tutustu toiminnan ehtoihin tästä](/valmennusehdot), kun käytät elokatsun palveluita, sitoudut noudattamaan näitä valmennusehtoja.
