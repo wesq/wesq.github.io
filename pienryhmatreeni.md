@@ -23,21 +23,15 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulle kehität perusvoimaa ja liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, ja ryhmissä on 9-10 paikkaa riippuen ryhmästä.  <br/><br/>
 
-**2022 KESÄN & SYKSYN ULKOTREENIRYHMÄT MYYNNISSÄ NYT, VARAA OMA PAIKKASI LINKISTÄ "ILMOITTAUDU PIENRYHMÄÄN TÄSTÄ"!** <br/><br/>
+**2022 SYKSYN ULKOTREENIRYHMIEN ILMOITTAUTUMINEN ON AUKI, VARAA OMA PAIKKASI LINKISTÄ "ILMOITTAUDU PIENRYHMÄÄN TÄSTÄ"!** <br/><br/>
 
 ![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "Kellokosken pienryhma"){: .image-left :}
 
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
-treenaa ulkona Kellokosken alueella. (Kovalla rankkasateella tai ukkosella harjoitus tapahtuu etänä Google meetin välityksellä.)
-
-Valmennus **MAANANTAISIN** ajalla 30.5.-20.6.2022 **klo 17:30-18:30**  yhteensä 4 harjoitusta.
-**Hinta: 47€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
-
- 
-[ILMOITTAUDU KELLOKOSKEN KESÄRYHMÄÄN TÄSTÄ](https://forms.gle/29UDhJrAgGjgxYDq7){:target="_blank"}  
+treenaa ulkona Kellokosken alueella. (Kovalla pakkasella tai rankkasateella harjoitus tapahtuu etänä Google meetin välityksellä.) 
 
 SYYSKAUSI **MAANANTAISIN** ajalla 1.8.-28.11.2022 **klo 17:30-18:30**  yhteensä 17 harjoitusta, EI treenejä 17.10. MA.
-**Hinta: 200€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.
+**Hinta: 200€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
 [ILMOITTAUDU KELLOKOSKEN SYYSKAUDELLE TÄSTÄ](https://forms.gle/mRygm14ZicwjutoTA){:target="_blank"} 
 <br/><br/>
@@ -46,16 +40,10 @@ SYYSKAUSI **MAANANTAISIN** ajalla 1.8.-28.11.2022 **klo 17:30-18:30**  yhteensä
 ![Pienryhmätreeni](/img/myllypuro.jpg "Myllypuron pienryhmä"){: .image-right :}
 
 ***HELSINGIN MYLLYPURON RYHMÄ***
-treenaa ulkona Myllypuron alueella. (Kovalla rankkasateella tai ukkosella harjoitus tapahtuu etänä Google meetin välityksellä.)
-
-Valmennus **TORSTAISIN** ajalla 2.-22.6.2022 **klo 17:15-18:15**  yhteensä 4 harjoitusta, POIKKEUKSET: vko 23 treenit klo 19-20 & vko 25 treenit keskiviikkona.
-**Hinta: 47€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.  
-
-
-[ILMOITTAUDU MYLLYPURON KESÄRYHMÄÄN TÄSTÄ](https://forms.gle/Z2DFLkzScLMYoGKCA){:target="_blank"}  
+treenaa ulkona Myllypuron alueella. (Kovalla pakkasella tai rankkasateella harjoitus tapahtuu etänä Google meetin välityksellä.)
 
 SYYSKAUSI **TORSTAISIN** ajalla 4.8.-1.12.2022 **klo 17:15-18:15**  yhteensä 17 harjoitusta, EI treenejä 20.10. TO.
-**Hinta: 200€** (sis. alv) voidaan maksaa laskulla, sekä yleisimmillä liikuntaeduilla.
+**Hinta: 200€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
 [ILMOITTAUDU MYLLYPURON SYYSKAUDELLE TÄSTÄ](https://forms.gle/MBCwV4WkqGv5o46y6){:target="_blank"} 
 <br/><br/>
