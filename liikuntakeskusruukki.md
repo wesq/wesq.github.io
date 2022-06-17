@@ -60,12 +60,13 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 * _9-11 kk Hyvinvointivalmennus 159€/kk (sis. alv)_
    <br/>
 * _12 -> kk Hyvinvointivalmennus 155€/kk (sis. alv)_ 
+   <br/>
+* _Valmennus, jossa tapaamiset 1krt/kk - 85€/kk (sis. alv)_  
+ Suositellaan erityisesti jatkopalveluna tai muuhun pienempään valmennustarpeeseen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  
 
+ 
 \+  _Lisäohjaukset valmennusasiakkaille 64€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
-
-* _Valmennus, jossa tapaamiset 1krt/kk - 85€/kk (sis. alv)_  
- Suositellaan jatkopalveluna valmennusasiakkaille, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  
 <br/>
 
 #### Lempeästi liikkeessä
@@ -107,7 +108,7 @@ PowerMethod tunnit jatkuvat syksyllä tiistai-illoissa!
 **Syyskausi** toteutetaan ajalla **9.8.-29.11.2022 TIISTAISIN klo 18:00-19:00** (EI tuntia syyslomaviikolla 18.10. tiistaina).
 Kevätkauden hinta 232€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/YSC1A1wcQ1mEAgu5A){:target="_blank"} 
+RYHMÄ ON TÄYTTYNYT, MUIHIN POWERMETHOD RYHMIIN VIELÄ TILAA 
 
 #### PowerMethod SU
 
