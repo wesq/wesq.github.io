@@ -30,7 +30,7 @@ treenaa ulkona Myllypuron alueella. Treenataan mm. kuntoportailla ja liikuntapui
 
 **SYYSKAUSI** ajalla **4.8.-13.10.2022**.  
 Jumppapäivä **TORSTAISIN** Kklo **12:00-12:45**.  
-**Hinta: 107€** (sis. alv) maksetaan laskulla (11 kertaa).  
+**Hinta: 99€** (sis. alv) maksetaan laskulla (11 kertaa).  
 
 [ILMOITTAUDU SYYSKAUDELLE TÄTÄ TEKSTILINKKIÄ PAINAMALLA](https://forms.gle/4qzcpqpuDJ2EMsbK7){:target="_blank"} 
 <br/><br/>
