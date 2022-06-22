@@ -14,13 +14,12 @@ bigimg: img/a_yksityistunnit.jpg
 ![liikuntasynttärit](/img/liikutasynttarit.jpg "Lasten liikuntasynttärit"){: .image-right :}
 **_Järjestä lapsellesi unohtumattomat liikuntasynttärit omalla lempiteemalla!_**
 
-Elokatsu järjestää yhteistyössä [Sipoon hyvinvointikeskus](https://www.sipoonhierontajahyvinvointi.fi/) kanssa yksilöllisesti räätälöityjä lasten liikuntasynttäreitä Sipoon Nikkilässä. Hauskat ja muistorikkaat synttärit järjestät helposti studiolla oman teeman mukaisesti. Saat tunnin liikunnallisen ohjatun ohjelman, jonka jälkeen tila on käytössäsi herkutteluun ja muuhun vapaaseen toimintaan.
-Tulen myös luoksesi, tai autan sinua löytämään sopivan tilan, palvelu ja hinta muodostuvat tarpeidesi mukaan.
+Hauskat ja muistorikkaat liikuntasynttärit järjestät helposti ammattilaisen ohjaamana oman teeman mukaisesti. Palveluun kuuluu suunnittelu yhteistyössä tilaajan kanssa, sekä liikuntaohjelman ohjaaminen valitsemassasi paikassa. Tulen luoksesi, tai autan sinua löytämään sopivan tilan, palvelu ja hinta muodostuvat tarpeidesi mukaan.
 
 ![yksityistunnit](/img/raataloidyt_tunnit.jpg "Suunnittele oma yksityistunti"){: .image-left :}
 **_Paritreenit, perhetreenit, polttarit ja muut yksityistunnit_**
 
-Voit myös suunnitella kanssani yksityistunnin täysin omiin tarpeisiisi. Treenit puolison tai perheen kesken, tai vaikka unohtumattomat aikuisten synttärit tai polttarit, jossa liikunnallista aktiviteettia. Studio tarjoaa hyvät puitteet, ja mieluisan aktiviteetin kanssa räätälöimme yhdessä toimivan paketin mm. lempeää kehonhuoltoa tai toiminnallista harjoittelua. Kysy mahdollisuutta myös ulkona tapahtuville yksityistunneille!
+Voit myös suunnitella kanssani erilaisia yksityistunteja täysin omiin tarpeisiisi. Treenit puolison tai perheen kesken, tai vaikka unohtumattomat aikuisten synttärit tai polttarit, jossa liikunnallista aktiviteettia. Yhteistyötahoni Sipoon Hyvinvointikeskus Nikkilässä tai Liikuntakeskus Ruukki Kellokoskella tarjoaa hyvät puitteet, ja mieluisan aktiviteetin kanssa räätälöimme yhdessä toimivan paketin mm. lempeää kehonhuoltoa tai toiminnallista harjoittelua. Kysy mahdollisuutta myös ulkona tapahtuville yksityistunneille ja erilaisille ohjatuille aktiviteeteille!
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue ryhmien valmennusehdot tästä](/valmennusehdot)
