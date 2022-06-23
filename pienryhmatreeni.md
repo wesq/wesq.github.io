@@ -23,7 +23,7 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulle kehität perusvoimaa ja liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, ja ryhmissä on 9-10 paikkaa riippuen ryhmästä.  <br/><br/>
 
-**2022 SYKSYN ULKOTREENIRYHMIEN ILMOITTAUTUMINEN ON AUKI, VARAA OMA PAIKKASI LINKISTÄ "ILMOITTAUDU PIENRYHMÄÄN TÄSTÄ"!** <br/><br/>
+**2022 SYKSYN ULKOTREENIRYHMIEN ILMOITTAUTUMINEN ON AUKI, VARAA OMA PAIKKASI LINKISTÄ "ILMOITTAUDU SYYSKAUDELLE TÄSTÄ"!** <br/><br/>
 
 ![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "Kellokosken pienryhma"){: .image-left :}
 
@@ -45,7 +45,7 @@ treenaa ulkona Myllypuron alueella. (Kovalla pakkasella tai rankkasateella harjo
 SYYSKAUSI **TORSTAISIN** ajalla 4.8.-1.12.2022 **klo 17:15-18:15**  yhteensä 17 harjoitusta, EI treenejä 20.10. TO.
 **Hinta: 200€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
-[ILMOITTAUDU MYLLYPURON SYYSKAUDELLE TÄSTÄ](https://forms.gle/MBCwV4WkqGv5o46y6){:target="_blank"} 
+RYHMÄ ON TÄYTTYNYT
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  

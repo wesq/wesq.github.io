@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kesä & Syksy 2022
+title: Syksy 2022
 subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: 'Haluaisitko kysyä jotain ajankohtaisista asioista?'
