@@ -33,7 +33,7 @@ treenaa ulkona Kellokosken alueella. (Kovalla pakkasella tai rankkasateella harj
 SYYSKAUSI **MAANANTAISIN** ajalla 1.8.-28.11.2022 **klo 17:30-18:30**  yhteensä 17 harjoitusta, EI treenejä 17.10. MA.
 **Hinta: 200€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
-[ILMOITTAUDU KELLOKOSKEN SYYSKAUDELLE TÄSTÄ](https://forms.gle/mRygm14ZicwjutoTA){:target="_blank"} 
+RYHMÄ ON TÄYTTYNYT
 <br/><br/>
 <br/><br/>
 <br/><br/>
