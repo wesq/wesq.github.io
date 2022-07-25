@@ -131,7 +131,7 @@ Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää 
  
 FasciaMethod tunnit käynnistyvät syksyllä tiistai-illoissa!  
 **Syyskausi** toteutetaan ajalla **9.8.-29.11.2022 TIISTAISIN klo 19:10-20:00** (EI tuntia syyslomaviikolla 18.10. tiistaina).
-Kevätkauden hinta 192€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 6 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
+Kevätkauden hinta 192€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 [ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/z4Bjz4VR2aDjgg9M6){:target="_blank"} 
 
