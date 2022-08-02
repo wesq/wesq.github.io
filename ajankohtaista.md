@@ -8,15 +8,17 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
+* **Kellokosken Liikuntakeskus Ruukissa jatkuvat syksyllä PowerMethod, FasciaMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät, [tutustu tarjontaan täältä](/liikuntakeskusruukki), ja varaa paikkasi pienryhmästä NYT!**
+
 * **Eloisan kehon ulkotreenit jatkuvat syksyllä Kellokoskella & Myllypurossa, [tarkemmat tiedot täältä](/pienryhmatreeni), ilmoittaudu mukaan NYT!**
 
 * **Seniorien eloisan kehon ulkotreenit saavat myös jatkoa syksyllä 11 kerran kurssina,  [tarkemmat tiedot täältä](/seniorikurssi), josta voit ilmoittautua mukaan ryhmään!**
 
-* **Kellokosken Liikuntakeskus Ruukissa jatkuvat syksyllä PowerMethod, FasciaMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät, [tutustu tarjontaan täältä](/liikuntakeskusruukki), ja varaa paikkasi pienryhmästä NYT!**
+* **Kaipaatko valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? Tai haluaisitko treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
-* **Kaipaatko valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
+* **Tiedätkö miten palaudut arjessasi? Osaatko rytmittää treenisi järkevästi? Firstbeat-Hyvinvointianalyysilla voimme selvittää näitä asioita, [tutustu Firstbeat-Hyvinvointianalyysiin täältä](/firstbeat)**
 
-* **Tiedätkö miten palaudut arjessasi? Osaatko rytmittää treenisi järkevästi? Firstbeat-Hyvinvointianalyysilla voimme selvittää näitä asioita, [tutustu Firstbeat-Hyvinvointianalyysiin täältä](/firstbeat)**  
+* **Jos palautumisen, unen, stressinhallinnan tai kehon kiputilojen kanssa on haasteita, elokatsun uudesta palvelusta, neurosonic-hoidosta voisit saada apua tilanteeseesi. Neurosonic-hoitopatjalla on saatu hyviä tuloksia mm. näissä haasteissa, [tutustu palveluun täältä](/neurosonic)**  
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
   

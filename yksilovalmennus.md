@@ -13,10 +13,12 @@ bigimg: img/a_yksilovalmennukset.jpg
 <p class="otsikkolistapalkki">HYVÄÄ OLOA & ENERGIAA ARKEESI</p>
 
 _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi?  
-Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika ilmaiseen hyvinvointikartoitukseen, niin voimme yhdessä miettiä, mikä kokonaisuus palvelisi Sinua parhaiten!_
+Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika maksuttomaan hyvinvointikartoitukseen, niin voimme yhdessä miettiä, mikä kokonaisuus palvelisi Sinua parhaiten!_
+
+[VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
 ![Yksilövalmennus](/img/yksilo_ohjaus.jpg "Yksilövalmennus"){: .image-right :}
-**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita ohjelmaratkaisuja. Autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Muutoksen tekemisessä autan sinua pohtimaan mikä sinulle on tärkeää, mitkä valinnat ylläpitävät hyvinvointiasi, ja mistä tavoista olisi hyvä luopua. Muutos vaatii aina myös luopumista, ja näitäkin teemoja käsittelemme hyvinvointivalmennuksissa. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia. Olen rinnallakulkijasi, matkallasi muutokseen.**
+**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita pakettiratkaisuja. Autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Muutoksen tekemisessä autan sinua pohtimaan mikä sinulle on tärkeää, mitkä valinnat ylläpitävät hyvinvointiasi, ja mistä tavoista olisi hyvä luopua. Muutos vaatii aina myös luopumista, ja näitäkin teemoja käsittelemme hyvinvointivalmennuksissa. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia. Olen rinnallakulkijasi, matkallasi muutokseen.**
 
 <br/>
 KAIKKI OHJAUKSET JA VALMENNUKSET VOIT MAKSAA LASKUN LISÄKSI MYÖS YLEISIMMILLÄ LIIKUNTAEDUILLA: Edenred, ePassi, Smartum, eazybreak.
@@ -67,7 +69,11 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
   Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (treeni/hyvinvoiva keho, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
   \+ paketti sisältää kirjallisen ohjeen / treeniohjelman / liikuntasuunnitelman
-  + ohjauspaketit eivät sisällä etätukea, kuten pitkäkestoisemmat valmennukset!
+* **_Viikottainen treeniohjaus 199€/kk (sis. alv)_**   
+  Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x4/kk
+  Treeniohjauspakettiin sisältyy treenit valmentajan kanssa kerran viikossa suunnitelmallisen tavoitteitasi tukevan treeniohjelman mukaan. Kyseinen palvelu on toteutettavissa vain Kellokosken alueella; elokatsun kotitoimiston kuntosalilla, kotonasi, tai ulkona. Paketin minimiaika 1 kuukausi, voidaan ostaa kuukausi kerrallaan. Kyseinen paketti sisältää vain treeniohjaukset valmentajan suunnittelemalla ohjelmalla, paketti ei sisällä muiden treenien suunnittelua tai lisätreeniohjelmia. Pakettiin voidaan räätälöidä asiakkaan toiveiden mukaisesti myös tällaisia lisäpalveluita, joiden hinta määrittyy palvelun mukaan.
+
+  + ohjauspaketit eivät sisällä etätukea, kuten pitkäkestoisemmat hyvinvointivalmennukset!
 
 ![yksilovalmennus](/img/yksilovalmennus_1.jpg "Yksilövalmennus"){: .center-block :}
 
