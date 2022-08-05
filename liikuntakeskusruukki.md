@@ -97,7 +97,7 @@ PowerMethod tunnit jatkuvat syksyllä tiistai-illoissa!
 **Syyskausi** toteutetaan ajalla **9.8.-29.11.2022 TIISTAISIN klo 18:00-19:00** (EI tuntia syyslomaviikolla 18.10. tiistaina).
 Kevätkauden hinta 232€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-RYHMÄ ON TÄYTTYNYT, MUIHIN POWERMETHOD RYHMIIN VIELÄ TILAA 
+[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/NLg2Eh8ehPtH9vVG6){:target="_blank"} 
 
 #### PowerMethod SU
 
@@ -107,7 +107,7 @@ PowerMethod tunnit jatkuvat syksyllä sunnuntai-illoissa!
 **Syyskausi** toteutetaan ajalla **7.8.-27.11.2022 SUNNUNTAISIN klo 17:45-18:45** (EI tuntia syyslomaviikolla 16.10. sunnuntaina).
 Kevätkauden hinta 232€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/5UJXJ2fBKJNgwRiV8){:target="_blank"} 
+RYHMÄ ON TÄYTTYNYT
 
 #### FasciaMethod
 
