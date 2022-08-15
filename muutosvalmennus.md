@@ -24,7 +24,7 @@ työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä 
 !["Hyvinvointivalmennus"](/img/uusilempeaelo-hyvinvointivalmennus.jpg "Uusi lempeä elo - hyvinvointivalmennus"){: .image-right :}
 **Tavoitteena on löytää Sinua tukeva kokonaisuus, jotta sinä voit voida paremmin.
 Omat tavoitteesi muutoksen suhteen ovat keskiössä.** Teemme matkaa yhdessä, mutta jokainen omista tavoitteistaan käsin.
-Valmennus sisältää yhteistä liikettä, kehonhuoltoa, palautumisen tukemista, ravinnon merkitystä, henkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisemmän tuen takaamiseksi ryhmään otetaan vain max. 8 osallistujaa. Ryhmä toteutuu min. 4:llä osallistujalla.
+Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen priorisointia, keskustelua, yhteistä liikettä ja kehonhuoltoa, palautumisen tukemista, oman ravinnon tarkastelua, henkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisemmän tuen takaamiseksi ryhmään otetaan vain max. 8 osallistujaa. Ryhmä toteutuu min. 4:llä osallistujalla.
 <br/><br/>
 !["Uusi lempeä elo"](/img/uusilempeaelo4.jpg "Rentoutuminen"){: .center-block :}
 > Pysähtymisen & rentoutumisen kautta lisää hyvinvointia.  
@@ -33,13 +33,13 @@ Valmennus sisältää yhteistä liikettä, kehonhuoltoa, palautumisen tukemista,
 
 Uusi ryhmä käynnistyy 2023 tammikuussa!  
 Tarkempi aikataulu ilmoitetaan myöhemmin.  
-Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennusta. Lisäksi
+Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
 
 **Valmennus sisältää:**
 
 
-- Ryhmätapaamiset noin 2x/kk - 75 min./kerta (aikataulu tarkentuu myöhemmin)
+- Ryhmätapaamiset noin 2x/kk - 75 min./kerta (x12, aikataulu tarkentuu myöhemmin)
 - Henkilökohtaiset valmennustapaamiset 45 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
