@@ -39,7 +39,7 @@ ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuu
 **Valmennus sisältää:**
 
 
-- Ryhmätapaamiset 2x/kk - 90 min./kerta (aikataulu tarkentuu myöhemmin)
+- Ryhmätapaamiset noin 2x/kk - 75 min./kerta (aikataulu tarkentuu myöhemmin)
 - Henkilökohtaiset valmennustapaamiset 45 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
