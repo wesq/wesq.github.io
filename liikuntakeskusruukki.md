@@ -76,7 +76,7 @@ Pysymme lempeästi liikkeessä tulevanakin syksynä!
 **Syyskausi** toteutetaan ajalla **8.8.-28.11.2022 MAANANTAISIN klo 19:05-20:00** (EI tuntia syyslomaviikolla 17.10. maanantaina).
 Ryhmän hinta 208€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua pysymään liikkeessä! Ohjaajana toimii Hyvinvointivalmentaja ja Personal Trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/n9kmEPXPAp5tW8cN9){:target="_blank"} 
+[RYHMÄSSÄ 1 VAPAA PAIKKA, ILMOITTAUDU TÄSTÄ](https://forms.gle/n9kmEPXPAp5tW8cN9){:target="_blank"} 
 
 #### PowerMethod AAMU
 
@@ -87,7 +87,7 @@ PowerMethod tunnit käynnistyvät nyt myös arkiaamussa!
 **Kurssi** toteutetaan ajalla **16.8.-4.10.2022 TIISTAISIN klo 9:30-10:30**.
 Kurssin hinta 116€ (8 kertaa), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/KY5ZYo64AF1s5je58){:target="_blank"} 
+[RYHMÄSSÄ VIELÄ TILAA, ILMOITTAUDU TÄSTÄ](https://forms.gle/KY5ZYo64AF1s5je58){:target="_blank"} 
 
 #### PowerMethod TI
 
@@ -122,7 +122,7 @@ FasciaMethod tunnit käynnistyvät syksyllä tiistai-illoissa!
 **Syyskausi** toteutetaan ajalla **9.8.-29.11.2022 TIISTAISIN klo 19:10-20:00** (EI tuntia syyslomaviikolla 18.10. tiistaina).
 Kevätkauden hinta 192€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/z4Bjz4VR2aDjgg9M6){:target="_blank"} 
+[RYHMÄSSÄ 2 VAPAATA PAIKKAA, ILMOITTAUDU TÄSTÄ](https://forms.gle/z4Bjz4VR2aDjgg9M6){:target="_blank"} 
 
 #### Temppujumppa 4-6v.
 
@@ -134,7 +134,7 @@ Temppujumpailut jatkuvat syksyllä tiistaisin!
 **Syyskausi** toteutetaan ajalla **9.8.-29.11.2022 TIISTAISIN klo 17:00-17:45** (EI jumppaa syyslomaviikolla, 18.10. tiistaina).
 Kurssin hinta 157€ (16 jumppatuntia), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/HsGSW8neEbzFvSrK6){:target="_blank"} 
+RYHMÄ ON TÄYTTYNYT 
 
 #### Firstbeat-Hyvinvointianalyysit
 
