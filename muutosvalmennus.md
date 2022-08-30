@@ -18,20 +18,20 @@ Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen
 <br/>
 Valmennuksessa käymme läpi
 oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
-millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista, sekä vähentää stressiä. Valmennuksessa
+millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista, ja vähentää stressiä. Valmennuksessa
 työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia.
 <br/><br/>
 !["Hyvinvointivalmennus"](/img/uusilempeaelo-hyvinvointivalmennus.jpg "Uusi lempeä elo - hyvinvointivalmennus"){: .image-right :}
 **Tavoitteena on löytää Sinua tukeva kokonaisuus, jotta sinä voit voida paremmin.
 Omat tavoitteesi muutoksen suhteen ovat keskiössä.** Teemme matkaa yhdessä, mutta jokainen omista tavoitteistaan käsin.
-Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen priorisointia, keskustelua, yhteistä liikettä ja kehonhuoltoa, palautumisen tukemista, oman ravinnon tarkastelua, henkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisemmän tuen takaamiseksi ryhmään otetaan vain max. 8 osallistujaa. Ryhmä toteutuu min. 4:llä osallistujalla.
+Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen priorisointia, keskustelua, yhteistä liikettä ja kehonhuoltoa, palautumisen tukemista, oman ravinnon tarkastelua, psyykkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisemmän tuen takaamiseksi ryhmään otetaan maksimissaan 8 osallistujaa.
 <br/><br/>
 !["Uusi lempeä elo"](/img/uusilempeaelo4.jpg "Rentoutuminen"){: .center-block :}
 > Pysähtymisen & rentoutumisen kautta lisää hyvinvointia.  
 
 **Tarkemmat tiedot toteutuksesta:** 
 
-Uusi ryhmä käynnistyy 2023 tammikuussa!  
+Uusi ryhmä käynnistyy 2023 tammikuussa Kellokoskella!  
 Tarkempi aikataulu ilmoitetaan myöhemmin.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
@@ -45,14 +45,14 @@ ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuu
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
 
 - Valmentajan jatkuva etätuki koko valmennuksen ajan
-- Ryhmän oma alusta Facebookissa tai WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle matkan aikana  
+- Ryhmän oma alusta Facebookissa tai WhatsApp:ssa (ryhmän toiveiden mukaan) keskustelulle ja yhteiselle jakamiselle matkan aikana  
 
 
 
 
 **HINTA:**  
-89€/kk TAI 530€ kertamaksulla (hinnat sis. alv).  
-Voit maksaa myös yleisimmillä liikuntaeduilla.
+89€/kk TAI 529€ kertamaksulla (hinnat sis. alv).  
+Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 64€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).
 
