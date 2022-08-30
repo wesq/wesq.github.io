@@ -9,13 +9,12 @@ comment_teksti: "Ota yhteyttä hyvinvointianalyysiin liittyen:"
 
 ### Firstbeat - Hyvinvointianalyysit
 
-***Tiedätkö millä tavalla päiväsi kuormittavat sinua, ja millä tavalla se vaikuttaa palautumiseen ja sitä kautta hyvinvointiisi?  
-Tätä on mahdollista mitata!***
+***Opi tunnistamaan stressitekijät arjessasi ja palaudu paremmin!***
 
-Mittauksen avulla opit tunnistamaan hyvinvointiisi vaikuttavia tekijöitä, hallitsemaan stressiä ja palautumaan paremmin, sekä liikkumaan fiksummin arjessasi.
+Tiedätkö mitkä asiat arjessasi kuormittavat tai mitkä palauttavat sinua auttaen jaksamaan? Mittauksen avulla opit tunnistamaan näitä hyvinvointiisi vaikuttavia tekijöitä. Saat työkaluja stressin säätelyyn, palautumisen vahvistamiseen, unenlaadun parantamiseen, sekä järkevään ja hyvinvointiasi tukevaan liikuntaan.
 
-Hyvinvointianalyysi pitää sisällään 3 vuorokauden mittauksen. Mittauksesta saat itsellesi laajan henkilökohtaisen raportin, jonka avulla pääset näkemään mitkä teot arjessasi vaikuttavat jaksamiseesi ja hyvinvointiisi. Raportista näet muunmuassa arjen stressitasosi ja aktiivisuutesi, palautumisesi määrän ja unesi laadun, sekä halutessasi kuntotasosi. Tämän datan avulla meidän on  mahdollista konkreettisesti päästä kiinni siihen, mitkä asiat arjessa sinua kuormittavat ja mitkä valinnat taas tukevat jaksamistasi ja parantavat hyvinvointia.  
-Saat mittauksesta itsellesi henkilökohtaisen raportin ja palautteen, sekä valmentajan ohjausta palautumisen ja hyvinvointisi tueksi.
+Hyvinvointianalyysi pitää sisällään 3 vuorokauden mittauksen. Mittauksesta saat itsellesi laajan henkilökohtaisen raportin, jonka avulla pääset näkemään mitkä teot arjessasi vaikuttavat jaksamiseesi ja hyvinvointiisi. Raportista näet muunmuassa arjen stressitason ja aktiivisuuden, palautumisen määrän ja unen laadun, sekä halutessasi kuntotason. Tämän datan avulla meidän on  mahdollista konkreettisesti päästä kiinni siihen, mitkä asiat arjessa sinua kuormittavat ja mitkä valinnat taas tukevat jaksamistasi ja parantavat hyvinvointia.  
+Saat mittauksesta itsellesi henkilökohtaisen raportin ja palautteen, sekä valmentajan ohjausta palautumisen ja hyvinvointisi tueksi (valmennuksen kesto 45 min.).
 
 **Firstbeat hyvinvointianalyysit yksilölle 169€ (sis. alv).**  
 Kysy tarjousta ryhmille!
