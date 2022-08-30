@@ -4,7 +4,7 @@ title: Firstbeat
 subtitle: Firstbeat-Hyvinvointianalyysit palautumisen tueksi
 bigimg: img/a_firstbeat.jpg
 formspree_comment: true
-comment_teksti: "Kysy lisää hyvinvointianalyysistä:"
+comment_teksti: "Ota yhteyttä hyvinvointianalyysiin liittyen:"
 ---
 
 ### Firstbeat - Hyvinvointianalyysit
