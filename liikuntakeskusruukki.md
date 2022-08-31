@@ -82,8 +82,7 @@ Ryhmän hinta 208€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaa
 
 PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohjelma, jonka tavoitteena on voiman lisäksi kehittää liikehallintaa ja liikkuvuutta, sekä ennaltaehkäistä tuki- ja liikuntaelinvaivoja. Tuki- ja voimaharjoittelun yhdistämisellä pystymme mahdollistamaan tehokkaan ja turvallisen harjoittelun. Tunnilla opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Menevä tunti, jota pystyt skaalaamaan oman kuntosi mukaan.
 
-PowerMethod tunnit käynnistyvät nyt myös arkiaamussa!  
-9.8. ti klo 9:30-10:30 pidetään 5€ maksava näytetunti kyseisestä kurssista, johon voit ilmoittautua sähköpostilla osoitteeseen kati@elokatsu.fi  
+PowerMethod tunnit nyt myös arkiaamuissa!   
 **Kurssi** toteutetaan ajalla **16.8.-4.10.2022 TIISTAISIN klo 9:30-10:30**.
 Kurssin hinta 116€ (8 kertaa), tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
