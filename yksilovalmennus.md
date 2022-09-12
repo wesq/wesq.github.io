@@ -61,19 +61,21 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 [Lue valmennusehdot tästä](/valmennusehdot)
 <br/><br/>
 #### Ohjaukset:
+Ohjauspaketit eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit.
 
 * **_Yksittäinen ohjauskerta 79€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. (1.kerralla) + suunnittelu + ohjaus 60 min.  
-  \+ kirjallinen ohje asiakkaalle tapaamisen sisällöstä
-* **_3 kerran ohjauspaketti-tarjous 205€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. (1.kerralla) + suunnittelu + ohjaus 60 min.
+
+* **_3 kerran ohjauspaketti-tarjous 210€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3  
   Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (treeni/hyvinvoiva keho, palautumisen valmennus, ravitsemuksen näkökulma hyvinvointiin tms.)  
   \+ paketti sisältää kirjallisen ohjeen / treeniohjelman / liikuntasuunnitelman
+
 * **_Viikottainen treeniohjaus 199€/kk (sis. alv)_**   
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x4/kk
   Treeniohjauspakettiin sisältyy treenit valmentajan kanssa kerran viikossa suunnitelmallisen tavoitteitasi tukevan treeniohjelman mukaan. Kyseinen palvelu on toteutettavissa vain Kellokosken alueella; elokatsun kotitoimiston kuntosalilla, kotonasi, tai ulkona. Paketin minimiaika 1 kuukausi, voidaan ostaa kuukausi kerrallaan. Kyseinen paketti sisältää vain treeniohjaukset valmentajan suunnittelemalla ohjelmalla, paketti ei sisällä muiden treenien suunnittelua tai lisätreeniohjelmia. Pakettiin voidaan räätälöidä asiakkaan toiveiden mukaisesti myös tällaisia lisäpalveluita, joiden hinta määrittyy palvelun mukaan.
 
-  + ohjauspaketit eivät sisällä etätukea, kuten pitkäkestoisemmat hyvinvointivalmennukset!
+  + ohjauspaketit eivät sisällä etätukea!
 
 ![yksilovalmennus](/img/yksilovalmennus_1.jpg "Yksilövalmennus"){: .center-block :}
 
@@ -82,4 +84,4 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 **_Valmennukset räätälöidään aina yksilöllisesti.  Voit varata ajan maksuttomaan hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi. Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Hyvinvointikartoitus selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta._**  
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
-**_Valmennukset voidaan toteuttaa Tuusulan, Järvenpään, Sipoon ja Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä missä tahansa!_**
+**_Valmennukset voidaan toteuttaa Tuusulan, Järvenpään ja Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä missä tahansa!_**
