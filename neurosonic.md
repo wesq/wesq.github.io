@@ -27,8 +27,8 @@ Elokatsu tarjoaa Neurosonic-hoitoja kotitoimistolla Kellokoskella. Laita viesti�
 
 **Hinnat: (sis. alv 24%)  
 Kertakäynti 30€  
-5 kertaa 130€  
-10 kertaa 230€**  
+5 kertaa 135€  
+10 kertaa 250€**  
 
 Sinun EI tule vastaanottaa Neurosonic-hoitoa seuraavissa tilanteissa:
 
