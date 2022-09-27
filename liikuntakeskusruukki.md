@@ -14,6 +14,7 @@ bigimg: img/a_Liikuntakeskus_Ruukki.jpg
 Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa: 
  - [Maksuton hyvinvointikartoitus](#maksuton-hyvinvointikartoitus)
  - [Hyvinvointivalmennus](#hyvinvointivalmennus)
+ - [Muutosvalmennnus](#muutosvalmennus)
  - [Lempeästi liikkeessä](#lempeästi-liikkeessä)
  - [PowerMethod AAMU](#powermethod-aamu)
  - [PowerMethod TI](#powermethod-ti)
@@ -67,6 +68,18 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 \+  _Lisäohjaukset valmennusasiakkaille 64€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
 <br/>
+
+#### Muutosvalmennus
+
+Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota!
+
+Uusi ryhmä käynnistyy 2023 tammikuussa Kellokoskella!  
+Ryhmä kokoontuu sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa.  
+Ryhmätapaamiset noin joka toinen viikko, tarkempi aikataulu ilmoitetaan pian.  
+Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
+ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi.
+
+[Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
 #### Lempeästi liikkeessä
 

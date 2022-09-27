@@ -32,14 +32,16 @@ Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen pr
 **Tarkemmat tiedot toteutuksesta:** 
 
 Uusi ryhmä käynnistyy 2023 tammikuussa Kellokoskella!  
-Tarkempi aikataulu ilmoitetaan myöhemmin.  
+Ryhmä kokoontuu sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa.  
+Ryhmätapaamiset noin joka toinen viikko, tarkempi aikataulu ilmoitetaan pian.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
 
 **Valmennus sisältää:**
 
 
-- Ryhmätapaamiset noin 2x/kk - 75 min./kerta (x12, aikataulu tarkentuu myöhemmin)
+- Ryhmätapaamiset noin 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
+(tapaamisia 12 kertaa, tarkemmat päivät ilmoitetaan pian)
 - Henkilökohtaiset valmennustapaamiset 45 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
