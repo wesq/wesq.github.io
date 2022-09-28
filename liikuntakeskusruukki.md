@@ -20,6 +20,7 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [PowerMethod TI](#powermethod-ti)
  - [PowerMethod SU](#powermethod-su)
  - [FasciaMethod](#fasciamethod)
+ - [Kahvakuula](#kahvakuula)
  - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
  - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
 
@@ -135,6 +136,14 @@ FasciaMethod tunnit käynnistyvät syksyllä tiistai-illoissa!
 Kevätkauden hinta 192€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 [RYHMÄSSÄ 2 VAPAATA PAIKKAA, ILMOITTAUDU TÄSTÄ](https://forms.gle/z4Bjz4VR2aDjgg9M6){:target="_blank"} 
+
+#### Kahvakuula
+
+Kahvakuulatreenit käynnistyvät liikuntakeskuksella tammikuussa 2023!  
+Kahvakuula-pienryhmä sopii monipuolisesta ja tehokkaasta lihaskuntoharjoittelusta pitäville.
+
+Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia treenejä. Teemme alkuun kehoa avaavaa ja lämmittävää harjoittelua kehonpainolla, jonka jälkeen siirrymme monipuoliseen ja menevään kiertoharjoittelutreeniin kahvakuulaillen. Näissä treeneissä syke nousee, perusvoima kasvaa ja puna nousee kasvoille!
+Treeni päättyy palauttavaan ja lempeään jäähdyttelyyn.
 
 #### Temppujumppa 4-6v.
 
