@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Pienryhmä&shy;treenit
+title: Ulkotreenit
 subtitle: Liikunnan iloa omaa kehoa kuunnellen
 bigimg: img/a_eloisakeho.jpg
 formspree_comment: true
-comment_teksti: 'Kysy lisää eloisan kehon valmennuksesta:'
+comment_teksti: 'Kysy lisää ulkotreeneistä:'
 
 ---
-### **Eloisan kehon pienryhmä­valmennus**  tuo arkeesi liikunnan iloa omaa kehoa kuunnellen
+### **Eloisan kehon ulkotreenit**  tuo arkeesi liikunnan iloa omaa kehoa kuunnellen
 
 <p></p>
 <p class="otsikkolistapalkki">
@@ -21,7 +21,7 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 ![pienryhmä](/img/pienryhmatreenit_3.jpg "Eloisan kehon pienryhmätreenit"){: .image-right :}
 
-Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulle kehität perusvoimaa ja liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, ja ryhmissä on 9-10 paikkaa riippuen ryhmästä.  <br/><br/>
+Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulle kehität perusvoimaa ja liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, joka treenaa ympäri vuoden ulkona.  <br/><br/>
 
 **2022 SYKSYN ULKOTREENIRYHMIEN ILMOITTAUTUMINEN ON AUKI, VARAA OMA PAIKKASI LINKISTÄ "ILMOITTAUDU SYYSKAUDELLE TÄSTÄ"!** <br/><br/>
 

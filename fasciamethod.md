@@ -25,7 +25,7 @@ FasciaMethod – ETÄvalmennus tuo harjoitukset kotiisi verkon välityksellä! S
 
 **Valmennus ajalla:** uusi ryhmä käynnistyy keväällä 2023 <br/>
 **Sisältö:** 1 krt/vko 35 minuutin FaMe-ohjaus ( yht. 8 kertaa )<br/>
-**Hinta:** 48€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), tai laskulla
+**Hinta:** 49€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), tai laskulla
 
 **FasciaMethod tunnit pyörivät myös lähitunteina Kellokoskella Liikuntakeskus Ruukissa**, tutustu tarjontaan [täältä](/liikuntakeskusruukki).
 

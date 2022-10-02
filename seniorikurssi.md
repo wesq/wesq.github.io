@@ -21,7 +21,7 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 ![pienryhmä](/img/sennukurssi1.jpg "Eloisan kehon senioritreenit"){: .image-right :}
 
-Eloisan kehon seniorikurssilla vahvistat näitä ominaisuuksia, omaa kehoasi kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan rauhassa tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti ja järkevästi. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Ikää ei ole rajattu, jokainen on tervetullut joka tuntee kuuluvansa tähän ryhmään. Kyseessä on pienryhmä, ryhmäkoko max. 8 henkilöä. Hyppää mukaan, tämä kurssi tuo arkeesi yhteisöllisyyttä ja liikunnan iloa.  <br/><br/>
+Eloisan kehon seniorikurssilla vahvistat näitä ominaisuuksia, omaa kehoasi kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan rauhassa tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti ja järkevästi. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Ikää ei ole rajattu, jokainen on tervetullut joka tuntee kuuluvansa tähän ryhmään. Kyseessä on pienryhmä, jossa saat yksilöllisempää ohjausta. Hyppää mukaan, tämä kurssi tuo arkeesi yhteisöllisyyttä ja liikunnan iloa!  <br/><br/>
 
 ![Pienryhmätreeni](/img/sennukurssi2.jpg "seniorin eloisa keho"){: .image-left :}  
 

@@ -12,9 +12,14 @@ bigimg: img/a_Liikuntakeskus_Ruukki.jpg
 <p class="otsikkolistapalkki">HYVÄÄ OLOA & LIIKUNNAN ILOA</p>
 
 Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa: 
+#### Henkilökohtaiset palvelut
  - [Maksuton hyvinvointikartoitus](#maksuton-hyvinvointikartoitus)
  - [PT-ohjaus](#pt-ohjaus)
  - [Hyvinvointivalmennus](#hyvinvointivalmennus)
+ - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)  
+<br/>  
+
+#### Pienryhmät
  - [Muutosvalmennnus](#muutosvalmennus)
  - [Lempeästi liikkeessä](#lempeästi-liikkeessä)
  - [PowerMethod AAMU](#powermethod-aamu)
@@ -24,7 +29,6 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [Kahvakuula](#kahvakuula)
  - [Seniorit](#seniorit)
  - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
- - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
 
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
 
@@ -83,6 +87,16 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 \+  _Lisäohjaukset valmennusasiakkaille 69€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
 <br/>
+
+#### Firstbeat-Hyvinvointianalyysit
+
+Mittauksen avulla opit tunnistamaan hyvinvointiisi vaikuttavia tekijöitä, hallitsemaan stressiä ja palautumaan paremmin, sekä liikkumaan fiksummin arjessasi.
+
+**Hyvinvointianalyysi pitää sisällään 3 vuorokauden mittauksen**. Mittauksesta saat itsellesi laajan henkilökohtaisen raportin, jonka avulla pääset näkemään mitkä teot arjessasi vaikuttavat jaksamiseesi ja hyvinvointiisi. Raportista näet muunmuassa arjen stressitasosi ja aktiivisuutesi, palautumisesi määrän ja unesi laadun, sekä halutessasi kuntotasosi. Tämän datan avulla meidän on  mahdollista konkreettisesti päästä kiinni siihen, mitkä asiat arjessa sinua kuormittavat ja mitkä valinnat taas tukevat jaksamistasi ja parantavat hyvinvointia.  
+**Saat mittauksesta itsellesi henkilökohtaisen raportin ja palautteen, sekä valmentajan ohjausta palautumisen ja hyvinvointisi tueksi**.
+
+_Firstbeat hyvinvointianalyysit yksilölle 169€ (sis. alv)_  
+Laita viestiä, jos mittaus kiinnostaa!
 
 #### Muutosvalmennus
 
@@ -176,14 +190,4 @@ Temppujumpailut jatkuvat syksyllä tiistaisin!
 Kurssin hinta 157€ (16 jumppatuntia), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
 RYHMÄ ON TÄYTTYNYT 
-
-#### Firstbeat-Hyvinvointianalyysit
-
-Mittauksen avulla opit tunnistamaan hyvinvointiisi vaikuttavia tekijöitä, hallitsemaan stressiä ja palautumaan paremmin, sekä liikkumaan fiksummin arjessasi.
-
-**Hyvinvointianalyysi pitää sisällään 3 vuorokauden mittauksen**. Mittauksesta saat itsellesi laajan henkilökohtaisen raportin, jonka avulla pääset näkemään mitkä teot arjessasi vaikuttavat jaksamiseesi ja hyvinvointiisi. Raportista näet muunmuassa arjen stressitasosi ja aktiivisuutesi, palautumisesi määrän ja unesi laadun, sekä halutessasi kuntotasosi. Tämän datan avulla meidän on  mahdollista konkreettisesti päästä kiinni siihen, mitkä asiat arjessa sinua kuormittavat ja mitkä valinnat taas tukevat jaksamistasi ja parantavat hyvinvointia.  
-**Saat mittauksesta itsellesi henkilökohtaisen raportin ja palautteen, sekä valmentajan ohjausta palautumisen ja hyvinvointisi tueksi**.
-
-_Firstbeat hyvinvointianalyysit yksilölle 169€ (sis. alv)_  
-Laita viestiä, jos mittaus kiinnostaa! Voit myös kysyä tarjousta ryhmille.
 

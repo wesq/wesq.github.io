@@ -10,7 +10,7 @@ bigimg: img/a_syksy.jpg
 ---
 * **Kellokosken Liikuntakeskus Ruukissa jatkuvat syksyllä PowerMethod, FasciaMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät, [tutustu tarjontaan täältä](/liikuntakeskusruukki), ja varaa paikkasi pienryhmästä NYT!**
 
-* **Eloisan kehon ulkotreenit jatkuvat syksyllä Kellokoskella & Myllypurossa, [tarkemmat tiedot täältä](/pienryhmatreeni), ilmoittaudu mukaan NYT!**
+* **Eloisan kehon ulkotreenit jatkuvat syksyllä Kellokoskella & Myllypurossa, [tarkemmat tiedot täältä](/ulkotreeni), ilmoittaudu mukaan NYT!**
 
 * **Seniorien eloisan kehon ulkotreenit saavat myös jatkoa syksyllä 11 kerran kurssina,  [tarkemmat tiedot täältä](/seniorikurssi), josta voit ilmoittautua mukaan ryhmään!**
 
