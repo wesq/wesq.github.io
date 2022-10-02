@@ -13,6 +13,7 @@ bigimg: img/a_Liikuntakeskus_Ruukki.jpg
 
 Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa: 
  - [Maksuton hyvinvointikartoitus](#maksuton-hyvinvointikartoitus)
+ - [PT-ohjaus](#pt-ohjaus)
  - [Hyvinvointivalmennus](#hyvinvointivalmennus)
  - [Muutosvalmennnus](#muutosvalmennus)
  - [Lempeästi liikkeessä](#lempeästi-liikkeessä)
@@ -21,6 +22,7 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [PowerMethod SU](#powermethod-su)
  - [FasciaMethod](#fasciamethod)
  - [Kahvakuula](#kahvakuula)
+ - [Seniorit](#seniorit)
  - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
  - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)
 
@@ -35,6 +37,18 @@ _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko 
 
 Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Hyvinvointikartoitus selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta. Kartoituksen aikana esittelen sinulle myös palveluvaihtoehtoja muutoksesi tueksi. Kesto 30 minuuttia.  
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/RAhfPePEmEmNigtB9){:target="_blank"} 
+
+#### PT-ohjaus
+
+Ohjauspaketit eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit.
+
+* **_Yksittäinen PT-ohjaus 79€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus tms.) 60 min.
+
+* **_3 kerran ohjauspaketti 215€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3 + henkilökohtainen treeniohjelma  
+  Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (treeni/palautuminen/ravitsemus/hyvinvointi)  
+  \+ paketti sisältää kirjallisen ohjeen / treeniohjelman / liikuntasuunnitelman tavoitteiden mukaisesti
 
 #### Hyvinvointivalmennus
 
@@ -66,7 +80,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
  Suositellaan erityisesti jatkopalveluna tai muuhun pienempään valmennustarpeeseen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  
 
  
-\+  _Lisäohjaukset valmennusasiakkaille 64€ / 1h ohjaus (sis. alv)  
+\+  _Lisäohjaukset valmennusasiakkaille 69€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
 <br/>
 
@@ -139,11 +153,17 @@ Kevätkauden hinta 192€ (16 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteu
 
 #### Kahvakuula
 
-Kahvakuulatreenit käynnistyvät liikuntakeskuksella tammikuussa 2023!  
+Kahvakuulatreenit käynnistyvät liikuntakeskuksella tammikuussa 2023! Ryhmän tarkemmat lisätiedot tulossa pian.  
 Kahvakuula-pienryhmä sopii monipuolisesta ja tehokkaasta lihaskuntoharjoittelusta pitäville.
 
 Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia treenejä. Teemme alkuun kehoa avaavaa ja lämmittävää harjoittelua kehonpainolla, jonka jälkeen siirrymme monipuoliseen ja menevään kiertoharjoittelutreeniin kahvakuulaillen. Näissä treeneissä syke nousee, perusvoima kasvaa ja puna nousee kasvoille!
 Treeni päättyy palauttavaan ja lempeään jäähdyttelyyn.
+
+#### Seniorit
+
+Senioreiden omat treenit käynnistyvät liikuntakeskuksella tammikuussa 2023! Ryhmän tarkemmat lisätiedot tulossa pian. Pienryhmä tuo arkeesi yhteisöllisyyttä, liikunnan iloa ja turvallista treenaamista valmentajan tuella.
+
+Ryhmässä treenataan arkena aamupäivällä väljällä salilla pienessä ryhmässä. Teemme monipuolista harjoittelua parantaen liikkuvuutta, tasapainoa ja liikehallintaa, sekä lihaskuntoa. Käytämme tunneilla kuntosalilaitteita, pienvälineitä, sekä hyödynnämme oman kehomme painoa seniori-ikäisille suunnatussa harjoittelussa.
 
 #### Temppujumppa 4-6v.
 
