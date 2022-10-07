@@ -28,11 +28,11 @@ Eloisan kehon seniorikurssilla vahvistat näitä ominaisuuksia, omaa kehoasi kuu
 ***SENIORIN ELOISA KEHO***
 treenaa ulkona Myllypuron alueella. Treenataan mm. kuntoportailla ja liikuntapuistossa. Treenit ohjaa Hyvinvointivalmentaja, Personal Trainer ja Lähihoitaja Kati Mäkelä.
 
-**SYYSKAUSI** ajalla **4.8.-13.10.2022**.  
+**SYYSKAUSI** ajalla **3.11.-1.12.2022**.  
 Jumppapäivä **TORSTAISIN** Kklo **12:00-12:45**.  
-**Hinta: 99€** (sis. alv) maksetaan laskulla (11 kertaa).  
+**Hinta: 45€** (sis. alv) maksetaan laskulla (5 kertaa).  
 
-[ILMOITTAUDU SYYSKAUDELLE TÄTÄ TEKSTILINKKIÄ PAINAMALLA](https://forms.gle/4qzcpqpuDJ2EMsbK7){:target="_blank"} 
+[ILMOITTAUDU SYYSKAUDELLE TÄTÄ TEKSTILINKKIÄ PAINAMALLA](https://forms.gle/skgYxhW39w6Jr7Gz7){:target="_blank"} 
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
