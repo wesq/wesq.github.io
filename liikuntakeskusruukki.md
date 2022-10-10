@@ -5,6 +5,8 @@ subtitle: elokatsun palvelut Liikuntakeskus Ruukissa
 formspree_comment: true
 comment_teksti: "Jäikö sinulle kysymyksiä? Kysy lisää palveluista:"
 bigimg: img/a_Liikuntakeskus_Ruukki.jpg
+tagline: "Pienryhmät, personal trainer, firstbeat"
+description: "Elokatsun pienryhmät, personal trainer- ja muut palvelut / Kellokoski, Järvenpää"
 ---
 ### Liikuntakeskus Ruukki & elokatsu Kellokoskella Sinua varten
 
