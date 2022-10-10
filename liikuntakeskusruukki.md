@@ -5,7 +5,6 @@ subtitle: elokatsun palvelut Liikuntakeskus Ruukissa
 formspree_comment: true
 comment_teksti: "Jäikö sinulle kysymyksiä? Kysy lisää palveluista:"
 bigimg: img/a_Liikuntakeskus_Ruukki.jpg
-tags: [kellokoski, järvenpää, pienryhmä, pt, "personal trainer"]
 ---
 ### Liikuntakeskus Ruukki & elokatsu Kellokoskella Sinua varten
 
