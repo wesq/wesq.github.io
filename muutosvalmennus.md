@@ -42,18 +42,19 @@ ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuu
 
 - Ryhmätapaamiset noin 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
 (tapaamisia 12 kertaa, tarkemmat päivät ilmoitetaan pian)
-- Henkilökohtaiset valmennustapaamiset 45 min. x2  
+- Henkilökohtaiset valmennustapaamiset 60 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
 
-- Valmentajan jatkuva etätuki koko valmennuksen ajan
+- Valmentajan yksilöllinen etätuki koko valmennuksen ajan
+- Pääsyn Sportyplanner-ohjelmaan, jossa yksilöllinen treeniohjelma
 - Ryhmän oma alusta Facebookissa tai WhatsApp:ssa (ryhmän toiveiden mukaan) keskustelulle ja yhteiselle jakamiselle matkan aikana  
 
 
 
 
 **HINTA:**  
-89€/kk TAI 529€ kertamaksulla (hinnat sis. alv).  
+89€/kk TAI 528€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 69€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).
