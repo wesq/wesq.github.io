@@ -18,19 +18,23 @@ TUNNE LIIKKEEN VAPAUTTAVA VOIMA KEHOSSASI
 ![fasciamethod](/img/Fame.mainoskuva.jpg "FasciaMethod"){: .image-right :}
 
 
-*Kankea ja vetämätön olo? Kiristää ja keho tuntuu tahmealta?*  
+*Kankea ja vetämätön olo? Keho tuntuu tahmealta ja kiristää?*  
 *FasciaMethod liikkuvuusharjoittelut tuo kehoosi joustavuutta ja tilaa. Tunne liikkeen vapauttava voima kehossasi, kuinka liike soljuen saa kehosi voimaan hyvin!*
 
 **FasciaMethod-harjoittelut 2023 kevät - joko paikanpäällä Järvenpäässä, tai etänä suoraan olohuoneeseesi!**
 
 **FasciaMethod - Järvenpään ryhmä**
-Lisätietoja tulossa pian!
+Dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tapahtuvat [Pilates Studio Hyväolo:ssa](https://pilatesstudiohyvaolo.fi/){:target="_blank"}, joka sijaitsee Järvenpäässä os. Laurilantie 3. Rauhallisella ja viihtyisällä studiolla pääset rauhoittumaan ja hengähtämään kehosi äärelle.
+
+**Kurssi ajalla:** 8.1.-12.2.2023 (6 ohjattua harjoitusta)<br/>
+**Ajankohta:** SUNNUNTAISIN klo 15:45-16:45<br/>
+**Hinta:** 90€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), tai laskulla
 
 **FasciaMethod – ETÄ**  
 Harjoitukset tulevat suoraan kotiisi verkon välityksellä! Etäkurssi sisältää kerran viikossa 35 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitus ohjataan livenä Facebookin välityksellä. Lisäksi kaikki harjoitukset jäävät tallenteena suljettuun ryhmään koko valmennuksen ajaksi. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii!
 
-**Valmennus ajalla:** uusi ryhmä käynnistyy keväällä 2023 <br/>
-**Sisältö:** 1 krt/vko 35 minuutin FaMe-ohjaus ( yht. 6 kertaa )<br/>
+**Valmennus ajalla:** 12.1.-16.2.2026 (6 ohjattua harjoitusta) <br/>
+**Sisältö:** 1 krt/vko 35 minuutin FaMe-ohjaus ( + tallenne )<br/>
 **Hinta:** 38€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), tai laskulla
 
 ### Mitä on FasciaMethod?
