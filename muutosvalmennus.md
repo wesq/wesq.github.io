@@ -12,7 +12,7 @@ comment_teksti: "Kysy lisää valmennuksesta:"
 
 ![Muutosvalmennuksen porukka vauhdissa](./img/pienryhmatreenit_6.jpg){: .image-right :}
 #### Muutosvalmennus  
-Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! 
+Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! 
 
 ![Ravitsemus](/img/monipuolinenravitsemus.jpg "Ravinto"){: .image-left :}
 <br/>
@@ -32,16 +32,16 @@ Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen pr
 **Tarkemmat tiedot toteutuksesta:** 
 
 Uusi ryhmä käynnistyy 2023 tammikuussa Kellokoskella!  
-Ryhmä kokoontuu sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa.  
-Ryhmätapaamiset noin joka toinen viikko, tarkempi aikataulu ilmoitetaan pian.  
+Ryhmä kokoontuu 15.1.-18.6.2023 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa.  
+Ryhmätapaamiset noin joka toinen viikko.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
 
 **Valmennus sisältää:**
 
 
-- Ryhmätapaamiset noin 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
-(tapaamisia 12 kertaa, tarkemmat päivät ilmoitetaan pian)
+- Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
+Aikataulu: 15.1., 29.1., 12.2., 26.2., 12.3., 26.3., 2.4., 23.4., 7.5., 21.5., 4.6., 18.6.
 - Henkilökohtaiset valmennustapaamiset 60 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
@@ -49,8 +49,6 @@ ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuu
 - Valmentajan yksilöllinen etätuki koko valmennuksen ajan
 - Pääsyn Sportyplanner-ohjelmaan, jossa yksilöllinen treeniohjelma
 - Ryhmän oma alusta Facebookissa tai WhatsApp:ssa (ryhmän toiveiden mukaan) keskustelulle ja yhteiselle jakamiselle matkan aikana  
-
-
 
 
 **HINTA:**  
