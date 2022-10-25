@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syksy 2022
+title: Kevät 2023
 subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: 'Haluaisitko kysyä jotain ajankohtaisista asioista?'
@@ -8,11 +8,11 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **Kellokosken Liikuntakeskus Ruukissa jatkuvat syksyllä PowerMethod, FasciaMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät, [tutustu tarjontaan täältä](/liikuntakeskusruukki), ja varaa paikkasi pienryhmästä NYT!**
+* **Senioreiden eloisan kehon ulkotreenit saavat vielä jatkoa syksyllä 5 kerran kurssina joka alkaa 3.11.2022,  [tarkemmat tiedot täältä](/seniorikurssi), josta voit ilmoittautua mukaan ryhmään!**
 
-* **Eloisan kehon ulkotreenit jatkuvat syksyllä Kellokoskella & Myllypurossa, [tarkemmat tiedot täältä](/ulkotreeni), ilmoittaudu mukaan NYT!**
+* **Eloisan kehon ulkotreenit jatkuvat syksyllä Kellokoskella & Myllypurossa, [tarkemmat tiedot täältä](/ulkotreeni), ilmoittautuminen aukeaa uusille asiakkaille viikolla 45!**
 
-* **Seniorien eloisan kehon ulkotreenit saavat myös jatkoa syksyllä 11 kerran kurssina,  [tarkemmat tiedot täältä](/seniorikurssi), josta voit ilmoittautua mukaan ryhmään!**
+* **Kellokosken Liikuntakeskus Ruukissa jatkuvat keväällä PowerMethod, FasciaMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät. UUTUUTENA mukana PowerMethodille uusi päivä, sekä KAHVAKUULA & SENIOREIDEN OMA TUNTI. [Tutustu tarjontaan täältä](/liikuntakeskusruukki), ja ilmoittaudu mukaan ryhmiin viikolla 45!**
 
 * **Kaipaatko valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? Tai haluaisitko treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
