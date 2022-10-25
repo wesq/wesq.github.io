@@ -23,17 +23,17 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulle kehität perusvoimaa ja liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, joka treenaa ympäri vuoden ulkona.  <br/><br/>
 
-**2022 SYKSYN ULKOTREENIRYHMIEN ILMOITTAUTUMINEN ON AUKI, VARAA OMA PAIKKASI LINKISTÄ "ILMOITTAUDU SYYSKAUDELLE TÄSTÄ"!** <br/><br/>
+**ULKORYHMÄT TUUSULAN KELLOKOSKELLA & HELSINGIN MYLLYPUROSSA!** <br/><br/>
 
 ![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "Kellokosken pienryhma"){: .image-left :}
 
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
 treenaa ulkona Kellokosken alueella. (Kovalla pakkasella tai rankkasateella harjoitus tapahtuu etänä Google meetin välityksellä.) 
 
-SYYSKAUSI **MAANANTAISIN** ajalla 1.8.-28.11.2022 **klo 17:30-18:30**  yhteensä 17 harjoitusta, EI treenejä 17.10. MA.
-**Hinta: 200€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
+KEVÄTKAUSI **MAANANTAISIN** ajalla 9.1.-29.5.2023 **klo 17:30-18:30**  yhteensä 18 harjoitusta, EI treenejä 20.2., 10.4., 1.5.!
+**Hinta: 216€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
-RYHMÄ ON TÄYTTYNYT
+ILMOITTAUTUMINEN ALKAA VIIKOLLA 45
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -42,10 +42,10 @@ RYHMÄ ON TÄYTTYNYT
 ***HELSINGIN MYLLYPURON RYHMÄ***
 treenaa ulkona Myllypuron alueella. (Kovalla pakkasella tai rankkasateella harjoitus tapahtuu etänä Google meetin välityksellä.)
 
-SYYSKAUSI **TORSTAISIN** ajalla 4.8.-1.12.2022 **klo 17:15-18:15**  yhteensä 17 harjoitusta, EI treenejä 20.10. TO.
-**Hinta: 200€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
+KEVÄTKAUSI **TORSTAISIN** ajalla 5.1.-25.5.2022 **klo 17:15-18:15**  yhteensä 19 harjoitusta, EI treenejä 23.2., 18.5.!
+**Hinta: 228€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
-RYHMÄ ON TÄYTTYNYT
+ILMOITTAUTUMINEN ALKAA VIIKOLLA 45
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
