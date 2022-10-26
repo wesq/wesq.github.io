@@ -128,7 +128,7 @@ Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazyb
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
-ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/3jwQTQJ9erQmEHsN6){:target="_blank"}
 
 #### Lempeästi liikkeessä
 
