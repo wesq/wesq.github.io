@@ -146,7 +146,7 @@ PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohje
 
 PowerMethod tunnit jatkuvat arkiaamuissa myös keväällä!   
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 9:00-10:00** (EI tuntia 21.2).
-Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
+Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
 
@@ -156,7 +156,7 @@ PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohje
 
 PowerMethod tunnit jatkuvat keväällä tiistai-illoissa!  
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 18:00-19:00** (EI tuntia 21.2.).
-Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
+Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
 
@@ -166,7 +166,7 @@ PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohje
 
 PowerMethod tunnit alkavat kevätkaudella myös keskiviikkoisin!  
 **Kevätkausi** toteutetaan ajalla **11.1.-31.5.2023 KESKIVIIKKOISIN klo 18:00-19:00** (EI tuntia 22.2.).
-Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
+Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
 
@@ -176,7 +176,7 @@ PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohje
 
 PowerMethod tunnit jatkuvat keväällä sunnuntai-illoissa!  
 **Kevätkausi** toteutetaan ajalla **8.1.-28.5.2023 SUNNUNTAISIN klo 17:45-18:45** (EI tunteja 19.2., 9.4., 30.4.).
-Kevätkauden hinta 269€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
+Kevätkauden hinta 269€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
 
@@ -209,15 +209,15 @@ ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
 
 #### Seniorit
 
-Senioreiden omat treenit käynnistyvät liikuntakeskuksella tammikuussa 2023!  
-Pienryhmä tuo arkeesi yhteisöllisyyttä, liikunnan iloa ja turvallista treenaamista valmentajan tuella.
+Seniorit - voimaa ja tasapainoa!  
+Senioreiden omat treenit käynnistyvät liikuntakeskuksella tammikuussa 2023! Pienryhmä tuo arkeesi yhteisöllisyyttä, liikunnan iloa ja turvallista treenaamista valmentajan tuella.
 
 Ryhmässä treenataan arkena aamupäivällä väljällä salilla pienessä ryhmässä. Teemme monipuolista harjoittelua parantaen liikkuvuutta, tasapainoa ja liikehallintaa, sekä lihaskuntoa. Käytämme tunneilla kuntosalilaitteita, pienvälineitä, sekä hyödynnämme oman kehomme painoa seniori-ikäisille suunnatussa harjoittelussa.
 
 **Kurssi** toteutetaan ajalla **11.1.-15.2.2023 KESKIVIIKKOISIN klo 11:00-12:00**  
 Kurssin hinta 72€ (6 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/NbzvKW94K8zuxLiw7){:target="_blank"}
 
 #### Temppujumppa 4-6v.
 
