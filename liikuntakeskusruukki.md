@@ -190,7 +190,7 @@ FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan ke
 Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme. Käytämme dynaamisen liikkeen lisäksi myös fasciapalloa lisäämään harjoituksen vaikutusta. Ota oma pallo mukaan, mielellään kova fasciapallo, mutta myös tennispallolla pärjäät. Voit halutessasi ostaa myös ohjaajalta ensimmäisellä kerralla fasciapallon. 
  
 FasciaMethod tunnit jatkuvat keväällä tiistai-illoissa!  
-**Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 19:10-20:00** (EI tuntia 21.2.).
+**Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 19:10-20:00** (EI tuntia 21.2.).  
 **Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmään, jolloin voit halutessasi jatkaa harjoittelua myös kotona, tai korvata poissaoloja joustavasti.
 Kevätkauden hinta 249€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
