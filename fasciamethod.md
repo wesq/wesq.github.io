@@ -30,7 +30,7 @@ Dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tapahtuvat [Pilat
 **Kurssi ajalla:** 8.1.-12.2.2023 (6 ohjattua harjoitusta)<br/>
 **Ajankohta:** SUNNUNTAISIN klo 15:45-16:45<br/>
 **Hinta:** 90€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), tai laskulla<br/>
-**Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmään, jolloin voit halutessasi jatkaa harjoittelua myös kotona.
+**Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmään, jolloin voit halutessasi jatkaa harjoittelua myös kotona, tai korvata poissaoloja joustavasti.
 
 [ILMOITTAUDU JÄRVENPÄÄN RYHMÄÄN TÄSTÄ](https://forms.gle/jWZ38vrdSDRuCjYz7){:target="_blank"}  
 <br/>

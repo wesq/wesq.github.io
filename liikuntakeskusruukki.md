@@ -191,6 +191,7 @@ Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää 
  
 FasciaMethod tunnit jatkuvat keväällä tiistai-illoissa!  
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 19:10-20:00** (EI tuntia 21.2.).
+**Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmään, jolloin voit halutessasi jatkaa harjoittelua myös kotona, tai korvata poissaoloja joustavasti.
 Kevätkauden hinta 249€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
