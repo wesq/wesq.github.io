@@ -165,7 +165,7 @@ ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
 PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohjelma, jonka tavoitteena on voiman lisäksi kehittää liikehallintaa ja liikkuvuutta, sekä ennaltaehkäistä tuki- ja liikuntaelinvaivoja. Tuki- ja voimaharjoittelun yhdistämisellä pystymme mahdollistamaan tehokkaan ja turvallisen harjoittelun. Tunnilla opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Menevä tunti, jota pystyt skaalaamaan oman kuntosi mukaan.
 
 PowerMethod tunnit alkavat kevätkaudella myös keskiviikkoisin!  
-**Kevätkausi** toteutetaan ajalla **11.1.-31.5.2023 KESKIVIIKKOISIN klo 18:00-19:00** (EI tuntia 22.2.).
+**Kevätkausi** toteutetaan ajalla **11.1.-31.5.2023 KESKIVIIKKOISIN klo 17:45-18:45** (EI tuntia 22.2.).
 Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
@@ -175,7 +175,7 @@ ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
 PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohjelma, jonka tavoitteena on voiman lisäksi kehittää liikehallintaa ja liikkuvuutta, sekä ennaltaehkäistä tuki- ja liikuntaelinvaivoja. Tuki- ja voimaharjoittelun yhdistämisellä pystymme mahdollistamaan tehokkaan ja turvallisen harjoittelun. Tunnilla opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Menevä tunti, jota pystyt skaalaamaan oman kuntosi mukaan.
 
 PowerMethod tunnit jatkuvat keväällä sunnuntai-illoissa!  
-**Kevätkausi** toteutetaan ajalla **8.1.-28.5.2023 SUNNUNTAISIN klo 17:45-18:45** (EI tunteja 19.2., 9.4., 30.4.).
+**Kevätkausi** toteutetaan ajalla **8.1.-28.5.2023 SUNNUNTAISIN klo 17:30-18:30** (EI tunteja 19.2., 9.4., 30.4.).
 Kevätkauden hinta 269€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
@@ -203,7 +203,7 @@ Kahvakuula-pienryhmä sopii monipuolisesta ja tehokkaasta lihaskuntoharjoittelus
 
 Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia treenejä. Teemme alkuun kehoa avaavaa ja lämmittävää harjoittelua kehonpainolla, jonka jälkeen siirrymme monipuoliseen ja menevään kiertoharjoittelutreeniin kahvakuulaillen ja omaa kehon painoa hyödyntäen. Näissä treeneissä syke nousee, perusvoima kasvaa ja puna nousee kasvoille! Treeni päättyy palauttavaan ja lempeään jäähdyttelyyn.
  
-**Kurssi** toteutetaan ajalla **11.1.-15.2.2023 KESKIVIIKKOISIN klo 18:00-19:00**  
+**Kurssi** toteutetaan ajalla **11.1.-15.2.2023 KESKIVIIKKOISIN klo 19:00-20:00**  
 Kurssin hinta 90€ (6 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 ILMOITTAUTUMINEN RYHMÄÄN AUKEAA VIIKOLLA 45
