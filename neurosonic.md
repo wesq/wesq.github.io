@@ -32,6 +32,6 @@ Kertakäynti 30€
 
 Sinun EI tule vastaanottaa Neurosonic-hoitoa seuraavissa tilanteissa:
 
-Akuutti tulehdustila kehossa, flunssa & kuume, akuutti veritulppa, aktiivinen syöpä, raskaus, akuutit välilevyn pullistumat, vakava silmäsairaus (mykiön tai linssin irtoamisen vaara, silmäleikkaus), välittömästi avoleikkauksen jälkeen tai jos sinulla on jokin muu verenvuodon vaara, sekä rokotuksien jälkeinen vuorokausi.
+Akuutti tulehdustila kehossa, flunssa & kuume, akuutti veritulppa, aktiivinen syöpä, raskaus, akuutit välilevyn pullistumat, vakava silmäsairaus (mykiön tai linssin irtoamisen vaara, silmäleikkaus), välittömästi avoleikkauksen jälkeen tai jos sinulla on jokin muu verenvuodon vaara, sekä rokotuksien jälkeinen vuorokausi. Patjalla painoraja 125kg.
 
 Voit tutustua [täältä](https://neurosonic.fi/){:target="_blank"} lisää Neurosonic-patjaan ja sen vaikutuksiin kehossa.

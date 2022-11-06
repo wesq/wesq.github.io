@@ -17,8 +17,7 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
 #### Henkilökohtaiset palvelut
  - [Maksuton hyvinvointikartoitus](#maksuton-hyvinvointikartoitus)
  - [PT-ohjaus](#pt-ohjaus)
- - [Hyvinvointivalmennus](#hyvinvointivalmennus)
- - [Firstbeat-Hyvinvointianalyysit](#firstbeat-hyvinvointianalyysit)  
+ - [Hyvinvointivalmennus](#hyvinvointivalmennus)  
 <br/>  
 
 #### Pienryhmät
@@ -88,18 +87,9 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 
  
 \+  _Lisäohjaukset valmennusasiakkaille 69€ / 1h ohjaus (sis. alv)  
-(esim. ohjattuja treenejä lisää)_
+(esim. ohjattuja treenejä lisää)_  
+[OTA ENSIMMÄINEN ASKEL & VARAA AIKA KARTOITUKSEEN TÄSTÄ](https://forms.gle/RAhfPePEmEmNigtB9){:target="_blank"}
 <br/>
-
-#### Firstbeat-Hyvinvointianalyysit
-
-Mittauksen avulla opit tunnistamaan hyvinvointiisi vaikuttavia tekijöitä, hallitsemaan stressiä ja palautumaan paremmin, sekä liikkumaan fiksummin arjessasi.
-
-**Hyvinvointianalyysi pitää sisällään 3 vuorokauden mittauksen**. Mittauksesta saat itsellesi laajan henkilökohtaisen raportin, jonka avulla pääset näkemään mitkä teot arjessasi vaikuttavat jaksamiseesi ja hyvinvointiisi. Raportista näet muunmuassa arjen stressitasosi ja aktiivisuutesi, palautumisesi määrän ja unesi laadun, sekä halutessasi kuntotasosi. Tämän datan avulla meidän on  mahdollista konkreettisesti päästä kiinni siihen, mitkä asiat arjessa sinua kuormittavat ja mitkä valinnat taas tukevat jaksamistasi ja parantavat hyvinvointia.  
-**Saat mittauksesta itsellesi henkilökohtaisen raportin ja palautteen, sekä valmentajan ohjausta palautumisen ja hyvinvointisi tueksi**.
-
-_Firstbeat hyvinvointianalyysit yksilölle 169€ (sis. alv)_  
-Laita viestiä, jos mittaus kiinnostaa!
 
 #### Muutosvalmennus
 
@@ -190,9 +180,9 @@ FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan ke
 Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme. Käytämme dynaamisen liikkeen lisäksi myös fasciapalloa lisäämään harjoituksen vaikutusta. Ota oma pallo mukaan, mielellään kova fasciapallo, mutta myös tennispallolla pärjäät. Voit halutessasi ostaa myös ohjaajalta ensimmäisellä kerralla fasciapallon. 
  
 FasciaMethod tunnit jatkuvat keväällä tiistai-illoissa!  
-**Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 19:10-20:00** (EI tuntia 21.2.).  
-**Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmään, jolloin voit halutessasi jatkaa harjoittelua myös kotona, tai korvata poissaoloja joustavasti.
-Kevätkauden hinta 249€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
+**Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 19:10-20:00** (EI tuntia 21.2.). Kevätkauden hinta 249€ (20 kertaa), jonka voi maksaa 1-2 osassa.  
+**Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmään, jolloin voit halutessasi jatkaa harjoittelua myös kotona, tai korvata poissaoloja joustavasti.  
+Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
 [ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/KQ6h1A6AmafSUihf7){:target="_blank"}
 
