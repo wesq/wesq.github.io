@@ -35,6 +35,6 @@ Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunte
 <br>
 *Jos sinua kiinnostaa hyvinvointi ja lempeämpi ote sen kanssa, niin otahan yhteyttä ja katsotaan yhdessä miten voisin auttaa Sinua.*
 
-Löydät "Palvelut"-välilehdeltä lisätietoa valmennuksistani, mm. [eloisan kehon pienryhmävalmennuksista](/pienryhmatreeni) ja [yksilövalmennuksista](/yksilovalmennus). Toimin Tuusulan, Järvenpään, Sipoon ja Helsingin alueella.
+Löydät "Palvelut"-välilehdeltä lisätietoa valmennuksistani, mm. [eloisan kehon pienryhmävalmennuksista](/pienryhmatreeni) ja [yksilövalmennuksista](/yksilovalmennus). Toimin Kellokosken, Järvenpään ja Itä-Helsingin alueella.
 
 Kiva kun olet, juuri siinä. -Kati ❤️

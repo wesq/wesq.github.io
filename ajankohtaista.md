@@ -8,15 +8,15 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **Senioreiden eloisan kehon ulkotreenit saavat vielä jatkoa syksyllä 5 kerran kurssina joka alkaa 3.11.2022,  [tarkemmat tiedot täältä](/seniorikurssi), josta voit ilmoittautua mukaan ryhmään!**
+* **FasciaMethod tunnit käynnistyvät tammikuussa Järvenpäässä & etänä suoraan kotiisi!  [Lue tarkemmat tiedot täältä ja ilmoittaudu mukaan!](/fasciamethod)**
 
-* **Eloisan kehon ulkotreenit jatkuvat syksyllä Kellokoskella & Myllypurossa, [tarkemmat tiedot täältä](/ulkotreeni), ilmoittautuminen aukeaa uusille asiakkaille viikolla 45!**
+* **Eloisan kehon ulkotreenit jatkuvat syksyllä Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä!](/ulkotreeni)**
 
-* **Kellokosken Liikuntakeskus Ruukissa jatkuvat keväällä PowerMethod, FasciaMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät. UUTUUTENA mukana PowerMethodille uusi päivä, sekä KAHVAKUULA & SENIOREIDEN OMA TUNTI. [Tutustu tarjontaan täältä](/liikuntakeskusruukki), ja ilmoittaudu mukaan ryhmiin viikolla 45!**
+* **Kellokosken Liikuntakeskus Ruukissa jatkuvat keväällä PowerMethod, FasciaMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät. UUTUUTENA mukana MUUTOSVALMENNUS, PowerMethodille uusi päivä, sekä KAHVAKUULA & SENIOREIDEN OMA TUNTI. [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä!](/liikuntakeskusruukki)**
 
-* **Kaipaatko valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? Tai haluaisitko treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
+* **Kellokoskella käynnistyy Muutosvalmennus tammikuussa! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä!](/muutosvalmennus)**
 
-* **Tiedätkö miten palaudut arjessasi? Osaatko rytmittää treenisi järkevästi? Firstbeat-Hyvinvointianalyysilla voimme selvittää näitä asioita, [tutustu Firstbeat-Hyvinvointianalyysiin täältä](/firstbeat)**
+* **Tai kaipaatko enemmän valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? Tai haluaisitko treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
 * **Jos palautumisen, unen, stressinhallinnan tai kehon kiputilojen kanssa on haasteita, elokatsun uudesta palvelusta, neurosonic-hoidosta voisit saada apua tilanteeseesi. Neurosonic-hoitopatjalla on saatu hyviä tuloksia mm. näissä haasteissa, [tutustu palveluun täältä](/neurosonic)**  
 
