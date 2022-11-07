@@ -148,7 +148,7 @@ PowerMethod tunnit jatkuvat keväällä tiistai-illoissa!
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 18:00-19:00** (EI tuntia 21.2.).
 Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/TKjRb4L22AT3n7uj9){:target="_blank"}
+[RYHMÄÄN 1 PAIKKA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/TKjRb4L22AT3n7uj9){:target="_blank"}
 
 #### PowerMethod KE
 
@@ -158,7 +158,7 @@ PowerMethod tunnit alkavat kevätkaudella myös keskiviikkoisin!
 **Kevätkausi** toteutetaan ajalla **11.1.-31.5.2023 KESKIVIIKKOISIN klo 17:45-18:45** (EI tuntia 22.2.).
 Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/8BCQVfyLYowMiVYm6){:target="_blank"}
+[RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/8BCQVfyLYowMiVYm6){:target="_blank"}
 
 #### PowerMethod SU
 
@@ -168,7 +168,7 @@ PowerMethod tunnit jatkuvat keväällä sunnuntai-illoissa!
 **Kevätkausi** toteutetaan ajalla **8.1.-28.5.2023 SUNNUNTAISIN klo 17:30-18:30** (EI tunteja 19.2., 9.4., 30.4.).
 Kevätkauden hinta 269€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/E8HiPN3Nj8MwoBet9){:target="_blank"}
+[RYHMÄÄN 4 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/E8HiPN3Nj8MwoBet9){:target="_blank"}
 
 #### FasciaMethod
 
@@ -220,5 +220,5 @@ Temppujumpailut jatkuvat keväällä tiistaisin!
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2022 TIISTAISIN klo 17:00-17:45** (EI jumppaa 21.2.).
 Kevätkauden hinta 199€ (20 jumppatuntia), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Mäkelä / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/Cbh7PKBHYr5KhuB76){:target="_blank"}
+[RYHMÄÄN 4 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Cbh7PKBHYr5KhuB76){:target="_blank"}
 
