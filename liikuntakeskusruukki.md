@@ -46,7 +46,9 @@ Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja poh
 
 #### PT-ohjaus
 
-Ohjauspaketit eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. PT-paketit räätälöidään yksilön tarpeen mukaan, alla esimerkkejä.
+Ohjauspaketit eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. PT-paketit räätälöidään yksilön tarpeen mukaan, alla esimerkkejä.  
+
+PT-OHJAUKSIEN PAKETTEIHIN JA HINNASTOON TULOSSA MUUTOKSIA 1.1.2023
 
 * **_Yksittäinen PT-ohjaus 79€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus tms.) 60 min.
