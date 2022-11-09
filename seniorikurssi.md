@@ -21,18 +21,18 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 ![pienryhmä](/img/sennukurssi1.jpg "Eloisan kehon senioritreenit"){: .image-right :}
 
-Eloisan kehon seniorikurssilla vahvistat näitä ominaisuuksia, omaa kehoasi kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan rauhassa tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti ja järkevästi. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Ikää ei ole rajattu, jokainen on tervetullut joka tuntee kuuluvansa tähän ryhmään. Kyseessä on pienryhmä, jossa saat yksilöllisempää ohjausta. Hyppää mukaan, tämä kurssi tuo arkeesi yhteisöllisyyttä ja liikunnan iloa!  <br/><br/>
+Eloisan kehon seniorikurssilla vahvistat näitä ominaisuuksia, omaa kehoasi kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan rauhassa tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti ja järkevästi. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Kurssille osallistumisen ainoa vaatimus on, että kävely/liikkuminen onnistuu. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Ikää ei ole rajattu, jokainen on tervetullut joka tuntee kuuluvansa tähän ryhmään. Kyseessä on pienryhmä, jossa saat yksilöllisempää ohjausta. Hyppää mukaan, tämä kurssi tuo arkeesi yhteisöllisyyttä ja liikunnan iloa!  <br/><br/>
 
 ![Pienryhmätreeni](/img/sennukurssi2.jpg "seniorin eloisa keho"){: .image-left :}  
 
 ***SENIORIN ELOISA KEHO***
-treenaa ulkona Myllypuron alueella. Treenataan mm. kuntoportailla ja liikuntapuistossa. Treenit ohjaa Hyvinvointivalmentaja, Personal Trainer ja Lähihoitaja Kati Mäkelä.
+ryhmä harjoittelee kevätkaudella Myllykylän Kylätalolla, os. Ryynimyllynkatu 1, 00920 Helsinki. Treenit ohjaa Hyvinvointivalmentaja, Personal Trainer ja Lähihoitaja Kati Mäkelä.
 
-**SYYSKAUSI** ajalla **3.11.-1.12.2022**.  
-Jumppapäivä **TORSTAISIN** Kklo **12:00-12:45**.  
-**Hinta: 45€** (sis. alv) maksetaan laskulla (5 kertaa).  
+**KEVÄTKAUSI** ajalla **5.1.-27.4.2023 (EI jumppaa 23.2.)**.  
+Jumppapäivä **TORSTAISIN** klo **12:10-12:55**.  
+**Hinta: 160€** (sis. alv) maksetaan joko käteisellä tai laskulla, ja sen voi maksaa myös kahdessa osassa (16 jumppakertaa).  
 
-[ILMOITTAUDU SYYSKAUDELLE TÄTÄ TEKSTILINKKIÄ PAINAMALLA](https://forms.gle/skgYxhW39w6Jr7Gz7){:target="_blank"} 
+[ILMOITTAUDU SYYSKAUDELLE TÄTÄ TEKSTILINKKIÄ PAINAMALLA](https://forms.gle/oXQa9C7QUQrskg7y5){:target="_blank"} 
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
