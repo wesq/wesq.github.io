@@ -6,7 +6,7 @@ subtitle: Kuka on elokatsu?
 bigimg: img/a_esittely.jpg
 ---
 
-<h3> <span class='notbold'> Olen </span>Kati Mäkelä, elokatsun <span class='notbold'> perustaja. </span></h3>
+<h3> <span class='notbold'> Olen </span>Kati Sokka, elokatsun <span class='notbold'> perustaja. </span></h3>
 <br/>
 ![elokatsu](/img/elokatsu4.jpg "elokatsu"){: .image-right :}
 <br/>

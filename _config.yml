@@ -9,11 +9,11 @@ description: "Hyvinvointia lempeydellä"
 ## SEO ##
 #https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 tagline: "elokatsun hyvinvointivalmennukset"
-author: "Kati Mäkelä"
+author: "Kati Sokka"
 logo: img/logo_crop_circle.jpg
 
 social:
-  name: Kati Mäkelä
+  name: Kati Sokka
   links:
     - https://www.facebook.com/elokatsu
     - https://instagram.com/elokatsu
