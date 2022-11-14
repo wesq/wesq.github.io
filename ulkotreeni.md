@@ -45,7 +45,7 @@ treenaa ulkona Myllypuron alueella. (Kovalla pakkasella tai rankkasateella harjo
 KEVÄTKAUSI **TORSTAISIN** ajalla 5.1.-25.5.2022 **klo 17:15-18:15**  yhteensä 19 harjoitusta, EI treenejä 23.2., 18.5.!
 **Hinta: 228€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
-[RYHMÄÄN 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/TQFapHctUopDn1zw9){:target="_blank"}
+[RYHMÄÄN 1 VAPAA PAIKKA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/TQFapHctUopDn1zw9){:target="_blank"}
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
