@@ -140,7 +140,7 @@ PowerMethod tunnit jatkuvat arkiaamuissa myös keväällä!
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 9:00-10:00** (EI tuntia 21.2).
 Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/WVa93c3fETSPFP4H8){:target="_blank"}
+[RYHMÄÄN 4 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/WVa93c3fETSPFP4H8){:target="_blank"}
 
 #### PowerMethod TI
 
