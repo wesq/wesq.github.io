@@ -32,7 +32,7 @@ ryhmä harjoittelee kevätkaudella Myllykylän Kylätalolla, os. Ryynimyllynkatu
 Jumppapäivä **TORSTAISIN** klo **12:10-12:55**.  
 **Hinta: 160€** (sis. alv) maksetaan joko käteisellä tai laskulla, ja sen voi maksaa myös kahdessa osassa (16 jumppakertaa).  
 
-[ILMOITTAUDU SYYSKAUDELLE TÄTÄ TEKSTILINKKIÄ PAINAMALLA](https://forms.gle/oXQa9C7QUQrskg7y5){:target="_blank"} 
+[ILMOITTAUDU KEVÄTKAUDELLE TÄTÄ TEKSTILINKKIÄ PAINAMALLA](https://forms.gle/oXQa9C7QUQrskg7y5){:target="_blank"} 
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
