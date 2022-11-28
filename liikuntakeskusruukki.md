@@ -130,7 +130,7 @@ Pysymme lempeästi liikkeessä tulevanakin keväänä!
 **Kevätkausi** toteutetaan ajalla **9.1.-29.5.2023 MAANANTAISIN klo 19:05-20:00** (EI tunteja 20.2., 10.4., 1.5.).
 Kevätkauden hinta 243€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua pysymään liikkeessä! Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN 4 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/199eTHDcVjGYfYUi7){:target="_blank"}
+[RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/199eTHDcVjGYfYUi7){:target="_blank"}
 
 #### PowerMethod AAMU
 
