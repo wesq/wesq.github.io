@@ -74,3 +74,12 @@
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
+
+{% if site.info-text %}
+<div class = "info-container">
+  <div class = "info-text">
+    {{ site.info-text }}
+  </div>
+</div>
+{% endif %}
+
