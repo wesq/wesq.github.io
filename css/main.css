@@ -500,7 +500,15 @@ position: absolute;
   }
 }
 /* --- Post and page headers --- */
-
+/* Infotext to be displayed on top of each page */
+.info-container {
+  margin: 10px 0 10px;
+  padding: 5px;
+  position: relative;
+  text-align: center;
+  color: #df2e1a;
+  background-color: #FFF;
+}
 .intro-header {
   margin: 80px 0 20px;
   position: relative;

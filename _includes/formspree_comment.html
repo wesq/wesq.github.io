@@ -10,7 +10,7 @@
             <label for="message">Viesti</label>
             {% endif %}
             <textarea rows="3" name="message" style="width: 80%"></textarea>
-			<input name="subject" value="{{ page.title }}" type="hidden"/>
+			    <input name="subject" value="{{ page.title }}" type="hidden"/>
           </div>
           <div class="form_row">
             <label for="name">Nimi</label>
@@ -23,6 +23,12 @@
           </div>
           <div class="form_row">
             <input type="email" name="_replyto" />
+          </div>
+          <div class="form_row">
+            <label for="tel">Puhelinnumero</label>
+          </div>
+          <div class="form_row">
+            <input type="text" name = "Puhelin"/>
           </div>
           <div class="form_row">
             <input
