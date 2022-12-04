@@ -43,6 +43,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 * Muutoksen tukemista erilaisin tehtävin ja keskusteluin
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>
+PAKETTEIHIN JA HINNASTOON TULOSSA MUUTOKSIA 1.1.2023
 **HINTA:**
 * **_3-5 kk Hyvinvointivalmennus 169€/kk (sis. alv)_**
 * **_6-8 kk Hyvinvointivalmennus 164€/kk (sis. alv)_**
