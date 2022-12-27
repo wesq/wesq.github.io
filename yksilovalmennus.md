@@ -46,9 +46,8 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 PAKETTEIHIN JA HINNASTOON TULOSSA MUUTOKSIA 1.1.2023  
 
 **HINTA:**
-* **_3-5 kk Hyvinvointivalmennus 169€/kk (sis. alv)_**
-* **_6-8 kk Hyvinvointivalmennus 164€/kk (sis. alv)_**
-* **_9-11 kk Hyvinvointivalmennus 159€/kk (sis. alv)_**
+* **_3-6 kk Hyvinvointivalmennus 169€/kk (sis. alv)_**
+* **_7-11 kk Hyvinvointivalmennus 161€/kk (sis. alv)_**
 * **_12 -> kk Hyvinvointivalmennus 155€/kk (sis. alv)_**
 
 <!-- -->
@@ -56,30 +55,30 @@ PAKETTEIHIN JA HINNASTOON TULOSSA MUUTOKSIA 1.1.2023
  Suositellaan erityisesti jatkopalveluna tai muuhun pienempään valmennustarpeeseen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.
 
  
-\+  _Lisäohjaukset valmennusasiakkaille 69€ / 1h ohjaus (sis. alv)  
+\+  _Lisäohjaukset valmennusasiakkaille 65€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot)
 <br/><br/>
-#### Ohjaukset:
-Ohjauspaketit eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. PT-paketit räätälöidään yksilön tarpeen mukaan, alla esimerkkejä.  
+#### PT-ohjaus:
+ PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. 
 
-PT-OHJAUKSIEN PAKETTEIHIN JA HINNASTOON TULOSSA MUUTOKSIA 1.1.2023
-
-* **_Yksittäinen PT-ohjaus 79€ (sis. alv)_**  
+* **_Yksittäinen PT-ohjaus 75€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus tms.) 60 min.
 
-* **_3 kerran ohjauspaketti & treeniohjelma 225€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x3 + henkilökohtainen treeniohjelma  
-  Ohjauspakettiin sisältyy suunnittelut ja ohjaukset valitsemaasi aiheeseen (treeni/palautuminen/ravitsemus/hyvinvointi)  
-  \+ paketti sisältää kirjallisen ohjeen / treeniohjelman / liikuntasuunnitelman tavoitteiden mukaisesti
+* **_Yksilöllinen treeniohjelma 90€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikänti 60 min.   
+
+* **_3 kerran ohjauspaketti & treeniohjelma 249€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + 1-2 räätälöityä treeniohjelmaa + ohjaukset / treeniohjelmien läpikäynnit 60 min. x3   
+(Tämä paketti soveltuu myös esim. ravitsemuksen / palautumisen ohjaukseen)
 
 * **_Viikottainen treeniohjaus 199€/kk (sis. alv)_**   
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x4/kk
   Treeniohjauspakettiin sisältyy treenit valmentajan kanssa kerran viikossa suunnitelmallisen tavoitteitasi tukevan treeniohjelman mukaan. Kyseinen palvelu on toteutettavissa vain Kellokosken alueella; elokatsun kotitoimiston kuntosalilla, kotonasi, tai ulkona. Paketin minimiaika 1 kuukausi, voidaan ostaa kuukausi kerrallaan. Kyseinen paketti sisältää vain treeniohjaukset valmentajan suunnittelemalla ohjelmalla, paketti ei sisällä muiden treenien suunnittelua tai lisätreeniohjelmia. Pakettiin voidaan räätälöidä asiakkaan toiveiden mukaisesti myös tällaisia lisäpalveluita, joiden hinta määrittyy palvelun mukaan.
 
-  + ohjauspaketit eivät sisällä etätukea!
+  + PT-ohjauspaketit eivät sisällä etätukea!
 
 ![yksilovalmennus](/img/yksilovalmennus_1.jpg "Yksilövalmennus"){: .center-block :}
 
@@ -88,4 +87,4 @@ PT-OHJAUKSIEN PAKETTEIHIN JA HINNASTOON TULOSSA MUUTOKSIA 1.1.2023
 **_Valmennukset räätälöidään aina yksilöllisesti.  Voit varata ajan maksuttomaan hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi. Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Hyvinvointikartoitus selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta._**  
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
-**_Valmennukset voidaan toteuttaa Tuusulan, Järvenpään ja Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä missä tahansa!_**
+**_Valmennukset voidaan toteuttaa Kellokosken, Järvenpään ja Itä-Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä minne tahansa!_**
