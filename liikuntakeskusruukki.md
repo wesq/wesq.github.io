@@ -28,7 +28,6 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [PowerMethod TI](#powermethod-ti)
  - [PowerMethod KE](#powermethod-ke)
  - [PowerMethod SU](#powermethod-su)
- - [FasciaMethod](#fasciamethod)
  - [Kahvakuula](#kahvakuula)
  - [Seniorit](#seniorit)
  - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
@@ -174,22 +173,6 @@ PowerMethod tunnit jatkuvat keväällä sunnuntai-illoissa!
 Kevätkauden hinta 269€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 [RYHMÄÄN 1 PAIKKA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/E8HiPN3Nj8MwoBet9){:target="_blank"}
-
-#### FasciaMethod
-
-Jos kärsit lihasjumeista ja kehosi tuntuu kankealta, tämä tunti on sinulle!
-Toiminnallisen liikkuvuusharjoittelun avulla saat lisää voimaa niin arjesta suoriutumiseen, kuin treeniisii salilla tai juoksupolulla.
-
-FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita. Harjoittelua rytmitetään hengityksellä.
-
-Tunti soveltuu kaikille, jotka haluavat parantaa suorituskykyään ja edistää hyvinvointiaan. FasciaMethod on suomalaisten fysioterapeuttien kehittämä tuote, joka on kehitetty pitämään yllä tuki- ja liikuntaelimistömme terveyttä ja hyvinvointia. Kun harjoittelemme FasciaMethod –konseptin periaatteiden mukaisesti, kehitämme liikkuvuuden lisäksi myös voimansiirtoa, ketteryyttä, koordinaatiota ja liikehallintaa kehossamme. Käytämme dynaamisen liikkeen lisäksi myös fasciapalloa lisäämään harjoituksen vaikutusta. Ota oma pallo mukaan, mielellään kova fasciapallo, mutta myös tennispallolla pärjäät. Voit halutessasi ostaa myös ohjaajalta ensimmäisellä kerralla fasciapallon. 
- 
-FasciaMethod tunnit jatkuvat keväällä tiistai-illoissa!  
-**Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 19:10-20:00** (EI tuntia 21.2.). Kevätkauden hinta 249€ (20 kertaa), jonka voi maksaa 1-2 osassa.  
-**Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmään, jolloin voit halutessasi jatkaa harjoittelua myös kotona, tai korvata poissaoloja joustavasti.  
-Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/KQ6h1A6AmafSUihf7){:target="_blank"}
 
 #### Kahvakuula
 
