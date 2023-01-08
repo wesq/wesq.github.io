@@ -57,7 +57,7 @@ Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazyb
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 65€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 75€).
 
-[RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/3jwQTQJ9erQmEHsN6){:target="_blank"}
+[RYHMÄÄN 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/3jwQTQJ9erQmEHsN6){:target="_blank"}
 
 **Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.**
 <br/>
