@@ -152,7 +152,7 @@ PowerMethod tunnit jatkuvat keväällä tiistai-illoissa!
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 18:00-19:00** (EI tuntia 21.2.).
 Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-RYHMÄ ON TÄYTTYNYT, KESKIVIIKON POWERMETHOD RYHMÄSSÄ VIELÄ TILAA!
+RYHMÄ ON TÄYTTYNYT!
 
 #### PowerMethod KE
 
@@ -162,7 +162,7 @@ PowerMethod tunnit alkavat kevätkaudella myös keskiviikkoisin!
 **Kevätkausi** toteutetaan ajalla **11.1.-31.5.2023 KESKIVIIKKOISIN klo 17:45-18:45** (EI tuntia 22.2.).
 Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN 1 PAIKKA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/8BCQVfyLYowMiVYm6){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT!
 
 #### PowerMethod SU
 
@@ -172,7 +172,7 @@ PowerMethod tunnit jatkuvat keväällä sunnuntai-illoissa!
 **Kevätkausi** toteutetaan ajalla **8.1.-28.5.2023 SUNNUNTAISIN klo 17:30-18:30** (EI tunteja 19.2., 9.4., 30.4.).
 Kevätkauden hinta 269€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-RYHMÄ ON TÄYTTYNYT, KESKIVIIKON POWERMETHOD RYHMÄSSÄ VIELÄ TILAA!
+RYHMÄ ON TÄYTTYNYT!
 
 #### Kahvakuula
 
@@ -184,7 +184,7 @@ Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia 
 **Kurssi** toteutetaan ajalla **11.1.-15.2.2023 KESKIVIIKKOISIN klo 19:00-20:00**  
 Kurssin hinta 90€ (6 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-RYHMÄ ON TÄYTTYNYT, POWERMETHOD RYHMISSÄ VIELÄ TILAA!
+RYHMÄ ON TÄYTTYNYT!
 
 #### Seniorit
 
