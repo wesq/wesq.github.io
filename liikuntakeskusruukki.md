@@ -122,7 +122,7 @@ Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazyb
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
-[RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/3jwQTQJ9erQmEHsN6){:target="_blank"}
+[RYHMÄÄN 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/3jwQTQJ9erQmEHsN6){:target="_blank"}
 
 #### Lempeästi liikkeessä
 
