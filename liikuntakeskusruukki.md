@@ -29,7 +29,6 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [PowerMethod KE](#powermethod-ke)
  - [PowerMethod SU](#powermethod-su)
  - [Kahvakuula](#kahvakuula)
- - [Seniorit](#seniorit)
  - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
 
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
@@ -185,18 +184,6 @@ Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia 
 Kurssin hinta 90€ (6 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 RYHMÄ ON TÄYTTYNYT!
-
-#### Seniorit
-
-Seniorit - voimaa ja tasapainoa!  
-Senioreiden omat treenit käynnistyvät liikuntakeskuksella tammikuussa 2023! Pienryhmä tuo arkeesi yhteisöllisyyttä, liikunnan iloa ja turvallista treenaamista valmentajan tuella.
-
-Ryhmässä treenataan arkena aamupäivällä väljällä salilla pienessä ryhmässä. Teemme monipuolista harjoittelua parantaen liikkuvuutta, tasapainoa ja liikehallintaa, sekä lihaskuntoa. Käytämme tunneilla kuntosalilaitteita, pienvälineitä, sekä hyödynnämme oman kehomme painoa seniori-ikäisille suunnatussa harjoittelussa.
-
-**Kurssi** toteutetaan ajalla **11.1.-15.2.2023 KESKIVIIKKOISIN klo 11:00-12:00**  
-Kurssin hinta 72€ (6 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/NbzvKW94K8zuxLiw7){:target="_blank"}
 
 #### Temppujumppa 4-6v.
 
