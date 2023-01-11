@@ -3,7 +3,7 @@
 # Name of website
 title: "elokatsu"
 
-# Remove hashtag to activate info text
+# Remove hashtag to activate info text that will appear under main nav bar (except in the main page)
 #info-text: "HUOM! elokatsu lomailee 5.12. - 3.1.2023, odotathan siis rauhassa vastausta viesteihin tai ryhmäilmoittautumisiin. <3"
 
 # Short description of your site
@@ -34,7 +34,6 @@ url: "https://www.elokatsu.fi"
 baseurl: ""
 
 # --- Navigation bar options --- #
-
 # List of links in the navigation bar
 navbar-links:
   Valmentajasi: 
@@ -75,8 +74,8 @@ avatar: "/img/logo_crop_circle.png"
 # then specify the following parameter
 # title-img: /path/to/image
 # title-img: "/img/elokatsu_logo_crop.png"
-# --- Background colour/image options --- #
 
+# --- Background colour/image options --- #
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#ffff84" # Elokatsun-Keltainen yläreuna
@@ -88,7 +87,6 @@ page-col: "#f3fae6"
 
 link-col: "#008AFF"
 hover-col: "#0085A1"
-#footer-col: "#F5F5F5" # harmaa
 footer-col: rgba(183,224,112,1) # Elokatsun Vihreä
 footer-text-col: "#777777"
 footer-link-col: "#404040"
@@ -111,20 +109,7 @@ social-network-links:
   telephone: 
   email: ""
   facebook: elokatsu
-#  github: daattali
-#  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
   instagram: elokatsu
-#  youtube: user/deanat78
-#  spotify: yourname
-
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -135,55 +120,9 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-  url-pretty: "https://facebook.com/elokatsu"  # eg. "deanattali.com/beautiful-jekyll"
-
-# --- Web Statistics Section --- #
-
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
-
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
-
-# Google Tag Manager ID
-#gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
-
-# --- Comments --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
-
-# If you want to use JustComments fill with the API Key
-#just-comments: "ABCD-EFGH-IJKL"
-
-# To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
-
-# To use Staticman comments, fill in repository, branch, and endpoint
-
-#staticman:
-#  repository : wesq/elokatsu # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-#  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
-#  reCaptcha:
-#    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
-#    # If you use reCaptcha, you must also set these parameters in staticman.yml
-#    siteKey  : # Use your own site key, you need to apply for one on Google
-#    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+  url-pretty: "https://facebook.com/elokatsu"
 
 # --- Misc --- #
-
-# Facebook App ID
-# fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
@@ -301,6 +240,3 @@ plugins:
 google_analytics: UA-172369094-1
 
 repository: wesq/elokatsu
-#remote_theme: daattali/beautiful-jekyll@3.0.0
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
