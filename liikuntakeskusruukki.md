@@ -195,5 +195,5 @@ Temppujumpailut jatkuvat keväällä tiistaisin!
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2022 TIISTAISIN klo 17:00-17:45** (EI jumppaa 21.2.).
 Kevätkauden hinta 199€ (20 jumppatuntia), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Sokka / elokatsu.
 
-[RYHMÄÄN 4 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Cbh7PKBHYr5KhuB76){:target="_blank"}
+[RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Cbh7PKBHYr5KhuB76){:target="_blank"}
 
