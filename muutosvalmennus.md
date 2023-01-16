@@ -19,7 +19,7 @@ Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen
 Valmennuksessa käymme läpi
 oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
 millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista, ja vähentää stressiä. Valmennuksessa
-työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia.
+työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia. Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 <br/><br/>
 !["Hyvinvointivalmennus"](/img/uusilempeaelo-hyvinvointivalmennus.jpg "Uusi lempeä elo - hyvinvointivalmennus"){: .image-right :}
 **Tavoitteena on löytää Sinua tukeva kokonaisuus, jotta sinä voit voida paremmin.
@@ -56,8 +56,6 @@ Aikataulu: 15.1., 29.1., 12.2., 26.2., 12.3., 26.3., 2.4., 23.4., 7.5., 21.5., 4
 Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 65€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 75€).
-
-[RYHMÄÄN 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/3jwQTQJ9erQmEHsN6){:target="_blank"}
 
 **Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.**
 <br/>

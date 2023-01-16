@@ -96,7 +96,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 
 #### Muutosvalmennus
 
-Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota!
+Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 
 Uusi ryhmä käynnistyy 2023 tammikuussa Kellokoskella!  
 Ryhmä kokoontuu 15.1.-18.6.2023 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa. Ryhmätapaamiset noin joka toinen viikko.  
@@ -121,8 +121,6 @@ Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazyb
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
-[RYHMÄÄN 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/3jwQTQJ9erQmEHsN6){:target="_blank"}
-
 #### Lempeästi liikkeessä
 
 Jos liikunnan ylläpito arjessa yksin tuntuu haastavalta ja kaipaat ympärillesi samassa tilanteessa olevia ihmisiä, tämä ryhmä on sinulle! Ryhmään ei vaadita minkäänlaista liikuntataustaa, mutta sinulla voi myös olla tilanne, että liikunta on hiipunut elämästä ja kaipaisit taas tsemppiä liikkeessä pysymiseen. Ryhmä on sinulle, joka haluat saada varmuutta liikkeen aloittamiseen tai ylläpitämiseen, sekä kaipaat lempeää ja ohjattua liikettä pienryhmässä. Teemme monipuolisesti ja matalalla kynnyksellä liikkuvuus- ja lihaskuntoharjoittelua koko keholle. Tunneilla panostetaan oikeaan liiketekniikkaan ja opit miten teet liikkeitä turvallisesti ja järkevästi.
@@ -141,7 +139,7 @@ PowerMethod tunnit jatkuvat arkiaamuissa myös keväällä!
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 9:00-10:00** (EI tuntia 21.2).
 Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN 4 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/WVa93c3fETSPFP4H8){:target="_blank"}
+[RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/WVa93c3fETSPFP4H8){:target="_blank"}
 
 #### PowerMethod TI
 
