@@ -183,6 +183,8 @@ Kurssin hinta 90€ (6 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloiss
 
 RYHMÄ ON TÄYTTYNYT!
 
+Kevätkausi jatkuu 1.3.-31.5. Tällä hetkellä on käynnissä vanhojen asiakkaiden ilmoittautuminen, ja jos paikkoja jää, ne tulevat myyntiin 31.1.2023.
+
 #### Temppujumppa 4-6v.
 
 Lapsen ikioma temppujumppa, jossa vauhdikas ja iloinen meininki! Tunnilla keskiössä ovat liikunnan ilo ja lasten toiveet. Jumpassa opetellaan leikkien kautta motorisia perustaitoja ja ryhmässä toimimista lapsilähtöisesti ja innostavasti.
