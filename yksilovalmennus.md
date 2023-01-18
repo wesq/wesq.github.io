@@ -15,7 +15,7 @@ bigimg: img/a_yksilovalmennukset.jpg
 _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi?  
 Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika maksuttomaan hyvinvointikartoitukseen, niin voimme yhdessä miettiä, mikä kokonaisuus palvelisi Sinua parhaiten!_
 
-[VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
+[VARAA AIKA MAKSUTTOMAAN HYVINVOINTIKARTOITUKSEEN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
 ![Yksilövalmennus](/img/yksilo_ohjaus.jpg "Yksilövalmennus"){: .image-right :}
 **Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita pakettiratkaisuja. Autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Muutoksen tekemisessä autan sinua pohtimaan mikä sinulle on tärkeää, mitkä valinnat ylläpitävät hyvinvointiasi, ja mistä tavoista olisi hyvä luopua. Muutos vaatii aina myös luopumista, ja näitäkin teemoja käsittelemme hyvinvointivalmennuksissa. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia. Olen rinnallakulkijasi, matkallasi muutokseen.**
