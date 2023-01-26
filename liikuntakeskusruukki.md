@@ -52,14 +52,13 @@ Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa 
 PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit.  
 
 * **_Yksittäinen PT-ohjaus 75€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus tms.) 60 min.
+  Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus / palautumisen valmennus tms.) 60 min.
 
 * **_Yksilöllinen treeniohjelma 90€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikänti 60 min.   
 
-* **_3 kerran ohjauspaketti & treeniohjelma 249€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + 1-2 räätälöityä treeniohjelmaa + ohjaukset / treeniohjelmien läpikäynnit 60 min. x3   
-(Tämä paketti soveltuu myös esim. ravitsemuksen / palautumisen ohjaukseen)
+* **_3 kerran ohjauspaketti & 2 treeniohjelmaa 240€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + ohjaukset / treeniohjelmien läpikäynnit - 60 min. x3   
 
 #### Hyvinvointivalmennus
 
