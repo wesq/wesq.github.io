@@ -172,17 +172,15 @@ RYHMÄ ON TÄYTTYNYT!
 
 #### Kahvakuula
 
-Kahvakuulatreenit käynnistyvät liikuntakeskuksella tammikuussa 2023!  
+Kahvakuulatreenit saavat jatkoa liikuntakeskuksella koko kevään ajan!  
 Kahvakuula-pienryhmä sopii monipuolisesta ja tehokkaasta lihaskuntoharjoittelusta pitäville.
 
 Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia treenejä. Teemme alkuun kehoa avaavaa ja lämmittävää harjoittelua kehonpainolla, jonka jälkeen siirrymme monipuoliseen ja menevään kiertoharjoittelutreeniin kahvakuulaillen ja omaa kehon painoa hyödyntäen. Näissä treeneissä syke nousee, perusvoima kasvaa ja puna nousee kasvoille! Treeni päättyy palauttavaan ja lempeään jäähdyttelyyn.
  
-**Kurssi** toteutetaan ajalla **11.1.-15.2.2023 KESKIVIIKKOISIN klo 19:00-20:00**  
-Kurssin hinta 90€ (6 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Kevätkausi** toteutetaan ajalla **1.3.-31.5.2023 KESKIVIIKKOISIN klo 19:00-20:00**  
+Kurssin hinta 209€ (14 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-RYHMÄ ON TÄYTTYNYT!
-
-Kevätkausi jatkuu 1.3.-31.5. Tällä hetkellä on käynnissä vanhojen asiakkaiden ilmoittautuminen, ja jos paikkoja jää, ne tulevat myyntiin 31.1.2023.
+[RYHMÄÄN 4 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/MWdPjnMQWNr967Ru8){:target="_blank"}
 
 #### Temppujumppa 4-6v.
 
