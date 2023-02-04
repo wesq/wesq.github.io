@@ -180,7 +180,7 @@ Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia 
 **Kevätkausi** toteutetaan ajalla **1.3.-31.5.2023 KESKIVIIKKOISIN klo 19:00-20:00**  
 Kurssin hinta 209€ (14 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/MWdPjnMQWNr967Ru8){:target="_blank"}
+[RYHMÄÄN 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/MWdPjnMQWNr967Ru8){:target="_blank"}
 
 #### Temppujumppa 4-6v.
 
