@@ -70,6 +70,9 @@ PAKETTEIHIN JA HINNASTOON TULOSSA MUUTOKSIA 1.1.2023
 * **_Yksilöllinen treeniohjelma 90€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikänti 60 min.   
 
+* **_Vanhan treeniohjelman päivitys 80€ (sis. alv)_**  
+  Sisältää: vanhan ohjelman ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikänti 60 min.    
+
 * **_3 kerran ohjauspaketti & 2 treeniohjelmaa 240€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + ohjaukset / treeniohjelmien läpikäynnit - 60 min. x3   
 
