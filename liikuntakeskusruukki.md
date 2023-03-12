@@ -131,7 +131,7 @@ Pysymme lempeästi liikkeessä tulevanakin keväänä!
 **Kevätkausi** toteutetaan ajalla **9.1.-29.5.2023 MAANANTAISIN klo 19:05-20:00** (EI tunteja 20.2., 10.4., 1.5.).
 Kevätkauden hinta 243€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua pysymään liikkeessä! Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.
+Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.  
 [RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/199eTHDcVjGYfYUi7){:target="_blank"}
 
 #### PowerMethod AAMU
@@ -142,7 +142,7 @@ PowerMethod tunnit jatkuvat arkiaamuissa myös keväällä!
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 9:00-10:00** (EI tuntia 21.2).
 Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.
+Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.  
 [RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/WVa93c3fETSPFP4H8){:target="_blank"}
 
 #### PowerMethod TI
@@ -197,6 +197,6 @@ Temppujumpailut jatkuvat keväällä tiistaisin!
 **Kevätkausi** toteutetaan ajalla **10.1.-30.5.2022 TIISTAISIN klo 17:00-17:45** (EI jumppaa 21.2.).
 Kevätkauden hinta 199€ (20 jumppatuntia), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Sokka / elokatsu.
 
-Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.
+Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.  
 [RYHMÄÄN 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Cbh7PKBHYr5KhuB76){:target="_blank"}
 

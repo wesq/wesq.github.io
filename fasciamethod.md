@@ -30,7 +30,7 @@ Dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tapahtuvat [Pilat
 **Hinta:** 90€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), tai laskulla<br/>
 **Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmän tallenteisiin, jolloin voit halutessasi jatkaa harjoittelua myös kotona.
 
-Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.
+Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.  
 [ILMOITTAUDU JÄRVENPÄÄN RYHMÄÄN TÄSTÄ](https://forms.gle/zNTBNj12C4xvyYBb8){:target="_blank"}  
 <br/>
 
