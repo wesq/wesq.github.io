@@ -8,11 +8,11 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **Keväälle vapaana kaksi paikkaa Hyvinvointivalmennukseen! Lisäksi teen joustavasti treeniohjelmia salille/kotiin/ulos toiveiden ja tavoitteiden mukaisesti. Jos pohdit valmennusta, [VARAA AIKA MAKSUTTOMAAN HYVINVOINTIKARTOITUKSEEN TÄÄLTÄ](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} ja katsotaan voisinko olla oikea valmentaja Sinun tarpeisiin.**
+* **Kevään yksilövalmennuspaikat täynnä. Syksyllä vapautumassa uusia valmennuspaikkoja, ota yhteyttä jos nämä kiinnostavat!**
 
-* **FasciaMethod tunnit käynnistyvät tammikuussa Järvenpäässä & etänä suoraan kotiisi!  [Lue tarkemmat tiedot täältä ja ilmoittaudu mukaan!](/fasciamethod)**
+* **FasciaMethod tunnit jatkuvat Järvenpäässä!  [Lue tarkemmat tiedot täältä ja ilmoittaudu mukaan!](/fasciamethod)**
 
-* **Eloisan kehon ulkotreenit jatkuvat syksyllä Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä!](/ulkotreeni)**
+* **Eloisan kehon ulkotreenit jatkuvat keväällä Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä!](/ulkotreeni)**
 
 * **Kellokosken Liikuntakeskus Ruukissa jatkuvat keväällä PowerMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät. UUTUUTENA mukana MUUTOSVALMENNUS, PowerMethodille uusi päivä, sekä KAHVAKUULA. [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä!](/liikuntakeskusruukki)**
 
