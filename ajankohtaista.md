@@ -8,9 +8,9 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **Kevään yksilövalmennuspaikat täynnä. Syksyllä vapautumassa uusia valmennuspaikkoja, ota yhteyttä jos nämä kiinnostavat!**
+* **Järvenpäähän tulossa vielä yksi 4 kerran FasciaMethod kurssi tälle keväälle!  [Lue tarkemmat tiedot täältä ja ilmoittaudu mukaan!](/fasciamethod)**
 
-* **FasciaMethod tunnit jatkuvat Järvenpäässä!  [Lue tarkemmat tiedot täältä ja ilmoittaudu mukaan!](/fasciamethod)**
+* **Kevään yksilövalmennuspaikat täynnä. Syksyllä vapautumassa uusia valmennuspaikkoja, ota yhteyttä jos nämä kiinnostavat!**
 
 * **Eloisan kehon ulkotreenit jatkuvat keväällä Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä!](/ulkotreeni)**
 

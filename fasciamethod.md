@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FasciaMethod
-subtitle: FasciaMethod - Järvenpäässä & etänä
+subtitle: FasciaMethod - huoltavaa liikettä Järvenpäässä
 
 formspree_comment: true
 comment_teksti: Kysy lisätietoja FasciaMethod:sta
@@ -21,28 +21,23 @@ TUNNE LIIKKEEN VAPAUTTAVA VOIMA KEHOSSASI
 
 **FasciaMethod-harjoittelut 2023 kevät**
 
-**FasciaMethod - Järvenpään ryhmä**
-Dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tapahtuvat [Pilates Studio Hyväolo:ssa](https://pilatesstudiohyvaolo.fi/){:target="_blank"}, joka sijaitsee Järvenpäässä os. Laurilantie 3. Rauhallisella ja viihtyisällä studiolla pääset rauhoittumaan ja hengähtämään kehosi äärelle.
+**FasciaMethod - Järvenpään ryhmä**  
+Dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tapahtuvat sään salliessa ulkona Järvenpäässä Kaurapuistossa, os. Ohratie 12d. Alkukesän helliessä on ihanaa nauttia liikkuvuusharjoittelun ohessa raikkaasta ulkoilmasta. Jos ilma on kovin sateinen/tuulinen/kylmä tms. niin tunnit toteutetaan sisällä [Pilates Studio Hyväolo:ssa](https://pilatesstudiohyvaolo.fi/){:target="_blank"}, joka sijaitsee Järvenpäässä os. Laurilantie 3. Rauhallisella ja viihtyisällä studiolla pääset rauhoittumaan ja hengähtämään kehosi äärelle.
 ![hyvaolo](/img/hyvaolo.jpg "Hyvaolo"){: .image-left :}
 
-**Kurssi ajalla:** 26.2.-2.4.2023 (6 ohjattua harjoitusta)<br/>
+**Kurssi ajalla:** 7.-28.5.2023 (4 ohjattua harjoitusta)<br/>
 **Ajankohta:** SUNNUNTAISIN klo 15:45-16:45<br/>
-**Hinta:** 90€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), tai laskulla<br/>
-**Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmän tallenteisiin, jolloin voit halutessasi jatkaa harjoittelua myös kotona.
+**Hinta:** 60€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), tai laskulla<br/>
+**Bonus:** Ostaessasi tämän kurssin, saat myös pääsyn FasciaMethod etä-ryhmän tallenteisiin, jolloin voit halutessasi jatkaa harjoittelua myös kotona.  
 
-Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.  
-[ILMOITTAUDU JÄRVENPÄÄN RYHMÄÄN TÄSTÄ](https://forms.gle/zNTBNj12C4xvyYBb8){:target="_blank"}  
-<br/>
+Heitä hyvästit kolotuksille ja liikuta kehoasi lempeästi!
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ LINKISTÄ](https://forms.gle/MHVEsMd6UxUwAdpX8){:target="_blank"}  
 
 **FasciaMethod – ETÄ**  
-Harjoitukset tulevat suoraan kotiisi verkon välityksellä! Etäkurssi sisältää kerran viikossa 35 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitus ohjataan livenä Facebookin välityksellä torstaisin klo 10. Lisäksi kaikki harjoitukset jäävät tallenteena suljettuun ryhmään koko valmennuksen ajaksi. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii!
+Harjoitukset tulevat suoraan kotiisi verkon välityksellä! Etäkurssi sisältää kerran viikossa 35 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitus ohjataan livenä Facebookin välityksellä, lisäksi kaikki harjoitukset jäävät tallenteena suljettuun ryhmään koko valmennuksen ajaksi. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii!
 ![fasciamethod](/img/Fame.mainoskuva.jpg "FasciaMethod"){: .image-right :}
 
-**ETÄkurssi ajalla:** 12.1.-16.2.2026 (6 ohjattua harjoitusta) <br/>
-**Sisältö:** 1 krt/vko 35 minuutin FaMe-ohjaus ( + tallenteet käytössä 26.2. asti )<br/>
-**Hinta:** 38€ (sis. alv) - maksu liikuntaedulla (Edenred, Smartum, ePassi, eazybreak), mobilepaylla, tai laskulla
-
-[ILMOITTAUDU ETÄKURSSILLE TÄSTÄ](https://forms.gle/RB3bumHPkZEH2apw7){:target="_blank"}  
+**ETÄkurssi** on tältä keväältä päättynyt. Uusi etäkurssi käynnistyy mahdollisesti taas syksyllä, muista seurata elokatsun tiedotteita.  
 <br/><br/>
 
 ### Mitä on FasciaMethod?
@@ -54,8 +49,6 @@ Harjoitukset tulevat suoraan kotiisi verkon välityksellä! Etäkurssi sisältä
 Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin
 suunnattuja liikehallinta- ja liikkuvuusharjoitteita, sekä hyödynnämme hierontapalloa faskiakerrosten välisen liukumisen lisäämiseksi ja faskioiden nesteyttämiseksi.
 Harjoittelua rytmitetään hengityksellä. 
-
-Harjoituksia varten tarvitset noin jumppamaton verran tilaa, sekä kovan fasciapallon. Voit hyvin tehdä pallohieronnan myös tennispallolla, tai jättää sen halutessasi myös välistä ja rentoutua ja hengitellä sen aikaa. 
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue ryhmien valmennusehdot tästä](/valmennusehdot)
