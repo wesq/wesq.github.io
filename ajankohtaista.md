@@ -8,15 +8,15 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **Järvenpäähän tulossa vielä yksi 4 kerran FasciaMethod kurssi tälle keväälle!  [Lue tarkemmat tiedot täältä ja ilmoittaudu mukaan!](/fasciamethod)**
+* **SYKSYN PIENRYHMÄT KÄYNNISTYVÄT ELOKUUSSA, JA ILMOITTAUTUMINEN RYHMIIN KÄYNNISTYY TOUKO-KESÄKUUN VAIHTEESSA**
 
-* **Kevään yksilövalmennuspaikat täynnä. Syksyllä vapautumassa uusia valmennuspaikkoja, ota yhteyttä jos nämä kiinnostavat!**
+* **Kevään yksilövalmennuspaikat ovat täynnä. Syksyllä vapautumassa uusia valmennuspaikkoja, ota yhteyttä jos nämä kiinnostavat!**
 
-* **Eloisan kehon ulkotreenit jatkuvat keväällä Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä!](/ulkotreeni)**
+* **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä!](/ulkotreeni)**
 
-* **Kellokosken Liikuntakeskus Ruukissa jatkuvat keväällä PowerMethod, Lempeästi liikkeessä, sekä Lasten Temppujumpan pienryhmät. UUTUUTENA mukana MUUTOSVALMENNUS, PowerMethodille uusi päivä, sekä KAHVAKUULA. [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä!](/liikuntakeskusruukki)**
+* **Kellokosken Liikuntakeskus Ruukissa jatkuvat PowerMethod, Kahvakuulailu ja Lempeästi liikkeessä. [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä!](/liikuntakeskusruukki)**
 
-* **Kellokoskella käynnistyy Muutosvalmennus tammikuussa! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä!](/muutosvalmennus)**
+* **Kellokoskella jatkuu Muutosvalmennus! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä!](/muutosvalmennus)**
 
 * **Tai kaipaatko enemmän valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? Tai haluaisitko treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
