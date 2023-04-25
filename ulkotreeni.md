@@ -30,7 +30,7 @@ Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja 
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
 treenaa ulkona Kellokosken alueella. (Kovalla pakkasella tai rankkasateella harjoitus tapahtuu etänä Google meetin välityksellä.) 
 
-KEVÄTKAUSI **MAANANTAISIN** ajalla 9.1.-29.5.2023 **klo 17:30-18:30**  yhteensä 18 harjoitusta, EI treenejä 20.2., 10.4., 1.5.!
+KEVÄTKAUSI **MAANANTAISIN** ajalla 9.1.-5.6..2023 **klo 17:30-18:30**  yhteensä 18 harjoitusta, EI treenejä 20.2., 10.4., 1.5.!
 **Hinta: 216€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
 RYHMÄ ON TÄYTTYNYT!
@@ -42,7 +42,7 @@ RYHMÄ ON TÄYTTYNYT!
 ***HELSINGIN MYLLYPURON RYHMÄ***
 treenaa ulkona Myllypuron alueella. (Kovalla pakkasella tai rankkasateella harjoitus tapahtuu etänä Google meetin välityksellä.)
 
-KEVÄTKAUSI **TORSTAISIN** ajalla 5.1.-25.5.2022 **klo 17:15-18:15**  yhteensä 19 harjoitusta, EI treenejä 23.2., 18.5.!
+KEVÄTKAUSI **TORSTAISIN** ajalla 5.1.-8.6.2022 **klo 17:15-18:15**  yhteensä 19 harjoitusta, EI treenejä 23.2., 18.5.!
 **Hinta: 228€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
 RYHMÄ ON TÄYTTYNYT!

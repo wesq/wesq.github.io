@@ -28,7 +28,7 @@ Eloisan kehon seniorikurssilla vahvistat näitä ominaisuuksia, omaa kehoasi kuu
 ***SENIORIN ELOISA KEHO***
 ryhmä harjoittelee kevätkaudella Myllykylän Kylätalolla, os. Ryynimyllynkatu 1, 00920 Helsinki. Treenit ohjaa Hyvinvointivalmentaja, Personal Trainer ja Lähihoitaja Kati Sokka.
 
-**KEVÄTKAUSI** ajalla **5.1.-27.4.2023 (EI jumppaa 23.2.)**.  
+**KEVÄTKAUSI** ajalla **5.1.-25.5.2023 (EI jumppaa 23.2.)**.  
 Jumppapäivä **TORSTAISIN** klo **12:10-12:55**.  
 **Hinta: 160€** (sis. alv) maksetaan joko käteisellä tai laskulla, ja sen voi maksaa myös kahdessa osassa (16 jumppakertaa).  
 
