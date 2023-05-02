@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kevät 2023
+title: Kesä & Syksy 2023
 subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: 'Haluaisitko kysyä jotain ajankohtaisista asioista?'
@@ -8,15 +8,17 @@ social-share: true
 bigimg: img/a_syksy.jpg
 
 ---
-* **SYKSYN PIENRYHMÄT KÄYNNISTYVÄT ELOKUUSSA, JA ILMOITTAUTUMINEN RYHMIIN KÄYNNISTYY TOUKO-KESÄKUUN VAIHTEESSA**
+* **KESÄN ULKOTREENIEN AIKATAULUT OVAT JULKI, TUTUSTU KERTAMAKSULLISTEN PIENRYHMIEN AIKATAULUIHIN [täältä!](/kesatreenit23)**
 
-* **Kevään yksilövalmennuspaikat ovat täynnä. Syksyllä vapautumassa uusia valmennuspaikkoja, ota yhteyttä jos nämä kiinnostavat!**
+* **Syksyn pienryhmät käynnistyvät elokuussa, ja ilmoittautuminen ryhmiin alkaa touko-kesäkuun vaihteessa, pysy kuulolla!**
 
-* **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä!](/ulkotreeni)**
+* **Kevään yksilövalmennuspaikat ovat täynnä. Syksyllä vapautumassa uusia valmennuspaikkoja, ota yhteyttä jos nämä kiinnostavat.**
 
-* **Kellokosken Liikuntakeskus Ruukissa jatkuvat PowerMethod, Kahvakuulailu ja Lempeästi liikkeessä. [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä!](/liikuntakeskusruukki)**
+* **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
-* **Kellokoskella jatkuu Muutosvalmennus! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä!](/muutosvalmennus)**
+* **Kellokosken Liikuntakeskus Ruukissa jatkuvat PowerMethod, Kahvakuulailu ja Lempeästi liikkeessä. [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/liikuntakeskusruukki)**
+
+* **Kellokoskella jatkuu Muutosvalmennus! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä](/muutosvalmennus)**
 
 * **Tai kaipaatko enemmän valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? Tai haluaisitko treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
