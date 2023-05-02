@@ -30,7 +30,7 @@ ovat ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella tree
 **_HUOLTAVAT (FasciaMethod) KESÄTREENIT_**
 ovat ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Treeneissä kehität dynaamisen liikkeen kautta liikkuvuutta ja kehonhallintaa, sopii kaikille.  
 
-**TREENIT:** 4.6. SU klo 16:00-17:00, 11.6. SU klo 18:35-19:45, 12.6. MA klo 19:00-20:00, 19.6. MA klo 19:00-20:00, hinta 14€/kerta
+**TREENIT:** 4.6. SU klo 16:00-17:00, 11.6. SU klo 18:45-19:45, 12.6. MA klo 19:00-20:00, 19.6. MA klo 19:00-20:00, hinta 14€/kerta
 <br/><br/>
 
 **ELOISAN KEHON ULKORYHMÄT TUUSULAN KELLOKOSKELLA & HELSINGIN MYLLYPUROSSA!** <br/><br/>
