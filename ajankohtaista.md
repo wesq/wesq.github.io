@@ -5,7 +5,7 @@ subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
 formspree_comment: true
 comment_teksti: 'Haluaisitko kysyä jotain ajankohtaisista asioista?'
 social-share: true
-bigimg: img/a_syksy.jpg
+bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
 * **KESÄN ULKOTREENIEN AIKATAULUT OVAT JULKI, TUTUSTU KERTAMAKSULLISTEN PIENRYHMIEN AIKATAULUIHIN [täältä!](/kesatreenit23)**
