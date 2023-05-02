@@ -41,6 +41,7 @@ navbar-links:
     - -> Facebook: "https://facebook.com/elokatsu"
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
+    - Kesätreenit'23: "kesatreenit23"
     - Liikuntakeskus Ruukki: "liikuntakeskusruukki"
     - Yksilövalmennus: "yksilovalmennus"
     - Ulkotreeni: "ulkotreeni"
