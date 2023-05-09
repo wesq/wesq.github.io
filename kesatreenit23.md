@@ -21,14 +21,14 @@ Kesätreeneihin osallistutaan kertamaksulla. Treeneihin ilmoittautuminen on sito
 
 **KESÄN TOIMINNALLISET TREENIT KELLOKOSKELLA** <br/><br/>
 
-**_TOIMINNALLISET KESÄTREENIT_**
-ovat ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa.  
+**_eloVOIMA - toiminnalliset kesätreenit_**
+ovat ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Tule hakemaan elinvoimaa kehoosi elokatsun toiminnallisista eloVOIMA kesätreeneistä. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa.  
 
 **TREENIT:** 11.6. SU klo 17:30-18:30, 13.6. TI klo 9:00-10:00, 13.6. TI klo 18:00-19:00, 14.6. KE klo 17:45-18:45, 18.6. SU klo 17:30-18:30, 20.6. TI klo 9:00-10:00, 20.6. TI klo 18:00-19:00, 21.6. KE klo 17:45-18:45, hinta 16€/kerta
 <br/><br/>
 
-**_HUOLTAVAT (FasciaMethod) KESÄTREENIT_**
-ovat ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Treeneissä kehität dynaamisen liikkeen kautta liikkuvuutta ja kehonhallintaa, sopii kaikille.  
+**_FasciaMethod - huoltavat kesätreenit_**
+ovat ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Tämä tunti palauttaa kehosi elastisuuden ja huoltaa jumiutunutta kroppaa lempeästi. Treeneissä kehität dynaamisen liikkeen kautta liikkuvuutta ja kehonhallintaa, sopii kaikille.  
 
 **TREENIT:** 4.6. SU klo 16:00-17:00, 11.6. SU klo 18:45-19:45, 12.6. MA klo 19:00-20:00, 19.6. MA klo 19:00-20:00, hinta 14€/kerta
 <br/><br/>
@@ -38,7 +38,7 @@ ovat ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella tree
 ![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-left :}
 
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
-treenaa ulkona Kellokosken Herukkapuistossa os. Herukkatie 7. (Kovalla sateella harjoitus tapahtuu Kellokosken koulun pihalla katoksen alla.) 
+treenaa ulkona Kellokosken Herukkapuistossa os. Herukkatie 7. (Kovalla sateella harjoitus tapahtuu Kellokosken koulun pihalla katoksen alla.) Monipuoliset ja hauskat koko kehoa kuormittavat treenit, joissa jokainen treenaa omaa kehoa kuunnellen ja kunnioittaen.
 
 
 **TREENIT:** 12.6. MA klo 17:30-18:30 & 19.6. MA klo 17:30-18:30, hinta 13€/krt
@@ -47,7 +47,7 @@ treenaa ulkona Kellokosken Herukkapuistossa os. Herukkatie 7. (Kovalla sateella 
 ![Pienryhmätreeni](/img/myllypuro_treeni.jpg "Myllypuron pienryhmä"){: .image-right :}
 
 ***HELSINGIN MYLLYPURON RYHMÄ***
-treenaa ulkona Myllypuron kuntoportaiden kupeessa. (Kovalla sateella harjoitus tapahtuu Myllypuron koulun pihalla katoksen alla.)
+treenaa ulkona Myllypuron kuntoportaiden kupeessa. (Kovalla sateella harjoitus tapahtuu Myllypuron koulun pihalla katoksen alla.) Monipuoliset ja hauskat koko kehoa kuormittavat treenit, joissa jokainen treenaa omaa kehoa kuunnellen ja kunnioittaen.
 
 **TREENI:** 15.6. TO klo 17:15-18:15, hinta 13€/krt
 
