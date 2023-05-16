@@ -181,7 +181,7 @@ Kahvakuula-pienryhmä sopii monipuolisesta ja tehokkaasta lihaskuntoharjoittelus
 
 Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia treenejä. Teemme alkuun kehoa avaavaa ja lämmittävää harjoittelua kehonpainolla, jonka jälkeen siirrymme monipuoliseen ja menevään kiertoharjoittelutreeniin kahvakuulaillen ja omaa kehon painoa hyödyntäen. Näissä treeneissä syke nousee, perusvoima kasvaa ja puna nousee kasvoille! Treeni päättyy palauttavaan ja lempeään jäähdyttelyyn.
  
-**Syyskausi** toteutetaan ajalla **9.8.-20.12.2023 KESKIVIIKKOISIN klo 17:45-18:45** (EI tuntia 18.10. ja 6.12.). 
+**Syyskausi** toteutetaan ajalla **9.8.-20.12.2023 KESKIVIIKKOISIN klo 19:00-20:00** (EI tuntia 18.10. ja 6.12.). 
 Kurssin hinta 288€ (18 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
