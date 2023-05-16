@@ -19,33 +19,33 @@ Eloisa keho on liikkuva, jotta sinun on joustavan hyvä olo kehossasi ilman sär
 Eloisa keho kaipaa myös haasteita ja energiaa, voidakseen kehittyä ja palvella sinua tarvitsemallasi intensiteetillä
 vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olosta._
 
-![pienryhmä](/img/pienryhmatreenit_3.jpg "Eloisan kehon pienryhmätreenit"){: .image-right :}
+![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "eloisan kehon ulkotreenit"){: .image-right :}
 
 Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulle kehität perusvoimaa ja liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, joka treenaa ympäri vuoden ulkona.  <br/><br/>
 
 **ULKORYHMÄT TUUSULAN KELLOKOSKELLA & HELSINGIN MYLLYPUROSSA!** <br/><br/>
 
-![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "Kellokosken pienryhma"){: .image-left :}
+![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-left :}
 
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
-treenaa ulkona Kellokosken alueella. (Kovalla pakkasella tai rankkasateella harjoitus tapahtuu etänä Google meetin välityksellä.) 
+treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, esim. liian kova pakkanen, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
 
-KEVÄTKAUSI **MAANANTAISIN** ajalla 9.1.-5.6..2023 **klo 17:30-18:30**  yhteensä 18 harjoitusta, EI treenejä 20.2., 10.4., 1.5.!
-**Hinta: 216€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
+SYYSKAUSI **MAANANTAISIN** ajalla 7.8.-18.12.2023 **klo 17:30-18:30**  yhteensä 18 harjoitusta, EI treenejä 16.10. ja 13.11.!
+**Hinta: 232€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
-RYHMÄ ON TÄYTTYNYT!
+ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
 <br/><br/>
 <br/><br/>
 <br/><br/>
-![Pienryhmätreeni](/img/myllypuro.jpg "Myllypuron pienryhmä"){: .image-right :}
+![Pienryhmätreeni](/img/myllypuro_treeni.jpg "Myllypuron pienryhmä"){: .image-right :}
 
 ***HELSINGIN MYLLYPURON RYHMÄ***
-treenaa ulkona Myllypuron alueella. (Kovalla pakkasella tai rankkasateella harjoitus tapahtuu etänä Google meetin välityksellä.)
+treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, esim. liian kova pakkanen, harjoitukset tapahtuvat Google Meet etäyhteydellä.)
 
-KEVÄTKAUSI **TORSTAISIN** ajalla 5.1.-8.6.2022 **klo 17:15-18:15**  yhteensä 19 harjoitusta, EI treenejä 23.2., 18.5.!
-**Hinta: 228€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
+SYYSKAUSI **TORSTAISIN** ajalla 10.8.-14.12.2023 **klo 17:15-18:15**  yhteensä 18 harjoitusta, EI treenejä 19.10.!
+**Hinta: 232€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
-RYHMÄ ON TÄYTTYNYT!
+ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  

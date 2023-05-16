@@ -15,25 +15,23 @@ comment_teksti: "Kysy lisää valmennuksesta:"
 Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! 
 
 ![Ravitsemus](/img/monipuolinenravitsemus.jpg "Ravinto"){: .image-left :}
-<br/>
+
 Valmennuksessa käymme läpi
 oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
 millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista, ja vähentää stressiä. Valmennuksessa
 työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia. Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 <br/><br/>
-!["Hyvinvointivalmennus"](/img/uusilempeaelo-hyvinvointivalmennus.jpg "Uusi lempeä elo - hyvinvointivalmennus"){: .image-right :}
+!["Hyvinvointivalmennus"](/img/uusilempeaelo-hyvinvointivalmennus.jpg "Liike"){: .image-right :}
 **Tavoitteena on löytää Sinua tukeva kokonaisuus, jotta sinä voit voida paremmin.
 Omat tavoitteesi muutoksen suhteen ovat keskiössä.** Teemme matkaa yhdessä, mutta jokainen omista tavoitteistaan käsin.
-Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen priorisointia, keskustelua, yhteistä liikettä ja kehonhuoltoa, palautumisen tukemista, oman ravinnon tarkastelua, psyykkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisemmän tuen takaamiseksi ryhmään otetaan maksimissaan 8 osallistujaa.
+Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen priorisointia, keskustelua, yhteistä liikettä, palautumisen tukemista, oman ravinnon tarkastelua, psyykkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisemmän tuen takaamiseksi ryhmään otetaan maksimissaan 6 osallistujaa.
 <br/><br/>
-!["Uusi lempeä elo"](/img/uusilempeaelo4.jpg "Rentoutuminen"){: .center-block :}
-> Pysähtymisen & rentoutumisen kautta lisää hyvinvointia.  
+!["Uusi lempeä elo"](/img/uusilempeaelo4.jpg "Lepo"){: .center-block :}  
 
 **Tarkemmat tiedot toteutuksesta:** 
 
-Uusi ryhmä käynnistyy 2023 tammikuussa Kellokoskella!  
-Ryhmä kokoontuu 15.1.-18.6.2023 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa.  
-Ryhmätapaamiset noin joka toinen viikko.  
+Uusi ryhmä käynnistyy elokuussa 2023, [ilmoittaudu mukaan nyt](https://forms.gle/WdtsRayHxyDeF6ro6){:target="_blank"}!  
+Ryhmä kokoontuu 13.8.2023-14.1.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa. Ryhmätapaamiset noin joka toinen viikko.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
 
@@ -41,7 +39,7 @@ ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuu
 
 
 - Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
-Aikataulu: 15.1., 29.1., 12.2., 26.2., 12.3., 26.3., 2.4., 23.4., 7.5., 21.5., 4.6., 18.6.
+Aikataulu: 13.8., 27.8., 10.9., 24.9., 8.10., 22.10., 5.11., 19.11., 3.12., 17.12., 7.1., 14.1.
 - Henkilökohtaiset valmennustapaamiset 60 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
@@ -56,6 +54,8 @@ Aikataulu: 15.1., 29.1., 12.2., 26.2., 12.3., 26.3., 2.4., 23.4., 7.5., 21.5., 4
 Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 65€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 75€).
+
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/WdtsRayHxyDeF6ro6){:target="_blank"}
 
 **Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.**
 <br/>

@@ -24,12 +24,12 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
 #### Pienryhmät
  - [Muutosvalmennnus](#muutosvalmennus)
  - [Lempeästi liikkeessä](#lempeästi-liikkeessä)
- - [PowerMethod AAMU](#powermethod-aamu)
- - [PowerMethod TI](#powermethod-ti)
- - [PowerMethod KE](#powermethod-ke)
- - [PowerMethod SU](#powermethod-su)
+ - [eloVOIMA aamu](#elovoima-aamu)
+ - [eloVOIMA TI](#elovoima-ti)
+ - [eloVOIMA KE](#elovoima-ke)
+ - [eloVOIMA SU](#elovoima-su)
  - [Kahvakuula](#kahvakuula)
- - [Temppujumppa 4-6v.](#temppujumppa-4-6v)
+ - [Lyhytkurssit](#lyhytkurssit)
 
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
 
@@ -45,7 +45,7 @@ Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja poh
 
 #### Laiteopastus
 
-Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa käydään läpi salin laitteita asiakkaan toiveiden ja tavoitteiden mukaisesti. Varaa aika laiteopastukseen laittamalla viestiä kati@elokatsu.fi
+Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa käydään läpi salin laitteita asiakkaan toiveiden ja tavoitteiden mukaisesti. Varaa aika laiteopastukseen laittamalla viestiä kati@elokatsu.fi.
 
 #### PT-ohjaus
 
@@ -100,17 +100,17 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 
 Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 
-Uusi ryhmä käynnistyy 2023 tammikuussa Kellokoskella!  
-Ryhmä kokoontuu 15.1.-18.6.2023 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa. Ryhmätapaamiset noin joka toinen viikko.  
+Uusi ryhmä käynnistyy elokuussa 2023, [ilmoittaudu mukaan nyt](https://forms.gle/WdtsRayHxyDeF6ro6){:target="_blank"}!  
+Ryhmä kokoontuu 13.8.2023-14.1.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa. Ryhmätapaamiset noin joka toinen viikko.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.  
 
 **Valmennus sisältää:**
 - Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
-Aikataulu: 15.1., 29.1., 12.2., 26.2., 12.3., 26.3., 2.4., 23.4., 7.5., 21.5., 4.6., 18.6.
+Aikataulu: 13.8., 27.8., 10.9., 24.9., 8.10., 22.10., 5.11., 19.11., 3.12., 17.12., 7.1., 14.1.
 - Henkilökohtaiset valmennustapaamiset 60 min. x2  
     - Oman matkan suunnittelua  
-    - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
+    - Oman liikkeen suunnittelu + treeniohjelma   
 
 - Valmentajan yksilöllinen etätuki koko valmennuksen ajan
 - Pääsyn Sportyplanner-ohjelmaan, jossa yksilöllinen treeniohjelma
@@ -120,6 +120,8 @@ HINTA:
 89€/kk TAI 528€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/WdtsRayHxyDeF6ro6){:target="_blank"}
+
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
@@ -127,76 +129,66 @@ Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazyb
 
 Jos liikunnan ylläpito arjessa yksin tuntuu haastavalta ja kaipaat ympärillesi samassa tilanteessa olevia ihmisiä, tämä ryhmä on sinulle! Ryhmään ei vaadita minkäänlaista liikuntataustaa, mutta sinulla voi myös olla tilanne, että liikunta on hiipunut elämästä ja kaipaisit taas tsemppiä liikkeessä pysymiseen. Ryhmä on sinulle, joka haluat saada varmuutta liikkeen aloittamiseen tai ylläpitämiseen, sekä kaipaat lempeää ja ohjattua liikettä pienryhmässä. Teemme monipuolisesti ja matalalla kynnyksellä liikkuvuus- ja lihaskuntoharjoittelua koko keholle. Tunneilla panostetaan oikeaan liiketekniikkaan ja opit miten teet liikkeitä turvallisesti ja järkevästi.
 
-Pysymme lempeästi liikkeessä tulevanakin keväänä!  
-**Kevätkausi** toteutetaan ajalla **9.1.-29.5.2023 MAANANTAISIN klo 19:05-20:00** (EI tunteja 20.2., 10.4., 1.5.).
-Kevätkauden hinta 243€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua pysymään liikkeessä! Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+Pysymme lempeästi liikkeessä tulevanakin syksynä!  
+**Syyskausi** toteutetaan ajalla **7.8.-18.12.2023 MAANANTAISIN klo 19:05-20:00** (EI tunteja 16.10. ja 13.11.).
+Syyskauden hinta 259€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua pysymään liikkeessä! Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.  
-[RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/199eTHDcVjGYfYUi7){:target="_blank"}
+ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
 
-#### PowerMethod AAMU
+#### eloVOIMA aamu
 
-PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohjelma, jonka tavoitteena on voiman lisäksi kehittää liikehallintaa ja liikkuvuutta, sekä ennaltaehkäistä tuki- ja liikuntaelinvaivoja. Tuki- ja voimaharjoittelun yhdistämisellä pystymme mahdollistamaan tehokkaan ja turvallisen harjoittelun. Tunnilla opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Menevä tunti, jota pystyt skaalaamaan oman kuntosi mukaan.
+Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun eloVOIMA pienryhmässä!  
+Näissä toiminnallisen voimaharjoittelun treeneissä opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Treenit sisältävät monipuolisen koko kehoa avaavan ja aktivoivan alkulämmittelyn, sekä progressiivisesti suunnitellun lihaskunto- ja voimaosuuden. Vauhdikas tunti, jota pystyt skaalaamaan valmentajan opastuksella itsellesi sopivaksi. Käytämme tunnilla mm. käsipainoja, kahvakuulia, levytankoja ym.
+   
+**Syyskausi** toteutetaan ajalla **8.8.-19.12.2023 TIISTAISIN klo 9:00-10:00** (EI tuntia 17.10. ja 14.11.).
+Syyskauden hinta 288€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-PowerMethod tunnit jatkuvat arkiaamuissa myös keväällä!   
-**Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 9:00-10:00** (EI tuntia 21.2).
-Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
 
-Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.  
-[RYHMÄÄN 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/WVa93c3fETSPFP4H8){:target="_blank"}
+#### eloVOIMA TI
 
-#### PowerMethod TI
+Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun eloVOIMA pienryhmässä!  
+Näissä toiminnallisen voimaharjoittelun treeneissä opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Treenit sisältävät monipuolisen koko kehoa avaavan ja aktivoivan alkulämmittelyn, sekä progressiivisesti suunnitellun lihaskunto- ja voimaosuuden. Vauhdikas tunti, jota pystyt skaalaamaan valmentajan opastuksella itsellesi sopivaksi. Käytämme tunnilla mm. käsipainoja, kahvakuulia, levytankoja ym.
+  
+**Syyskausi** toteutetaan ajalla **8.8.-19.12.2023 TIISTAISIN klo 18:00-19:00** (EI tuntia 17.10. ja 14.11.).
+Syyskauden hinta 288€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohjelma, jonka tavoitteena on voiman lisäksi kehittää liikehallintaa ja liikkuvuutta, sekä ennaltaehkäistä tuki- ja liikuntaelinvaivoja. Tuki- ja voimaharjoittelun yhdistämisellä pystymme mahdollistamaan tehokkaan ja turvallisen harjoittelun. Tunnilla opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Menevä tunti, jota pystyt skaalaamaan oman kuntosi mukaan.
+ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
 
-PowerMethod tunnit jatkuvat keväällä tiistai-illoissa!  
-**Kevätkausi** toteutetaan ajalla **10.1.-30.5.2023 TIISTAISIN klo 18:00-19:00** (EI tuntia 21.2.).
-Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+#### eloVOIMA KE
 
-RYHMÄ ON TÄYTTYNYT!
+Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun eloVOIMA pienryhmässä!  
+Näissä toiminnallisen voimaharjoittelun treeneissä opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Treenit sisältävät monipuolisen koko kehoa avaavan ja aktivoivan alkulämmittelyn, sekä progressiivisesti suunnitellun lihaskunto- ja voimaosuuden. Vauhdikas tunti, jota pystyt skaalaamaan valmentajan opastuksella itsellesi sopivaksi. Käytämme tunnilla mm. käsipainoja, kahvakuulia, levytankoja ym.
+  
+**Syyskausi** toteutetaan ajalla **9.8.-20.12.2023 KESKIVIIKKOISIN klo 17:45-18:45** (EI tuntia 18.10. ja 6.12.).
+Syyskauden hinta 288€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-#### PowerMethod KE
+ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
 
-PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohjelma, jonka tavoitteena on voiman lisäksi kehittää liikehallintaa ja liikkuvuutta, sekä ennaltaehkäistä tuki- ja liikuntaelinvaivoja. Tuki- ja voimaharjoittelun yhdistämisellä pystymme mahdollistamaan tehokkaan ja turvallisen harjoittelun. Tunnilla opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Menevä tunti, jota pystyt skaalaamaan oman kuntosi mukaan.
+#### eloVOIMA SU
 
-PowerMethod tunnit alkavat kevätkaudella myös keskiviikkoisin!  
-**Kevätkausi** toteutetaan ajalla **11.1.-31.5.2023 KESKIVIIKKOISIN klo 17:45-18:45** (EI tuntia 22.2.).
-Kevätkauden hinta 299€ (20 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun eloVOIMA pienryhmässä!  
+Näissä toiminnallisen voimaharjoittelun treeneissä opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Treenit sisältävät monipuolisen koko kehoa avaavan ja aktivoivan alkulämmittelyn, sekä progressiivisesti suunnitellun lihaskunto- ja voimaosuuden. Vauhdikas tunti, jota pystyt skaalaamaan valmentajan opastuksella itsellesi sopivaksi. Käytämme tunnilla mm. käsipainoja, kahvakuulia, levytankoja ym.
+  
+**Syyskausi** toteutetaan ajalla **6.8.-17.12.2023 SUNNUNTAISIN klo 17:30-18:30** (EI tuntia 15.10. ja 12.11.).
+Syyskauden hinta 288€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-RYHMÄ ON TÄYTTYNYT!
-
-#### PowerMethod SU
-
-PowerMethod on fysioterapeuttien kehittämä toiminnallinen voimaharjoitteluohjelma, jonka tavoitteena on voiman lisäksi kehittää liikehallintaa ja liikkuvuutta, sekä ennaltaehkäistä tuki- ja liikuntaelinvaivoja. Tuki- ja voimaharjoittelun yhdistämisellä pystymme mahdollistamaan tehokkaan ja turvallisen harjoittelun. Tunnilla opit oikeat liiketekniikat, sekä kehität liikkuvuutta, liikehallintaa ja voimaa. Menevä tunti, jota pystyt skaalaamaan oman kuntosi mukaan.
-
-PowerMethod tunnit jatkuvat keväällä sunnuntai-illoissa!  
-**Kevätkausi** toteutetaan ajalla **8.1.-28.5.2023 SUNNUNTAISIN klo 17:30-18:30** (EI tunteja 19.2., 9.4., 30.4.).
-Kevätkauden hinta 269€ (18 kertaa), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi PowerMethod pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla PowerMethod tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-RYHMÄ ON TÄYTTYNYT!
+ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
 
 #### Kahvakuula
 
-Kahvakuulatreenit saavat jatkoa liikuntakeskuksella koko kevään ajan!  
 Kahvakuula-pienryhmä sopii monipuolisesta ja tehokkaasta lihaskuntoharjoittelusta pitäville.
 
 Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia treenejä. Teemme alkuun kehoa avaavaa ja lämmittävää harjoittelua kehonpainolla, jonka jälkeen siirrymme monipuoliseen ja menevään kiertoharjoittelutreeniin kahvakuulaillen ja omaa kehon painoa hyödyntäen. Näissä treeneissä syke nousee, perusvoima kasvaa ja puna nousee kasvoille! Treeni päättyy palauttavaan ja lempeään jäähdyttelyyn.
  
-**Kevätkausi** toteutetaan ajalla **1.3.-31.5.2023 KESKIVIIKKOISIN klo 19:00-20:00**  
-Kurssin hinta 209€ (14 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Syyskausi** toteutetaan ajalla **9.8.-20.12.2023 KESKIVIIKKOISIN klo 17:45-18:45** (EI tuntia 18.10. ja 6.12.). 
+Kurssin hinta 288€ (18 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-RYHMÄ ON TÄYTTYNYT!
+ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
 
-#### Temppujumppa 4-6v.
+#### Lyhytkurssit
 
-Lapsen ikioma temppujumppa, jossa vauhdikas ja iloinen meininki! Tunnilla keskiössä ovat liikunnan ilo ja lasten toiveet. Jumpassa opetellaan leikkien kautta motorisia perustaitoja ja ryhmässä toimimista lapsilähtöisesti ja innostavasti.
+**Aloittelijan kuntosalikurssi 15.8.-5.9.2023**
 
-Tämä kurssi on lapsen ikioma temppujumppa. Kuitenkin jos oma harrastus vielä vähän jännittää, voi ensimmäiselle tunnille ottaa oman aikuisen, tai vaikka oman pehmolelun turvaksi mukaan.
-
-Temppujumpailut jatkuvat keväällä tiistaisin!  
-**Kevätkausi** toteutetaan ajalla **10.1.-30.5.2022 TIISTAISIN klo 17:00-17:45** (EI jumppaa 21.2.).
-Kevätkauden hinta 199€ (20 jumppatuntia), jonka voi maksaa 1-2 osassa. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 lasta. Lapsen ikä 4-6v. on suuntaa antava. Ohjaajana toimii hyvinvointivalmentaja ja lähihoitaja Kati Sokka / elokatsu.
-
-Pienryhmään on jäänyt vapaita paikkoja, joten voit hypätä mukaan myös kesken kauden. Jos ilmoittaudut mukaan kesken kauden, maksussa hyvitetään sinulle menneet kerrat. Ilmoittautuessa mukaan laita vielä viestiä kati@elokatsu.fi, niin olen sinuun yhteydessä.  
-[RYHMÄÄN 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Cbh7PKBHYr5KhuB76){:target="_blank"}
+**eloLIIKE 19.9.-10.10.2023**
 
