@@ -10,13 +10,11 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 ---
 * **KESÄN ULKOTREENIEN AIKATAULUT OVAT JULKI, TUTUSTU KERTAMAKSULLISTEN PIENRYHMIEN AIKATAULUIHIN [täältä!](/kesatreenit23)**
 
-* **Syksyn pienryhmät käynnistyvät elokuussa, ja ilmoittautuminen ryhmiin alkaa touko-kesäkuun vaihteessa, pysy kuulolla!**
-
-* **Kevään yksilövalmennuspaikat ovat täynnä. Syksyllä vapautumassa uusia valmennuspaikkoja, ota yhteyttä jos nämä kiinnostavat.**
+* **Syksyn pienryhmät käynnistyvät elokuussa ja ilmoittautuminen ryhmiin alkaa 25.5.!**
 
 * **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
-* **Kellokosken Liikuntakeskus Ruukissa jatkuvat PowerMethod, Kahvakuulailu ja Lempeästi liikkeessä. [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/liikuntakeskusruukki)**
+* **Kellokosken Liikuntakeskus Ruukissa jatkuvat eloVOIMA, Kahvakuulailu ja Lempeästi liikkeessä. Lisäksi mukaan astuu erilaisia lyhytkursseja, mm. aloittelijan kuntosalikurssi ja eloLIIKE-kurssi. [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/liikuntakeskusruukki)**
 
 * **Kellokoskella jatkuu Muutosvalmennus! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä](/muutosvalmennus)**
 
