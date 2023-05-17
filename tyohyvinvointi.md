@@ -13,10 +13,10 @@ comment_teksti: Kerro miten voin auttaa Sinua?
 !["Työhyvinvointi"](/img/hyvinvointi.jpg "Työhyvinvointi"){: .image-right :}
 Elokatsu tarjoaa hyvinvointipalveluja myös yrityksille. 
 
-**Haluaisitko vaikuttaa työntekijöidesi hyvinvointiin?** Kaipaatko yrityksellenne TYHY-toimintaa, jatkuvaa liikettä, tai vaikka palautumisen mittausta ja hyvinvoinnin lisäämistä?  
-Voin tarjota yrityksellenne mm. Firstbeat-mittauksia palautumisen tukemisen näkökulmasta, tai vaikka jatkuvaa/kertaluonteista liikuntaa ja iloista yhdessä tekemistä.
+**Haluaisitko vaikuttaa työntekijöidesi hyvinvointiin?** Kaipaatko yrityksellenne TYHY-toimintaa, jatkuvaa liikettä, tai vaikka palautumisen ja hyvinvoinnin lisäämistä?  
+Voin tarjota yrityksellenne jatkuvaa/kertaluonteista liikuntaa, palautumisen ja hyvinvoinnin luentoja, sekä iloista yhdessä tekemistä.
 
-*Ota yhteyttä niin räätälöidään yhdessä teille sopiva paketti!*  
+Yritystuntien hinnat räätälöityvät ohjelman ja ajankohdan mukaan, hinnat alkaen 125€. Ota yhteyttä, niin räätälöidään yhdessä teidän tarpeisiin sopiva paketti!  
 <br/>
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue elokatsun valmennusehdot tästä](/valmennusehdot)
