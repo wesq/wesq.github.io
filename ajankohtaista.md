@@ -8,17 +8,19 @@ social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-* **KESÄN ULKOTREENIEN AIKATAULUT OVAT JULKI, TUTUSTU KERTAMAKSULLISTEN PIENRYHMIEN AIKATAULUIHIN [täältä!](/kesatreenit23)**
+* **Kesän kertamaksulliset ulkotreenit 4.-21.6, joista löytyy menevämpää ja huoltavampaa harjoitusta monena eri päivänä. Tutustu tarjontaan [täältä!](/kesatreenit23)**
 
-* **Syksyn pienryhmät käynnistyvät elokuussa ja ilmoittautuminen ryhmiin alkaa 25.5.!**
+* **Syksyn pienryhmät käynnistyvät elokuussa ja uusien asiakkaiden ilmoittautuminen ryhmiin alkaa 25.5.!**
 
-* **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa, [Ilmoittaudu mukaan täältä](/ulkotreeni)**
+* **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
 * **Kellokosken Liikuntakeskus Ruukissa jatkuvat eloVOIMA, Kahvakuulailu ja Lempeästi liikkeessä. Lisäksi mukaan astuu erilaisia lyhytkursseja, mm. aloittelijan kuntosalikurssi ja eloLIIKE-kurssi. [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/liikuntakeskusruukki)**
 
 * **FasciaMethod harjoittelut jatkuvat myös syksyllä Järvenpäässä, [lue lisää täältä](/fasciamethod)**
 
-* **Kellokoskella jatkuu Muutosvalmennus! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä](/muutosvalmennus)**
+* **Seniorien jumppameiningit jatkuvat Myllypurossa, josta voit lukea lisää [täältä](/seniorijumppa)**
+
+* **Kellokoskella jatkuu myös Muutosvalmennus! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä](/muutosvalmennus)**
 
 * **Tai kaipaatko enemmän valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? Tai haluaisitko treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
