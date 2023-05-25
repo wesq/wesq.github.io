@@ -27,7 +27,7 @@ Kehoa avaavaa dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tap
 
 **Kurssi:** ajalla **20.8.-8.10.2023** SUNNUNTAISIN klo 15:45-16:45. Kurssin hinta 128€ (8 kertaa) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla. Harjoitukset tapahtuvat saman pienryhmän kanssa joka viikko Pilates Studio Hyväolossa. Ilmoittautuminen ryhmään on sitova. Osallistuessasi tälle kurssille, saat myös pääsyn FasciaMethod ETÄ ryhmän tallenteisiin. Lue alta tarkempi kuvaus "Mitä on FasciaMethod".
 
-ILMOITTAUTUMINEN RYHMÄÄN AUKEAA 25.5.2023
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/WmL4guCGirRY7xQx6){:target="_blank"}
 
 **FasciaMethod – ETÄ**  
 Harjoitukset tulevat suoraan kotiisi verkon välityksellä! Etäkurssi sisältää kerran viikossa 35 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitus ohjataan livenä Facebookin välityksellä, lisäksi kaikki harjoitukset jäävät tallenteena suljettuun ryhmään koko valmennuksen ajaksi. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii!
