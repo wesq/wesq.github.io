@@ -10,7 +10,7 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 ---
 * **Kesän kertamaksulliset ulkotreenit 4.-21.6, joista löytyy menevämpää ja huoltavampaa harjoitusta monena eri päivänä. Tutustu tarjontaan [täältä!](/kesatreenit23)**
 
-* **Syksyn pienryhmät käynnistyvät elokuussa ja uusien asiakkaiden ilmoittautuminen ryhmiin alkaa 25.5.!**
+* **Syksyn pienryhmien ilmoittautuminen on nyt auki! Alta näet kootusti kaikki pienryhmät ja löydät linkit tarkempiin ryhmäkuvauksiin:**
 
 * **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
@@ -33,5 +33,5 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 
 * **Poikkeusolosuhteet:**
 
-Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Rajoitusten myötä elokatsun palveluita voidaan toteuttaa joustavasti myös ulkona ja etänä. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Eloisan kehon treenarit treenaa ulkona, ja muut pienryhmävalmennukset ja yksilövalmennukset toteutetaan turvallisesti suositusten mukaisesti sisällä ja ulkona asiakkaiden toivomalla tavalla. Joustavat tavat harrastaa tulevat jatkumaan elokatsun yksilöasiakkaiden ja pienryhmien osalta myös jatkossa. Tulethan valmennuksiin vain täysin terveenä.
+Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Mahdollisten rajoitusten myötä elokatsun palveluita voidaan toteuttaa joustavasti myös ulkona ja etänä. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Tulethan valmennuksiin vain täysin terveenä.
 [Tutustu toiminnan ehtoihin tästä](/valmennusehdot), kun käytät elokatsun palveluita, sitoudut noudattamaan näitä valmennusehtoja.
