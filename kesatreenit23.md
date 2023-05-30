@@ -24,7 +24,7 @@ Kesätreeneihin osallistutaan kertamaksulla. Treeneihin ilmoittautuminen on sito
 **_eloVOIMA - toiminnalliset kesätreenit_**
 ovat ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun toiminnallisista eloVOIMA kesätreeneistä. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa.  
 
-**TREENIT:** 11.6. SU klo 17:30-18:30, 13.6. TI klo 9:00-10:00, 13.6. TI klo 18:00-19:00, 14.6. KE klo 17:45-18:45, 18.6. SU klo 17:30-18:30, 20.6. TI klo 9:00-10:00, 20.6. TI klo 18:00-19:00, 21.6. KE klo 17:45-18:45, hinta 16€/kerta
+**TREENIT:** 11.6. SU klo 17:30-18:30, 13.6. TI klo 9:00-10:00, 13.6. TI klo 18:00-19:00, 14.6. KE klo 17:45-18:45, 18.6. SU klo 17:30-18:30, 20.6. TI klo 9:00-10:00, 20.6. TI klo 18:00-19:00, hinta 16€/kerta
 <br/><br/>
 
 **_FasciaMethod - huoltavat kesätreenit_**
