@@ -45,7 +45,7 @@ treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, es
 SYYSKAUSI **TORSTAISIN** ajalla 10.8.-14.12.2023 **klo 17:15-18:15**  yhteensä 18 harjoitusta, EI treenejä 19.10.!
 **Hinta: 232€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
-[RYHMÄÄN ON 1 PAIKKA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Jd4VtwoX4M9b1xQR9){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
