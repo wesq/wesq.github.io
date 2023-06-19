@@ -65,6 +65,9 @@ PT-ohjauksien hintoihin tulossa päivitys 22.6. alkaen, siihen asti kaikki palve
 * **_3 kerran ohjauspaketti & 2 treeniohjelmaa 240€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + ohjaukset / treeniohjelmien läpikäynnit - 60 min. x3   
 
+  **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
+[Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
+
 #### Hyvinvointivalmennus
 
 Kokonaisvaltainen valmennuspaketti muutoksen prosessin tukemisessa sisältäen muunmuassa; tavoitteenasettelu & motivaatio, teot &
@@ -99,6 +102,9 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 (esim. ohjattuja treenejä lisää)_  
 [OTA ENSIMMÄINEN ASKEL & VARAA AIKA KARTOITUKSEEN TÄSTÄ](https://forms.gle/RAhfPePEmEmNigtB9){:target="_blank"}
 <br/>
+
+**_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
+[Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
 
 #### Muutosvalmennus
 
@@ -213,3 +219,6 @@ Tämä liikkuvuutta lisäävä kurssi sopii sinulle, joka pähkäilet millä lis
 [ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/ecWZjUEkNemKRNJ48){:target="_blank"}
 
 Mielessä joku muu lyhytkurssi, jota kaipaisit? Heitäpä viestiä kati@elokatsu.fi ja kerro ideasi!
+
+**_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
+[Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.

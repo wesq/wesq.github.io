@@ -57,9 +57,9 @@ Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazyb
 
 [ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/WdtsRayHxyDeF6ro6){:target="_blank"}
 
-**Elokatsu pidättää itsellään kaikki oikeudet muutoksiin.**
+**_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**
 <br/>
-[Lue ryhmien valmennusehdot tästä](/valmennusehdot) 
+[Lue ryhmien valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin. 
 
 !["Hyvinvointivalmennus"](/img/Kati2.jpg "Tervetuloa mukaan"){: .center-block :}
 > Tule mukaan etsimään yhdessä Sinun arjen hyvinvointia tukevat palikat!

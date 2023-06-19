@@ -30,6 +30,9 @@ Kertakäynti 30€
 5 kertaa 135€  
 10 kertaa 250€**  
 
+**_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
+[Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
+
 Sinun EI tule vastaanottaa Neurosonic-hoitoa seuraavissa tilanteissa:
 
 Akuutti tulehdustila kehossa, flunssa & kuume, akuutti veritulppa, aktiivinen syöpä, raskaus, akuutttivaiheen välilevyn pullistumat, vakava silmäsairaus (mykiön tai linssin irtoamisen vaara, silmäleikkaus), välittömästi avoleikkauksen jälkeen tai jos sinulla on jokin muu verenvuodon vaara, sekä rokotuksien jälkeinen vuorokausi. Patjalla painoraja 125kg.

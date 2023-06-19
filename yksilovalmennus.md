@@ -59,7 +59,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 (esim. ohjattuja treenejä lisää)_
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
-[Lue valmennusehdot tästä](/valmennusehdot)
+[Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
 <br/><br/>
 #### PT-ohjaus:
  PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. 
@@ -83,6 +83,9 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
   Treeniohjauspakettiin sisältyy treenit valmentajan kanssa kerran viikossa suunnitelmallisen tavoitteitasi tukevan treeniohjelman mukaan. Kyseinen palvelu on toteutettavissa vain Kellokosken alueella; elokatsun kotitoimiston kuntosalilla, kotonasi, tai ulkona. Paketin minimiaika 1 kuukausi, voidaan ostaa kuukausi kerrallaan. Kyseinen paketti sisältää vain treeniohjaukset valmentajan suunnittelemalla ohjelmalla, paketti ei sisällä muiden treenien suunnittelua tai lisätreeniohjelmia. Pakettiin voidaan räätälöidä asiakkaan toiveiden mukaisesti myös tällaisia lisäpalveluita, joiden hinta määrittyy palvelun mukaan.
 
   + PT-ohjauspaketit eivät sisällä etätukea!
+
+  **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
+[Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
 
 ![yksilovalmennus](/img/yksilovalmennus_1.jpg "Yksilövalmennus"){: .center-block :}
 

@@ -14,6 +14,8 @@ Varaa aika maksuttomaan hyvinvointikartoitukseen, joka ei sido sinua vielä mihi
 
 Palveluuni kuuluvat erilaiset kehon ja mielen hyvinvointia tukevat yksilöille ja ryhmille räätälöidyt valmennukset ja liikunnanohjaukset. Elokatsun Y-tunnus: 2995020-2. Tiesithän, että kaikki elokatsun palvelut voit maksaa laskun lisäksi myös yleisimmillä liikuntaeduilla (Edenred, Smartum, ePassi, eazybreak). 
 
+**_Elokatsun kaikissa palveluissa noudatetaan määriteltyjä valmennusehtoja._** [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
+
 ![elokatsu](/img/elokatsu5.jpg){: .image-right :}
 Olivatpa tavoitteesi niin liikunnan ilon löytämisessä & liikkeen lisäämisessä, arkea tukevan levon & palautumisen tai ravitsemuksen puolella, tai kokonaisvaltaisen elämäntapamuutoksen ja hyvinvointitapojen aloittamisessa, tuen sinua lempeästi ja ammattitaidolla matkallasi kohti Sinun omaa hyvinvoivaa arkea. Luodaan siitä yhdessä sinun näköinen.
 

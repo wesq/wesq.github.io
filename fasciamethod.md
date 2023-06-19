@@ -29,6 +29,9 @@ Kehoa avaavaa dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tap
 
 [ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/WmL4guCGirRY7xQx6){:target="_blank"}
 
+**_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
+[Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
+
 **FasciaMethod – ETÄ**  
 Harjoitukset tulevat suoraan kotiisi verkon välityksellä! Etäkurssi sisältää kerran viikossa 35 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitus ohjataan livenä Facebookin välityksellä, lisäksi kaikki harjoitukset jäävät tallenteena suljettuun ryhmään koko valmennuksen ajaksi. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii!
 ![fasciamethod](/img/Fame.mainoskuva.jpg "FasciaMethod"){: .image-right :}
@@ -44,7 +47,4 @@ Harjoitukset tulevat suoraan kotiisi verkon välityksellä! Etäkurssi sisältä
 ![fasciamethod_logo](/img/fasciaME-pieni.jpg "FasciaMethod logo"){: .image-left :}FasciaMethod on kokonaisvaltainen kehonhuoltotunti, jossa pääset huoltamaan kehosi jumeja ja pysähtymään itsesi äärelle. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. 
 Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin
 suunnattuja liikehallinta- ja liikkuvuusharjoitteita, sekä hyödynnämme hierontapalloa faskiakerrosten välisen liukumisen lisäämiseksi ja faskioiden nesteyttämiseksi.
-Harjoittelua rytmitetään hengityksellä. 
-
-**_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
-[Lue ryhmien valmennusehdot tästä](/valmennusehdot)
+Harjoittelua rytmitetään hengityksellä.

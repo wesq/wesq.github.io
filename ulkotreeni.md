@@ -49,4 +49,4 @@ RYHMÄ ON TÄYTTYNYT
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
-[Lue ryhmien valmennusehdot tästä](/valmennusehdot)
+[Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
