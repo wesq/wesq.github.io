@@ -42,20 +42,19 @@ navbar-links:
     - -> Facebook: "https://facebook.com/elokatsu"
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
-    - Kesätreenit'23: "kesatreenit23"
     - Liikuntakeskus Ruukki: "liikuntakeskusruukki"
     - Yksilövalmennus: "yksilovalmennus"
     - Ulkotreeni: "ulkotreeni"
-    - Seniorijumppa: "seniorijumppa"
     - FasciaMethod: "fasciamethod"
+    - Seniorijumppa: "seniorijumppa"
     - Muutosvalmennus: "muutosvalmennus"
     - Neurosonic-hoito: "neurosonic"
-    - Yksityistunnit: "yksityistunnit"
     - Työhyvinvointi: "tyohyvinvointi"
+    - Yksityistunnit: "yksityistunnit"
     - Yhteistyö: "yhteistyo"
     - Valmennusehdot: "valmennusehdot"
   Ajankohtaista:
-    - Kesä + Syksy 2023: "ajankohtaista"
+    - Syksy 2023: "ajankohtaista"
   Yhteys: 
     - Ota yhteyttä: "ota_yhteytta"
     - Palautteet: "palaute"
