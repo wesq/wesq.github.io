@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Kesä & Syksy 2023
-subtitle: Tule sinäkin mukaan elokatsun pienryhmiin!
+title: Syksy 2023
+subtitle: Tule sinäkin mukaan elokatsun valmennuksiin!
 formspree_comment: true
 comment_teksti: 'Haluaisitko kysyä jotain ajankohtaisista asioista?'
 social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-* **Kesän kertamaksulliset ulkotreenit 4.-21.6, joista löytyy menevämpää ja huoltavampaa harjoitusta monena eri päivänä. Tutustu tarjontaan [täältä!](/kesatreenit23)**
-
 * **Syksyn pienryhmien ilmoittautuminen on nyt auki! Alta näet kootusti kaikki pienryhmät ja löydät linkit tarkempiin ryhmäkuvauksiin:**
 
 * **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
