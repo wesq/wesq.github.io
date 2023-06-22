@@ -66,7 +66,15 @@ PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöid
   Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikänti 60 min.    
 
 * **_3 kerran ohjauspaketti & 2 treeniohjelmaa 250€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + ohjaukset / treeniohjelmien läpikäynnit - 60 min. x3   
+  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit ja muut ohjaukset - 60 min. x3   
+
+* **_2 kerran ohjauspaketti & 2 treeniohjelmaa 178€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit - 60 min. x2   
+
+* **_2 treeniohjelmaa + 1 ohjaus 129€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + 1 ohjauksen, jossa molempien treeniohjelmien läpikäynnit - 60 min. x1   
+
+ **Etkö löytänyt itsellesi sopivaa pakettia? Ota yhteyttä kati@elokatsu.fi, niin räätälöidään juuri Sinun tarpeisiin sopiva kokonaisuus!**   
 
   **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
