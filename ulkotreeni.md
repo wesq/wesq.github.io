@@ -33,7 +33,7 @@ treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, e
 SYYSKAUSI **MAANANTAISIN** ajalla 7.8.-18.12.2023 **klo 17:30-18:30**  yhteensä 18 harjoitusta, EI treenejä 16.10. ja 13.11.!
 **Hinta: 232€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla.
 
-[RYHMÄÄN ON 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/a2qvXNoqA6cYdJHX6){:target="_blank"}
+[RYHMÄÄN ON 1 PAIKKA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/a2qvXNoqA6cYdJHX6){:target="_blank"}
 <br/><br/>
 <br/><br/>
 <br/><br/>
