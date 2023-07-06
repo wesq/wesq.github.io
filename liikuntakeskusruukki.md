@@ -204,7 +204,7 @@ Ryhmässä treenaillaan kahvakuulan kanssa monipuolisia koko kehoa kuormittavia 
 **Syyskausi** toteutetaan ajalla **9.8.-20.12.2023 KESKIVIIKKOISIN klo 19:00-20:00** (EI tuntia 18.10. ja 6.12.). 
 Kurssin hinta 288€ (18 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/ShPYBhTgokqY3jsS9){:target="_blank"}
+[RYHMÄÄN ON 4 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/ShPYBhTgokqY3jsS9){:target="_blank"}
 
 #### Lyhytkurssit
 
