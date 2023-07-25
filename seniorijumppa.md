@@ -32,7 +32,7 @@ pienryhmä harjoittelee syyskaudella ulkona Myllypuron alueella, sekä Myllykyl�
 Jumppapäivä **TORSTAISIN** klo **12:10-12:55**.  
 **Hinta: 189€** (sis. alv) maksetaan joko käteisellä tai laskulla, ja voi maksaa myös kahdessa osassa (18 jumppakertaa).  
 
-[RYHMÄÄN ON 2 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/87atLVbeWVkvxSfc7){:target="_blank"}
+[RYHMÄÄN ON 1 PAIKKA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/87atLVbeWVkvxSfc7){:target="_blank"}
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
