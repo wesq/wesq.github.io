@@ -127,7 +127,7 @@ ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuu
 
 **Valmennus sisältää:**
 - Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
-Aikataulu: 13.8., 27.8., 10.9., 24.9., 8.10., 22.10., 5.11., 19.11., 3.12., 17.12., 7.1., 14.1.
+Aikataulu: 20.8., 27.8., 10.9., 24.9., 8.10., 22.10., 5.11., 19.11., 3.12., 17.12., 7.1., 14.1.
 - Henkilökohtaiset valmennustapaamiset 60 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikkeen suunnittelu + treeniohjelma   
