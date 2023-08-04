@@ -216,7 +216,7 @@ Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä skaalausta l
 
 **Aloittelijan kuntosalikurssi** toteutetaan ajalla **19.9.-10.10.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 129€ (4 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/eMe2YQEJm3EvuPit6){:target="_blank"}
+[RYHMÄÄN ON 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/eMe2YQEJm3EvuPit6){:target="_blank"}
 
 **eloLIIKE 24.10.-14.11.2023**
 
