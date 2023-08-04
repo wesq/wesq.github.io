@@ -208,23 +208,23 @@ Kurssin hinta 288€ (18 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloi
 
 #### Lyhytkurssit
 
-**Aloittelijan kuntosalikurssi 15.8.-5.9.2023**
+**Aloittelijan kuntosalikurssi 19.9.-10.10.2023**
 
 Tämä kurssi on sinulle, joka haluat oppia harjoittelemaan kuntosalilla turvallisesti, lisäten liikkuvuutta ja lihasvoimaa!
 
 Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä skaalausta liikkeisiin niin, että saat treenistäsi kehittävää. Kurssi pitää sisällään neljä yhteistä 50 minuutin tapaamista. Tapaamiset sisältävät kehoa lämmittävän ja tukilihaksia aktivoivan alkulämmittelyn, sekä lihaskunto-osuuden kuntosalilaitteilla. Saat myös pääsyn Sportyplanner ohjelmaan, josta näet valmentajan suunnitteleman treenin, jotta voit jatkaa treeniä itsenäisesti.
 
-**Aloittelijan kuntosalikurssi** toteutetaan ajalla **15.8.-5.9.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 129€ (4 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Aloittelijan kuntosalikurssi** toteutetaan ajalla **19.9.-10.10.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 129€ (4 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-RYHMÄ ON TÄYTTYNYT
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/eMe2YQEJm3EvuPit6){:target="_blank"}
 
-**eloLIIKE 19.9.-10.10.2023**
+**eloLIIKE 24.10.-14.11.2023**
 
 Elinvoimaa ja joustavuutta kehoon elokatsun eloLIIKE kurssilta!
 
 Tämä liikkuvuutta lisäävä kurssi sopii sinulle, joka pähkäilet millä lisätä kehon elastisuutta, tai mitä sitä oikein tekisi salilla alkulämmittelynä. Kurssi pitää sisällään neljä 50 minuutin tapaamista. Tapaamiset sisältävät mm. pienet liikkuvuustestit (jotta tiedät mihin sinun tulee eniten kiinnittää huomiota), täsmäohjeita ja vinkkejä liikkuvuuden lisäämiseen, sekä neljä yhteistä treenikertaa. Treeneissä hyödynnetään mm. salin vihermattoa, keppejä, kuminauhoja ja hierontapalloja. Luvassa monipuolisia ja erilaisia harjoituksia joka kerralla.
 
-**eloLIIKE-kurssi** toteutetaan ajalla **19.9.-10.10.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 59€ (4 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**eloLIIKE-kurssi** toteutetaan ajalla **24.10.-14.11.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 59€ (4 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 [ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/ecWZjUEkNemKRNJ48){:target="_blank"}
 
