@@ -38,8 +38,8 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 * Liikunnan suunnittelu & Yksilöllinen harjoitusohjelma
 * Pääsy Sportyplanner-ohjelmistoon
 * Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)
-* Ravitsemuksen merkitys hyvinvointiin - tarkastelu/neuvonta
-* Palautumisen ja unen merkitys hyvinvointiin - tarkastelu/neuvonta
+* Ravintovalmennus (ravitsemuksen tarkastelu & neuvonta)
+* Palautumisen ja unen merkitys hyvinvointiin (tarkastelu & neuvonta)
 * Muutoksen tukemista erilaisin tehtävin ja keskusteluin
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>  

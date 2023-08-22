@@ -30,8 +30,8 @@ Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen pr
 
 **Tarkemmat tiedot toteutuksesta:** 
 
-Uusi ryhmä käynnistyy elokuussa 2023, [ilmoittaudu mukaan nyt](https://forms.gle/WdtsRayHxyDeF6ro6){:target="_blank"}!  
-Ryhmä kokoontuu 13.8.2023-14.1.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa. Ryhmätapaamiset noin joka toinen viikko.  
+Uusi ryhmä käynnistyy tammikuussa 2024!  
+Ryhmä kokoontuu 21.1.-16.6.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa. Ryhmätapaamiset noin joka toinen viikko.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
 
@@ -39,7 +39,7 @@ ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuu
 
 
 - Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
-Aikataulu: 20.8., 27.8., 10.9., 24.9., 8.10., 22.10., 5.11., 19.11., 3.12., 17.12., 7.1., 14.1.
+Aikataulu: 21.1., 28.1., 11.2., 25.2., 10.3., 24.3., 7.4., 21.4., 5.5., 19.5., 2.6., 16.6.
 - Henkilökohtaiset valmennustapaamiset 60 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu + henkilökohtainen ohjelma   
@@ -54,8 +54,6 @@ Aikataulu: 20.8., 27.8., 10.9., 24.9., 8.10., 22.10., 5.11., 19.11., 3.12., 17.1
 Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 65€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 75€).
-
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/WdtsRayHxyDeF6ro6){:target="_blank"}
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**
 <br/>

@@ -91,8 +91,8 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 * Liikunnan suunnittelu & Yksilöllinen harjoitusohjelma
 * Pääsy Sportyplanner-ohjelmistoon
 * Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)
-* Ravitsemuksen merkitys hyvinvointiin - tarkastelu/neuvonta
-* Palautumisen ja unen merkitys hyvinvointiin - tarkastelu/neuvonta
+* Ravintovalmennus (ravitsemuksen tarkastelu & neuvonta)
+* Palautumisen ja unen merkitys hyvinvointiin (tarkastelu & neuvonta)
 * Muutoksen tukemista erilaisin tehtävin ja keskusteluin
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>
@@ -120,14 +120,14 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 
 Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 
-Uusi ryhmä käynnistyy elokuussa 2023, [ilmoittaudu mukaan nyt](https://forms.gle/WdtsRayHxyDeF6ro6){:target="_blank"}!  
-Ryhmä kokoontuu 13.8.2023-14.1.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa. Ryhmätapaamiset noin joka toinen viikko.  
+Uusi ryhmä käynnistyy tammikuussa 2024!  
+Ryhmä kokoontuu 21.1.-16.6.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa. Ryhmätapaamiset noin joka toinen viikko.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.  
 
 **Valmennus sisältää:**
 - Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
-Aikataulu: 20.8., 27.8., 10.9., 24.9., 8.10., 22.10., 5.11., 19.11., 3.12., 17.12., 7.1., 14.1.
+Aikataulu: 21.1., 28.1., 11.2., 25.2., 10.3., 24.3., 7.4., 21.4., 5.5., 19.5., 2.6., 16.6.
 - Henkilökohtaiset valmennustapaamiset 60 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikkeen suunnittelu + treeniohjelma   
@@ -139,9 +139,6 @@ Aikataulu: 20.8., 27.8., 10.9., 24.9., 8.10., 22.10., 5.11., 19.11., 3.12., 17.1
 HINTA: 
 89€/kk TAI 528€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
-
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/WdtsRayHxyDeF6ro6){:target="_blank"}
-
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
