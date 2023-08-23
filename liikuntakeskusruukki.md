@@ -213,9 +213,9 @@ Ryhmä on jo käynnistynyt, mutta siihen on jäänyt vapaita paikkoja. Voit hyp�
 
 Tämä kurssi on sinulle, joka haluat oppia harjoittelemaan kuntosalilla turvallisesti, lisäten liikkuvuutta ja lihasvoimaa!
 
-Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä skaalausta liikkeisiin niin, että saat treenistäsi kehittävää. Kurssi pitää sisällään neljä yhteistä 50 minuutin tapaamista. Tapaamiset sisältävät kehoa lämmittävän ja tukilihaksia aktivoivan alkulämmittelyn, sekä lihaskunto-osuuden kuntosalilaitteilla. Saat myös pääsyn Sportyplanner ohjelmaan, josta näet valmentajan suunnitteleman treenin, jotta voit jatkaa treeniä itsenäisesti.
+Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta niin, että saat treenistäsi turvallista ja kehittävää. Kurssi pitää sisällään neljä yhteistä treenitapaamista. Treeni sisältää kehoa lämmittävän ja tukilihaksia aktivoivan alkulämmittelyn, sekä lihaskunto-osuuden kuntosalilaitteilla. Kurssin hintaan sisältyy treeniohjelma, joka jää sinulle kurssin jälkeen Sportyplanner treeniohjelmistoon, jotta voit jatkaa kuntosalitreeniä itsenäisesti. Treeniohjelma opetellaan huolellisesti läpi kurssilla, ja siihen tehdään tarvittaessa yksilöllisiä muutoksia asiakkaan tarpeen mukaan.
 
-**Aloittelijan kuntosalikurssi** toteutetaan ajalla **19.9.-10.10.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 129€ (4 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Aloittelijan kuntosalikurssi** toteutetaan ajalla **19.9.-10.10.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 [RYHMÄÄN ON 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/eMe2YQEJm3EvuPit6){:target="_blank"}
 
