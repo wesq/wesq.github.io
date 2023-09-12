@@ -140,6 +140,8 @@ HINTA:
 89€/kk TAI 528€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/Gs1xnEhThhFExUgR6){:target="_blank"}
+
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
 #### Lempeästi liikkeessä
