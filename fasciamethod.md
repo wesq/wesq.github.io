@@ -25,9 +25,9 @@ TUNNE LIIKKEEN VAPAUTTAVA VOIMA KEHOSSASI
 Kehoa avaavaa dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tapahtuvat [Pilates Studio Hyväolo:ssa](https://pilatesstudiohyvaolo.fi/){:target="_blank"}, joka sijaitsee Järvenpäässä os. Laurilantie 3. Rauhallisella ja viihtyisällä studiolla pääset rauhoittumaan ja hengähtämään kehosi äärelle.
 ![hyvaolo](/img/hyvaolo.jpg "Hyvaolo"){: .image-left :}
 
-**Kurssi:** ajalla **20.8.-8.10.2023** SUNNUNTAISIN klo 15:45-16:45. Kurssin hinta 128€ (8 kertaa) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla. Harjoitukset tapahtuvat saman pienryhmän kanssa joka viikko Pilates Studio Hyväolossa. Ilmoittautuminen ryhmään on sitova. Osallistuessasi tälle kurssille, saat myös pääsyn FasciaMethod ETÄ ryhmän tallenteisiin. Lue alta tarkempi kuvaus "Mitä on FasciaMethod".
+**Kurssi:** ajalla **22.10.-17.12.2023** (EI tuntia 12.11.) SUNNUNTAISIN klo 15:45-16:45. Kurssin hinta 128€ (8 kertaa) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla. Harjoitukset tapahtuvat saman pienryhmän kanssa joka viikko Pilates Studio Hyväolossa. Ilmoittautuminen ryhmään on sitova. Osallistuessasi tälle kurssille, saat myös pääsyn FasciaMethod ETÄ ryhmän tallenteisiin. Lue alta tarkempi kuvaus "Mitä on FasciaMethod".
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/WmL4guCGirRY7xQx6){:target="_blank"}
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/UMXh2GBydAr1gFqL9){:target="_blank"}
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
@@ -36,7 +36,7 @@ Kehoa avaavaa dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tap
 Harjoitukset tulevat suoraan kotiisi verkon välityksellä! Etäkurssi sisältää kerran viikossa 35 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Harjoitus ohjataan livenä Facebookin välityksellä, lisäksi kaikki harjoitukset jäävät tallenteena suljettuun ryhmään koko valmennuksen ajaksi. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii!
 ![fasciamethod](/img/Fame.mainoskuva.jpg "FasciaMethod"){: .image-right :}
 
-**ETÄkurssi** on tältä keväältä päättynyt. Uusi etäkurssi käynnistyy mahdollisesti taas syksyllä, muista seurata elokatsun tiedotteita.  
+**ETÄkurssi** Jos olet kiinnostunut etäkurssista, niin laita viestiä kati@elokatsu.fi.  
 <br/><br/>
 
 ### Mitä on FasciaMethod?
