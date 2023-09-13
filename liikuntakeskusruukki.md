@@ -225,7 +225,7 @@ Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta nii
 
 Elinvoimaa ja joustavuutta kehoon elokatsun eloLIIKE kurssilta!
 
-Tämä liikkuvuutta lisäävä kurssi sopii sinulle, joka pähkäilet millä lisätä kehon elastisuutta, tai mitä sitä oikein tekisi salilla alkulämmittelynä. Kurssi pitää sisällään neljä 50 minuutin tapaamista. Tapaamiset sisältävät mm. pienet liikkuvuustestit (jotta tiedät mihin sinun tulee eniten kiinnittää huomiota), täsmäohjeita ja vinkkejä liikkuvuuden lisäämiseen, sekä neljä yhteistä treenikertaa. Treeneissä hyödynnetään mm. salin vihermattoa, keppejä, kuminauhoja ja hierontapalloja. Luvassa monipuolisia ja erilaisia harjoituksia joka kerralla.
+Tämä liikkuvuutta lisäävä kurssi sopii sinulle, joka kaipaat kehoosi elastisuutta, hallintaa ja hyvää oloa. Kurssi pitää sisällään neljä 50 minuutin tapaamista. Tapaamiset sisältävät mm. pienet liikkuvuustestit (jotta tiedät mihin sinun tulee eniten kiinnittää huomiota), täsmäohjeita ja vinkkejä kehon kireyksien ja jumitusten poistoon, sekä neljä yhteistä treenikertaa. Treeneissä hyödynnetään mm. salin vihermattoa, keppejä, kuminauhoja ja hierontapalloja. Luvassa toiminnallisia, monipuolisia ja erilaisia harjoituksia joka kerralla.
 
 **eloLIIKE-kurssi** toteutetaan ajalla **24.10.-14.11.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 59€ (4 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
