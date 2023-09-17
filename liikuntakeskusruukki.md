@@ -211,6 +211,16 @@ Ryhmä on jo käynnistynyt, mutta siihen on jäänyt vapaita paikkoja. Voit hyp�
 
 #### Lyhytkurssit
 
+**eloLIIKE 24.10.-14.11.2023**
+
+Elinvoimaa ja joustavuutta kehoon elokatsun eloLIIKE kurssilta!
+
+Tämä liikkuvuutta lisäävä kurssi sopii sinulle, joka kaipaat kehoosi elastisuutta, hallintaa ja hyvää oloa. Kurssi pitää sisällään neljä tapaamiskertaa, jotka sisältävät mm. pienet liikkuvuustestit (jotta tiedät mihin sinun tulee eniten kiinnittää huomiota), täsmäohjeita ja vinkkejä kehon kireyksien ja jumitusten poistoon, sekä neljä yhteistä treenikertaa. Treeneissä hyödynnetään mm. salin vihermattoa, keppejä, kuminauhoja ja hierontapalloja. Luvassa toiminnallisia, monipuolisia ja erilaisia harjoituksia joka kerralla.
+
+**eloLIIKE-kurssi** toteutetaan ajalla **24.10.-14.11.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 59€ (4 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/ecWZjUEkNemKRNJ48){:target="_blank"}
+
 **Aloittelijan kuntosalikurssi 21.11.-12.12.2023**
 
 Tämä kurssi on sinulle, joka haluat oppia harjoittelemaan kuntosalilla turvallisesti, lisäten liikkuvuutta ja lihasvoimaa!
@@ -219,19 +229,7 @@ Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta nii
 
 **Aloittelijan kuntosalikurssi** toteutetaan ajalla **21.11.-12.12.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-TULOSSA MYYNTIIN VIIKOLLA 38
-
-**eloLIIKE 24.10.-14.11.2023**
-
-Elinvoimaa ja joustavuutta kehoon elokatsun eloLIIKE kurssilta!
-
-Tämä liikkuvuutta lisäävä kurssi sopii sinulle, joka kaipaat kehoosi elastisuutta, hallintaa ja hyvää oloa. Kurssi pitää sisällään neljä 50 minuutin tapaamista. Tapaamiset sisältävät mm. pienet liikkuvuustestit (jotta tiedät mihin sinun tulee eniten kiinnittää huomiota), täsmäohjeita ja vinkkejä kehon kireyksien ja jumitusten poistoon, sekä neljä yhteistä treenikertaa. Treeneissä hyödynnetään mm. salin vihermattoa, keppejä, kuminauhoja ja hierontapalloja. Luvassa toiminnallisia, monipuolisia ja erilaisia harjoituksia joka kerralla.
-
-**eloLIIKE-kurssi** toteutetaan ajalla **24.10.-14.11.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 59€ (4 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/ecWZjUEkNemKRNJ48){:target="_blank"}
-
-Mielessä joku muu lyhytkurssi, jota kaipaisit? Heitäpä viestiä kati@elokatsu.fi ja kerro ideasi!
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/gefVqh8mrSuzfx4U7){:target="_blank"}
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
