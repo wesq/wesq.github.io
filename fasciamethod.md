@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FasciaMethod
-subtitle: FasciaMethod - huoltavaa liikettä Järvenpäässä
+subtitle: FasciaMethod - lempeä kehonhuoltomenetelmä
 
 formspree_comment: true
 comment_teksti: Kysy lisätietoja FasciaMethod:sta
@@ -21,11 +21,11 @@ TUNNE LIIKKEEN VAPAUTTAVA VOIMA KEHOSSASI
 
 **FasciaMethod-harjoittelut**
 
-**FasciaMethod - Järvenpään ryhmä**  
-Kehoa avaavaa dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tapahtuvat [Pilates Studio Hyväolo:ssa](https://pilatesstudiohyvaolo.fi/){:target="_blank"}, joka sijaitsee Järvenpäässä os. Laurilantie 3. Rauhallisella ja viihtyisällä studiolla pääset rauhoittumaan ja hengähtämään kehosi äärelle.
-![hyvaolo](/img/hyvaolo.jpg "Hyvaolo"){: .image-left :}
+**FasciaMethod - pienryhmä**  
+Kehoa avaavaa dynaamista liikkuvuusharjoittelua pienryhmässä. Harjoitukset tapahtuvat [Liikuntakeskus Ruukin tiloissa](https://liikuntakeskusruukki.fi/){:target="_blank"}, joka sijaitsee Kellokoskella os. Vanha Valtatie 190. Ruukin rustiikkisessa miljöössä harjoittelu tuo hyvää oloa niin keholle, kuin mielelle.
+![FaMe](/img/hyvinvointi.jpg "FaMe"){: .image-left :}
 
-**Kurssi:** ajalla **22.10.-17.12.2023** (EI tuntia 12.11.) SUNNUNTAISIN klo 15:45-16:45. Kurssin hinta 128€ (8 kertaa) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla. Harjoitukset tapahtuvat saman pienryhmän kanssa joka viikko Pilates Studio Hyväolossa. Ilmoittautuminen ryhmään on sitova. Osallistuessasi tälle kurssille, saat myös pääsyn FasciaMethod ETÄ ryhmän tallenteisiin. Lue alta tarkempi kuvaus "Mitä on FasciaMethod".
+**Kurssi:** ajalla **22.10.-17.12.2023** (EI tuntia 12.11.) SUNNUNTAISIN klo 15:45-16:45. Kurssin hinta 128€ (8 kertaa) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä yleisimmillä liikuntaeduilla. Ilmoittautuminen ryhmään on sitova. Osallistuessasi tälle kurssille, saat myös pääsyn FasciaMethod ETÄ ryhmän tallenteisiin. Lue alta tarkempi kuvaus "Mitä on FasciaMethod".
 
 [ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/UMXh2GBydAr1gFqL9){:target="_blank"}
 

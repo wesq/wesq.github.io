@@ -211,6 +211,16 @@ Ryhmä on jo käynnistynyt, mutta siihen on jäänyt vapaita paikkoja. Voit hyp�
 
 #### Lyhytkurssit
 
+**FasciaMethod 22.10.-17.12.2023**
+
+Tunne lempeän dynaamisen liikkeen vapauttava voima kehossasi!
+
+Kehoa avaavaa dynaamista liikkuvuusharjoittelua ja hengityksen äärelle pysähtymistä. Tunti sopii erityisesti stressaantuneelle keholle, joka kaipaa lempeää liikettä. Tunnilla keskitymme parantamaan liikkuvuutta toiminnallisin aktiivisin venytyksin nivelten täysiä liikeratoja käyttäen, hyvällä kehon kannatuksella ja lihastoimintaketjuja (faskialinjoja) mukaillen. Teemme lempeästi kehon yleisimpiin heikkoihin ja kireisiin alueisiin suunnattuja liikehallinta- ja liikkuvuusharjoitteita, sekä hyödynnämme hierontapalloa faskiakerrosten välisen liukumisen lisäämiseksi ja faskioiden nesteyttämiseksi. Harjoittelua rytmitetään hengityksellä.
+
+**FasciaMethod-kurssi** toteutetaan ajalla **22.10.-17.12.2023 (EI tuntia 12.11.) SUNNUNTAISIN klo 15:45-16:45**. Kurssin hinta 128€ (8 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/UMXh2GBydAr1gFqL9){:target="_blank"}
+
 **eloLIIKE 24.10.-14.11.2023**
 
 Elinvoimaa ja joustavuutta kehoon elokatsun eloLIIKE kurssilta!
