@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hyvinvointiretriitti
-subtitle: Hyvinvointiretriitti - tule liikkumaan lempeästi & hellimään hermostoasi
+subtitle: Tule liikkumaan lempeästi & hellimään hermostoasi
 
 formspree_comment: true
 comment_teksti: Kysy lisätietoja Hyvinvointiretriitistä
@@ -9,4 +9,4 @@ comment_teksti: Kysy lisätietoja Hyvinvointiretriitistä
 bigimg: img/a_heponiemi_talvella.jpeg
 ---
 
-**Hyvinvointiretriitti Villa Heponiemessä 27.-28.1.2024** lisätietoja tulossa pian!
+**Hyvinvointiretriitti Karjalohjalla Villa Heponiemessä 27.-28.1.2024** ilmoittautuminen aukeaa lokakuun aikana, lisätietoja tulossa pian!
