@@ -66,7 +66,7 @@ Aamu-uinti mahdollisuus
 13:00 Lounas  
 14:00-15:00 Yhteinen lopetus  
 
-Retriitille kannattaa pakata mukaan liikuntaan soveltuvat mukavan joustavat ja lämpimät vaatteet sisälle ja ulos (huomioi ulkoliikunnan vaatetuksessa sääolosuhteet!), oma matto/jokin alusta, lakanat (aluslakana, pussilakana, tyynyliina), pyyhe ja henk.koht. hygieniatuotteet, vesipullo ja mahdollisesti kylpytakki ja juoma saunalle. Retriitillä on runsaat ateriat neljä kertaa päiviemme aikana, mutta halutessa voit ottaa jotain pientä evästä mukaan.
+Retriitille kannattaa pakata mukaan liikuntaan soveltuvat mukavan joustavat ja lämpimät vaatteet sisälle ja ulos (huomioi ulkoliikunnan vaatetuksessa sääolosuhteet!), oma matto/jokin alusta, lakanat (aluslakana, pussilakana, tyynyliina), pyyhe ja henk.koht. hygieniatuotteet, vesipullo ja mahdollisesti kylpytakki ja juoma saunalle. Retriitillä on runsaat ateriat yhteensä neljästi päiviemme aikana, mutta halutessa voit ottaa jotain pientä evästä mukaan.
 
 Lämpimästi suosittelen saapumaan retriitille kimppakyydeillä, voit tiedustella järjestäjältä kimppakyytimahdollisuuksia. Kurkkaa [tästä](https://goo.gl/maps/CDxXA1k3aaUuXcaK6){:target="_blank"} kartta Heponiemeen.
 
