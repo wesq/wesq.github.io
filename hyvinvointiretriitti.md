@@ -49,7 +49,7 @@ Kati Sokka, elokatsu, on lempeä liikunta-alan ammattilainen. Katin lähestymist
 Järjestäjä pidättää itsellään oikeuden muutoksiin.
 
 LAUANTAI  
-10:00-11:00 Saapuminen ja huoneiden luovutus  
+10:00-11:00 Saapuminen ja huoneiden vastaanotto  
 12:00 Tervetuloa  
 13:00 Lounas  
 14:30 Toiminnallinen lihaskuntotreeni ulkona  
