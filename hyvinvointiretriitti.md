@@ -21,6 +21,7 @@ LIIKU LEMPEYDELLÄ & HELLI HERMOSTOA
 
 Tervetuloa **Liiku lempeydellä & helli hermostoa** - hyvinvointiretriitille Villa Heponiemen upeisiin puitteisiin! Retriittillä pääset nauttimaan lempeästä hyvän olon liikkeestä sisällä, sekä ulkona luonnon keskellä. Saat mahdollisuuden helliä hermostasi rentoutumisen, luonnon, sekä ravitsevan ja maukkaan ruuan äärellä. Heponiemen upea luonto tarjoaa tilan kokea ja aistia hyvää oloa ja lempeää eloa kaikin aistein!
 
+Retriitille mahtuu mukaan rajoitettu määrä osallistujia.  
 [OSTA PAIKKASI RETRIITILLE TÄSTÄ](https://forms.gle/p4PhibYfME13EUL78){:target="_blank"}
 
 !["Heponiemi"](/img/heponiemen_ruoka.jpg "Heponiemen ruoka"){: .image-left48 :}
@@ -34,7 +35,7 @@ Tervetuloa **Liiku lempeydellä & helli hermostoa** - hyvinvointiretriitille Vil
 - Toiminnallinen lihaskuntotreeni (ulkona)
 - Kuinka helliä hermostoa arjen kiireessä (luento)
 - Pysähdy & hengitä (rentoutusharjoite)
-- Sauna & avanto
+- Sauna & avanto upeissa maisemissa
 - Aamu-uinti mahdollisuus avannossa
 - Maukausta ja ravitsevaa kasvispohjaista ruokaa (x4)
 - Hyvinvointia lempeydellä & liikettä ilo edellä
@@ -46,7 +47,7 @@ Heponiemen tila Karjalohjalla sijaitsee Puujärven rannalla. Heponiemi on hyvinv
 Kati Sokka, elokatsu, on lempeä liikunta-alan ammattilainen. Katin lähestymistapa hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Liikettä hän ohjaa aina lempeän jämäkästi, ilo ja kehon tuntemukset edellä. Katin tavoitteena on tuoda hyvinvoinnin kentälle enemmän lempeyttä, iloa, kohtaamista ja inhimillisyyttä. Voit lukea järjestäjästä lisää [täältä](/esittely).
 
 **ALUSTAVA OHJELMA**  
-Järjestäjä pidättää itsellään oikeuden muutoksiin.
+Järjestäjä pidättää itsellään oikeuden aikataulujen muutokselle.
 
 LAUANTAI  
 10:00-11:00 Saapuminen ja huoneiden vastaanotto  
@@ -56,7 +57,8 @@ LAUANTAI
 16:00 Palauttava liikkuvuus sisällä  
 17:00 Sauna & avanto  
 19:00 Illallinen  
-20:30 Pysähdy & hengitä
+20:30 Pysähdy & hengitä  
+21:00 Aika rentoutua kohti palauttavaa unta  
 
 SUNNUNTAI  
 Aamu-uinti mahdollisuus  
@@ -66,14 +68,14 @@ Aamu-uinti mahdollisuus
 13:00 Lounas  
 14:00-15:00 Yhteinen lopetus  
 
-Retriitille kannattaa pakata mukaan liikuntaan soveltuvat mukavan joustavat ja lämpimät vaatteet sisälle ja ulos (huomioi ulkoliikunnan vaatetuksessa sääolosuhteet!), oma matto/jokin alusta, lakanat (aluslakana, pussilakana, tyynyliina), pyyhe ja henk.koht. hygieniatuotteet, vesipullo ja mahdollisesti kylpytakki ja juoma saunalle. Retriitillä on runsaat ateriat yhteensä neljästi päiviemme aikana, mutta halutessa voit ottaa jotain pientä evästä mukaan.
+Retriitille kannattaa pakata mukaan liikuntaan soveltuvat mukavan joustavat ja lämpimät vaatteet sisälle ja ulos (huomioi ulkoliikunnan vaatetuksessa sääolosuhteet), oma matto/alusta, lakanat (aluslakana, pussilakana, tyynyliina), pyyhe ja henk.koht. hygieniatuotteet, vesipullo ja mahdollisesti kylpytakki ja juoma saunalle. Retriitillä on runsaat ateriat yhteensä neljästi päiviemme aikana, halutessasi voit ottaa pientä evästä mukaan. Heponiemessä on myös pieni myymälä, mistä voi ostaa tuotteita, sekä kahvia ja teetä on aina tarjolla maksutta.
 
 Lämpimästi suosittelen saapumaan retriitille kimppakyydeillä, voit tiedustella järjestäjältä kimppakyytimahdollisuuksia. Kurkkaa [tästä](https://goo.gl/maps/CDxXA1k3aaUuXcaK6){:target="_blank"} kartta Heponiemeen.
 
 **HINTA & ILMOITTAUTUMINEN**  
 Viikonlopun hinta sisältäen majoituksen kahden henkilön huoneissa, ruokailut (x4) ja koko retriitin ohjelman on 265€. Aikaisen ilmoittautujan hinta, joka on voimassa 30.11. asti on 245€. Täysihoidon hinta ei sisällä liinavaatteita, voit halutessasi vuokrata ne lisähintaan 20€.
 
-Retriitille ilmoittautuminen on sitova, luethan ilmoittautumisen yhteydessä peruutusehdot. Varausmaksu 100€ maksetaan ilmoittautumisen jälkeen, ja retriitin loppumaksu tulee maksettavaksi joko 15.12.2023 tai 15.1.2024 (ilmoittautuessa voit valita maksun ajankohdan).
+Retriitille ilmoittautuminen on sitova, luethan ilmoittautumisen yhteydessä vielä peruutusehdot huolellisesti. Mikäli jostain syystä et pääse osallistumaan viikonloppuun, voit hankkia tilallesi toisen osallistujan. Varausmaksu 100€ maksetaan ilmoittautumisen jälkeen, ja retriitin loppumaksu tulee maksettavaksi joko 15.12.2023 tai 15.1.2024 (ilmoittautuessa voit valita maksun ajankohdan). Osallistujia ei ole vakuutettu erikseen elokatsun toimesta. Retriitti on vapaa-aikaasi, joten huolehdithan tarvittaessa vapaa-ajan- / tapaturmavakuutuksesi voimassaolosta, ja että ne kattavat tarvittaessa suunnitelmiesi muutokset. Liikunta-alan ammattilainen ohjaa sinulle kaikki harjoitukset, mutta harjoituksissa liikut aina omalla vastuullasi.
 
 Luvassa on ihana viikonloppu täynnä lempeää liikettä ja hermoston hellimistä, olet erittäin lämpimästi tervetullut mukaan!
 
