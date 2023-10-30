@@ -23,6 +23,7 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
 
 #### Pienryhmät
  - [Muutosvalmennnus](#muutosvalmennus)
+ - [Aloittelijan kuntosalikurssi](#aloittelijan-kuntosalikurssi)
  - [Lempeästi liikkeessä](#lempeästi-liikkeessä)
  - [eloVOIMA aamu](#elovoima-aamu)
  - [eloVOIMA TI](#elovoima-ti)
@@ -30,7 +31,6 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [eloVOIMA KE2](#elovoima-ke2)
  - [eloVOIMA SU](#elovoima-su)
  - [eloLIIKE](#eloliike)
- - [Aloittelijan kuntosalikurssi](#aloittelijan-kuntosalikurssi)
 
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
 
@@ -145,6 +145,24 @@ Voit maksaa myös yleisimmillä liikuntaeduilla (Smartum, Edenred, ePassi, eazyb
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
+#### Aloittelijan kuntosalikurssi
+
+Tämä kurssi on sinulle, joka haluat oppia harjoittelemaan kuntosalilla turvallisesti, lisäten liikkuvuutta ja lihasvoimaa!
+
+Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta niin, että saat treenistäsi turvallista ja kehittävää. Kurssi pitää sisällään neljä yhteistä treenitapaamista. Treeni sisältää kehoa lämmittävän ja tukilihaksia aktivoivan alkulämmittelyn, sekä lihaskunto-osuuden kuntosalilaitteilla. Kurssin hintaan sisältyy treeniohjelma, joka jää sinulle kurssin jälkeen Sportyplanner treeniohjelmistoon, jotta voit jatkaa kuntosalitreeniä itsenäisesti. Treeniohjelma opetellaan huolellisesti läpi kurssilla, ja siihen tehdään tarvittaessa yksilöllisiä muutoksia asiakkaan tarpeen mukaan.
+
+**Aloittelijan kuntosalikurssi** toteutetaan ajalla **21.11.-12.12.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+
+[RYHMÄÄN ON 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/gefVqh8mrSuzfx4U7){:target="_blank"}
+
+**Aloittelijan kuntosalikurssi 9.-30.1.2024 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille).
+
+ILMOITTAUTUMINEN AUKEAA MARRASKUUSSA
+
+**Aloittelijan kuntosalikurssi 13.2.-5.3.2024 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille).
+
+ILMOITTAUTUMINEN AUKEAA MARRASKUUSSA
+
 #### Lempeästi liikkeessä
 
 Jos liikunnan ylläpito arjessa yksin tuntuu haastavalta ja kaipaat ympärillesi samassa tilanteessa olevia ihmisiä, tämä ryhmä on sinulle! Ryhmään ei vaadita minkäänlaista liikuntataustaa, mutta sinulla voi myös olla tilanne, että liikunta on hiipunut elämästä ja kaipaisit taas tsemppiä liikkeessä pysymiseen. Ryhmä on sinulle, joka haluat saada varmuutta liikkeen aloittamiseen tai ylläpitämiseen, sekä kaipaat lempeää ja ohjattua liikettä pienryhmässä. Teemme monipuolisesti ja matalalla kynnyksellä liikkuvuus- ja lihaskuntoharjoittelua koko keholle. Tunneilla panostetaan oikeaan liiketekniikkaan ja opit miten teet liikkeitä turvallisesti ja järkevästi.
@@ -210,24 +228,6 @@ Tämä liikkuvuutta lisäävä tunti sopii sinulle, joka kaipaat kehoosi elastis
 ILMOITTAUTUMINEN AUKEAA MARRASKUUSSA
 
 **Kevätkausi 2/2** toteutetaan ajalla **17.3.-12.5.2024 SUNNUNTAISIN klo 16:30-17:20** (EI tuntia 31.3.). Kauden hinta 115€ (8 kertaa). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-ILMOITTAUTUMINEN AUKEAA MARRASKUUSSA
-
-#### Aloittelijan kuntosalikurssi
-
-Tämä kurssi on sinulle, joka haluat oppia harjoittelemaan kuntosalilla turvallisesti, lisäten liikkuvuutta ja lihasvoimaa!
-
-Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta niin, että saat treenistäsi turvallista ja kehittävää. Kurssi pitää sisällään neljä yhteistä treenitapaamista. Treeni sisältää kehoa lämmittävän ja tukilihaksia aktivoivan alkulämmittelyn, sekä lihaskunto-osuuden kuntosalilaitteilla. Kurssin hintaan sisältyy treeniohjelma, joka jää sinulle kurssin jälkeen Sportyplanner treeniohjelmistoon, jotta voit jatkaa kuntosalitreeniä itsenäisesti. Treeniohjelma opetellaan huolellisesti läpi kurssilla, ja siihen tehdään tarvittaessa yksilöllisiä muutoksia asiakkaan tarpeen mukaan.
-
-**Aloittelijan kuntosalikurssi** toteutetaan ajalla **21.11.-12.12.2023 TIISTAISIN klo 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille). Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-[RYHMÄÄN ON 3 PAIKKAA JÄLJELLÄ, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/gefVqh8mrSuzfx4U7){:target="_blank"}
-
-**Aloittelijan kuntosalikurssi 9.-30.1.2024 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille).
-
-ILMOITTAUTUMINEN AUKEAA MARRASKUUSSA
-
-**Aloittelijan kuntosalikurssi 13.2.-5.3.2024 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille).
 
 ILMOITTAUTUMINEN AUKEAA MARRASKUUSSA
 
