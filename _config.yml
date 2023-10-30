@@ -46,13 +46,11 @@ navbar-links:
     - Liikuntakeskus Ruukki: "liikuntakeskusruukki"
     - Yksilövalmennus: "yksilovalmennus"
     - Ulkotreeni: "ulkotreeni"
-    - FasciaMethod: "fasciamethod"
     - Seniorijumppa: "seniorijumppa"
     - Muutosvalmennus: "muutosvalmennus"
     - Neurosonic-hoito: "neurosonic"
     - Työhyvinvointi: "tyohyvinvointi"
     - Yksityistunnit: "yksityistunnit"
-    - Yhteistyö: "yhteistyo"
     - Valmennusehdot: "valmennusehdot"
   Ajankohtaista:
     - Kevät 2024: "ajankohtaista"
