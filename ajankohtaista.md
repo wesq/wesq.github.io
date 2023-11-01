@@ -14,7 +14,7 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 
 * **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
-* **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti erilaisissa pienryhmissä mm. eloVOIMA, eloLIIKE, Lempeästi liikkeessä ja Aloittelijan kuntosalikurssi [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/liikuntakeskusruukki)**
+* **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti erilaisissa pienryhmissä mm. eloVOIMA, eloLIIKE, Lempeästi liikkeessä ja Aloittelijan kuntosalikurssi [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/kellokoski)**
 
 * **Seniorien jumppameiningit jatkuvat Myllypurossa, josta voit lukea lisää [täältä](/seniorijumppa)**
 
