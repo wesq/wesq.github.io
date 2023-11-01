@@ -43,14 +43,14 @@ navbar-links:
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
     - Hyvinvointiretriitti: "hyvinvointiretriitti"
-    - Liikuntakeskus Ruukki: "liikuntakeskusruukki"
+    - Ruukin PT ja pienryhmät: "kellokoski"
     - Yksilövalmennus: "yksilovalmennus"
     - Ulkotreeni: "ulkotreeni"
     - Seniorijumppa: "seniorijumppa"
     - Muutosvalmennus: "muutosvalmennus"
     - Neurosonic-hoito: "neurosonic"
-    - Työhyvinvointi: "tyohyvinvointi"
     - Yksityistunnit: "yksityistunnit"
+    - Työhyvinvointi: "tyohyvinvointi"
     - Valmennusehdot: "valmennusehdot"
   Ajankohtaista:
     - Kevät 2024: "ajankohtaista"

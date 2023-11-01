@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Liikuntakeskus Ruukki
+title: Ruukin PT ja pienryhmät
 subtitle: elokatsun palvelut Liikuntakeskus Ruukissa
 formspree_comment: true
 comment_teksti: "Jäikö sinulle kysymyksiä? Kysy lisää palveluista:"
-bigimg: img/a_Liikuntakeskus_Ruukki.jpg
+bigimg: img/a_liikuntakeskusruukki.jpg
 tagline: "Pienryhmät, personal trainer, firstbeat"
 description: "Elokatsun pienryhmät, personal trainer- ja muut palvelut / Kellokoski, Järvenpää"
 ---

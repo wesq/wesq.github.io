@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seniorin eloisa keho
-subtitle: Liikunnan iloa & yhteisöllistä menoa!
+subtitle: Liikunnan iloa & yhteisöllistä menoa
 bigimg: img/a_sennujumppa.jpg
 formspree_comment: true
 comment_teksti: 'Kysy lisää seniorikurssista:'
