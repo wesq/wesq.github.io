@@ -8,9 +8,9 @@ social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-* **UUTTA! 2024 tammikuussa elokatsu järjestää Karjalohjalla upeissa puitteissa Heponiemessä Hyvinvointiretriitin, retriitille on vielä muutamia vapaita paikkoja jäljellä, [tutustu retriittiin & ilmoittaudu mukaan täältä](/hyvinvointiretriitti)**
+* **Kevään 2024 pienryhmien ilmoittautuminen on nyt auki! Alta näet kootusti koko kevään tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
 
-* **Kevään pienryhmien ilmoittautuminen aukeaa 15.11.2023! Alta näet kootusti kaikki pienryhmät ja löydät linkit tarkempiin ryhmäkuvauksiin:**
+* **UUTTA! 2024 tammikuussa elokatsu järjestää Karjalohjalla upeissa puitteissa Heponiemessä Hyvinvointiretriitin, retriitille on vielä muutamia vapaita paikkoja jäljellä, [tutustu retriittiin & ilmoittaudu mukaan täältä](/hyvinvointiretriitti)**
 
 * **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
