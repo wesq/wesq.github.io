@@ -11,7 +11,7 @@ tagline: "retriitti, hyvinvointi, luonto"
 description: "Hyvinvointiretriitti Villa Heponiemessä / Karjalohja"
 ---
 
-**Hyvinvointiretriitti Karjalohjalla Villa Heponiemessä 27.-28.1.2024**
+**Hyvinvointiretriitti Karjalohjalla 27.-28.1.2024 Villa Heponiemessä**
 <p></p>
 <p class="otsikkolistapalkki">
 LIIKU LEMPEYDELLÄ & HELLI HERMOSTOA

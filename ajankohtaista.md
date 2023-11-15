@@ -10,15 +10,15 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 ---
 * **Kevään 2024 pienryhmien ilmoittautuminen on nyt auki! Alta näet kootusti koko kevään tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
 
-* **UUTTA! 2024 tammikuussa elokatsu järjestää Karjalohjalla upeissa puitteissa Heponiemessä Hyvinvointiretriitin, retriitille on vielä muutamia vapaita paikkoja jäljellä, [tutustu retriittiin & ilmoittaudu mukaan täältä](/hyvinvointiretriitti)**
+* **UUTTA! 2024 tammikuussa elokatsu järjestää Karjalohjalla upeissa puitteissa Villa Heponiemessä Hyvinvointiretriitin, retriitille on vielä muutamia vapaita paikkoja jäljellä, [tutustu retriittiin & ilmoittaudu mukaan täältä](/hyvinvointiretriitti)**
 
 * **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
 * **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti erilaisissa pienryhmissä mm. eloVOIMA, eloLIIKE, Lempeästi liikkeessä ja Aloittelijan kuntosalikurssi [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/kellokoski)**
 
-* **Seniorien jumppameiningit jatkuvat Myllypurossa, josta voit lukea lisää [täältä](/seniorijumppa)**
+* **Kellokoskella jatkuu myös Muutosvalmennus tammikuussa! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä](/muutosvalmennus)**
 
-* **Kellokoskella jatkuu Muutosvalmennus tammikuussa! Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä](/muutosvalmennus)**
+* **Seniorien jumppameiningit jatkuvat Myllypurossa, josta voit lukea lisää [täältä](/seniorijumppa)**
 
 * **Tai kaipaatko enemmän valmentajan yksilöllistä apua elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon ja saada valmentajan tukemaan matkaasi? Tai haluaisitko treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
