@@ -30,7 +30,7 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [eloVOIMA KE1](#elovoima-ke1)
  - [eloVOIMA KE2](#elovoima-ke2)
  - [eloVOIMA SU](#elovoima-su)
- - [eloSYKE+liikkuvuus](#eloSYKE+liikkuvuus)
+ - [eloSYKE+liikkuvuus](#elosyke-ja-liikkuvuus)
 
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
 
@@ -218,7 +218,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä opit oikeat liiketekniikat
 
 [RYHMÄÄN ON 2 PAIKKAA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/4q14cMC4LaKu4mYc7){:target="_blank"}
 
-#### eloSYKE+liikkuvuus
+#### eloSYKE ja liikkuvuus
 
 Elinvoimaa, sykettä ja huoltavaa liikettä keholle eloSYKE+liikkuvuus-tunnilta!
 
