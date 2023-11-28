@@ -30,7 +30,7 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [eloVOIMA KE1](#elovoima-ke1)
  - [eloVOIMA KE2](#elovoima-ke2)
  - [eloVOIMA SU](#elovoima-su)
- - [eloLIIKE](#eloliike)
+ - [eloSYKE+liikkuvuus](#eloSYKE+liikkuvuus)
 
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
 
@@ -218,11 +218,11 @@ Näissä toiminnallisen voimaharjoittelun treeneissä opit oikeat liiketekniikat
 
 [RYHMÄÄN ON 2 PAIKKAA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/4q14cMC4LaKu4mYc7){:target="_blank"}
 
-#### eloLIIKE
+#### eloSYKE+liikkuvuus
 
-Elinvoimaa, liikkuvuutta ja vapautta kehoon huoltavilta eloLIIKE-tunneilta!
+Elinvoimaa, sykettä ja huoltavaa liikettä keholle eloSYKE+liikkuvuus-tunnilta!
 
-Tämä liikkuvuutta lisäävä tunti sopii sinulle, joka kaipaat kehoosi elastisuutta, hallintaa ja hyvää oloa. Teemme lempeää kehoa avaavaa dynaamista liikkuvuusharjoittelua, joka mukailee kehon lihastoimintaketjuja (fascialinjoja.) Ensimmäisellä kerralla teemme pienet liikkuvuustestit, jotta tiedät mihin voit erityisesti kiinnittää huomiota. Tunneilla kiinnitämme myös huomiota kehon yleisimpiin heikkoihin ja kireisiin alueisiin, hakien hallintaa, voimaa ja liikkuvuutta näille alueille. Teemme vaihdellen monipuolisia toiminnallisia harjoituksia. Osa tunneista on hieman menevämpiä, ja osa rauhallisempia, keskittyen palautumiseen liikkeen ja hengityksen avulla. Treeneissä hyödynnetään mm. salin vihermattoa, keppejä, kuminauhoja ja hierontapalloja.
+Tämä tunti sopii sinulle, joka haluat tehdä kompaktin sykkeennoston ja liikkuvuustreenin samassa paketissa. Aloitamme tunnin kehoa lämmittävällä dynaamisella liikkeellä, joka avaa ja herättää kehon treenille. Tämän jälkeen teemme noin 20min. kestävän syke-osion kiertoharjoitteluna, jota voit tehdä täysin omassa tahdissa. Lopuksi teemme lempeää kehoa palauttavaa dynaamista liikkuvuusharjoittelua, joka mukailee kehon lihastoimintaketjuja (fascialinjoja). Liikkuvuusosiossa kiinnitämme huomiota kehon yleisimpiin kireisiin ja heikkoihin kohtiin, hakien hallintaa ja liikkuvuutta näille alueille. Yhdistämme dynaamiseen liikkeeseen hengityksen, joka auttaa sinua palautumaan ja tasaamaan hermostoa.
 
 **Kevätkausi 1/2** toteutetaan ajalla **7.1.-3.3.2024 SUNNUNTAISIN klo 16:30-17:20** (EI tuntia 28.1.). Kauden hinta 115€ (8 kertaa) jonka voi maksaa laskulla tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
