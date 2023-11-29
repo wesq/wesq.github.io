@@ -216,7 +216,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä opit oikeat liiketekniikat
   
 **Kevätkausi** toteutetaan ajalla **7.1.-2.6.2024 SUNNUNTAISIN klo 17:30-18:30** (EI tunteja 10.3. ja 31.3.). Kevätkauden hinta 320€ (20 kertaa), jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 1 PAIKKA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/4q14cMC4LaKu4mYc7){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 
 #### eloSYKE ja liikkuvuus
 
