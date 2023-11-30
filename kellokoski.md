@@ -171,7 +171,7 @@ Jos liikunnan ylläpito arjessa yksin tuntuu haastavalta ja kaipaat ympärillesi
 Pysymme lempeästi liikkeessä tulevanakin keväänä!  
 **Kevätkausi** toteutetaan ajalla **8.1.-3.6.2024 MAANANTAISIN klo 19:05-20:00** (EI tunteja 29.1., 11.3. ja 1.4.). Kevätkauden hinta 275€ (19 kertaa), jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Pienryhmän yksilöllisempi ohjaus ja ryhmän tuki tsemppaa sinua pysymään liikkeessä! Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 3 PAIKKAA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/c1V5mQfj14ksJF2X8){:target="_blank"}
+[RYHMÄÄN ON 2 PAIKKAA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/c1V5mQfj14ksJF2X8){:target="_blank"}
 
 #### eloVOIMA aamu
 
