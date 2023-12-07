@@ -226,11 +226,11 @@ Tämä tunti sopii sinulle, joka haluat tehdä kompaktin sykkeennoston ja liikku
 
 **Kevätkausi 1/2** toteutetaan ajalla **7.1.-3.3.2024 SUNNUNTAISIN klo 16:30-17:20** (EI tuntia 28.1.). Kauden hinta 115€ (8 kertaa) jonka voi maksaa laskulla tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 3 PAIKKAA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/98hwx79QuwgE8FVCA){:target="_blank"}
+[RYHMÄÄN ON 2 PAIKKAA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/98hwx79QuwgE8FVCA){:target="_blank"}
 
 **Kevätkausi 2/2** toteutetaan ajalla **17.3.-12.5.2024 SUNNUNTAISIN klo 16:30-17:20** (EI tuntia 31.3.). Kauden hinta 115€ (8 kertaa) jonka voi maksaa laskulla tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/E5G3PbJL716v5rR29){:target="_blank"}
+[RYHMÄSSÄ VIELÄ HYVIN TILAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/E5G3PbJL716v5rR29){:target="_blank"}
 
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
