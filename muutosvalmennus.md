@@ -55,7 +55,7 @@ Aikataulu: 21.1., 28.1., 11.2., 25.2., 10.3., 24.3., 7.4., 21.4., 5.5., 19.5., 2
 89€/kk TAI 528€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
-\* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 65€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 75€).
+\* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 65€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).
 
 [ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/Gs1xnEhThhFExUgR6){:target="_blank"}
 
