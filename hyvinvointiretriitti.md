@@ -19,7 +19,7 @@ LIIKU LEMPEYDELLÄ & HELLI HERMOSTOA
 
 *Miltä kuulostaisi ihana arjen irtiotto, jossa kaikki on valmiina sinua varten, ja sinä voit vain kokea, nauttia, liikkua ja helliä itseäsi?*
 
-Tervetuloa **Liiku lempeydellä & helli hermostoa** - hyvinvointiretriitille Villa Heponiemen upeisiin puitteisiin! Retriittillä pääset nauttimaan lempeästä hyvän olon liikkeestä sisällä, sekä ulkona luonnon keskellä. Saat mahdollisuuden helliä hermostasi rentoutumisen, luonnon, sekä ravitsevan ja maukkaan ruuan äärellä. Heponiemen upea luonto tarjoaa tilan kokea ja aistia hyvää oloa ja lempeää eloa kaikin aistein!
+Tervetuloa **Liiku lempeydellä & helli hermostoa** - hyvinvointiretriitille Villa Heponiemen upeisiin puitteisiin! Retriitillä pääset nauttimaan lempeästä hyvän olon liikkeestä sisällä, sekä ulkona luonnon keskellä. Saat mahdollisuuden helliä hermostasi rentoutumisen, luonnon, sekä ravitsevan ja maukkaan ruuan äärellä. Heponiemen upea luonto tarjoaa tilan kokea ja aistia hyvää oloa ja lempeää eloa kaikin aistein!
 
 Retriitille mahtuu mukaan rajoitettu määrä osallistujia.  
 [OSTA PAIKKASI RETRIITILLE TÄSTÄ](https://forms.gle/p4PhibYfME13EUL78){:target="_blank"}
@@ -47,7 +47,7 @@ Heponiemen tila Karjalohjalla sijaitsee Puujärven rannalla. Heponiemi on hyvinv
 Kati Sokka, elokatsu, on lempeä liikunta-alan ammattilainen. Katin lähestymistapa hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Liikettä hän ohjaa aina lempeän jämäkästi, ilo ja kehon tuntemukset edellä. Katin tavoitteena on tuoda hyvinvoinnin kentälle enemmän lempeyttä, iloa, kohtaamista ja inhimillisyyttä. Voit lukea järjestäjästä lisää [täältä](/esittely).
 
 **ALUSTAVA OHJELMA**  
-Järjestäjä pidättää itsellään oikeuden aikataulujen muutokselle.
+Aikataulu on suuntaa-antava. Järjestäjä pidättää itsellään oikeuden aikataulujen muutokselle.
 
 LAUANTAI  
 10:00-11:00 Saapuminen ja huoneiden vastaanotto  
