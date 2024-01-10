@@ -33,6 +33,8 @@ treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, e
 KEVÄTKAUSI **MAANANTAISIN** ajalla 8.1.-3.6.2024 **klo 17:30-18:30**  yhteensä 19 harjoitusta, EI treenejä 29.1., 11.3. ja 1.4.!
 **Hinta: 245€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla.
 
+Treenikausi on käynnistynyt, mutta voit hypätä treeneihin mukaan myös jälkikäteen, jolloin maksat ryhmän jäljellä olevista kerroista.
+
 [RYHMÄÄN ON 1 VAPAA PAIKKA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/xkD3MmA8WpTuT12RA){:target="_blank"}
 <br/><br/>
 <br/><br/>

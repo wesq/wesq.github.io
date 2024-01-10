@@ -148,10 +148,6 @@ Tämä kurssi on sinulle, joka haluat oppia harjoittelemaan kuntosalilla turvall
 
 Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta niin, että saat treenistäsi turvallista ja kehittävää. Kurssi pitää sisällään neljä yhteistä treenitapaamista. Treeni sisältää kehoa lämmittävän ja tukilihaksia aktivoivan alkulämmittelyn, sekä lihaskunto-osuuden kuntosalilaitteilla. Kurssin hintaan sisältyy treeniohjelma, joka jää sinulle kurssin jälkeen Sportyplanner treeniohjelmistoon, jotta voit jatkaa kuntosalitreeniä itsenäisesti. Treeniohjelma opetellaan huolellisesti läpi kurssilla, ja siihen tehdään tarvittaessa yksilöllisiä muutoksia asiakkaan tarpeen mukaan.
 
-**Aloittelijan kuntosalikurssi 9.-30.1.2024 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille) voi maksaa laskulla tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-RYHMÄ ON TÄYTTYNYT, SEURAAVALLE KURSSILLE ON VIELÄ TILAA
-
 **Aloittelijan kuntosalikurssi 13.2.-5.3.2024 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille) voi maksaa laskulla tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 [ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/L8KYgAUVaxLeMKBC7){:target="_blank"}
@@ -223,7 +219,7 @@ RYHMÄ ON TÄYTTYNYT
 
 **Kevätkausi 2/2** toteutetaan ajalla **17.3.-12.5.2024 SUNNUNTAISIN klo 16:30-17:20** (EI tuntia 31.3.). Kauden hinta 115€ (8 kertaa) jonka voi maksaa laskulla tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄSSÄ VIELÄ HYVIN TILAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/E5G3PbJL716v5rR29){:target="_blank"}
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/E5G3PbJL716v5rR29){:target="_blank"}
 
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
