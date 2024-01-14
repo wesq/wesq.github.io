@@ -47,6 +47,8 @@ treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, es
 KEVÄTKAUSI **TORSTAISIN** ajalla 11.1-30.5.2024 **klo 17:15-18:15**  yhteensä 19 harjoitusta, EI treenejä 14.3. ja 9.5.!
 **Hinta: 245€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla.
 
+Treenikausi on käynnistynyt, mutta voit hypätä treeneihin mukaan myös jälkikäteen, jolloin maksat ryhmän jäljellä olevista kerroista.
+
 [RYHMÄÄN ON 1 VAPAA PAIKKA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/T5BpHCWtwQfuDbKf6){:target="_blank"}
 <br/><br/>
 
