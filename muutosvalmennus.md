@@ -35,7 +35,7 @@ Ryhmä kokoontuu 21.1.-16.6.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruu
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/Gs1xnEhThhFExUgR6){:target="_blank"}
+[RYHMÄÄN ON 2 VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Gs1xnEhThhFExUgR6){:target="_blank"}
 
 **Valmennus sisältää:**
 
