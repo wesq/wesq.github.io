@@ -151,7 +151,7 @@ Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta nii
 
 **Aloittelijan kuntosalikurssi 13.2.-5.3.2024 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille) voi maksaa laskulla tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/L8KYgAUVaxLeMKBC7){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 
 #### Lempeästi liikkeessä
 
