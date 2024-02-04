@@ -48,7 +48,7 @@ Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja poh
 
 Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa tutustutaan saliin ja laitteisiin, ohjeistetaan laitteiden turvalliseen ja oikeanlaiseen käyttöön, sekä katsotaan läpi tärkeimmät tekniikat liikkeille. Laiteopastuksen yhteydessä voit myös varata yksilöajan treeniohjelman tekoa tai pidempää valmennusta varten.
 
-Laiteopastukset toteutetaan neljän hengen pienryhmässä. Tulevat laiteopastukset ovat: 24.1. ke klo 16:30, 4.2. su klo 18:45, 6.2. ti klo 17:00, 14.2. ke klo 16:15, 25.2. su klo 15:00, 3.3. su klo 15:00 ja 6.3. ke klo 16:30.  
+Laiteopastukset toteutetaan neljän hengen pienryhmässä. Tulevat laiteopastukset ovat: 6.2. ti klo 17:00, 14.2. ke klo 16:15, 25.2. su klo 15:00, 3.3. su klo 15:00 ja 6.3. ke klo 16:30.  
 Varaa laiteopastukseen aikaa noin 45-60 minuuttia. Laiteopastuksiin tulee varata paikka laittamalla viestiä kati@elokatsu.fi. Paikka tulee varata kolme vuorokautta (72 tuntia) ennen laiteopastuksen aikaa. Jos osallistujia ei ole ilmoittautunut lainkaan tähän mennessä, laiteopastusta ei pidetä. Peruutukset jo varatuille paikoille tulee tehdä viimeistään vuorokautta (24 tuntia) ennen laiteopastusta. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista katsotaan laiteopastus käytetyksi. Järjestäjä voi joutua pakottavan esteen sattuessa perumaan laiteopastuksen, jolloin ilmoittautujat saavat tästä tiedon sähköpostitse. Järjestäjä pidättää itsellään kaikki oikeudet muutoksiin.
 
 #### PT-ohjaus
@@ -139,8 +139,6 @@ HINTA:
 89€/kk TAI 528€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
-[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Gs1xnEhThhFExUgR6){:target="_blank"}
-
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
 #### Aloittelijan kuntosalikurssi
@@ -151,7 +149,7 @@ Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta nii
 
 **Aloittelijan kuntosalikurssi 13.2.-5.3.2024 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 129€ (4 ohjattua kertaa + treeniohjelma kuntosalille) voi maksaa laskulla tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-RYHMÄ ON TÄYTTYNYT
+RYHMÄ ON TÄYTTYNYT, SEURAAVAN KURSSIN PÄIVÄMÄÄRÄT PÄIVITTYVÄT PIAN.
 
 #### Lempeästi liikkeessä
 

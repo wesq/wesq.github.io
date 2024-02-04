@@ -10,8 +10,6 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 ---
 * **Kevään 2024 pienryhmien ilmoittautuminen on nyt auki! Alta näet kootusti koko kevään tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
 
-* **UUTTA! 2024 tammikuussa elokatsu järjestää Karjalohjalla upeissa puitteissa Villa Heponiemessä Hyvinvointiretriitin, retriitille on vielä muutamia vapaita paikkoja jäljellä, [tutustu retriittiin & ilmoittaudu mukaan täältä](/hyvinvointiretriitti)**
-
 * **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
 * **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti erilaisissa pienryhmissä mm. eloVOIMA, eloSYKE+liikkuvuus, Lempeästi liikkeessä ja Aloittelijan kuntosalikurssit [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/kellokoski)**
