@@ -222,7 +222,7 @@ RYHMÄ ON TÄYTTYNYT, RYHMÄN 2/2 ILMOITTAUTUMINEN ALLA
 
 **Kevätkausi 2/2** toteutetaan ajalla **17.3.-12.5.2024 SUNNUNTAISIN klo 16:30-17:20** (EI tuntia 31.3.). Kauden hinta 115€ (8 kertaa) jonka voi maksaa laskulla tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 3 VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/E5G3PbJL716v5rR29){:target="_blank"}
+[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/E5G3PbJL716v5rR29){:target="_blank"}
 
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
