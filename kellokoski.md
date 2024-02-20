@@ -120,16 +120,16 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 
 Uusi ryhmä käynnistyy tammikuussa 2024!  
-Ryhmä kokoontuu 21.1.-16.6.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa. Ryhmätapaamiset noin joka toinen viikko.  
+Ryhmä kokoontuu 21.1.-16.6.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa kahdesti kuussa, tarkemman aikataulun näet alta.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.  
 
 **Valmennus sisältää:**
 - Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
-Aikataulu: 21.1., 28.1., 11.2., 25.2., 3.3., 24.3., 7.4., 21.4., 5.5., 19.5., 2.6., 16.6.
+Aikataulu: 21.1., 28.1., 18.2., 25.2., 3.3., 24.3., 7.4., 21.4., 5.5., 19.5., 2.6., 16.6.
 - Henkilökohtaiset valmennustapaamiset 60 min. x2  
     - Oman matkan suunnittelua  
-    - Oman liikkeen suunnittelu + treeniohjelma   
+    - Oman liikkeen suunnittelu/treeniohjelma   
 
 - Valmentajan yksilöllinen etätuki koko valmennuksen ajan
 - Pääsyn Sportyplanner-ohjelmaan, jossa yksilöllinen treeniohjelma
@@ -140,6 +140,8 @@ HINTA:
 Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
+
+RYHMÄ ON TÄYTTYNYT
 
 #### Aloittelijan kuntosalikurssi
 
