@@ -26,10 +26,10 @@ suunnattuja liikkuvuus- ja liikehallintaharjoitteita, joita rytmitetään hengit
 
 **Fascia Kehonhuolto ETÄNÄ**
   
-Harjoitukset tulevat suoraan kotiisi verkon välityksellä. Etäkurssi sisältää kerran viikossa 40 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Kaikki harjoitukset jäävät tallenteena suljettuun ryhmään koko valmennuksen ajaksi. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii ja niin monta kertaa, kuin haluat.
+Harjoitukset tulevat suoraan kotiisi verkon välityksellä. Etäkurssi sisältää kerran viikossa noin 40 minuutin mittaisen harjoituksen suljetussa Facebook-ryhmässä. Kaikki harjoitukset jäävät tallenteena suljettuun ryhmään koko valmennuksen ajaksi. Voit siis tehdä ne juuri silloin, kun sinulle itsellesi parhaiten sopii ja niin monta kertaa, kuin haluat.
 ![fasciamethod](/img/Fame.mainoskuva.jpg "Kehuonhuolto"){: .image-right :}
 
-**ETÄkurssi** ajalla 24.3.-28.4.2024. Hinta 40€, jonka voit maksaa laskulla tai liikuntaeduilla. Sisältää 6x 40min. kestävän harjoituksen suljetussa Facebook-ryhmässä. Harjoitukset ohjataan ryhmään joka sunnuntai, jonne ne jäävät tallenteina sinulle koko valmennuksen ajaksi ja ovat käytettävissä vielä 12.5.2024 saakka.
+**ETÄkurssi** ajalla 24.3.-28.4.2024. Hinta 40€, jonka voit maksaa laskulla tai liikuntaeduilla. Sisältää 6x 35-40min. kestävän harjoituksen suljetussa Facebook-ryhmässä. Harjoitukset ohjataan ryhmään joka sunnuntai, jonne ne jäävät tallenteina sinulle koko valmennuksen ajaksi ja ovat käytettävissä vielä 12.5.2024 saakka.
 
 [ILMOITTAUDU RYHMÄÄN MUKAAN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/YLqrRA9ybiDimqRd6){:target="_blank"}
 <br/><br/>
