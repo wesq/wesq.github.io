@@ -30,10 +30,10 @@ Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja 
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
 treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, esim. liian kova pakkanen, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
 
-KEVÄTKAUSI **MAANANTAISIN** ajalla 8.1.-3.6.2024 **klo 17:30-18:30**  yhteensä 19 harjoitusta, EI treenejä 29.1., 11.3. ja 1.4.!
+KEVÄTKAUSI **MAANANTAISIN** ajalla 8.1.-3.6.2024 **klo 17:30-18:30**  yhteensä 19 treeniä, EI treenejä 29.1., 11.3. ja 1.4.!
 **Hinta: 245€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla.
 
-Treenikausi on käynnistynyt, mutta voit hypätä treeneihin mukaan myös jälkikäteen, jolloin maksat ryhmän jäljellä olevista kerroista.
+Treenikausi on käynnistynyt, mutta voit hypätä treeneihin mukaan myös jälkikäteen. Loppukauden hinta 120€ 8.4.-3.6., yhteensä 9 treeniä.  
 
 [RYHMÄÄN ON 1 VAPAA PAIKKA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/xkD3MmA8WpTuT12RA){:target="_blank"}
 <br/><br/>
@@ -44,7 +44,7 @@ Treenikausi on käynnistynyt, mutta voit hypätä treeneihin mukaan myös jälki
 ***HELSINGIN MYLLYPURON RYHMÄ***
 treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, esim. liian kova pakkanen, harjoitukset tapahtuvat Google Meet etäyhteydellä.)
 
-KEVÄTKAUSI **TORSTAISIN** ajalla 11.1-30.5.2024 **klo 17:15-18:15**  yhteensä 19 harjoitusta, EI treenejä 14.3. ja 9.5.!
+KEVÄTKAUSI **TORSTAISIN** ajalla 11.1-30.5.2024 **klo 17:15-18:15**  yhteensä 19 treeniä, EI treenejä 14.3. ja 9.5.!
 **Hinta: 245€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla.
 
 RYHMÄ ON TÄYNNÄ
