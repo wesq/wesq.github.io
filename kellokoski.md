@@ -56,7 +56,7 @@ Varaa laiteopastukseen aikaa noin 45-60 minuuttia. Laiteopastuksiin tulee varata
 PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. Palvelut voi maksaa laskulla, sekä liikuntaeduilla.  
 
 * **_Yksittäinen PT-ohjaus / Hyvinvointiohjaus 79€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus / palautumisen valmennus tms.) 60 min.
+  Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus / palautumisen valmennus / ravintovalmennus tms.) 60 min.
 
 * **_Yksilöllinen treeniohjelma 95€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikänti 60 min.   
