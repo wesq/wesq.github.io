@@ -72,7 +72,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 * **_Vanhan treeniohjelman päivitys 85€ (sis. alv)_**  
   Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikänti 60 min.    
 
-* **_3 kerran ohjauspaketti & 2 treeniohjelmaa 250€ (sis. alv)_**  
+* **_3 kerran ohjauspaketti & 2 treeniohjelmaa 259€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + ohjaukset / treeniohjelmien läpikäynnit - 60 min. x3   
 
 * **_Viikottainen treeniohjaus 199€/kk (sis. alv)_**   
