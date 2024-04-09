@@ -141,7 +141,6 @@ Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
-RYHMÄ ON TÄYTTYNYT
 
 #### Aloittelijan kuntosalikurssi
 
