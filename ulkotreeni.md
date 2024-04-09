@@ -21,33 +21,31 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 ![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "eloisan kehon ulkotreenit"){: .image-right :}
 
-Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulle kehität perus- ja kestovoimaa ja liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, joka treenaa ympäri vuoden ulkona.  <br/><br/>
+Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulla kehität perus- ja kestovoimaa, sekä liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, joka treenaa ympäri vuoden ulkona.  <br/><br/>
 
 **ULKORYHMÄT TUUSULAN KELLOKOSKELLA & HELSINGIN MYLLYPUROSSA!** <br/><br/>
 
 ![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-left :}
 
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
-treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, esim. liian kova pakkanen, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
+treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
 
-KEVÄTKAUSI **MAANANTAISIN** ajalla 8.1.-3.6.2024 **klo 17:30-18:30**  yhteensä 19 treeniä, EI treenejä 29.1., 11.3. ja 1.4.!
-**Hinta: 245€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla.
+SYYSKAUSI **MAANANTAISIN** ajalla 5.8.-16.12.2024 **klo 17:30-18:30**  (EI treenejä 14.10.)
+**Hinta: 249€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla. 
 
-Treenikausi on käynnistynyt, mutta voit hypätä treeneihin mukaan myös jälkikäteen. Loppukauden hinta 120€ 8.4.-3.6., yhteensä 9 treeniä.  
-
-[RYHMÄÄN ON 1 VAPAA PAIKKA JÄLJELLÄ,ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/xkD3MmA8WpTuT12RA){:target="_blank"}
+ILMOITTAUTUMINEN AUKEAA VIIKOLLA 18
 <br/><br/>
 <br/><br/>
 <br/><br/>
 ![Pienryhmätreeni](/img/myllypuro_treeni.jpg "Myllypuron pienryhmä"){: .image-right :}
 
 ***HELSINGIN MYLLYPURON RYHMÄ***
-treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, esim. liian kova pakkanen, harjoitukset tapahtuvat Google Meet etäyhteydellä.)
+treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.)
 
-KEVÄTKAUSI **TORSTAISIN** ajalla 11.1-30.5.2024 **klo 17:15-18:15**  yhteensä 19 treeniä, EI treenejä 14.3. ja 9.5.!
-**Hinta: 245€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla.
+SYYSKAUSI **TORSTAISIN** ajalla 8.8.-19.12.2024 **klo 17:15-18:15**  (EI treenejä 17.10.)
+**Hinta: 249€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla.
 
-RYHMÄ ON TÄYNNÄ
+ILMOITTAUTUMINEN AUKEAA VIIKOLLA 18
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
