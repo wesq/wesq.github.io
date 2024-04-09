@@ -16,8 +16,7 @@ Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen
 
 ![Ravitsemus](/img/monipuolinenravitsemus.jpg "Ravinto"){: .image-left :}
 
-Valmennuksessa käymme läpi
-oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
+Valmennuksessa käymme läpi oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
 millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista, ja vähentää stressiä. Valmennuksessa
 työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia. Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 <br/><br/>
@@ -30,8 +29,8 @@ Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen pr
 
 **Tarkemmat tiedot toteutuksesta:** 
 
-Uusi ryhmä käynnistyy tammikuussa 2024!  
-Ryhmä kokoontuu 21.1.-16.6.2024 sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa kahdesti kuussa, tarkemman aikataulun näet alta.
+Uusi ryhmä käynnistyy pian, seuraa tiedotusta.  
+Ryhmä kokoontuu xxx ajalla sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa kahdesti kuussa, tarkemman aikataulun näet alta.
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
 
@@ -39,7 +38,8 @@ ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuu
 
 
 - Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
-Aikataulu: 21.1., 28.1., 18.2., 25.2., 3.3., 24.3., 7.4., 21.4., 5.5., 19.5., 2.6., 16.6.- Henkilökohtaiset valmennustapaamiset 60 min. x2  
+Aikataulu: päivittyy myöhemmin
+    - Henkilökohtaiset valmennustapaamiset 60 min. x2  
     - Oman matkan suunnittelua  
     - Oman liikunnan suunnittelu/treeniohjelma   
 
@@ -58,7 +58,6 @@ Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 <br/>
 [Lue ryhmien valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin. 
 
-RYHMÄ ON TÄYTTYNYT
 
 !["Hyvinvointivalmennus"](/img/Kati2.jpg "Tervetuloa mukaan"){: .center-block :}
 > Tule mukaan etsimään yhdessä Sinun arjen hyvinvointia tukevat palikat!
