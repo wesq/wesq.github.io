@@ -48,7 +48,7 @@ Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja poh
 
 Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa tutustutaan saliin ja laitteisiin, ohjeistetaan laitteiden turvalliseen ja oikeanlaiseen käyttöön, sekä katsotaan läpi tärkeimmät tekniikat liikkeille. Laiteopastuksen yhteydessä voit myös varata yksilöajan treeniohjelman tekoa tai pidempää valmennusta varten. Siellä on myös mahdollisuus kysyä kaikista sinua mietityttävistä asioista treenaamiseen ja hyvinvointiin liittyen.
 
-Laiteopastukset toteutetaan neljän hengen pienryhmässä. Tulevat laiteopastukset ovat: 28.4. su klo 14:00, 5.5. su klo 14:00, 7.5. ti klo 19:15, 15.5. ke klo 16:30, 21.5. ti klo 19:15, 2.6. su klo 16:00, 5.6. ke klo 16:30 ja 16.6. su klo 15:00.  
+Laiteopastukset toteutetaan neljän hengen pienryhmässä. Tulevat laiteopastukset ovat: 5.5. su klo 14:00, 7.5. ti klo 19:15, 15.5. ke klo 16:30, 21.5. ti klo 19:15, 2.6. su klo 16:00, 5.6. ke klo 16:30 ja 16.6. su klo 15:00.  
 Varaa laiteopastukseen aikaa noin 45-60 minuuttia. Laiteopastuksiin tulee varata paikka laittamalla viestiä kati@elokatsu.fi. Paikka tulee varata kolme vuorokautta (72 tuntia) ennen laiteopastuksen aikaa. Jos osallistujia ei ole ilmoittautunut lainkaan tähän mennessä, laiteopastusta ei pidetä. Peruutukset jo varatuille paikoille tulee tehdä viimeistään vuorokautta (24 tuntia) ennen laiteopastusta. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista katsotaan laiteopastus käytetyksi. Järjestäjä voi joutua pakottavan esteen sattuessa perumaan laiteopastuksen, jolloin ilmoittautujat saavat tästä tiedon sähköpostitse. Järjestäjä pidättää itsellään kaikki oikeudet muutoksiin.
 
 #### PT-ohjaus
