@@ -10,9 +10,9 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 ---
 * **Syksyn 2024 pienryhmien ilmoittautuminen aukeaa viikolla 18! Alta näet kootusti koko syyskauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
 
-* **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
+* **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti erilaisissa pienryhmissä mm. eloLIIKE, eloVOIMA, eloSYKE+liikkuvuus ja Aloittelijan kuntosalikurssit [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/kellokoski)**
 
-* **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti erilaisissa pienryhmissä mm. eloVOIMA, eloSYKE+liikkuvuus, Lempeästi liikkeessä ja Aloittelijan kuntosalikurssit [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/kellokoski)**
+* **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
 * **Seniorien jumppameiningit jatkuvat Myllypurossa, josta voit lukea lisää [täältä](/seniorijumppa)**
 
