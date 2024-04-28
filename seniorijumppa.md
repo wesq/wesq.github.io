@@ -32,7 +32,7 @@ pienryhmä harjoittelee syyskaudella Myllykylän Kylätalolla, os. Ryynimyllynka
 Jumppapäivä **TORSTAISIN** klo **12:10-12:55**.  
 **Hinta: 199€** (sis. alv) maksetaan joko käteisellä tai laskulla, ja voi maksaa myös kahdessa osassa.  
 
-ILMOITTAUTUMINEN AUKEAA VIIKOLLA 18
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/7thkxSJUUWvd7uWK6){:target="_blank"}
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
