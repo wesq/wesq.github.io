@@ -13,7 +13,7 @@ Ilmoittautuminen elokatsun valmennuksiin on sitova, eikä niitä voida peruuttaa
 
 Ilmoittautumisen jälkeen saat ilmoittamaasi sähköpostiin toimintaohjeet valmennusta varten. Jos ryhmävalmennukseen ei tule tarpeeksi osallistujia, se voidaan joutua perumaan järjestäjän toimesta. Tällöin saat tästä tiedon ilmoittamaasi yhteystietoon. Asiakkaan poissaoloja ryhmävalmennuksista ei korvata. Ohjaaja voi joutua pakottavan esteen sattuessa perumaan ohjauksen. Tällöin ohjaukset korvataan asiakkaille kyseisen ryhmän valmennusehtoja noudattaen. Elokatsun ohjaukset voivat vallitsevan maailmantilanteen takia siirtyä ulos tai etäohjauksiin tietokoneen välityksellä.
 
-Yksilöpalveluiden varattujen aikojen peruutukset tulee tehdä viimeistään 24 tuntia ennen ajankohtaa. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista veloitetaan täysimääräisen palvelun hinta.
+Yksilöpalveluiden (koskee myös maksuttomia hyvinvointikartoituksia) varattujen aikojen peruutukset tulee tehdä viimeistään 24 tuntia ennen ajankohtaa. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista veloitetaan täysimääräisen palvelun hinta.
 
 Asiakkaan antamat tiedot ovat aina luottamuksellisia ja salassapidettäviä. Elokatsu kunnioittaa asiakkaidensa yksityisyyttä ja noudattaa lainmukaisia tietosuojaehtoja.
 

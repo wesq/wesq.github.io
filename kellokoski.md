@@ -44,6 +44,8 @@ _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko 
 Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Hyvinvointikartoitus selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta. Kartoituksen aikana esittelen sinulle myös palveluvaihtoehtoja muutoksesi tueksi. Kesto 30 minuuttia.  
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/RAhfPePEmEmNigtB9){:target="_blank"} 
 
+[Lue valmennusehdot tästä](/valmennusehdot), käyttäessäsi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
+
 #### Laiteopastus
 
 Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa tutustutaan saliin ja laitteisiin, ohjeistetaan laitteiden turvalliseen ja oikeanlaiseen käyttöön, sekä katsotaan läpi tärkeimmät tekniikat liikkeille. Laiteopastuksen yhteydessä voit myös varata yksilöajan treeniohjelman tekoa tai pidempää valmennusta varten. Siellä on myös mahdollisuus kysyä kaikista sinua mietityttävistä asioista treenaamiseen ja hyvinvointiin liittyen.
