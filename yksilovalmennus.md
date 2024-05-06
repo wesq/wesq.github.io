@@ -69,10 +69,10 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
   Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus / palautumisen valmennus / ravintovalmennus tms.) 60 min.
 
 * **_Yksilöllinen treeniohjelma 95€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikänti 60 min.   
+  Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti 60 min.   
 
 * **_Vanhan treeniohjelman päivitys 85€ (sis. alv)_**  
-  Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikänti 60 min.    
+  Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti 60 min.    
 
 * **_3 kerran ohjauspaketti & 2 treeniohjelmaa 259€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + ohjaukset / treeniohjelmien läpikäynnit - 60 min. x3   
