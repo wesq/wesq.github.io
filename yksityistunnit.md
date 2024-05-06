@@ -20,7 +20,7 @@ Voit suunnitella kanssani erilaisia yksityistunteja täysin omiin tarpeisiisi. T
 
 Hauskat ja muistorikkaat liikuntasynttärit järjestät helposti ammattilaisen ohjaamana oman teeman mukaisesti. Palveluun kuuluu suunnittelu yhteistyössä tilaajan kanssa, sekä liikuntaohjelman ohjaaminen valitsemassasi paikassa. Tulen luoksesi, tai autan sinua löytämään sopivan tilan.
 
-Yksityistuntien hinnat räätälöityvät ohjelman ja ajankohdan mukaan, hinnat alkaen 90€. Ota yhteyttä, niin suunnitellaan sinun tarpeitasi palveleva kokonaisuus.
+Yksityistuntien hinnat räätälöityvät ohjelman ja ajankohdan mukaan, hinnat alkaen 85€ (sis. alv). Ota yhteyttä, niin suunnitellaan sinun tarpeitasi palveleva kokonaisuus.
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue ryhmien valmennusehdot tästä](/valmennusehdot)

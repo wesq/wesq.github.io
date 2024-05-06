@@ -16,7 +16,7 @@ Elokatsu tarjoaa hyvinvointipalveluja myös yrityksille.
 **Haluaisitko vaikuttaa työntekijöidesi hyvinvointiin?** Kaipaatko yrityksellenne TYHY-toimintaa, jatkuvaa liikettä, tai vaikka palautumisen ja hyvinvoinnin lisäämistä?  
 Voin tarjota yrityksellenne jatkuvaa/kertaluonteista liikuntaa, palautumisen ja hyvinvoinnin luentoja, sekä iloista yhdessä tekemistä.
 
-Yritystuntien hinnat räätälöityvät ohjelman ja ajankohdan mukaan, hinnat alkaen 130€. Ota yhteyttä, niin räätälöidään yhdessä teidän tarpeisiin sopiva paketti!  
+Yritystuntien hinnat räätälöityvät ohjelman ja ajankohdan mukaan, hinnat alkaen 130€ + alv. Ota yhteyttä, niin räätälöidään yhdessä teidän tarpeisiin sopiva paketti!  
 <br/>
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue elokatsun valmennusehdot tästä](/valmennusehdot)
