@@ -121,8 +121,8 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 
 Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 
-Uusi ryhmä käynnistyy pian, seuraa tiedotusta.  
-Ryhmä kokoontuu xxx ajalla sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa kahdesti kuussa, tarkemman aikataulun näet alta.  
+Uusi ryhmä käynnistyy tammikuussa 2025.  
+Ryhmä kokoontuu välillä tammikuu-kesäkuu sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa kahdesti kuussa, tarkemman aikataulun näet alta.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.  
 
