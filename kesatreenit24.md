@@ -30,7 +30,7 @@ ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella/ukkosella
 **_eloSYKE+liikkuvuus - hikeä & liikkuvuutta_**
 ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella/ukkosella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Elinvoimaa, sykettä ja huoltavaa liikettä kehoon elokatsun eloSYKE+liikkuvuus kesätreeneissä. Teemme aluksi lämmittelyn ja sitten noin 20min. kestävän sykettä nostavan osion, jonka jälkeen palautamme hermostoa ja huollamme kehoa dynaamisilla rauhallisilla liikkeillä. Liikkeitä voi skaalata oman kehon mukaisesti.
 
-**TREENIT:** 2.6. SU klo 10:00-11:00, 12.6. KE klo 18:30-19:30, 16.6. SU klo 17:00-18:00, 19.6. KE klo 18:30-19:30, hinta 16€/kerta
+**TREENIT:** 2.6. SU klo 10:00-11:00, 12.6. KE klo 18:00-19:00, 16.6. SU klo 17:00-18:00, 19.6. KE klo 18:00-19:00, hinta 16€/kerta
 <br/><br/>
 
 **_Faskia Kehonhuolto - lempeää huoltavaa liikettä_**
