@@ -17,7 +17,7 @@ KESÄTREENEISTÄ HYVÄÄ OLOA & ENERGIAA
 
 ![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "Kellokosken pienryhma"){: .image-right :}
 
-Kesätreeneihin osallistutaan kertamaksulla. Treeneihin ilmoittautuminen on sitova. Jos estyt saapumasta treeniin, voit myydä/antaa paikkasi eteenpäin, ilmoitathan tästä vielä ohjaajalle. Liikkujia ei ole vakuutettu elokatsun toimesta, jokainen treenaa omalla vastuulla, tavalla joka ei aiheuta terveysriskejä. Treeneihin voit ilmoittautua mukaan Katille viestillä kati@elokatsu.fi / p.0405430027 / sivun alla olevan lomakkeen kautta. Kaikissa pienryhmissä on minimi osallistujamäärä 4 henkilöä, jos minimi osallistujamäärä ei täyty edellisen päivän iltaan mennessä, treenit perutaan. Treenit maksetaan paikan päällä, maksutapoina käy kortti, käteinen ja liikuntaedut.  <br/><br/>
+Kesätreeneihin osallistutaan kertamaksulla. Treenit maksetaan paikan päällä, maksutapoina käy kortti, käteinen ja liikuntaedut. Treeneihin ilmoittautuminen on sitova. Jos estyt saapumasta treeniin, voit myydä/antaa paikkasi eteenpäin, ilmoitathan tästä vielä ohjaajalle. Jos olet varannut paikan, etkä saavu paikalle, laskutetaan treenimaksu sinulta jälkikäteen laskulla. Liikkujia ei ole vakuutettu elokatsun toimesta, jokainen treenaa omalla vastuulla, tavalla joka ei aiheuta terveysriskejä. Treeneihin voit ilmoittautua mukaan Katille viestillä kati@elokatsu.fi / p.0405430027 / sivun alla olevan lomakkeen kautta. Kaikissa pienryhmissä on minimi osallistujamäärä 4 henkilöä, jos minimi osallistujamäärä ei täyty edellisen päivän iltaan mennessä, treenit perutaan.  <br/><br/>
 
 **KESÄN HYVÄN MIELEN TREENIT KELLOKOSKELLA** <br/><br/>
 
