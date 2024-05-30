@@ -176,7 +176,7 @@ Treeneissä harjoitellaan perusliikkeiden liiketekniikoita parantaen kehon liikk
 Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun eloVOIMA pienryhmässä!  
 Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, liikehallintaa ja voimaa, sekä keskityt tekemään liikkeet hyvällä tekniikalla. Treenit sisältävät monipuolisen koko kehoa avaavan ja aktivoivan alkulämmittelyn, sekä progressiivisesti suunnitellun 4-6 viikon välein vaihtuvan lihaskunto- ja voimaosuuden. Vauhdikas treeni, jota pystyt skaalaamaan valmentajan opastuksella itsellesi sopivaksi. Käytämme tunnilla mm. käsipainoja, kahvakuulia, levytankoja ym.
    
-**Syyskausi** toteutetaan ajalla **6.8.-16.12.2024 TIISTAISIN klo 9:00-10:00** (EI tuntia 15.10.). Syyskauden hinta 320€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Syyskausi** toteutetaan ajalla **6.8.-17.12.2024 TIISTAISIN klo 9:00-10:00** (EI tuntia 15.10.). Syyskauden hinta 320€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 [RYHMÄÄN ON 2 VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄÄLTÄ](https://forms.gle/CxfXd3dk7yTiJiLr8){:target="_blank"}
 
@@ -185,7 +185,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
 Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun eloVOIMA pienryhmässä!  
 Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, liikehallintaa ja voimaa, sekä keskityt tekemään liikkeet hyvällä tekniikalla. Treenit sisältävät monipuolisen koko kehoa avaavan ja aktivoivan alkulämmittelyn, sekä progressiivisesti suunnitellun 4-6 viikon välein vaihtuvan lihaskunto- ja voimaosuuden. Vauhdikas treeni, jota pystyt skaalaamaan valmentajan opastuksella itsellesi sopivaksi. Käytämme tunnilla mm. käsipainoja, kahvakuulia, levytankoja ym.
   
-**Syyskausi** toteutetaan ajalla **6.8.-16.12.2024 TIISTAISIN klo 18:00-19:00** (EI tuntia 15.10.). Syyskauden hinta 320€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Syyskausi** toteutetaan ajalla **6.8.-17.12.2024 TIISTAISIN klo 18:00-19:00** (EI tuntia 15.10.). Syyskauden hinta 320€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 RYHMÄ ON TÄYTTYNYT
 
