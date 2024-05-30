@@ -50,7 +50,7 @@ Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja poh
 
 Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa tutustutaan saliin ja laitteisiin, ohjeistetaan laitteiden turvalliseen ja oikeanlaiseen käyttöön, sekä katsotaan läpi tärkeimmät tekniikat liikkeille. Laiteopastuksen yhteydessä voit myös varata yksilöajan treeniohjelman tekoa tai pidempää valmennusta varten. Siellä on myös mahdollisuus kysyä kaikista sinua mietityttävistä asioista treenaamiseen ja hyvinvointiin liittyen.
 
-Laiteopastukset toteutetaan neljän hengen pienryhmässä. Tulevat laiteopastukset ovat 22.5. ke klo 15:00, 2.6. su klo 16:00 ja 16.6. su klo 14:30. Tämän jälkeen laiteopastukset jäävät kesätauolle ja jatkuvat taas elokuussa.  
+Laiteopastukset toteutetaan neljän hengen pienryhmässä. Tulevat laiteopastukset ovat 2.6. su klo 16:15 ja 16.6. su klo 13:15. Tämän jälkeen laiteopastukset jäävät kesätauolle ja jatkuvat taas elokuussa.  
 Varaa laiteopastukseen aikaa noin 45-60 minuuttia. Laiteopastuksiin tulee varata paikka laittamalla viestiä kati@elokatsu.fi. Paikka tulee varata kolme vuorokautta (72 tuntia) ennen laiteopastuksen aikaa. Jos osallistujia ei ole ilmoittautunut lainkaan tähän mennessä, laiteopastusta ei pidetä. Peruutukset jo varatuille paikoille tulee tehdä viimeistään vuorokautta (24 tuntia) ennen laiteopastusta. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista katsotaan laiteopastus käytetyksi. Järjestäjä voi joutua pakottavan esteen sattuessa perumaan laiteopastuksen, jolloin ilmoittautujat saavat tästä tiedon sähköpostitse. Järjestäjä pidättää itsellään kaikki oikeudet muutoksiin.
 
 #### PT-ohjaus
@@ -196,7 +196,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Syyskausi** toteutetaan ajalla **7.8.-18.12.2024 KESKIVIIKKOISIN klo 17:45-18:45** (EI tuntia 16.10.). Syyskauden hinta 320€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU MUKAAN TÄÄLTÄ](https://forms.gle/d6hUCMpqumGe9BVx7){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 
 #### eloVOIMA KE2
 
