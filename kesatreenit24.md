@@ -24,7 +24,7 @@ Ota mukaan juomapullo ja jumppamatto, laita aurinkorasvat iholle ja tule mukaan 
 **_eloVOIMA - toiminnallista voimaharjoittelua_**
 ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella/ukkosella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun toiminnallisista eloVOIMA kesätreeneistä. Teemme voimaharjoittelua välineillä ja oman kehon painolla. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa.  
 
-**TREENIT:** 8.6. LA klo 10:00-11:00, 11.6. TI klo 18:30-19:30, 15.6. LA klo 10:00-11:00, 18.6. TI klo 18:00-19:00, hinta 16€/kerta
+**TREENIT:** 11.6. TI klo 18:30-19:30, 15.6. LA klo 10:00-11:00, 18.6. TI klo 18:00-19:00, hinta 16€/kerta
 <br/><br/>
 
 **_eloSYKE+liikkuvuus - hikeä & liikkuvuutta_**
