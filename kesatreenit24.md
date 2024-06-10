@@ -24,19 +24,19 @@ Ota mukaan juomapullo ja jumppamatto, laita aurinkorasvat iholle ja tule mukaan 
 **_eloVOIMA - toiminnallista voimaharjoittelua_**
 ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella/ukkosella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun toiminnallisista eloVOIMA kesätreeneistä. Teemme voimaharjoittelua välineillä ja oman kehon painolla. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa.  
 
-**TREENIT:** 11.6. TI klo 18:30-19:30, 15.6. LA klo 10:00-11:00, 18.6. TI klo 18:00-19:00, hinta 16€/kerta
+**TREENIT:** 11.6. TI klo 18:30-19:30, 18.6. TI klo 18:00-19:00, hinta 16€/kerta
 <br/><br/>
 
 **_eloSYKE+liikkuvuus - hikeä & liikkuvuutta_**
 ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella/ukkosella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Elinvoimaa, sykettä ja huoltavaa liikettä kehoon elokatsun eloSYKE+liikkuvuus kesätreeneissä. Teemme aluksi lämmittelyn ja sitten noin 20min. kestävän sykettä nostavan osion, jonka jälkeen palautamme hermostoa ja huollamme kehoa dynaamisilla rauhallisilla liikkeillä. Liikkeitä voi skaalata oman kehon mukaisesti.
 
-**TREENIT:** 2.6. SU klo 10:00-11:00, 12.6. KE klo 18:00-19:00, 16.6. SU klo 17:00-18:00, 19.6. KE klo 18:00-19:00, hinta 16€/kerta
+**TREENIT:** 12.6. KE klo 18:00-19:00, 16.6. SU klo 17:00-18:00, 19.6. KE klo 18:00-19:00, hinta 16€/kerta
 <br/><br/>
 
 **_Faskia Kehonhuolto - lempeää huoltavaa liikettä_**
 ulkona Kellokosken Kirkon edessä olevassa puistossa. Kovalla sateella/ukkosella treenit siirtyvät sisälle Liikuntakeskus Ruukkiin. Tämä tunti huoltaa jumiutunutta kroppaa lempeästi ja palauttaa elastisuuden ja hyvän olon kehoosi. Treeneissä kehität dynaamisen liikkeen kautta liikkuvuutta ja kehonhallintaa. Sopii kaikille ja liikkeitä voi hyvin soveltaa omaa kehoaan kuunnellen.  
 
-**TREENIT:** 26.5. SU klo 18:45-19:30, 4.6. TI klo 19:15-20:00, 11.6. TI klo 19:45-20:30, 18.6. TI klo 19:15-20:00, hinta 10€/kerta
+**TREENIT:** 11.6. TI klo 19:45-20:30, 18.6. TI klo 19:15-20:00, hinta 10€/kerta
 <br/><br/>
 
 **ELOISAN KEHON ULKORYHMÄT TUUSULAN KELLOKOSKELLA & HELSINGIN MYLLYPUROSSA!** <br/><br/>
