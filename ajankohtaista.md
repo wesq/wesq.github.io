@@ -8,10 +8,7 @@ social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-
-* **KESÄTREENIT2024 löytyvät nyt netistä ja niihin voi kuka tahansa tulla mukaan kertamaksulla. [Lue lisää ja ilmoittaudu täältä](/kesatreenit24)**
-
-* **Syksyn 2024 pienryhmien ilmoittautuminen aukeaa viikolla 18! Alta näet kootusti koko syyskauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
+* **Syksyn 2024 pienryhmien ilmoittautuminen on käynnissä. Alta näet kootusti koko syyskauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
 
 * **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti erilaisissa pienryhmissä mm. eloLIIKE, eloVOIMA, eloSYKE+liikkuvuus ja Aloittelijan kuntosalikurssit [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/kellokoski)**
 
