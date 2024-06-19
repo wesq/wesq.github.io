@@ -42,9 +42,8 @@ navbar-links:
     - -> Facebook: "https://facebook.com/elokatsu"
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
-    - Kesätreenit24: "kesatreenit24"
-    - Ruukin PT ja pienryhmät: "kellokoski"
     - Yksilövalmennus: "yksilovalmennus"
+    - Ruukin PT ja pienryhmät: "kellokoski"
     - Ulkotreeni: "ulkotreeni"
     - Seniorijumppa: "seniorijumppa"
     - Muutosvalmennus: "muutosvalmennus"
