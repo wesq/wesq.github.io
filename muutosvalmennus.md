@@ -49,7 +49,7 @@ Aikataulu: päivittyy myöhemmin
 
 
 **HINTA:**  
-89€/kk TAI 528€ kertamaksulla (hinnat sis. alv).  
+89€/kk TAI 530€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 65€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).

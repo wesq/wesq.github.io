@@ -56,6 +56,7 @@ Laiteopastukset toteutetaan neljän hengen pienryhmässä. Laiteopastukset jää
 #### PT-ohjaus
 
 PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. Palvelut voi maksaa laskulla, sekä liikuntaeduilla.  
+1.9. alkaen hintoihin tulossa korotus johtuen ALV-korotuksesta.  
 
 * **_Yksittäinen PT-ohjaus / Hyvinvointiohjaus 79€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus / palautumisen valmennus / ravintovalmennus tms.) 60 min.
@@ -98,6 +99,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>
 
+1.9. alkaen hintoihin tulossa korotus johtuen ALV-korotuksesta.  
 **HINTA**:
 * _3-6 kk Hyvinvointivalmennus 176€/kk (sis. alv)_
   <br/>
@@ -138,7 +140,7 @@ Aikataulu: päivittyy myöhemmin
 - Ryhmän oma alusta Facebookissa tai WhatsApp:ssa (ryhmän toiveiden mukaan) keskustelulle ja yhteiselle jakamiselle matkan aikana  
 
 HINTA: 
-89€/kk TAI 528€ kertamaksulla (hinnat sis. alv).  
+89€/kk TAI 530€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
