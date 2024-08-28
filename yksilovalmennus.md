@@ -80,7 +80,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 
 * **_Viikottainen treeniohjaus 199€/kk (sis. alv)_**   
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x4/kk
-  Treeniohjauspakettiin sisältyy treenit valmentajan kanssa kerran viikossa suunnitelmallisen tavoitteitasi tukevan treeniohjelman mukaan. Kyseinen palvelu on toteutettavissa vain Kellokosken ydinalueella; elokatsun kotitoimiston kuntosalilla, kotonasi, tai ulkona. Paketin minimiaika 1 kuukausi, voidaan ostaa kuukausi kerrallaan. Kyseinen paketti sisältää vain treeniohjaukset valmentajan suunnittelemalla ohjelmalla, paketti ei sisällä muiden treenien suunnittelua tai lisätreeniohjelmia. Pakettiin voidaan räätälöidä asiakkaan toiveiden mukaisesti myös tällaisia lisäpalveluita, joiden hinta määrittyy palvelun mukaan.
+  Treeniohjauspakettiin sisältyy treenit valmentajan kanssa kerran viikossa suunnitelmallisen tavoitteitasi tukevan treeniohjelman mukaan. Kyseinen palvelu on toteutettavissa vain Kellokosken ydinalueella asiakkaan kotona tai ulkona. Paketin minimiaika 1 kuukausi, voidaan ostaa kuukausi kerrallaan. Kyseinen paketti sisältää vain treeniohjaukset valmentajan suunnittelemalla ohjelmalla, paketti ei sisällä muiden treenien suunnittelua tai lisätreeniohjelmia. Pakettiin voidaan räätälöidä asiakkaan toiveiden mukaisesti myös tällaisia lisäpalveluita, joiden hinta määrittyy palvelun mukaan.
 
   + PT-ohjauspaketit eivät sisällä etätukea!
 
