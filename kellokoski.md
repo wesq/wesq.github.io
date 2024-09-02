@@ -56,25 +56,27 @@ Laiteopastukset toteutetaan neljän hengen pienryhmässä. Seuraava laiteopastus
 #### PT-ohjaus
 
 PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. Palvelut voi maksaa laskulla, sekä liikuntaeduilla.  
-1.9. alkaen hintoihin tulossa korotus johtuen ALV-korotuksesta.  
 
-* **_Yksittäinen PT-ohjaus / Hyvinvointiohjaus 79€ (sis. alv)_**  
+* **_Yksittäinen PT-ohjaus / Hyvinvointiohjaus 80€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. (1.kerralla) + ohjaus (esim.treeni / tekniikkaopastus / palautumisen valmennus / ravintovalmennus tms.) 60 min.
 
-* **_Yksilöllinen treeniohjelma 95€ (sis. alv)_**  
+* **_Yksilöllinen treeniohjelma 97€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti 60 min.   
 
-* **_Vanhan treeniohjelman päivitys 85€ (sis. alv)_**  
+* **_Vanhan treeniohjelman päivitys 89€ (sis. alv)_**  
   Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti 60 min.    
 
-* **_3 kerran ohjauspaketti & 2 treeniohjelmaa 259€ (sis. alv)_**  
+* **_3 kerran ohjauspaketti & 2 treeniohjelmaa 263€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit ja muut ohjaukset - 60 min. x3   
 
-* **_2 kerran ohjauspaketti & 2 treeniohjelmaa 184€ (sis. alv)_**  
+* **_2 kerran ohjauspaketti & 2 treeniohjelmaa 185€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit - 60 min. x2   
 
-* **_2 treeniohjelmaa + 1 ohjaus 129€ (sis. alv)_**  
+* **_2 treeniohjelmaa + 1 ohjaus 130€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + 1 ohjauksen, jossa molempien treeniohjelmien läpikäynnit - 60 min. x1   
+
+* **_Ravintovalmennus 97€ (sis.alv)_**
+  Sisältää: alkukartoitus 30min. + ruokapäiväkirjan analysointi + valmennustapaaminen 60min.  
 
  **Etkö löytänyt itsellesi sopivaa pakettia? Ota yhteyttä kati@elokatsu.fi, niin räätälöidään juuri Sinun tarpeisiin sopiva kokonaisuus!**   
 
@@ -98,20 +100,19 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 * Muutoksen tukemista erilaisin tehtävin ja keskusteluin
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>
-
-1.9. alkaen hintoihin tulossa korotus johtuen ALV-korotuksesta.  
+  
 **HINTA**:
-* _3-6 kk Hyvinvointivalmennus 176€/kk (sis. alv)_
+* _3-6 kk Hyvinvointivalmennus 179€/kk (sis. alv)_
   <br/>
-* _7-11 kk Hyvinvointivalmennus 169€/kk (sis. alv)_
+* _7-11 kk Hyvinvointivalmennus 172€/kk (sis. alv)_
    <br/>
-* _12 -> kk Hyvinvointivalmennus 159€/kk (sis. alv)_ 
+* _12 -> kk Hyvinvointivalmennus 165€/kk (sis. alv)_ 
    <br/>
-* _Valmennus, jossa tapaamiset 1krt/kk - 85€/kk (sis. alv)_  
+* _Valmennus, jossa tapaamiset 1krt/kk - 86€/kk (sis. alv)_  
  Suositellaan erityisesti jatkopalveluna tai muuhun pienempään valmennustarpeeseen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  
 
  
-\+  _Lisäohjaukset valmennusasiakkaille 69€ / 1h ohjaus (sis. alv)  
+\+  _Lisäohjaukset valmennusasiakkaille 70€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_  
 [OTA ENSIMMÄINEN ASKEL & VARAA AIKA KARTOITUKSEEN TÄSTÄ](https://forms.gle/RAhfPePEmEmNigtB9){:target="_blank"}
 <br/>
