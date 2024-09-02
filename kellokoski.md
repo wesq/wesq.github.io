@@ -75,7 +75,7 @@ PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöid
 * **_2 treeniohjelmaa + 1 ohjaus 130€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + 1 ohjauksen, jossa molempien treeniohjelmien läpikäynnit - 60 min. x1   
 
-* **_Ravintovalmennus 97€ (sis.alv)_**
+* **_Ravintovalmennus 97€ (sis.alv)_**  
   Sisältää: alkukartoitus 30min. + ruokapäiväkirjan analysointi + valmennustapaaminen 60min.  
 
  **Etkö löytänyt itsellesi sopivaa pakettia? Ota yhteyttä kati@elokatsu.fi, niin räätälöidään juuri Sinun tarpeisiin sopiva kokonaisuus!**   
