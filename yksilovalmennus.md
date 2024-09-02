@@ -51,6 +51,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 * **_7-11 kk Hyvinvointivalmennus 172€/kk (sis. alv)_**
 * **_12 -> kk Hyvinvointivalmennus 165€/kk (sis. alv)_**
 
+<!-- -->
 * **_Valmennus, jossa tapaamiset 1krt/kk - 86€/kk (sis. alv)_**  
  Suositellaan erityisesti jatkopalveluna tai muuhun pienempään valmennustarpeeseen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.
 
