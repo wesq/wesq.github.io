@@ -42,7 +42,8 @@ _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko 
 
 #### Maksuton hyvinvointikartoitus
 
-Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Hyvinvointikartoitus selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta. Kartoituksen aikana esittelen sinulle myös palveluvaihtoehtoja muutoksesi tueksi. Kesto 30 minuuttia.  
+Kaikki elokatsun valmennukset räätälöidään aina yksilöllisesti.  Voit varata ajan maksuttomaan hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi. Hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Tämä selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta. Kartoituksen kesto 30 minuuttia.
+  
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/RAhfPePEmEmNigtB9){:target="_blank"} 
 
 [Lue valmennusehdot tästä](/valmennusehdot), käyttäessäsi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.

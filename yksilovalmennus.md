@@ -13,7 +13,7 @@ bigimg: img/a_yksilovalmennukset.jpg
 <p class="otsikkolistapalkki">HYVÄÄ OLOA & ENERGIAA ARKEESI</p>
 
 _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi?  
-Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika maksuttomaan hyvinvointikartoitukseen, niin voimme yhdessä miettiä, mikä kokonaisuus palvelisi Sinua parhaiten!_
+Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika maksuttomaan hyvinvointikartoitukseen, niin voimme yhdessä miettiä, mikä palvelu/valmennus sopisi Sinulle parhaiten! Kartoituksen kesto 30 minuuttia._
 
 [VARAA AIKA MAKSUTTOMAAN HYVINVOINTIKARTOITUKSEEN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
@@ -93,7 +93,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 
 > Yksilöllistä valmennusta Sinun tarpeesi edellä.
 
-**_Valmennukset räätälöidään aina yksilöllisesti.  Voit varata ajan maksuttomaan hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi. Maksuttomassa hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Hyvinvointikartoitus selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta._**  
+**_Kaikki elokatsun valmennukset räätälöidään aina yksilöllisesti.  Voit varata ajan maksuttomaan hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi. Hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Tämä selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta. Kartoituksen kesto 30 minuuttia._**  
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
 **_Valmennukset voidaan toteuttaa Kellokosken, Järvenpään ja Itä-Helsingin alueella ulkona, kotonasi, tai salilla. Kysy myös mahdollisuutta etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä minne tahansa!_**
