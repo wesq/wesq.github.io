@@ -52,7 +52,7 @@ Kaikki elokatsun valmennukset räätälöidään aina yksilöllisesti.  Voit var
 
 Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa tutustutaan saliin ja laitteisiin, ohjeistetaan laitteiden turvalliseen ja oikeanlaiseen käyttöön, sekä katsotaan läpi tärkeimmät tekniikat liikkeille. Laiteopastuksen yhteydessä voit myös varata yksilöajan treeniohjelman tekoa tai pidempää valmennusta varten. Siellä on myös mahdollisuus kysyä kaikista sinua mietityttävistä asioista treenaamiseen ja hyvinvointiin liittyen.
 
-Laiteopastukset toteutetaan neljän hengen pienryhmässä. Seuraava laiteopastus on 22.9. sunnuntaina klo 18:45. Varaa laiteopastukseen aikaa noin 45-60 minuuttia. Laiteopastuksiin tulee varata paikka laittamalla viestiä kati@elokatsu.fi. Paikka tulee varata kolme vuorokautta (72 tuntia) ennen laiteopastuksen aikaa. Jos osallistujia ei ole ilmoittautunut lainkaan tähän mennessä, laiteopastusta ei pidetä. Peruutukset jo varatuille paikoille tulee tehdä viimeistään vuorokautta (24 tuntia) ennen laiteopastusta. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista katsotaan laiteopastus käytetyksi. Järjestäjä voi joutua pakottavan esteen sattuessa perumaan laiteopastuksen, jolloin ilmoittautujat saavat tästä tiedon sähköpostitse. Järjestäjä pidättää itsellään kaikki oikeudet muutoksiin.
+Laiteopastukset toteutetaan neljän hengen pienryhmässä. Seuraava laiteopastus on 6.10. sunnuntaina klo 13:30. Varaa laiteopastukseen aikaa noin 45-60 minuuttia. Laiteopastuksiin tulee varata paikka laittamalla viestiä kati@elokatsu.fi. Paikka tulee varata kolme vuorokautta (72 tuntia) ennen laiteopastuksen aikaa. Jos osallistujia ei ole ilmoittautunut lainkaan tähän mennessä, laiteopastusta ei pidetä. Peruutukset jo varatuille paikoille tulee tehdä viimeistään vuorokautta (24 tuntia) ennen laiteopastusta. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista katsotaan laiteopastus käytetyksi. Järjestäjä voi joutua pakottavan esteen sattuessa perumaan laiteopastuksen, jolloin ilmoittautujat saavat tästä tiedon sähköpostitse. Järjestäjä pidättää itsellään kaikki oikeudet muutoksiin.
 
 #### PT-ohjaus
 
@@ -160,7 +160,7 @@ RYHMÄ ON TÄYTTYNYT
 
 **Aloittelijan kuntosalikurssi 29.10.-19.11.2024 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 134€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU MUKAAN TÄÄLTÄ](https://forms.gle/AffnGRNRGmPMHRt39){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 
 #### eloLIIKE
 
