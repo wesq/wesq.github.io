@@ -44,7 +44,6 @@ Aikataulu: päivittyy myöhemmin
   - 2. Oma liikuntasuunnitelma / ohjelma (45min.)   
 
 - Valmentajan yksilöllinen etätuki koko valmennuksen ajan
-- Pääsyn Sportyplanner-ohjelmaan, jossa yksilöllinen treeniohjelma
 - Ryhmän oma alusta Facebookissa tai WhatsApp:ssa (ryhmän toiveiden mukaan) keskustelulle ja yhteiselle jakamiselle matkan aikana  
 
 
