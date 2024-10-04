@@ -134,8 +134,8 @@ ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuu
 - Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
 Aikataulu: päivittyy myöhemmin
 - Henkilökohtaiset valmennustapaamiset x2  
-  - 1. Oman matkan suunnittelu (30min.)  
-  - 2. Oma liikuntasuunnitelma / ohjelma (45min.)   
+  - Oman matkan suunnittelu (30min.)  
+  - Oma liikuntasuunnitelma / ohjelma (45min.)   
 
 - Valmentajan yksilöllinen etätuki koko valmennuksen ajan
 - Ryhmän oma alusta Facebookissa tai WhatsApp:ssa (ryhmän toiveiden mukaan) keskustelulle ja yhteiselle jakamiselle matkan aikana  
