@@ -30,10 +30,10 @@ Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja 
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
 treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
 
-SYYSKAUSI **MAANANTAISIN** ajalla 5.8.-16.12.2024 **klo 17:30-18:30**  (EI treenejä 14.10.)
-**Hinta: 249€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla. 
+KEVÄTKAUSI **MAANANTAISIN** ajalla 6.1.-2.6.2025 **klo 17:30-18:30**  (EI treenejä 17.3., 21.4.) YHT. 20 KERTAA.
+**Hinta: 280€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla. 
 
-RYHMÄ ON TÄYTTYNYT
+ILMOITTAUTUMINEN AUKEAA 1.11.2024
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -42,10 +42,10 @@ RYHMÄ ON TÄYTTYNYT
 ***HELSINGIN MYLLYPURON RYHMÄ***
 treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.)
 
-SYYSKAUSI **TORSTAISIN** ajalla 8.8.-19.12.2024 **klo 17:15-18:15**  (EI treenejä 17.10.)
-**Hinta: 249€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla.
+KEVÄTKAUSI **TORSTAISIN** ajalla 9.1.-29.5.2025 **klo 17:15-18:15**  (EI treenejä 20.3., 1.5.) YHT. 19 KERTAA.
+**Hinta: 266€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla.
 
-RYHMÄ ON TÄYTTYNYT
+ILMOITTAUTUMINEN AUKEAA 1.11.2024
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  

@@ -26,13 +26,13 @@ Eloisan kehon senioritunneilla vahvistat näitä ominaisuuksia, omaa kehoasi kuu
 ![Pienryhmätreeni](/img/sennukurssi1.jpg "seniorin eloisa keho"){: .image-left :}  
 
 ***SENIORIN ELOISA KEHO***
-pienryhmä harjoittelee syyskaudella Myllykylän Kylätalolla, os. Ryynimyllynkatu 1, 00920 Helsinki, sekä ulkona Myllypuron alueella. Säästä riippuen olemme vaihdellen ulkona ja sisällä. Osallistujat saavat ennen tuntia ilmoituksen missä tunti pidetään. Tunnit ohjaa Hyvinvointivalmentaja, Personal Trainer ja Liikuntaneuvoja Kati Sokka.
+pienryhmä harjoittelee Myllykylän Kylätalolla, os. Ryynimyllynkatu 1, 00920 Helsinki, sekä ulkona Myllypuron alueella. Säästä riippuen olemme vaihdellen ulkona ja sisällä. Osallistujat saavat ennen tuntia ilmoituksen missä tunti pidetään. Tunnit ohjaa Hyvinvointivalmentaja, Personal Trainer ja Liikuntaneuvoja Kati Sokka.
 
-**SYYSKAUSI** ajalla **8.8.-19.12.2024 (EI jumppaa 17.10.)**.  
+**KEVÄTKAUSI** ajalla **9.1.-29.5.2025 (EI jumppaa 20.3., 1.5.)**.  
 Jumppapäivä **TORSTAISIN** klo **12:10-12:55**.  
-**Hinta: 199€** (sis. alv) maksetaan joko käteisellä tai laskulla, ja voi maksaa myös kahdessa osassa.  
+**Hinta: 209€** (sis. alv) maksetaan joko käteisellä tai laskulla, ja voi maksaa myös kahdessa osassa.  
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/7thkxSJUUWvd7uWK6){:target="_blank"}
+ILMOITTAUTUMINEN AUKEAA 1.11.2024
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
