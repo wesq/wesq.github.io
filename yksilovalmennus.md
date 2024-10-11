@@ -56,7 +56,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
  Suositellaan erityisesti jatkopalveluna tai muuhun pienempään valmennustarpeeseen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.
 
  
-\+  _Lisäohjaukset valmennusasiakkaille 70€ / 1h ohjaus (sis. alv)  
+\+  _Lisäohjaukset valmennusasiakkaille 69€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
