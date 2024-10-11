@@ -32,7 +32,9 @@ Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen pr
 Uusi ryhmä käynnistyy 12.1.2025.  
 Ryhmä kokoontuu välillä tammikuu-kesäkuu sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa kahdesti kuussa, tarkemman aikataulun näet alta.
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
-ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. 
+ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi.  
+
+ILMOITTAUTUMINEN AUKEAA 1.11.2024
 
 **Valmennus sisältää:**
 
@@ -52,6 +54,8 @@ Aikataulu: 12.1., 26.1, 9.2., 23.2., 9.3., 23.3., 6.4., 27.4., 11.5., 25.5., 1.6
 Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 69€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).
+
+ILMOITTAUTUMINEN AUKEAA 1.11.2024
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**
 <br/>
