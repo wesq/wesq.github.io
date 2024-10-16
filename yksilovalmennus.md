@@ -4,7 +4,7 @@ title: Yksilö&shy;valmennukset
 subtitle: Räätälöidyt hyvinvointi&shy;valmennukset Sinulle
 formspree_comment: true
 comment_teksti: Mitä haluaisit kysyä yksilö&shy;valmennuksista?
-bigimg: img/a_yksilovalmennukset.jpg
+bigimg: img/a_yksilovalmennus_crop.jpg
 
 ---
 ### Hyvinvointivalmennusta Sinun omiin tarpeisiisi
@@ -89,7 +89,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
   **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
 
-![yksilovalmennus](/img/yksilovalmennus_1.jpg "Yksilövalmennus"){: .center-block :}
+![yksilovalmennus](/img/yksilovalmennus_2.jpg "Yksilövalmennus"){: .center-block :}
 
 > Yksilöllistä valmennusta Sinun tarpeesi edellä.
 

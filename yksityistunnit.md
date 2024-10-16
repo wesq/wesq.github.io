@@ -10,7 +10,8 @@ bigimg: img/a_yksityistunnit.jpg
 ### Yksityistunnit & liikuntasynttärit tarpeidesi mukaan
 
 <br/>
-![yksityistunnit](/img/raataloidyt_tunnit.jpg "Suunnittele oma yksityistunti"){: .image-left :}
+
+![yksityistunnit](/img/yksityistunnit_1.jpg "Suunnittele oma yksityistunti"){: .image-left :}
 **_Paritreenit, perhetreenit, polttarit ja muut yksityistunnit_**
 
 Voit suunnitella kanssani erilaisia yksityistunteja täysin omiin tarpeisiisi. Treenit puolison tai perheen kesken, tai vaikka unohtumattomat aikuisten synttärit tai polttarit, jossa liikunnallista aktiviteettia. Yhteistyötahoni Liikuntakeskus Ruukki Kellokoskella ja Sipoon Hyvinvointikeskus Nikkilässä tarjoavat hyvät puitteet, ja mieluisan aktiviteetin kanssa räätälöimme yhdessä toimivan paketin. Ohjaus voi pitää sisällään esimerkiksi lempeää kehonhuoltoa tai toiminnallista voimaharjoittelua. Voin myös tulla sinun omaan tilaan, tai voin auttaa sinua löytämään sopivan tilan. Kysy mahdollisuutta myös ulkona tapahtuville yksityistunneille ja erilaisille ohjatuille aktiviteeteille!

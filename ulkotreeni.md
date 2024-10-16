@@ -19,7 +19,7 @@ Eloisa keho on liikkuva, jotta sinun on joustavan hyvä olo kehossasi ilman sär
 Eloisa keho kaipaa myös haasteita ja energiaa, voidakseen kehittyä ja palvella sinua tarvitsemallasi intensiteetillä
 vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olosta._
 
-![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "eloisan kehon ulkotreenit"){: .image-right :}
+![Pienryhmätreeni](/img/ulkotreenit_1.jpg "eloisan kehon ulkotreenit"){: .image-right :}
 
 Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulla kehität perus- ja kestovoimaa, sekä liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, joka treenaa ympäri vuoden ulkona.  <br/><br/>
 
