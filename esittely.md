@@ -32,6 +32,6 @@ Hyvinvoinnin kentälle haluan tuoda enemmän lempeyttä, iloa ja inhimillisyytt�
 <br>
 *Jos sinua kiinnostaa hyvinvointi ja lempeämpi ote sen kanssa, niin ota yhteyttä ja katsotaan yhdessä miten voisin auttaa Sinua. Parhaiten tavoitat minut sähköpostilla kati@elokatsu.fi*
 
-Löydät "Palvelut"-välilehdeltä kootusti kaikki ohjaukset ja lisätietoja niistä. Toimin pääasiassa Kellokoskella, lisäksi yhtenä päivänä viikossa Itä-Helsingissä.
+Löydät "Palvelut"-välilehdeltä kootusti kaikki ohjaukset ja lisätietoja niistä. Toimin pääasiassa Tuusulan Kellokoskella, lisäksi yhtenä päivänä viikossa Itä-Helsingissä.
 
 Kiva kun olet, juuri siinä. -Kati ❤️
