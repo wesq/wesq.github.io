@@ -14,6 +14,8 @@ comment_teksti: "Kysy lisää valmennuksesta:"
 #### Muutosvalmennus  
 Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! 
 
+[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/pZYBe7UXadgQa2j69){:target="_blank"}
+
 ![Ravitsemus](/img/monipuolinenravitsemus.jpg "Ravinto"){: .image-left :}
 
 Valmennuksessa käymme läpi oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
@@ -34,7 +36,7 @@ Ryhmä kokoontuu välillä tammikuu-kesäkuu sunnuntaisin klo 18:45-20:00 Liikun
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi.  
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/pZYBe7UXadgQa2j69){:target="_blank"}
 
 **Valmennus sisältää:**
 
@@ -55,7 +57,7 @@ Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 69€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/pZYBe7UXadgQa2j69){:target="_blank"}
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**
 <br/>

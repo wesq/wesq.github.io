@@ -146,7 +146,7 @@ Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/pZYBe7UXadgQa2j69){:target="_blank"}
 
 
 #### Aloittelijan kuntosalikurssi
