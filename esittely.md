@@ -10,12 +10,12 @@ bigimg: img/a_esittely.jpg
 <br/>
 ![elokatsu](/img/esittely_1.jpg "elokatsu"){: .image-right :}
 <br/>
-Olen kellokoskelainen yrittäjä, vaimo,  ja lempeän kohtaamisen vahva kannattaja. Olen innostuja ja pirskahteleva haaveilija, jonka missio on tarjota ihmisille hyvinvointia lempeydellä. Liikunnan iloa ja onnistumisia pienin askelin.  
+Olen kellokoskelainen yrittäjä ja lempeän kohtaamisen vahva kannattaja. Olen innostuja ja pirskahteleva haaveilija, jonka missio on tarjota ihmisille hyvinvointia lempeydellä. Liikunnan iloa ja onnistumisia pienin askelin.  
 <br/><br/>
 
 ![Elämäntapamuutos](/img/esittely_2.jpg "Elämäntapamuutos"){: .image-left :}
 <br/>
-Inspiroidun ja innostun helposti uusista asioista. Sydäntäni lähellä on liikunnan ilo ja monipuolisuus, hetkiin pysähtyminen ja palautumisen arvostaminen, sekä luonnon hoitava voima. Rakastan marjasmoothieita, suklaata, metsässä haahuilua, avantouintia ja arjen pienten hetkien fiilistelyä. Nautin lempeistä kohtaamisista ja tummapaahtoisesta kahvista. Liikkujana olen terveysliikkuja, joka nauttii liikunnasta mahdollistajana. Liikunta on minulle keino voida hyvin, sillä haluan jaksaa arjessa tehdä asioita, jotka ovat itselleni tärkeitä.
+Inspiroidun ja innostun helposti uusista asioista. Sydäntäni lähellä on liikunnan ilo ja monipuolisuus, hetkiin pysähtyminen ja palautumisen arvostaminen, sekä luonnon hoitava voima. Rakastan marjasmoothieita, suklaata, metsässä haahuilua, avantouintia ja arjen pienten hetkien fiilistelyä. Nautin lempeistä kohtaamisista ja tummapaahtoisesta kahvista. Liikkujana olen terveysliikkuja, joka nauttii liikunnasta elämän ja arjen mahdollistajana. Liikunta on minulle keino voida hyvin, sillä haluan jaksaa arjessa tehdä asioita, jotka ovat itselleni tärkeitä.
 
 <br/><br/>
 
@@ -32,6 +32,6 @@ Hyvinvoinnin kentälle haluan tuoda enemmän lempeyttä, iloa ja inhimillisyytt�
 <br>
 *Jos sinua kiinnostaa hyvinvointi ja lempeämpi ote sen kanssa, niin ota yhteyttä ja katsotaan yhdessä miten voisin auttaa Sinua. Parhaiten tavoitat minut sähköpostilla kati@elokatsu.fi*
 
-Löydät "Palvelut"-välilehdeltä kootusti kaikki ohjaukset ja lisätietoja niistä. Toimin Kellokosken, Järvenpään ja Itä-Helsingin alueella.
+Löydät "Palvelut"-välilehdeltä kootusti kaikki ohjaukset ja lisätietoja niistä. Toimin pääasiassa Kellokoskella, lisäksi yhtenä päivänä viikossa Itä-Helsingissä.
 
 Kiva kun olet, juuri siinä. -Kati ❤️
