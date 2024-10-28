@@ -173,7 +173,7 @@ Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta nii
 Elinvoimaa ja monipuolista liikettä kehoon elokatsun eloLIIKE pienryhmässä!  
 Treeneissä harjoitellaan perusliikkeiden tekniikoita parantaen kehon liikkuvuutta, liikehallintaa ja voimaa. Tämä pienryhmä soveltuu hyvin myös aloittelijoille, jotka haluavat rauhassa harjoitella liiketekniikoita. Treenit sisältävät monipuolisen koko kehoa avaavan ja aktivoivan alkulämmittelyn, sekä lihaskunto- ja voimaosuuden. Liikkeitä tehdään omassa tahdissa mm. oman kehon painolla, käsipainoilla, kahvakuulilla, levytangoilla ym. kehotuntemuksien mukaisesti liikkeitä tarvittaessa skaalaten.
 
-**Kevätkausi** toteutetaan ajalla **6.1.-2.6.2025 MAANANTAISIN klo 19:05-20:00** (EI tunteja 17.3., 21.4.). Treenikauden hinta 330€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan 8-9 osallistujaa. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Kevätkausi** toteutetaan ajalla **6.1.-2.6.2025 MAANANTAISIN klo 19:05-20:00** (EI tunteja 17.3., 21.4.). Treenikauden hinta 330€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 ILMOITTAUTUMINEN AUKEAA 1.11.2024
 
