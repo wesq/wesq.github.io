@@ -184,7 +184,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
    
 **Kevätkausi** toteutetaan ajalla **7.1.-27.5.2025 TIISTAISIN klo 9:00-10:00** (EI tuntia 18.3.). Treenikauden hinta 355€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+RYHMÄ ON TÄYTTYNYT
 
 #### eloVOIMA TI1
 
@@ -193,7 +193,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Kevätkausi** toteutetaan ajalla **7.1.-27.5.2025 TIISTAISIN klo 18:00-19:00** (EI tuntia 18.3.). Treenikauden hinta 355€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+RYHMÄ ON TÄYTTYNYT
 
 #### eloVOIMA TI2
 
@@ -229,7 +229,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Kevätkausi** toteutetaan ajalla **5.1.-1.6.2025 SUNNUNTAISIN klo 17:30-18:30** (EI tunteja 16.3., 20.4.). Treenikauden hinta 355€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+RYHMÄ ON TÄYTTYNYT
 
 #### eloSYKE ja liikkuvuus
 
