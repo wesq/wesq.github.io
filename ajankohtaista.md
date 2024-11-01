@@ -8,7 +8,7 @@ social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-* **KEVÄÄN 2025 pienryhmien ilmoittautuminen alkaa 1.11.2024! Alta näet kootusti koko treenikauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
+* **KEVÄÄN 2025 pienryhmien ilmoittautuminen on nyt auki! Alta näet kootusti koko treenikauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
 
 * **Kellokoskella käynnistyy taas Muutosvalmennus pienryhmässä 12.1.2025. Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä](/muutosvalmennus)**
 

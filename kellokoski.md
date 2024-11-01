@@ -52,7 +52,7 @@ Kaikki elokatsun valmennukset räätälöidään aina yksilöllisesti.  Voit var
 
 Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa tutustutaan saliin ja laitteisiin, ohjeistetaan laitteiden turvalliseen ja oikeanlaiseen käyttöön, sekä katsotaan läpi tärkeimmät tekniikat liikkeille. Laiteopastuksen yhteydessä voit myös varata yksilöajan treeniohjelman tekoa tai pidempää valmennusta varten. Siellä on myös mahdollisuus kysyä kaikista sinua mietityttävistä asioista treenaamiseen ja hyvinvointiin liittyen.
 
-Laiteopastukset toteutetaan pienryhmässä. Seuraava laiteopastus on 3.11. sunnuntaina klo 18:45. Varaa laiteopastukseen aikaa noin 45-60 minuuttia. Laiteopastuksiin tulee varata paikka laittamalla viestiä kati@elokatsu.fi. Paikka tulee varata kolme vuorokautta (72 tuntia) ennen laiteopastuksen aikaa. Jos osallistujia ei ole ilmoittautunut lainkaan tähän mennessä, laiteopastusta ei pidetä. Peruutukset jo varatuille paikoille tulee tehdä viimeistään vuorokautta (24 tuntia) ennen laiteopastusta. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista katsotaan laiteopastus käytetyksi. Järjestäjä voi joutua pakottavan esteen sattuessa perumaan laiteopastuksen, jolloin ilmoittautujat saavat tästä tiedon sähköpostitse. Järjestäjä pidättää itsellään kaikki oikeudet muutoksiin.
+Laiteopastukset toteutetaan pienryhmässä. Seuraava laiteopastus on 13.11. keskiviikkona klo 16:30. Varaa laiteopastukseen aikaa noin 45-60 minuuttia. Laiteopastuksiin tulee varata paikka laittamalla viestiä kati@elokatsu.fi. Paikka tulee varata kolme vuorokautta (72 tuntia) ennen laiteopastuksen aikaa. Jos osallistujia ei ole ilmoittautunut lainkaan tähän mennessä, laiteopastusta ei pidetä. Peruutukset jo varatuille paikoille tulee tehdä viimeistään vuorokautta (24 tuntia) ennen laiteopastusta. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista katsotaan laiteopastus käytetyksi. Järjestäjä voi joutua pakottavan esteen sattuessa perumaan laiteopastuksen, jolloin ilmoittautujat saavat tästä tiedon sähköpostitse. Järjestäjä pidättää itsellään kaikki oikeudet muutoksiin.
 
 #### PT-ohjaus
 
@@ -128,7 +128,7 @@ Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen
 Uusi ryhmä käynnistyy 19.1.2025.  
 Ryhmä kokoontuu välillä tammikuu-kesäkuu sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa kahdesti kuussa, tarkemman aikataulun näet alta.  
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
-ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.  
+ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Kyseessä on pienryhmä, johon otetaan maksimissaan 6 osallistujaa. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.  
 
 **Valmennus sisältää:**
 - Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
@@ -175,7 +175,7 @@ Treeneissä harjoitellaan perusliikkeiden tekniikoita parantaen kehon liikkuvuut
 
 **Kevätkausi** toteutetaan ajalla **6.1.-2.6.2025 MAANANTAISIN klo 19:05-20:00** (EI tunteja 17.3., 21.4.). Treenikauden hinta 330€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/oYpB14jpxSE8N24B9){:target="_blank"}
 
 #### eloVOIMA aamu
 
@@ -202,7 +202,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Kevätkausi** toteutetaan ajalla **7.1.-27.5.2025 TIISTAISIN klo 19:10-20:10** (EI tuntia 18.3.). Treenikauden hinta 355€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+[RYHMÄÄN ON 2 VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Rnyv7Xs7Qm9Uaj2n9){:target="_blank"}
 
 #### eloVOIMA KE1
 
@@ -211,7 +211,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Kevätkausi** toteutetaan ajalla **8.1.-28.5.2025 KESKIVIIKKOISIN klo 17:45-18:45** (EI tuntia 19.3.). Treenikauden hinta 355€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Crvg1hBP2oTLmAVT9){:target="_blank"}
 
 #### eloVOIMA KE2
 
@@ -220,7 +220,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Kevätkausi** toteutetaan ajalla **8.1.-28.5.2025 KESKIVIIKKOISIN klo 19:00-20:00** (EI tuntia 19.3.). Treenikaudenkauden hinta 355€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Zubwm6MzcZ4k2X9E8){:target="_blank"}
 
 #### eloVOIMA SU
 
@@ -238,7 +238,7 @@ Tämä tunti sopii sinulle, joka haluat tehdä kompaktin sykkeennoston ja liikku
 
 **Kevätkausi** toteutetaan ajalla **5.1.-1.6.2025 SUNNUNTAISIN klo 16:30-17:20** (EI tunteja 16.3., 20.4.). Treenikauden hinta 318€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 10 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA 1.11.2024
+[RYHMÄÄN ON 4 VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/SfAJeuEwJprFQQtV7){:target="_blank"}
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
