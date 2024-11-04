@@ -24,6 +24,7 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
 #### Pienryhmät
  - [Muutosvalmennnus](#muutosvalmennus)
  - [Aloittelijan kuntosalikurssi](#aloittelijan-kuntosalikurssi)
+ - [eloSYKE+liikkuvuus](#elosyke-ja-liikkuvuus)
  - [eloLIIKE](#eloliike)
  - [eloVOIMA aamu](#elovoima-aamu)
  - [eloVOIMA TI1](#elovoima-ti1)
@@ -31,7 +32,6 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [eloVOIMA KE1](#elovoima-ke1)
  - [eloVOIMA KE2](#elovoima-ke2)
  - [eloVOIMA SU](#elovoima-su)
- - [eloSYKE+liikkuvuus](#elosyke-ja-liikkuvuus)
 
 Kaipaako kehosi liikettä? Kurkkaapa [tämä lyhyt taukojumppavideo](https://www.youtube.com/watch?v=jC4afv_vH6o){:target="_blank"} ja tule mukaan tuomaan kehoosi liikettä ja hyvää oloa elokatsun kanssa!
 
@@ -167,6 +167,14 @@ Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta nii
 
 [ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/kw6rTVXoY8Ad8WHBA){:target="_blank"}
 
+#### eloSYKE ja liikkuvuus
+
+Elinvoimaa, sykettä ja huoltavaa liikettä keholle eloSYKE+liikkuvuus pienryhmässä!  
+Tämä tunti sopii sinulle, joka haluat tehdä kompaktin sykkeennoston ja liikkuvuustreenin samassa paketissa. Aloitamme tunnin kehoa lämmittävällä dynaamisella liikkeellä, joka avaa ja herättää kehon treenille. Tämän jälkeen teemme noin 20min. kestävän syke-osion kiertoharjoitteluna, jota voit tehdä täysin omassa tahdissa. Lopuksi teemme lempeää kehoa palauttavaa dynaamista liikkuvuusharjoittelua, joka mukailee kehon lihastoimintaketjuja (faskialinjoja). Liikkuvuusosiossa kiinnitämme huomiota kehon yleisimpiin kireisiin ja heikkoihin kohtiin, hakien hallintaa ja liikkuvuutta näille alueille. Yhdistämme dynaamiseen liikkeeseen hengityksen, joka auttaa sinua palautumaan ja tasaamaan hermostoa.
+
+**Kevätkausi** toteutetaan ajalla **5.1.-1.6.2025 SUNNUNTAISIN klo 16:30-17:20** (EI tunteja 16.3., 20.4.). Treenikauden hinta 318€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 10 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+
+[RYHMÄÄN ON 3 VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/SfAJeuEwJprFQQtV7){:target="_blank"}
 
 #### eloLIIKE
 
@@ -230,15 +238,6 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
 **Kevätkausi** toteutetaan ajalla **5.1.-1.6.2025 SUNNUNTAISIN klo 17:30-18:30** (EI tunteja 16.3., 20.4.). Treenikauden hinta 355€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 RYHMÄ ON TÄYTTYNYT
-
-#### eloSYKE ja liikkuvuus
-
-Elinvoimaa, sykettä ja huoltavaa liikettä keholle eloSYKE+liikkuvuus pienryhmässä!  
-Tämä tunti sopii sinulle, joka haluat tehdä kompaktin sykkeennoston ja liikkuvuustreenin samassa paketissa. Aloitamme tunnin kehoa lämmittävällä dynaamisella liikkeellä, joka avaa ja herättää kehon treenille. Tämän jälkeen teemme noin 20min. kestävän syke-osion kiertoharjoitteluna, jota voit tehdä täysin omassa tahdissa. Lopuksi teemme lempeää kehoa palauttavaa dynaamista liikkuvuusharjoittelua, joka mukailee kehon lihastoimintaketjuja (faskialinjoja). Liikkuvuusosiossa kiinnitämme huomiota kehon yleisimpiin kireisiin ja heikkoihin kohtiin, hakien hallintaa ja liikkuvuutta näille alueille. Yhdistämme dynaamiseen liikkeeseen hengityksen, joka auttaa sinua palautumaan ja tasaamaan hermostoa.
-
-**Kevätkausi** toteutetaan ajalla **5.1.-1.6.2025 SUNNUNTAISIN klo 16:30-17:20** (EI tunteja 16.3., 20.4.). Treenikauden hinta 318€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 10 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-[RYHMÄÄN ON 3 VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/SfAJeuEwJprFQQtV7){:target="_blank"}
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
