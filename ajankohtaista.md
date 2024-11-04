@@ -22,12 +22,12 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 
 * **Jos palautumisen, unen, stressinhallinnan tai kehon kiputilojen kanssa on haasteita, tule kokeilemaan neurosonic-patjahoitoa, josta voisit saada apua tilanteeseesi. Neurosonic-hoitopatjalla on saatu hyviä tuloksia mm. näissä haasteissa, [tutustu palveluun lisää täältä](/neurosonic)**  
 
-* **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak)**
+* **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak) HUOM! Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.**
   
 <p></p>
  
 
 * **Poikkeusolosuhteet & Valmennusehdot:**
 
-Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen suosituksia. Mahdollisten rajoitusten myötä elokatsun palveluita voidaan toteuttaa joustavasti myös ulkona ja etänä. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Tulethan valmennuksiin vain täysin terveenä.
+Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen yleisiä suosituksia. Mahdollisten rajoitusten myötä elokatsun palveluita voidaan toteuttaa joustavasti myös esim. ulkona ja etänä. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Tulethan valmennuksiin vain täysin terveenä.
 [Tutustu toiminnan ehtoihin tästä](/valmennusehdot), kun käytät elokatsun palveluita, sitoudut noudattamaan näitä valmennusehtoja.

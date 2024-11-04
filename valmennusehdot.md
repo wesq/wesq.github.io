@@ -9,9 +9,11 @@ bigimg: img/a_valmennusehdot.jpg
 
 ***Elokatsun Y-tunnus: 2995020-2. Kun käytät elokatsun palveluita, sitoudut noudattamaan näitä valmennusehtoja. Luethan ehdot huolellisesti läpi.***
 
-Yksilöpalveluiden (koskee myös maksuttomia hyvinvointikartoituksia) varattujen aikojen peruutukset tulee tehdä viimeistään 24 tuntia ennen ajankohtaa. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista veloitetaan täysimääräisen palvelun hinta.
+Yksilöpalveluiden (koskee myös maksuttomia hyvinvointikartoituksia, laiteopastuksia ym.) varattujen aikojen peruutukset tulee tehdä viimeistään 24 tuntia ennen ajankohtaa. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista veloitetaan täysimääräisen palvelun hinta.
 
-Ilmoittautuminen elokatsun valmennuksiin on sitova, eikä niitä voida peruuttaa. Vakavan terveydellisen esteen sattuessa ei rahoja palauteta, mutta palvelun summa voidaan käyttää kokonaisuudessaan elokatsun muihin palveluihin, tai myöhempänä ajankohtana. Pienryhmävalmennuksissa ilmoittaudutaan koko kauteen, yksilövalmennuksissa sovittuun ajanjaksoon.
+Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak). Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään. Jo lähetettyä laskua ei voi enää maksaa liikuntaetuudella (jos haluat muuttaa laskusi liikuntaetuudella maksamiseen, maksaa tämä 5€/muutos.)
+
+Ilmoittautuminen elokatsun valmennuksiin on sitova, eikä niitä voida peruuttaa. Poikkeuksena vakava terveydellinen este, joka estää koko treenikauden treenaamisen. Tällöinkään maksettuja rahoja ei palauteta, mutta voit sovitusti käyttää maksetun summan elokatsun muissa palveluissa. Vakavan terveydellisen esteen johdosta myös yksilövalmennuksen aikaa voidaan tarvittaessa pidentää yhdessä sovittuna ajanjaksona. Pienryhmävalmennuksissa ilmoittaudutaan koko kauteen, yksilövalmennuksissa sovittuun ajanjaksoon.
 
 Ilmoittautumisen jälkeen saat ilmoittamaasi sähköpostiin toimintaohjeet valmennusta varten. Jos ryhmävalmennukseen ei tule tarpeeksi osallistujia, se voidaan joutua perumaan järjestäjän toimesta. Tällöin saat tästä tiedon ilmoittamaasi yhteystietoon. Asiakkaan poissaoloja ryhmävalmennuksista ei korvata. Ohjaaja voi joutua pakottavan esteen sattuessa perumaan ohjauksen. Tällöin ohjaukset korvataan asiakkaille kyseisen ryhmän valmennusehtoja noudattaen. Elokatsun ohjaukset voivat vallitsevan maailmantilanteen takia siirtyä ulos tai etäohjauksiin tietokoneen välityksellä.
 
