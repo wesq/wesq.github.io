@@ -48,7 +48,7 @@ Aikataulu: 19.1., 26.1, 9.2., 23.2., 9.3., 23.3., 6.4., 27.4., 11.5., 25.5., 1.6
   - Oma liikuntasuunnitelma / ohjelma (45min.)   
 
 - Valmentajan yksilöllinen etätuki koko valmennuksen ajan
-- Ryhmän oma alusta Facebookissa tai WhatsApp:ssa (ryhmän toiveiden mukaan) keskustelulle ja yhteiselle jakamiselle matkan aikana  
+- Ryhmän oma alusta WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle matkan aikana  
 
 
 **HINTA:**  
