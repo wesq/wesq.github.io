@@ -32,7 +32,7 @@ pienryhmä harjoittelee Myllykylän Kylätalolla, os. Ryynimyllynkatu 1, 00920 H
 Jumppapäivä **TORSTAISIN** klo **12:10-12:55**.  
 **Hinta: 209€** (sis. alv) maksetaan joko käteisellä tai laskulla, ja voi maksaa myös kahdessa osassa.  
 
-[ILMOITTAUDU RYHMÄÄN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/uA5pTTYzUEhWZzGD9){:target="_blank"}
+[RYHMÄSSÄ ON 1 VAPAA PAIKKA, ILMOITTAUDU RYHMÄÄN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/uA5pTTYzUEhWZzGD9){:target="_blank"}
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
