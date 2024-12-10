@@ -12,9 +12,7 @@ comment_teksti: "Kysy lisää valmennuksesta:"
 
 ![Muutosvalmennuksen porukka vauhdissa](./img/pienryhmatreenit_6.jpg){: .image-right :}
 #### Muutosvalmennus  
-Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! 
-
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ LINKISTÄ](https://forms.gle/pZYBe7UXadgQa2j69){:target="_blank"}
+Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota!  
 
 ![Ravitsemus](/img/monipuolinenravitsemus.jpg "Ravinto"){: .image-left :}
 
@@ -36,8 +34,6 @@ Ryhmä kokoontuu välillä tammikuu-kesäkuu sunnuntaisin klo 18:45-20:00 Liikun
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi.  
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ LINKISTÄ](https://forms.gle/pZYBe7UXadgQa2j69){:target="_blank"}
-
 **Valmennus sisältää:**
 
 
@@ -57,7 +53,7 @@ Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 \* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 69€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ LINKISTÄ](https://forms.gle/pZYBe7UXadgQa2j69){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**
 <br/>

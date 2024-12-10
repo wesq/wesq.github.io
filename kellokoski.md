@@ -148,7 +148,7 @@ Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
 [Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
 
-[RYHMÄÄN ON 3 PAIKKAA VAPAANA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/pZYBe7UXadgQa2j69){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 
 
 #### Aloittelijan kuntosalikurssi
@@ -176,7 +176,8 @@ Tämä tunti sopii sinulle, joka haluat tehdä kompaktin sykkeennoston ja liikku
 
 **Kevätkausi** toteutetaan ajalla **5.1.-1.6.2025 SUNNUNTAISIN klo 16:30-17:20** (EI tunteja 16.3., 20.4.). Treenikauden hinta 318€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 10 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 2 VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/SfAJeuEwJprFQQtV7){:target="_blank"}
+[RYHMÄÄN ON 2
+ VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/SfAJeuEwJprFQQtV7){:target="_blank"}
 
 #### eloLIIKE
 
