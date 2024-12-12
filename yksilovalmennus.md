@@ -64,7 +64,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
 <br/><br/>
 #### PT-ohjaus:
- PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin.  
+ PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. Palvelut voi maksaa laskulla, sekä liikuntaeduilla. Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.  
 
 * **_PT-ohjaus / Hyvinvointiohjaus 79€ (sis. alv)_**  
   Sisältää: etukäteissuunnittelu + ohjaus (esim.treeni / tekniikkaopastus / palautumisen valmennus / ravintovalmennus tms.) 60 min.
@@ -73,7 +73,16 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
   Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti 60 min.   
 
 * **_Vanhan treeniohjelman päivitys 89€ (sis. alv)_**  
-  Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti 60 min.      
+  Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti 60 min.   
+
+* **_3 kerran ohjauspaketti & 2 treeniohjelmaa 263€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit ja muut ohjaukset - 60 min. x3   
+
+* **_2 kerran ohjauspaketti & 2 treeniohjelmaa 185€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit - 60 min. x2   
+
+* **_2 treeniohjelmaa + 1 ohjaus 130€ (sis. alv)_**  
+  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + 1 ohjauksen, jossa molempien treeniohjelmien läpikäynnit - 60 min. x1 
 
 * **_Viikottainen treeniohjaus 200€/kk (sis. alv)_**   
   Sisältää: alkukartoitus 30 min. + ohjaus 60 min. x4/kk
