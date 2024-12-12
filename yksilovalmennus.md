@@ -54,7 +54,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 
 <!-- -->
 * **_Valmennus, jossa tapaamiset 1krt/kk - 86€/kk (sis. alv)_**  
- Suositellaan erityisesti jatkopalveluna tai muuhun pienempään valmennustarpeeseen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.
+ Suositellaan jatkopalveluna yllä olevien valmennuspakettien jälkeen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.
 
  
 \+  _Lisäohjaukset valmennusasiakkaille 69€ / 1h ohjaus (sis. alv)  
