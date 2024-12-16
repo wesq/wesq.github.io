@@ -174,9 +174,9 @@ RYHMÄ ON TÄYTTYNYT
 Elinvoimaa, sykettä ja huoltavaa liikettä keholle eloSYKE+liikkuvuus pienryhmässä!  
 Tämä tunti sopii sinulle, joka haluat tehdä kompaktin sykkeennoston ja liikkuvuustreenin samassa paketissa. Aloitamme tunnin kehoa lämmittävällä dynaamisella liikkeellä, joka avaa ja herättää kehon treenille. Tämän jälkeen teemme sykettä nostavia lihaskuntoliikkeitä kiertoharjoitteluna. Liikkeitä voit tehdä täysin omassa tahdissa. Lopuksi teemme lempeää kehoa palauttavaa dynaamista liikkuvuusharjoittelua, joka mukailee kehon lihastoimintaketjuja (faskialinjoja). Liikkuvuusosiossa kiinnitämme huomiota kehon yleisimpiin kireisiin ja heikkoihin kohtiin, hakien hallintaa ja liikkuvuutta näille alueille. Yhdistämme dynaamiseen liikkeeseen hengityksen, joka auttaa sinua palautumaan ja tasaamaan hermostoa.
 
-**Kevätkausi** toteutetaan ajalla **5.1.-1.6.2025 SUNNUNTAISIN klo 16:30-17:20** (EI tunteja 16.3., 20.4.). Treenikauden hinta 318€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 10 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Kevätkausi** toteutetaan ajalla **5.1.-1.6.2025 SUNNUNTAISIN klo 16:30-17:20** (EI tunteja 16.3., 20.4.). Treenikauden hinta 318€, jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 9 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/SfAJeuEwJprFQQtV7){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 
 #### eloLIIKE
 
