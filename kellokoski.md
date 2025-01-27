@@ -157,14 +157,6 @@ Tämä kurssi on sinulle, joka haluat oppia harjoittelemaan kuntosalilla turvall
 
 Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta niin, että saat treenistäsi turvallista ja kehittävää. Kurssi pitää sisällään neljä yhteistä treenitapaamista. Treeni sisältää kehoa lämmittävän ja tukilihaksia aktivoivan alkulämmittelyn, sekä lihaskunto-osuuden kuntosalilaitteilla. Kurssin hinta sisältää treeniohjelman, joka jää sinulle kurssin jälkeen Sportyplanner treeniohjelmistoon, jotta voit jatkaa kuntosalitreeniä itsenäisesti. Treeniohjelma opetellaan huolellisesti läpi kurssikerroilla, ja siihen tehdään tarvittaessa yksilöllisiä muutoksia asiakkaan tarpeiden mukaan. Ryhmään osallistuminen ei vaadi salijäsenyyttä/salimaksua, vaan se sisältyy kurssikertojen hintaan. Itsenäiseen saliharjoitteluun kurssin aikana/jälkeen tarvitset jäsenyyden/kertamaksun.
 
-**Aloittelijan kuntosalikurssi 7.-28.1.2025 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 140€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-RYHMÄ ON TÄYTTYNYT
-
-**Aloittelijan kuntosalikurssi 11.2.-4.3.2025 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 140€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-RYHMÄ ON TÄYTTYNYT
-
 **Aloittelijan kuntosalikurssi 25.3.-15.4.2025 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 140€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla 1-2 osassa tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 [ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/kw6rTVXoY8Ad8WHBA){:target="_blank"}
