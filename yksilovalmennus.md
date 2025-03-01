@@ -53,11 +53,11 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 * **_12 -> kk Hyvinvointivalmennus 168€/kk (sis. alv)_**
 
 <!-- -->
-* **_Valmennus, jossa tapaamiset 1krt/kk - 87€/kk (sis. alv)_**  
+* **_Valmennus, jossa tapaamiset 1krt/kk - 88€/kk (sis. alv)_**  
  Suositellaan jatkopalveluna yllä olevien valmennuspakettien jälkeen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.
 
  
-\+  _Lisäohjaukset valmennusasiakkaille 69€ / 1h ohjaus (sis. alv)  
+\+  _Lisäohjaukset valmennusasiakkaille 70€ / 1h ohjaus (sis. alv)  
 (esim. ohjattuja treenejä lisää)_
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
