@@ -13,7 +13,7 @@ Valmennukset toteutetaan Kellokosken alueella salilla, ulkona tai asiakkaan koto
 
 Yksilöpalveluiden (koskee myös maksuttomia hyvinvointikartoituksia, laiteopastuksia ym.) varattujen aikojen peruutukset tulee tehdä viimeistään 24 tuntia ennen ajankohtaa. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista veloitetaan täysimääräisen palvelun hinta.
 
-Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak). Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään. Jo lähetettyä laskua ei voi enää maksaa liikuntaetuudella (jos haluat muuttaa laskusi liikuntaetuudella maksamiseen, maksaa tämä 5€/muutos.) Myös kaikki muut jälkikäteen tehdyt laskumuutokset kustantavat 5€/muutos.
+Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak). Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään. Jo lähetettyä laskua ei voi enää maksaa liikuntaetuudella (jos haluat muuttaa laskusi liikuntaetuudella maksamiseen, maksaa tämä 8€/muutos.) Myös kaikki muut jälkikäteen tehdyt laskumuutokset kustantavat 8€/muutos.
 
 Ilmoittautuminen elokatsun valmennuksiin on sitova, eikä niitä voida peruuttaa. Poikkeuksena vakava terveydellinen este, joka estää koko treenikauteen osallistumisen ja josta on lääkärintodistus. Tällöin voit sovitusti käyttää maksetun summan elokatsun muissa palveluissa, maksuja ei palauteta. Vakavan terveydellisen esteen johdosta myös yksilövalmennuksen aikaa voidaan tarvittaessa pidentää yhdessä sovittuna ajanjaksona. Pienryhmävalmennuksissa ilmoittaudutaan koko kauteen, yksilövalmennuksissa sovittuun ajanjaksoon.
 
