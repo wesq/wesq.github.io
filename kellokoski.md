@@ -63,25 +63,22 @@ HUOM! Hintamuutos 1.4. alkaen + 1-4€
 PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. Palvelut voi maksaa laskulla, sekä liikuntaeduilla. Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.  
 
 * **_PT-ohjaus / Hyvinvointiohjaus 79€ (sis. alv)_**  
-  Sisältää: etukäteissuunnittelu + ohjaus (esim.treeni / tekniikkaopastus / palautumisen valmennus / ravintovalmennus tms.) 60 min.
+  Sisältää: etukäteissuunnittelu + ohjaus (esim.treeni / tekniikkaopastus / palautumisen ohjaus / ravinto-ohjaus tms.) - 60 min.
 
 * **_Yksilöllinen treeniohjelma 97€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti 60 min.   
+  Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti & pääsy sportyplanner ohjelmistoon jossa ohjelma kuvina+videoina - 60 min.   
 
 * **_Vanhan treeniohjelman päivitys 89€ (sis. alv)_**  
-  Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti 60 min.    
-
-* **_3 kerran ohjauspaketti & 2 treeniohjelmaa 263€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit ja muut ohjaukset - 60 min. x3   
+  Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti & pääsy sportyplanner ohjelmistoon jossa ohjelma kuvina+videoina - 60 min.     
 
 * **_2 kerran ohjauspaketti & 2 treeniohjelmaa 185€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit - 60 min. x2   
+  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit & pääsy sportyplanner ohjelmistoon jossa ohjelma kuvina+videoina - 60 min. x2   
 
 * **_2 treeniohjelmaa + 1 ohjaus 130€ (sis. alv)_**  
-  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + 1 ohjauksen, jossa molempien treeniohjelmien läpikäynnit - 60 min. x1   
+  Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + 1 ohjauksen, jossa molempien treeniohjelmien läpikäynnit & pääsy sportyplanner ohjelmistoon jossa ohjelma kuvina+videoina - 60 min. x1   
 
 * **_Ravintovalmennus 97€ (sis.alv)_**  
-  Sisältää: alkukartoitus 30min. + ruokapäiväkirjan analysointi + valmennustapaaminen 60min.  
+  Sisältää: alkukartoitus 30min. + ruokapäiväkirjan analysointi + valmennustapaaminen & kirjallinen kooste valmennuksesta - 60min.  
 
  **Etkö löytänyt itsellesi sopivaa pakettia? Ota yhteyttä kati@elokatsu.fi, niin räätälöidään juuri Sinun tarpeisiin sopiva kokonaisuus!**   
 
@@ -106,7 +103,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>
   
-  HUOM! Hintamuutos 1.4. alkaen + 1-4€  
+  HUOM! Hintamuutos 1.4. alkaen + 1-6€  
 **HINTA**:
 * _3-6 kk Hyvinvointivalmennus 179€/kk (sis. alv)_
   <br/>
