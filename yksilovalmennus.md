@@ -47,7 +47,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>  
   
-  HUOM! Hintamuutos 1.4. alkaen + 1-6€  
+  HUOM! Tulossa hintakorotus 1.4. alkaen  
 **HINTA:**
 * **_3-5 kk Hyvinvointivalmennus 179€/kk (sis. alv)_**
 * **_6-11 kk Hyvinvointivalmennus 172€/kk (sis. alv)_**
@@ -67,7 +67,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 #### PT-ohjaus:
  PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. Palvelut voi maksaa laskulla, sekä liikuntaeduilla. Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.  
 
- HUOM! Hintamuutos 1.4. alkaen + 1-4€  
+ HUOM! Hintamuutos 1.4. alkaen + 1-5€  
 
 * **_PT-ohjaus / Hyvinvointiohjaus 79€ (sis. alv)_**  
   Sisältää: etukäteissuunnittelu + ohjaus (esim.treeni / tekniikkaopastus / palautumisen ohjaus / ravinto-ohjaus tms.) - 60 min.

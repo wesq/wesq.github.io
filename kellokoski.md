@@ -58,7 +58,7 @@ Laiteopastukset toteutetaan pienryhmässä. Seuraava laiteopastus on 2.4. keskiv
 
 #### PT-ohjaus
 
-HUOM! Hintamuutos 1.4. alkaen + 1-4€  
+HUOM! Hintamuutos 1.4. alkaen + 1-5€  
 
 PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. Palvelut voi maksaa laskulla, sekä liikuntaeduilla. Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.  
 
@@ -103,7 +103,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>
   
-  HUOM! Hintamuutos 1.4. alkaen + 1-6€  
+  HUOM! Tulossa hintakorotus 1.4. alkaen  
 **HINTA**:
 * _3-5 kk Hyvinvointivalmennus 179€/kk (sis. alv)_
   <br/>
