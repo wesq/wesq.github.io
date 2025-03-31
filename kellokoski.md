@@ -58,26 +58,24 @@ Laiteopastukset toteutetaan pienryhmässä. Seuraava laiteopastus on 2.4. keskiv
 
 #### PT-ohjaus
 
-HUOM! Hintamuutos 1.4. alkaen + 1-5€  
-
-PT ohjauspaketit yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. Palvelut voi maksaa laskulla, sekä liikuntaeduilla. Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.  
+PT ohjauspaketit Sinulle yksilöllisiin tarpeisiin. PT-ohjauksen sisältö räätälöidään aina asiakkaan tarpeiden ja tavoitteiden mukaan. PT-ohjaukset eivät sisällä muita palveluja (esim. etätuki), kuten pitkäkestoisemmat ja laajat valmennuspaketit. Alla esimerkkejä hinnoista, mutta kaikki palvelukokonaisuudet voidaan räätälöidä yksilöllisiin tarpeisiin. Palvelut voi maksaa laskulla, sekä liikuntaeduilla. Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.  
 
 * **_PT-ohjaus / Hyvinvointiohjaus 79€ (sis. alv)_**  
   Sisältää: etukäteissuunnittelu + ohjaus (esim.treeni / tekniikkaopastus / palautumisen ohjaus / ravinto-ohjaus tms.) - 60 min.
 
-* **_Yksilöllinen treeniohjelma 97€ (sis. alv)_**  
+* **_Yksilöllinen treeniohjelma 100€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti & pääsy sportyplanner ohjelmistoon jossa ohjelma kuvina+videoina - 60 min.   
 
-* **_Vanhan treeniohjelman päivitys 89€ (sis. alv)_**  
+* **_Vanhan treeniohjelman päivitys 93€ (sis. alv)_**  
   Sisältää: vanhan ohjelman (elokatsun suunnitteleman) ja tavoitteiden etenemisen tsekkaus + treeniohjelman räätälöity suunnittelu asiakkaan tavoitteiden mukaisesti + treeniohjelman läpikäynti & pääsy sportyplanner ohjelmistoon jossa ohjelma kuvina+videoina - 60 min.     
 
-* **_2 kerran ohjauspaketti & 2 treeniohjelmaa 185€ (sis. alv)_**  
+* **_2 kerran ohjauspaketti & 2 treeniohjelmaa 190€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + treeniohjelmien läpikäynnit & pääsy sportyplanner ohjelmistoon jossa ohjelma kuvina+videoina - 60 min. x2   
 
-* **_2 treeniohjelmaa + 1 ohjaus 130€ (sis. alv)_**  
+* **_2 treeniohjelmaa + 1 ohjaus 135€ (sis. alv)_**  
   Sisältää: alkukartoitus 30 min. + 2 erilaista räätälöityä treeniohjelmaa + 1 ohjauksen, jossa molempien treeniohjelmien läpikäynnit & pääsy sportyplanner ohjelmistoon jossa ohjelma kuvina+videoina - 60 min. x1   
 
-* **_Ravintovalmennus 97€ (sis.alv)_**  
+* **_Ravintovalmennus 100€ (sis.alv)_**  
   Sisältää: alkukartoitus 30min. + ruokapäiväkirjan analysointi + valmennustapaaminen & kirjallinen kooste valmennuksesta - 60min.  
 
  **Etkö löytänyt itsellesi sopivaa pakettia? Ota yhteyttä kati@elokatsu.fi, niin räätälöidään juuri Sinun tarpeisiin sopiva kokonaisuus!**   
@@ -93,6 +91,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
  **VALMENNUKSET SISÄLTÄVÄT**:
 
 * Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi ja toiveesi
+* Tavoitteiden/tarpeen mukaan alku- ja lopputestaukset
 * 2 Valmennustapaamista / kk (tapaamisten kesto 60 min.)
 * Liikunnan suunnittelu & Yksilöllinen harjoitusohjelma
 * Pääsy Sportyplanner-ohjelmistoon
@@ -103,13 +102,12 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>
   
-  HUOM! Tulossa hintakorotus 1.4. alkaen  
 **HINTA**:
-* _3-5 kk Hyvinvointivalmennus 179€/kk (sis. alv)_
+* _3-5 kk Hyvinvointivalmennus 189€/kk (sis. alv)_
   <br/>
 * _6-11 kk Hyvinvointivalmennus 172€/kk (sis. alv)_
    <br/>
-* _12 -> kk Hyvinvointivalmennus 168€/kk (sis. alv)_ 
+* _12 -> kk Hyvinvointivalmennus 159€/kk (sis. alv)_ 
    <br/>
 * _Valmennus, jossa tapaamiset 1krt/kk - 88€/kk (sis. alv)_  
  Suositellaan jatkopalveluna yllä olevien valmennuspakettien jälkeen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  

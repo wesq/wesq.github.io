@@ -33,7 +33,6 @@ treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, h
 KEVÄTKAUSI **MAANANTAISIN** ajalla 6.1.-2.6.2025 **klo 17:30-18:30**  (EI treenejä 17.3., 21.4.) YHT. 20 KERTAA.
 **Hinta: 280€** (sis. alv) voidaan maksaa laskulla yhdessä tai kahdessa osassa, sekä liikuntaeduilla. 
 
-[RYHMÄÄN ON 2 VAPAATA PAIKKAA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/9RUHijBaoL8UpD7W6){:target="_blank"}
 <br/><br/>
 <br/><br/>
 <br/><br/>
