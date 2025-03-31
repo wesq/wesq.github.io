@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yksilö&shy;valmennukset
-subtitle: Räätälöidyt hyvinvointi&shy;valmennukset Sinulle
+subtitle: Räätälöidyt Hyvinvointi&shy;valmennukset Sinulle
 formspree_comment: true
 comment_teksti: Mitä haluaisit kysyä yksilö&shy;valmennuksista?
 bigimg: img/a_yksilovalmennus_crop.jpg
@@ -13,7 +13,7 @@ bigimg: img/a_yksilovalmennus_crop.jpg
 <p class="otsikkolistapalkki">HYVÄÄ OLOA & ENERGIAA ARKEESI</p>
 
 _Haluaisitko voida paremmin, mutta et tiedä mistä lähteä liikkeelle? Oletko aiemminkin yrittänyt muutosta saavuttamatta sitä? Olisiko nyt aika ottaa valmentaja tueksesi?  
-Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika maksuttomaan hyvinvointikartoitukseen, niin voimme yhdessä miettiä, mikä palvelu/valmennus sopisi Sinulle parhaiten! Kartoituksen kesto 30 minuuttia._
+Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttamaan sinua löytämään pysyviä tapoja ylläpitää hyvinvointiasi. Jos vastasit kyllä, niin varaa aika maksuttomaan hyvinvointikartoitukseen, niin voimme yhdessä miettiä, mikä palvelu/valmennus sopisi Sinulle parhaiten! Kartoituksen kesto on noin 30 minuuttia._
 
 [VARAA AIKA MAKSUTTOMAAN HYVINVOINTIKARTOITUKSEEN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
@@ -22,7 +22,7 @@ Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttam
 Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak). Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.
 
 ![Yksilövalmennus](/img/yksilo_ohjaus.jpg "Yksilövalmennus"){: .image-right :}
-**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita pakettiratkaisuja. Autan sinua löytämään sinulle toimivia tapoja ja rutiineja joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Muutoksen tekemisessä autan sinua pohtimaan mikä sinulle on tärkeää, mitkä valinnat ylläpitävät hyvinvointiasi, ja mistä tavoista olisi hyvä luopua. Muutos vaatii aina myös luopumista, ja näitäkin teemoja käsittelemme hyvinvointivalmennuksissa. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia. Olen rinnallakulkijasi, matkallasi muutokseen.**
+**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita pakettiratkaisuja. Autan sinua löytämään sinulle toimivia tapoja ja rutiineja, joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Muutoksen tekemisessä autan sinua pohtimaan mikä sinulle on tärkeää, mitkä valinnat ylläpitävät hyvinvointiasi, ja mistä tavoista olisi hyvä luopua. Muutos vaatii aina myös luopumista, ja näitäkin teemoja käsittelemme hyvinvointivalmennuksissa. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia. Olen rinnallakulkijasi, matkallasi muutokseen.**
 
 <br/>
 
@@ -39,15 +39,14 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 * Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi ja toiveesi
 * Tavoitteiden/tarpeen mukaan alku- ja lopputestaukset
 * 2 Valmennustapaamista / kk (tapaamisten kesto 60 min.)
-* Liikunnan suunnittelu & Yksilöllinen harjoitusohjelma
-* Pääsy Sportyplanner-ohjelmistoon
+* Liikunnan suunnittelu & Yksilölliset harjoitusohjelmat
+* Pääsy Sportyplanner-valmennusalustalle
 * Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)
 * Ravintovalmennus (ravitsemuksen tarkastelu & neuvonta)
 * Palautumisen ja unen merkitys hyvinvointiin (tarkastelu & neuvonta)
 * Muutoksen tukemista erilaisin tehtävin ja keskusteluin
 * Jatkuvan etätuen koko valmennuksen ajan
   <br/><br/>  
-  
 **HINTA:**
 * **_3-5 kk Hyvinvointivalmennus 189€/kk (sis. alv)_**
 * **_6-11 kk Hyvinvointivalmennus 172€/kk (sis. alv)_**
