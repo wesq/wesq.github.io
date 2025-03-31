@@ -46,6 +46,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 * Palautumisen ja unen merkitys hyvinvointiin (tarkastelu & neuvonta)
 * Muutoksen tukemista erilaisin tehtävin ja keskusteluin
 * Jatkuvan etätuen koko valmennuksen ajan
+* Valmennukset toteutetaan pääsääntöisesti yhtäjaksoisena, tarvittaessa mahdollisuus sopia myös valmennuksen tauotuksesta esim. pitkän loman ajaksi tms.
   <br/><br/>  
 **HINTA:**
 * **_3-5 kk Hyvinvointivalmennus 189€/kk (sis. alv)_**

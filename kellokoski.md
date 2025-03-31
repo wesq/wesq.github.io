@@ -93,23 +93,22 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 * Alkukartoituksen, jonka avulla suunnitellaan sinua tukeva kokonaisuus saavuttaaksesi tavoitteesi ja toiveesi
 * Tavoitteiden/tarpeen mukaan alku- ja lopputestaukset
 * 2 Valmennustapaamista / kk (tapaamisten kesto 60 min.)
-* Liikunnan suunnittelu & Yksilöllinen harjoitusohjelma
-* Pääsy Sportyplanner-ohjelmistoon
+* Liikunnan suunnittelu & Yksilölliset harjoitusohjelmat
+* Pääsy Sportyplanner-valmennusalustalle
 * Erilaisia harjoituksia omien toiveidesi pohjalta (salilla, kotona, ulkona)
 * Ravintovalmennus (ravitsemuksen tarkastelu & neuvonta)
 * Palautumisen ja unen merkitys hyvinvointiin (tarkastelu & neuvonta)
 * Muutoksen tukemista erilaisin tehtävin ja keskusteluin
 * Jatkuvan etätuen koko valmennuksen ajan
+* Valmennukset toteutetaan pääsääntöisesti yhtäjaksoisena, tarvittaessa mahdollisuus sopia myös valmennuksen tauotuksesta esim. pitkän loman ajaksi tms.
   <br/><br/>
-  
-**HINTA**:
-* _3-5 kk Hyvinvointivalmennus 189€/kk (sis. alv)_
-  <br/>
-* _6-11 kk Hyvinvointivalmennus 172€/kk (sis. alv)_
-   <br/>
-* _12 -> kk Hyvinvointivalmennus 159€/kk (sis. alv)_ 
-   <br/>
-* _Valmennus, jossa tapaamiset 1krt/kk - 88€/kk (sis. alv)_  
+  **HINTA**:
+* **_3-5 kk Hyvinvointivalmennus 189€/kk (sis. alv)_**
+* **_6-11 kk Hyvinvointivalmennus 172€/kk (sis. alv)_**
+* **_12 -> kk Hyvinvointivalmennus 159€/kk (sis. alv)_**
+
+<!-- -->
+* **_Valmennus, jossa tapaamiset 1krt/kk - 88€/kk (sis. alv)_**  
  Suositellaan jatkopalveluna yllä olevien valmennuspakettien jälkeen, palvelun sisältö ja etätuki kuuluvat tähän pakettiin kuten yllä.  
 
  
