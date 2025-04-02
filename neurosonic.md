@@ -9,7 +9,7 @@ comment_teksti: "Kysy neurosonic-hoidosta / varaa aikaa hoitoon:"
 
 ### Neurosonic-hoitopatja
 
-***Neurosonic-patjahoito auttaa sinua palautumaan, lievittämään stressiä kehossasi, sekä nukkumaan laadukkaampaa unta.***
+***Neurosonic voi auttaa sinua palautumaan, lievittämään stressiä kehossasi, sekä nukkumaan laadukkaampaa unta.***
 
 Neurosonic hoitopatja tuottaa erittäin matalataajuista värähtelyä. Patjalle mennään makaamaan ja annetaan värähtelyn vaikuttaa kehossa. Luonnollisena mekanismina värähtelyenergia vaikuttaa tasapainottavasti suoraan autonomiseen hermostoon. Neurosonic rentoutusmenetelmä ohjaa kehoa syvän rentoutuksen tilaan, jolloin palautuminen nopeutuu ja tehostuu. Unen terveet mekanismit palautuvat ja samalla moni muukin asia kehossa ja mielessä saavat mahdollisuuden korjaantumiselle.
 
