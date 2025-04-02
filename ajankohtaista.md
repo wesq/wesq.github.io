@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kevät 2025
+title: Syksy 2025
 subtitle: Tule sinäkin mukaan elokatsun valmennuksiin!
 formspree_comment: true
 comment_teksti: 'Haluaisitko kysyä jotain ajankohtaisista asioista?'
@@ -8,9 +8,7 @@ social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-* **KEVÄÄN 2025 pienryhmien ilmoittautuminen on nyt auki! Alta näet kootusti koko treenikauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
-
-* **Kellokoskella käynnistyy taas Muutosvalmennus pienryhmässä 12.1.2025. Tämä on sinulle, joka kaipaat apua elämäntapamuutokseen, ja haluaisit lähteä tekemään sitä valmentajan ja pienryhmän tuella. [Lue lisää muutosvalmennuksesta & ilmoittaudu mukaan täältä](/muutosvalmennus)**
+* **2025 SYYSKAUDEN pienryhmien ilmoittautuminen alkaa huhtikuun lopulla! Alta näet kootusti koko treenikauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
 
 * **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti erilaisissa pienryhmissä mm. eloLIIKE, eloVOIMA, eloSYKE+liikkuvuus ja Aloittelijan kuntosalikurssit [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/kellokoski)**
 
@@ -20,7 +18,7 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 
 * **Kaipaatko enemmän valmentajan yksilöllistä apua treeneihin tai elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon, saada tukea muutoksen haasteisiin tai vaikka treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
-* **Jos palautumisen, unen, stressinhallinnan tai kehon kiputilojen kanssa on haasteita, tule kokeilemaan neurosonic-patjahoitoa, josta voisit saada apua tilanteeseesi. Neurosonic-hoitopatjalla on saatu hyviä tuloksia mm. näissä haasteissa, [tutustu palveluun lisää täältä](/neurosonic)**  
+* **Jos palautumisen, unen, stressinhallinnan tai kehon kiputilojen kanssa on haasteita, voi Neurosonic-patjahoito tarjota apua tilanteeseesi. Neurosonic-hoitopatjalla on saatu hyviä tuloksia mm. näissä haasteissa, [tutustu palveluun lisää täältä](/neurosonic)**  
 
 * **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak) HUOM! Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.**
   

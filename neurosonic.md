@@ -9,7 +9,7 @@ comment_teksti: "Kysy neurosonic-hoidosta / varaa aikaa hoitoon:"
 
 ### Neurosonic-hoitopatja
 
-***Neurosonic-hoito auttaa sinua palautumaan, lievittämään stressiä kehossasi, sekä nukkumaan laadukkaampaa unta. Olet lämpimästi tervetullut kokeilemaan hoitoa!❤️***
+***Neurosonic-patjahoito auttaa sinua palautumaan, lievittämään stressiä kehossasi, sekä nukkumaan laadukkaampaa unta.***
 
 Neurosonic hoitopatja tuottaa erittäin matalataajuista värähtelyä. Patjalle mennään makaamaan ja annetaan värähtelyn vaikuttaa kehossa. Luonnollisena mekanismina värähtelyenergia vaikuttaa tasapainottavasti suoraan autonomiseen hermostoon. Neurosonic rentoutusmenetelmä ohjaa kehoa syvän rentoutuksen tilaan, jolloin palautuminen nopeutuu ja tehostuu. Unen terveet mekanismit palautuvat ja samalla moni muukin asia kehossa ja mielessä saavat mahdollisuuden korjaantumiselle.
 
@@ -22,13 +22,17 @@ Kun ihmisen mieli on jo täynnä, on vaikea löytää tapaa päästä eroon nega
 PALAUTUMINEN  
 Hoidon aikana palautumista tapahtuu niin fyysisesti, kuin henkisesti. Värähtely kasvattaa sykevälivaihtelua, joka tasapainottaa hermoston toimintaa. Keho rauhoittuu ja sitä korjaavat mekanismit pääsevät toimimaan. Myös lihasten verenkierto ja aineenvaihdunta palautuvat ennalleen nopeammin, ja lihasjännitys helpottuu.
 
-TULE HOITOON  
-Elokatsu tarjoaa Neurosonic-hoitoja kotitoimistolla Kellokoskella. Laita viestiä ja varaa aika hoitopatjalla rentoutumiseen. Voit ostaa hoitoja kertakäyntinä tai sarjahoitoina. Hoitoa kuitenkin suositellaan ottamaan sarjahoitoina, sillä tutkimusten mukaan noin 2-6 hoidon jälkeen yleensä huomataan kehossa hoitovastetta, riippuen ongelman syvyydestä ja yksilöllisyydestä. Voit kuitenkin hyvin aloittaa myös kertakäynnillä ja kokeilla hoidon soveltuvuutta.
+VUOKRAA PATJA KOTIIN
+Nyt sinulla on mahdollisuus vuokrata Neurosonic Gen 2 patja kotiisi! Kotona voit rauhassa käyttää patjaa milloin haluat ja saada hyötyjä palautumiseesi. Patjan saat Järvenpäästä noudettua vuokralle (kulkee henkilöautossa), ja lisämaksusta se voidaan myös toimittaa kotiisi. Voit kysyä vapaita aikoja meilitse johannes@kohtiunelmia.fi ja whatsappilla 0404168796. Käyttämällä koodia "elokatsu" saat -10€ alennuksen patjasta.  
 
-**Hinnat: (sis. alv 24%)  
-Kertakäynti 30€  
-5 kertaa 135€  
-10 kertaa 250€**  
+**PATJAN VUOKRAHINNAT:**
+* **_1 vko 130€ (sis. alv)_**
+* **_2 vko 220€ (sis. alv)_**
+* **_3 vko 295€ (sis. alv)_**
+* **_4 vko 325€ (sis. alv)_**
+
+TULE HOITOON  
+Tällä hetkellä elokatsu ei tarjoa patjahoitoja.  
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
