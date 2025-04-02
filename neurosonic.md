@@ -22,7 +22,7 @@ Kun ihmisen mieli on jo täynnä, on vaikea löytää tapaa päästä eroon nega
 PALAUTUMINEN  
 Hoidon aikana palautumista tapahtuu niin fyysisesti, kuin henkisesti. Värähtely kasvattaa sykevälivaihtelua, joka tasapainottaa hermoston toimintaa. Keho rauhoittuu ja sitä korjaavat mekanismit pääsevät toimimaan. Myös lihasten verenkierto ja aineenvaihdunta palautuvat ennalleen nopeammin, ja lihasjännitys helpottuu.
 
-VUOKRAA PATJA KOTIIN
+VUOKRAA PATJA KOTIIN  
 Nyt sinulla on mahdollisuus vuokrata Neurosonic Gen 2 patja kotiisi! Kotona voit rauhassa käyttää patjaa milloin haluat ja saada hyötyjä palautumiseesi. Patjan saat Järvenpäästä noudettua vuokralle (kulkee henkilöautossa), ja lisämaksusta se voidaan myös toimittaa kotiisi. Voit kysyä vapaita aikoja meilitse johannes@kohtiunelmia.fi ja whatsappilla 0404168796. Käyttämällä koodia "elokatsu" saat -10€ alennuksen patjasta.  
 
 **PATJAN VUOKRAHINNAT:**
