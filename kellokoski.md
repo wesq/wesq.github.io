@@ -153,7 +153,7 @@ RYHMÄ ON TÄYTTYNYT
 Tämä ihana ja lempeän huoltava harjoitus tuo kehoosi joustavuutta ja hyvää oloa!  
 Tunti sopii kaikille, jotka haluavat huoltaa kehoaan, ja poistaa jumituksia ja kireyksiä. Tunnilla tehdään lempeää dynaamista liikkuvuusharjoitusta huomioiden kehon faskialinjat. Kiinnitämme huomiota kehon yleisimpiin kireisiin ja heikkoihin kohtiin, hakien hallintaa ja liikkuvuutta näille alueille. Yhdistämme dynaamiseen liikkeeseen hengityksen, joka auttaa sinua palautumaan ja tasaamaan hermostoa. Käytämme tunnilla myös palloja täsmähierontana.
 
-**Syyskaudella** Faskia Kehonhuoltoa **TORSTAISIN klo 19:15-20:00** kerran kuussa. Seuraavav huollon päivämäärä päivitetään aina tähän. Tunnin hinta 10€, jonka voi maksaa laskulla tai liikuntaedulla. Tunnille ilmoittaudutaan laittamalla viestiä kati@elokatsu.fi. Kyseessä on pienryhmä ja ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Syyskaudella** Faskia Kehonhuoltoa **TORSTAISIN klo 19:15-20:00** kerran kuussa. Seuraavan huollon päivämäärä päivitetään aina tähän. Tunnin hinta 10€, jonka voi maksaa laskulla tai liikuntaedulla. Tunnille ilmoittaudutaan laittamalla viestiä kati@elokatsu.fi. Kyseessä on pienryhmä ja ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 
 #### Aloittelijan kuntosalikurssi
