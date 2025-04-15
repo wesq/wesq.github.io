@@ -164,15 +164,15 @@ Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta nii
 
 **Aloittelijan kuntosalikurssi 5.-26.8.2025 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/UfaboY66QmiWnrhX7){:target="_blank"}
 
 **Aloittelijan kuntosalikurssi 9.-30.9.2025 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/meZZenSrEKeg9gDj6){:target="_blank"}
 
 **Aloittelijan kuntosalikurssi 21.10.-11.11.2025 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/qpaDJ1jVYmHjp16L9){:target="_blank"}
 
 #### eloSYKE ja liikkuvuus
 
@@ -181,7 +181,7 @@ Tämä tunti sopii sinulle, joka haluat tehdä kompaktin sykkeennoston ja liikku
 
 **Syyskausi** toteutetaan ajalla **3.8.-14.12.2025 SUNNUNTAISIN klo 16:30-17:20** (EI tuntia 5.10.). Treenikauden hinta 305€, jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 9 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 #### eloLIIKE
 
@@ -190,7 +190,7 @@ Treeneissä harjoitellaan perusliikkeiden tekniikoita parantaen kehon liikkuvuut
 
 **Syyskausi** toteutetaan ajalla **4.8.-15.12.2025 MAANANTAISIN klo 19:05-20:00** (EI tuntia 6.10.). Treenikauden hinta 325€, jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 #### eloVOIMA aamu
 
@@ -199,7 +199,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
    
 **Syyskausi** toteutetaan ajalla **5.8.-16.12.2025 TIISTAISIN klo 9:00-10:00** (EI tuntia 7.10.). Treenikauden hinta 345€, jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 #### eloVOIMA TI1
 
@@ -208,7 +208,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Syyskausi** toteutetaan ajalla **5.8.-16.12.2025 TIISTAISIN klo 18:00-19:00** (EI tuntia 7.10.). Treenikauden hinta 345€, jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 #### eloVOIMA TI2
 
@@ -217,7 +217,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Syyskausi** toteutetaan ajalla **5.8.-16.12.2025 TIISTAISIN klo 19:10-20:10** (EI tuntia 7.10.). Treenikauden hinta 345€, jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 #### eloVOIMA KE1
 
@@ -226,7 +226,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Syyskausi** toteutetaan ajalla **6.8.-17.12.2025 KESKIVIIKKOISIN klo 17:50-18:50** (EI tuntia 8.10.). Treenikauden hinta 345€, jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 #### eloVOIMA KE2
 
@@ -235,7 +235,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Syyskausi** toteutetaan ajalla **6.8.-17.12.2025 KESKIVIIKKOISIN klo 19:00-20:00** (EI tuntia 8.10.). Treenikaudenkauden hinta 345€, jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 #### eloVOIMA SU
 
@@ -244,7 +244,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Syyskausi** toteutetaan ajalla **3.8.-14.12.2025 SUNNUNTAISIN klo 17:30-18:30** (EI tuntia 5.10.). Treenikauden hinta 345€, jonka voi maksaa laskulla (kerralla tai osissa),  tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-ILMOITTAUTUMINEN AUKEAA HUHTIKUUN AIKANA
+ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
