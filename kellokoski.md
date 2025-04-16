@@ -123,30 +123,27 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 
 #### Muutosvalmennus
 
+Muutosvalmennuksen jatkoryhmä, joka on tarkoitettu elokatsun valmennuksessa olleille asiakkaille muutosmatkan tueksi jatkoon.
 Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 
-Uusi ryhmä käynnistyy 19.1.2025.  
-Ryhmä kokoontuu välillä tammikuu-kesäkuu sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa kahdesti kuussa, tarkemman aikataulun näet alta.  
-Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
+Muutosvalmennuksen jatkoryhmä kokoontuu välillä elokuu-joulukuu 2025 sunnuntaisin klo 18:45-19:45 Liikuntakeskus Ruukissa kerran kuussa, tarkemman aikataulun näet alta.  
+Tässä 5 kuukautta kestävässä valmennuksessa saat yhteensä 6 valmennustapaamista; 5 ryhmätapaamista ja 1 henkilökohtaisen valmennustapaamisen. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Kyseessä on pienryhmä, johon otetaan maksimissaan 6 osallistujaa. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.  
 
 **Valmennus sisältää:**
-- Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
-Aikataulu: 19.1., 26.1, 9.2., 23.2., 9.3., 23.3., 6.4., 27.4., 11.5., 25.5., 1.6., 15.6.
-- Henkilökohtaiset valmennustapaamiset x2  
-  - Oman matkan suunnittelu (30min.)  
-  - Oma liikuntasuunnitelma / ohjelma (45min.)   
+- Ryhmätapaamiset 1x/kk 60min./kerta; Sunnuntaisin klo 18:45-19:45
+Aikataulu: 17.8., 14.9., 12.10., 16.11., 14.12.
+- Henkilökohtainen valmennustapaaminen x1  
+  - Oman matkan ohjaus & tuki (30min.)   
 
 - Valmentajan yksilöllinen etätuki koko valmennuksen ajan
 - Ryhmän oma alusta WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle matkan aikana  
 
 HINTA: 
-89€/kk x6 TAI 530€ kertamaksulla (hinnat sis. alv).  
+44€/kk x5 tai 220€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
-[Lue lisää muutosvalmennuksesta täältä.](/muutosvalmennus)
-
-RYHMÄ ON TÄYTTYNYT
+ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 ### Faskia Kehonhuolto
 
