@@ -23,7 +23,7 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
 
 #### Pienryhmät
  - [Muutosvalmennnus](#muutosvalmennus)
- - [Faskia Kehonhuolto](#faskiakehonhuolto)
+ - [Faskia Kehonhuolto](#faskia-kehonhuolto)
  - [Aloittelijan kuntosalikurssi](#aloittelijan-kuntosalikurssi)
  - [eloSYKE+liikkuvuus](#elosyke-ja-liikkuvuus)
  - [eloLIIKE](#eloliike)
