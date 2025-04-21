@@ -33,7 +33,7 @@ treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, h
 SYYSKAUSI **MAANANTAISIN** ajalla 4.8.-15.12.2025 **klo 17:30-18:30** (EI treenejä 6.10).  
 **Hinta: 270€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
-ILMOITTAUTUMINEN AUKEAA 24.4.2025
+RYHMÄÄN ON 3 VAPAATA PAIKKAA, ILMOITTAUTUMINEN AUKEAA 24.4.2025
 
 <br/><br/>
 <br/><br/>
@@ -46,7 +46,7 @@ treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, ha
 SYYSKAUSI **TORSTAISIN** ajalla 7.8.-18.12.2025 **klo 17:15-18:15** (EI treenejä 9.10.)  
 **Hinta: 270€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
-ILMOITTAUTUMINEN AUKEAA 24.4.2025
+RYHMÄ ON TÄYTTYNYT
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
