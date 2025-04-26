@@ -131,8 +131,8 @@ Tässä 5 kuukautta kestävässä valmennuksessa saat yhteensä 6 valmennustapaa
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Kyseessä on pienryhmä, johon otetaan maksimissaan 6 osallistujaa. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.  
 
 **Valmennus sisältää:**
-- Ryhmätapaamiset 1x/kk 60min./kerta; Sunnuntaisin klo 18:45-19:45
-Aikataulu: 17.8., 14.9., 12.10., 16.11., 14.12.
+- Ryhmätapaamiset 1x/kk 60min./kerta; Sunnuntaisin klo 16:20-17:20
+Aikataulu: ilmoitetaan pian
 - Henkilökohtainen valmennustapaaminen x1  
   - Oman matkan ohjaus & tuki (30min.)   
 
@@ -240,7 +240,7 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
   
 **Syyskausi** toteutetaan ajalla **3.8.-14.12.2025 SUNNUNTAISIN klo 17:30-18:30** (EI tuntia 5.10.). Treenikauden hinta 345€, jonka voi maksaa laskulla (kerralla tai osissa),  tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 2 PAIKKAA VAPAANA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/QHhdARQGhhbuMqir5){:target="_blank"}
+[RYHMÄÄN ON 1 PAIKKA VAPAANA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/QHhdARQGhhbuMqir5){:target="_blank"}
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
