@@ -125,7 +125,7 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 Muutosvalmennuksen jatkoryhmä, joka on tarkoitettu elokatsun valmennuksessa olleille asiakkaille muutosmatkan tueksi jatkoon.
 Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota! Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
 
-Muutosvalmennuksen jatkoryhmä kokoontuu välillä elokuu-joulukuu 2025 sunnuntaisin klo 18:45-19:45 Liikuntakeskus Ruukissa kerran kuussa, tarkemman aikataulun näet alta.  
+Muutosvalmennuksen jatkoryhmä kokoontuu välillä elokuu-joulukuu 2025 sunnuntaisin klo 16:20-17:20 Liikuntakeskus Ruukissa kerran kuussa, tarkemman aikataulun näet alta.  
 Tässä 5 kuukautta kestävässä valmennuksessa saat yhteensä 6 valmennustapaamista; 5 ryhmätapaamista ja 1 henkilökohtaisen valmennustapaamisen. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi. Kyseessä on pienryhmä, johon otetaan maksimissaan 6 osallistujaa. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.  
 
