@@ -25,7 +25,6 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
  - [Muutosvalmennnus](#muutosvalmennus)
  - [Faskia Kehonhuolto](#faskia-kehonhuolto)
  - [Aloittelijan kuntosalikurssi](#aloittelijan-kuntosalikurssi)
- - [eloSYKE+liikkuvuus](#elosyke-ja-liikkuvuus)
  - [eloLIIKE](#eloliike)
  - [eloVOIMA aamu](#elovoima-aamu)
  - [eloVOIMA TI1](#elovoima-ti1)
@@ -169,15 +168,6 @@ Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta nii
 **Aloittelijan kuntosalikurssi 21.10.-11.11.2025 TIISTAISIN KLO 17:00-17:50**. Kurssin hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 [ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/qpaDJ1jVYmHjp16L9){:target="_blank"}
-
-#### eloSYKE ja liikkuvuus
-
-Elinvoimaa, sykettä ja huoltavaa liikettä keholle eloSYKE+liikkuvuus pienryhmässä!  
-Tämä tunti sopii sinulle, joka haluat tehdä kompaktin sykkeennoston ja liikkuvuustreenin samassa paketissa. Aloitamme tunnin kehoa lämmittävällä dynaamisella liikkeellä, joka avaa ja herättää kehon treenille. Tämän jälkeen teemme sykettä nostavia lihaskuntoliikkeitä kiertoharjoitteluna. Liikkeitä voit tehdä täysin omassa tahdissa. Lopuksi teemme lempeää kehoa palauttavaa dynaamista liikkuvuusharjoittelua, joka mukailee kehon lihastoimintaketjuja (faskialinjoja). Liikkuvuusosiossa kiinnitämme huomiota kehon yleisimpiin kireisiin ja heikkoihin kohtiin, hakien hallintaa ja liikkuvuutta näille alueille. Yhdistämme dynaamiseen liikkeeseen hengityksen, joka auttaa sinua palautumaan ja tasaamaan hermostoa.
-
-**Syyskausi** toteutetaan ajalla **3.8.-14.12.2025 SUNNUNTAISIN klo 16:30-17:20** (EI tuntia 5.10.). Treenikauden hinta 305€, jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 9 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-RYHMÄSSÄ ON HYVIN TILAA, ILMOITTAUTUMINEN AUKEAA 30.4.2025
 
 #### eloLIIKE
 

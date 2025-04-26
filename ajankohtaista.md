@@ -8,11 +8,11 @@ social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-* **2025 SYYSKAUDEN pienryhmien ilmoittautuminen alkaa 24.4. Alta näet kootusti koko treenikauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
+* **2025 SYYSKAUDEN pienryhmien ilmoittautuminen on käynnissä! Alta näet kootusti koko treenikauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
 
-* **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti erilaisissa pienryhmissä mm. eloLIIKE, eloVOIMA, eloSYKE+liikkuvuus ja Aloittelijan kuntosalikurssit [Tutustu tarjontaan & ilmoittaudu mukaan pienryhmiin täältä](/kellokoski)**
+* **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti voimaa, hallintaa ja liikkuvuutta kehoon erilaisissa pienryhmissä; eloLIIKE, eloVOIMA ja Aloittelijan kuntosalikurssit [Tutustu pienryhmiin & ilmoittaudu mukaan täältä](/kellokoski)**
 
-* **Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
+* **Tykkäätkö liikkua ulkona? Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
 
 * **Seniorien jumppameiningit jatkuvat Myllypurossa, josta voit lukea lisää [täältä](/seniorijumppa)**
 
@@ -27,5 +27,5 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 
 * **Poikkeusolosuhteet & Valmennusehdot:**
 
-Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen yleisiä suosituksia. Mahdollisten rajoitusten myötä elokatsun palveluita voidaan toteuttaa joustavasti myös esim. ulkona ja etänä. Tavoitteena on tarjota turvallisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on ensisijaisen tärkeää. Tulethan valmennuksiin vain täysin terveenä.
+Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen yleisiä suosituksia. Mahdollisten rajoitusten myötä elokatsun palveluita voidaan toteuttaa joustavasti myös esim. ulkona ja etänä. Tavoitteena on tarjota monipuolisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on elokatsun valmennuksissa ensisijaisen tärkeää. Tulethan valmennuksiin vain täysin terveenä.
 [Tutustu toiminnan ehtoihin tästä](/valmennusehdot), kun käytät elokatsun palveluita, sitoudut noudattamaan näitä valmennusehtoja.
