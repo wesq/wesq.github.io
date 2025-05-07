@@ -176,7 +176,7 @@ Treeneissä harjoitellaan perusliikkeiden tekniikoita parantaen kehon liikkuvuut
 
 **Syyskausi** toteutetaan ajalla **4.8.-15.12.2025 MAANANTAISIN klo 19:05-20:00** (EI tuntia 6.10.). Treenikauden hinta 325€, jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
-[RYHMÄÄN ON 1 PAIKKA VAPAANA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/9Tv4qDouM2GDipZz8){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 
 #### eloVOIMA aamu
 
