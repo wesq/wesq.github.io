@@ -17,13 +17,13 @@ KESÄTREENEISTÄ HYVÄÄ OLOA & ENERGIAA
 
 ![Pienryhmätreeni](/img/kellokosken_pienryhma.jpg "Kellokosken pienryhma"){: .image-right :}
 
-Ota mukaan juomapullo ja jumppamatto, laita aurinkorasvat iholle ja tule mukaan hikoilemaan kesän kertamaksullisissa pienryhmissä! Treenit maksetaan joko paikan päällä, jolloin maksutapoina käy kortti, käteinen ja liikuntaedut. Voit maksaa kaikki treenisi yhdessä myös laskulla. Treeneihin ilmoittautuminen on sitova. Jos estyt saapumasta treeniin, voit myydä/antaa paikkasi eteenpäin, ilmoitathan tästä vielä ohjaajalle. Jos olet varannut paikan, etkä saavu paikalle, laskutetaan treenimaksu sinulta jälkikäteen laskulla. Liikkujia ei ole vakuutettu elokatsun toimesta, jokainen treenaa omalla vastuulla, tavalla joka ei aiheuta terveysriskejä. Treeneihin voit ilmoittautua alla olevan linkin takaa. Kaikissa pienryhmissä on minimi osallistujamäärä 4 henkilöä, jos minimi osallistujamäärä ei täyty edellisen päivän iltaan mennessä, treenit perutaan.  <br/><br/>
+Ota mukaan juomapullo ja jumppamatto, laita aurinkorasvat iholle ja tule mukaan hikoilemaan kesän kertamaksullisissa pienryhmissä! Treenit maksetaan joko paikan päällä, jolloin maksutapoina käy kortti, käteinen ja liikuntaedut. Voit myös maksaa kaikki treenisi yhdessä laskulla. Treeneihin ilmoittautuminen on sitova. Jos estyt saapumasta treeniin, voit myydä/antaa paikkasi eteenpäin, ilmoitathan tästä vielä ohjaajalle. Jos olet varannut paikan, etkä saavu paikalle, laskutetaan treenimaksu sinulta jälkikäteen laskulla. Liikkujia ei ole vakuutettu elokatsun toimesta, jokainen treenaa omalla vastuulla, tavalla joka ei aiheuta terveysriskejä. Treeneihin voit ilmoittautua alla olevan linkin takaa. Toiminnalliset kesätreenit 14€/kerta ja Faskia Kehonhuolto 10€/kerta. Kaikissa pienryhmissä on minimi osallistujamäärä 4 henkilöä, jos minimi osallistujamäärä ei täyty edellisen päivän iltaan mennessä, treenit perutaan.  <br/><br/>
 
 [ILMOITTAUDU KESÄTREENEIHIN TÄSTÄ](https://forms.gle/8iMqDjFy5WnYun849){:target="_blank"}
 
 **KESÄN HYVÄN MIELEN TREENIT KELLOKOSKELLA & MYLLYPUROSSA** <br/><br/>
 
-**_KESÄTREENI - toiminnallista voimaharjoittelua_**
+**_KESÄTREENI - toiminnallista voimaharjoittelua_**  
 Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun toiminnallisista KESÄTREENEISTÄ. Teemme voimaharjoittelua ja hieman sykettä nostavaa treeniä välineillä ja oman kehon painolla. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa.  
 
 **_TUUSULAN KELLOKOSKI_**
