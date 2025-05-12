@@ -142,7 +142,7 @@ HINTA:
 44€/kk x5 tai 220€ kertamaksulla (hinnat sis. alv).  
 Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
 
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄSTÄ](https://forms.gle/82xVSFsRBfef5Tap9){:target="_blank"}
+[RYHMÄÄN ON 3 PAIKKAA VAPAANA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/82xVSFsRBfef5Tap9){:target="_blank"}
 
 ### Faskia Kehonhuolto
 
