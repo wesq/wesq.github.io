@@ -24,7 +24,7 @@ Ota mukaan juomapullo ja jumppamatto, laita aurinkorasvat iholle ja tule mukaan 
 **KESÄN HYVÄN MIELEN TREENIT KELLOKOSKELLA & MYLLYPUROSSA** <br/><br/>
 
 **_KESÄTREENI - toiminnallista voimaharjoittelua_**  
-Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun toiminnallisista KESÄTREENEISTÄ. Teemme voimaharjoittelua ja hieman sykettä nostavaa treeniä välineillä ja oman kehon painolla. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa.  
+Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun toiminnallisista KESÄTREENEISTÄ. Teemme pienryhmässä voimaharjoittelua ja hieman sykettä nostavaa treeniä välineillä ja oman kehon painolla. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa. Valmentajalla on aikaa huomioida jokaista ja skaalata liikkeitä yksilölle sopivaksi!  
 
 **_TUUSULAN KELLOKOSKI_**
 treenit ulkona Kellokosken Herukkapuistossa os. Herukkatie 7. (Kovalla sateella harjoitus tapahtuu Kellokosken koulun pihalla katoksen alla, ukkosella treenit perutaan.)
