@@ -29,7 +29,7 @@ Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun toiminnallisista KESÄTREENE
 **_TUUSULAN KELLOKOSKI_**
 treenit ulkona Kellokosken Herukkapuistossa os. Herukkatie 7. (Kovalla sateella harjoitus tapahtuu Kellokosken koulun pihalla katoksen alla, ukkosella treenit perutaan.)
 
-**TREENEJÄ:** 4.6. KE 18:30-19:30, 8.6. SU 16:15-17:15, 9.6. MA 18-19, 11.6. KE 18:30-19:30, 15.6. SU 16:15-17:15, hinta 14€/krt
+**TREENEJÄ:** 4.6. KE 18:30-19:30, 8.6. SU 16:15-17:15, 9.6. MA 18:00-19:00, 11.6. KE 18:30-19:30, 15.6. SU 16:15-17:15, hinta 14€/krt
 
 ***HELSINGIN MYLLYPURO***
 treenit ulkona Myllypuron kuntoportaiden kupeessa. (Kovalla sateella harjoitus tapahtuu Myllypuron koulun pihalla katoksen alla, ukkosella treenit perutaan.)
