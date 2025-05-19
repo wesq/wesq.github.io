@@ -33,7 +33,7 @@ treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, h
 SYYSKAUSI **MAANANTAISIN** ajalla 4.8.-15.12.2025 **klo 17:30-18:30** (EI treenejä 6.10).  
 **Hinta: 270€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
-[RYHMÄÄN ON 1 PAIKKA VAPAANA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/Ne9XSTvUUC5vdkLU8){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 
 <br/><br/>
 <br/><br/>
