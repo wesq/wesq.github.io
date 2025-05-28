@@ -24,7 +24,7 @@ Ota mukaan juomapullo ja jumppamatto, laita aurinkorasvat iholle ja tule mukaan 
 **KESÄN HYVÄN MIELEN TREENIT KELLOKOSKELLA & MYLLYPUROSSA** <br/><br/>
 
 **_KESÄTREENI - toiminnallista voimaharjoittelua_**  
-Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun toiminnallisista KESÄTREENEISTÄ. Teemme pienryhmässä voimaharjoittelua ja hieman sykettä nostavaa treeniä välineillä ja oman kehon painolla. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa. Valmentajalla on aikaa huomioida jokaista ja skaalata liikkeitä yksilölle sopivaksi!  
+Elinvoimaa, joustavuutta ja voimaa kehoon elokatsun toiminnallisista KESÄTREENEISTÄ. Teemme pienryhmässä voimaharjoittelua ja hieman sykettä nostavaa treeniä välineillä ja oman kehon painolla. Treenit ovat menevät, mutta jokainen treenaa oman kuntotason mukaan ja liikkeistä saa monia eri vaihtoehtoja tarvittaessa. Valmentajalla on aikaa huomioida jokaista ja skaalata liikkeitä yksilölle sopivaksi! Ota oma matto mukaan.  
 
 **_TUUSULAN KELLOKOSKI_**
 treenit ulkona Kellokosken Herukkapuistossa os. Herukkatie 7. (Kovalla sateella harjoitus tapahtuu Kellokosken koulun pihalla katoksen alla, ukkosella treenit perutaan.)
@@ -38,7 +38,7 @@ treenit ulkona Myllypuron kuntoportaiden kupeessa. (Kovalla sateella harjoitus t
 <br/><br/>
 
 **_Faskia Kehonhuolto - lempeää huoltavaa liikettä_**
-ulkona Kellokosken Herukkapuistossa, sateella tunti perutaan. Tämä tunti huoltaa jumiutunutta kroppaa lempeästi ja palauttaa elastisuuden ja hyvän olon kehoosi. Treeneissä kehität dynaamisen liikkeen kautta liikkuvuutta ja kehonhallintaa. Sopii kaikille ja liikkeitä voi hyvin soveltaa omaa kehoaan kuunnellen.  
+ulkona Kellokosken Herukkapuistossa, sateella tunti perutaan. Tämä tunti huoltaa jumiutunutta kroppaa lempeästi ja palauttaa elastisuuden ja hyvän olon kehoosi. Treeneissä kehität dynaamisen liikkeen kautta liikkuvuutta ja kehonhallintaa. Sopii kaikille ja liikkeitä voi hyvin soveltaa omaa kehoaan kuunnellen. Ota oma matto ja pallo (faskiapallo/tennispallo tms.) mukaan. Valmentajalla mukana myös muutama lainapallo.  
 
 **TREENEJÄ:** 4.6. KE klo 19:40-20:25, 11.6. KE klo 19:40-20:25, hinta 10€/kerta
 <br/><br/>
