@@ -155,11 +155,11 @@ Tämä pienryhmä on sinulle, joka haluat oppia harjoittelemaan kuntosalilla tur
 
 Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta niin, että saat treenistäsi turvallista ja kehittävää. Ryhmä pitää sisällään neljä yhteistä treenitapaamista. Treeni sisältää kehoa lämmittävän, liikkuvuutta lisäävän, sekä tukilihaksia aktivoivan alkulämmittelyn, sekä lihaskunto-osuuden kuntosalilaitteilla. Hinta sisältää treeniohjelman, joka jää sinulle Sportyplanner treeniohjelmistoon, jotta voit jatkaa kuntosalitreeniä itsenäisesti. Treeniohjelma opetellaan huolellisesti läpi yhteisillä kerroilla, ja siihen tehdään tarvittaessa yksilöllisiä muutoksia asiakkaan tarpeiden mukaan. Ryhmään osallistuminen ei vaadi salijäsenyyttä/salimaksua, vaan se sisältyy kertojen hintaan. Mahdolliseen itsenäiseen saliharjoitteluun tarvitset jäsenyyden/kertamaksun.
 
-**Aloittelijan kuntosalipienryhmä 9.-30.9.2025 TIISTAISIN KLO 17:00-17:50**. Hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Aloittelijan kuntosali-pienryhmä 9.-30.9.2025 TIISTAISIN KLO 17:00-17:50**. Hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 [RYHMÄÄN ON 1 PAIKKA VAPAANA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/meZZenSrEKeg9gDj6){:target="_blank"}
 
-**Aloittelijan kuntosalipienryhmä 21.10.-11.11.2025 TIISTAISIN KLO 17:00-17:50**. Hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
+**Aloittelijan kuntosali-pienryhmä 21.10.-11.11.2025 TIISTAISIN KLO 17:00-17:50**. Hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 [RYHMÄÄN ON 3 PAIKKAA VAPAANA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/qpaDJ1jVYmHjp16L9){:target="_blank"}
 
