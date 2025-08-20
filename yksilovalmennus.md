@@ -22,7 +22,7 @@ Kulkemaan rinnalla ja opastamaan sinua. Herättämään motivaatiotasi ja auttam
 Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak). Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.
 
 ![Yksilövalmennus](/img/yksilo_ohjaus.jpg "Yksilövalmennus"){: .image-right :}
-**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita pakettiratkaisuja. Autan sinua löytämään sinulle toimivia tapoja ja rutiineja, joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Muutoksen tekemisessä autan sinua pohtimaan mikä sinulle on tärkeää, mitkä valinnat ylläpitävät hyvinvointiasi, ja mistä tavoista olisi hyvä luopua. Muutos vaatii aina myös luopumista, ja näitäkin teemoja käsittelemme hyvinvointivalmennuksissa. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia. Olen rinnallakulkijasi, matkallasi muutokseen.**
+**Sinun omat tavoitteesi voivat liittyä liikunnan ilon löytämiseen, liikkeen lisäämiseen ja järkeistämiseen, palautumisen vahvistamiseen, tai kokonaisvaltaisen elämäntapamuutoksen tekemiseen. Valmennukseni eivät ole "oikotie onneen" tai valmiita pakettiratkaisuja. Autan sinua löytämään sinulle toimivia tapoja ja rutiineja, joista saat hyvää oloa ja energiaa, ja joita voit toteuttaa läpi elämän. Muutoksen tekemisessä autan sinua pohtimaan mikä sinulle on tärkeää, mitkä valinnat ylläpitävät hyvinvointiasi, ja mistä tavoista olisi hyvä luopua. Tuen sinua lempeästi ja ammattitaidolla matkallasi kohti kokonaisvaltaista hyvinvointia. Olen rinnallakulkijasi, matkallasi muutokseen.**
 
 <br/>
 
@@ -94,7 +94,7 @@ omaksuminen ja oman hyvinvoivan arjen kirkastaminen. Valmennukset muotoutuvat ai
 
 > Yksilöllistä valmennusta Sinun tarpeesi edellä.
 
-**_Kaikki elokatsun valmennukset räätälöidään aina yksilöllisesti.  Voit varata ajan maksuttomaan hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi. Hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Tämä selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta. Kartoituksen kesto 30 minuuttia._**  
+**_Kaikki elokatsun valmennukset räätälöidään aina yksilöllisesti asiakkaan tavoitteiden mukaisesti.  Voit varata ajan maksuttomaan hyvinvointikartoitukseen, jossa voimme pohtia millainen valmennus palvelisi parhaiten Sinun tarpeitasi. Hyvinvointikartoituksessa käymme läpi sinun tavoitteitasi ja pohdimme miten voit saavuttaa niitä. Tämä selkeyttää sinulle suuntaa ja auttaa sinua muodostamaan konkreettisen teon kohti haluamaasi muutosta. Kartoituksen kesto 30 minuuttia._**  
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/e7aHDGhY2PMwYN3q8){:target="_blank"} 
 
 **_Valmennukset toteutetaan Kellokosken alueella salilla, ulkona tai asiakkaan kotona. Kotikäynneistä veloitetaan + 10-20€ matkakilometreistä riippuen. Lisäksi valmennuksia on kerran viikossa torstaisin Itä-Helsingin Myllypurossa (salilla, ulkona, asiakkaan kotona). Mahdollisuus on myös etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä minne tahansa!_**

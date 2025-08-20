@@ -30,14 +30,14 @@ Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen pr
 **Tarkemmat tiedot toteutuksesta:** 
 
 Uusi ryhmä käynnistyy Tammikuussa 2026.  
-Ryhmä kokoontuu välillä tammikuu-kesäkuu sunnuntaisin klo 18:45-20:00 Liikuntakeskus Ruukissa kahdesti kuussa, tarkemman aikataulun näet alta.
+Ryhmä kokoontuu välillä tammikuu-kesäkuu, tarkempi aikataulu tulossa pian.
 Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
 ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi.  
 
 **Valmennus sisältää:**
 
 
-- Ryhmätapaamiset 2x/kk - 75 min./kerta; Sunnuntaisin klo 18:45-20:00
+- Ryhmätapaamiset 2x/kk - 75 min./kerta
 Aikataulu: päivittyy myöhemmin.
 - Henkilökohtaiset valmennustapaamiset x2  
   - Oman matkan suunnittelu (30min.)  

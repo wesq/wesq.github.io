@@ -8,7 +8,7 @@ social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-* **2025 SYYSKAUDEN pienryhmien ilmoittautuminen on käynnissä! Alta näet kootusti koko treenikauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
+* **2025 SYYSKAUDEN pienryhmät ovat täyttyneet. Alta näet kootusti koko treenikauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
 
 * **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti voimaa, hallintaa ja liikkuvuutta kehoon erilaisissa pienryhmissä; eloLIIKE, eloVOIMA ja Aloittelijan kuntosalikurssit [Tutustu pienryhmiin & ilmoittaudu mukaan täältä](/kellokoski)**
 
