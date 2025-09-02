@@ -16,7 +16,6 @@ description: "Elokatsun pienryhmät, personal trainer- ja muut palvelut / Kellok
 Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa: 
 #### Henkilökohtaiset palvelut
  - [Maksuton hyvinvointikartoitus](#maksuton-hyvinvointikartoitus)
- - [Laiteopastus](#laiteopastus)
  - [PT-ohjaus](#pt-ohjaus)
  - [Hyvinvointivalmennus](#hyvinvointivalmennus)  
 <br/>  
@@ -49,12 +48,6 @@ Kaikki elokatsun valmennukset räätälöidään aina yksilöllisesti.  Voit var
 [VARAA AIKA HYVINVOINTIKARTOITUKSEEN TÄSTÄ](https://forms.gle/RAhfPePEmEmNigtB9){:target="_blank"} 
 
 [Lue valmennusehdot tästä](/valmennusehdot), käyttäessäsi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
-
-#### Laiteopastus
-
-Laiteopastus on tarkoitettu Liikuntakeskus Ruukin jäsenille. Laiteopastuksessa tutustutaan saliin ja laitteisiin, ohjeistetaan laitteiden turvalliseen ja oikeanlaiseen käyttöön, sekä katsotaan läpi tärkeimmät tekniikat liikkeille. Laiteopastuksen yhteydessä voit myös varata yksilöajan treeniohjelman tekoa tai pidempää valmennusta varten. Siellä on myös mahdollisuus kysyä kaikista sinua mietityttävistä asioista treenaamiseen ja hyvinvointiin liittyen.
-
-Seuraava laiteopastus on 2.9. tiistaina klo 17:00. Laiteopastukset toteutetaan pienryhmässä, varaa opastukseen aikaa noin 45 minuuttia. Paikka varataan laittamalla viestiä kati@elokatsu.fi. Paikka tulee varata kolme vuorokautta (72 tuntia) ennen pidettyä aikaa. Jos osallistujia ei ole ilmoittautunut lainkaan tähän mennessä, laiteopastusta ei pidetä. Peruutukset jo varatuille paikoille tulee tehdä viimeistään vuorokautta (24 tuntia) ennen kyseistä aikaa. Tämän jälkeen peruutuksista, tai peruuttamatta jätetyistä ajoista katsotaan laiteopastus käytetyksi. Järjestäjä voi joutua pakottavan esteen sattuessa perumaan laiteopastuksen, jolloin ilmoittautujat saavat tästä tiedon sähköpostitse. Järjestäjä pidättää itsellään kaikki oikeudet muutoksiin.
 
 #### PT-ohjaus
 
