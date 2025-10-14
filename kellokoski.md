@@ -21,15 +21,14 @@ Tältä sivulta löydät seuraavat elokatsun palvelut Liikuntakeskus Ruukissa:
 <br/>  
 
 #### Pienryhmät
- - [Aloittelijan kuntosali](#aloittelijan-kuntosali)
+ - [Faskia Kehonhuolto](#faskia-kehonhuolto)
  - [eloLIIKE](#eloliike)
  - [eloVOIMA aamu](#elovoima-aamu)
  - [eloVOIMA TI1](#elovoima-ti1)
  - [eloVOIMA TI2](#elovoima-ti2)
  - [eloVOIMA KE1](#elovoima-ke1)
  - [eloVOIMA KE2](#elovoima-ke2)
- - [eloVOIMA SU](#elovoima-su)
- - [Faskia Kehonhuolto](#faskia-kehonhuolto)  
+ - [eloVOIMA SU](#elovoima-su)  
  - [Muutosvalmennnus](#muutosvalmennus)
 
 [Lue valmennusehdot tästä](/valmennusehdot), käyttäessäsi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
@@ -113,20 +112,12 @@ rutiinit arkeen, hyvinvoiva keho/treeni, palautumisen valmennus, ravitsemuksen t
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
 [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
 
+### Faskia Kehonhuolto
 
-#### Aloittelijan kuntosali
+Tämä ihana ja lempeän huoltava harjoitus tuo kehoosi joustavuutta ja hyvää oloa!  
+Tunti sopii kaikille, jotka haluavat huoltaa kehoaan, ja poistaa jumituksia ja kireyksiä. Tunnilla tehdään lempeää dynaamista liikkuvuusharjoitusta huomioiden kehon faskialinjat. Kiinnitämme huomiota kehon yleisimpiin kireisiin ja heikkoihin kohtiin, hakien hallintaa ja liikkuvuutta näille alueille. Yhdistämme dynaamiseen liikkeeseen hengityksen, joka auttaa sinua palautumaan ja tasaamaan hermostoa. Käytämme tunnilla myös palloja täsmähierontana.
 
-Tämä pienryhmä on sinulle, joka haluat oppia harjoittelemaan kuntosalilla turvallisesti, lisäten liikkuvuutta ja lihasvoimaa!
-
-Kyseessä on 4 hengen pienryhmä, joka takaa sinulle yksilöllistä ohjausta niin, että saat treenistäsi turvallista ja kehittävää. Ryhmä pitää sisällään neljä yhteistä treenitapaamista. Treeni sisältää kehoa lämmittävän, liikkuvuutta lisäävän, sekä tukilihaksia aktivoivan alkulämmittelyn, sekä lihaskunto-osuuden kuntosalilaitteilla. Hinta sisältää treeniohjelman, joka jää sinulle Sportyplanner treeniohjelmistoon, jotta voit jatkaa kuntosalitreeniä itsenäisesti. Treeniohjelma opetellaan huolellisesti läpi yhteisillä kerroilla, ja siihen tehdään tarvittaessa yksilöllisiä muutoksia asiakkaan tarpeiden mukaan. Ryhmään osallistuminen ei vaadi salijäsenyyttä/salimaksua, vaan se sisältyy kertojen hintaan. Mahdolliseen itsenäiseen saliharjoitteluun tarvitset jäsenyyden/kertamaksun.
-
-**Aloittelijan kuntosali-pienryhmä 9.-30.9.2025 TIISTAISIN KLO 17:00-17:50**. Hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-RYHMÄ ON TÄYTTYNYT
-
-**Aloittelijan kuntosali-pienryhmä 21.10.-11.11.2025 TIISTAISIN KLO 17:00-17:50**. Hinta 145€ (4 yhteistä kertaa + treeniohjelma kuntosalille), jonka voi maksaa laskulla (kerralla tai osissa), tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 4 osallistujaa. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
-
-[RYHMÄÄN ON 3 PAIKKAA VAPAANA, ILMOITTAUDU MUKAAN TÄSTÄ](https://forms.gle/qpaDJ1jVYmHjp16L9){:target="_blank"}
+**Syyskaudella** Faskia Kehonhuoltoa **TORSTAISIN klo 19:15-20:00** kerran kuussa. Lokakuun kehonhuolto on 2.10. torstaina. Tunnin hinta 10€, jonka voi maksaa laskulla tai liikuntaedulla. Tunnille ilmoittaudutaan laittamalla viestiä kati@elokatsu.fi. Kyseessä on pienryhmä ja ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 #### eloLIIKE
 
@@ -190,13 +181,6 @@ Näissä toiminnallisen voimaharjoittelun treeneissä kehität liikkuvuutta, lii
 **Syyskausi** toteutetaan ajalla **3.8.-14.12.2025 SUNNUNTAISIN klo 17:30-18:30** (EI tuntia 5.10.). Treenikauden hinta 345€, jonka voi maksaa laskulla (kerralla tai osissa),  tai liikuntaedulla. Tunnit toteutetaan Liikuntakeskus Ruukin tiloissa. Kyseessä on pienryhmä, johon otetaan maksimissaan 8 osallistujaa. Osallistuessasi eloVOIMA pienryhmään, saat korvata mahdollisia poissaolojasi myös kaikilla muilla eloVOIMA tunneilla. Valmentajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 RYHMÄ ON TÄYTTYNYT
-
-### Faskia Kehonhuolto
-
-Tämä ihana ja lempeän huoltava harjoitus tuo kehoosi joustavuutta ja hyvää oloa!  
-Tunti sopii kaikille, jotka haluavat huoltaa kehoaan, ja poistaa jumituksia ja kireyksiä. Tunnilla tehdään lempeää dynaamista liikkuvuusharjoitusta huomioiden kehon faskialinjat. Kiinnitämme huomiota kehon yleisimpiin kireisiin ja heikkoihin kohtiin, hakien hallintaa ja liikkuvuutta näille alueille. Yhdistämme dynaamiseen liikkeeseen hengityksen, joka auttaa sinua palautumaan ja tasaamaan hermostoa. Käytämme tunnilla myös palloja täsmähierontana.
-
-**Syyskaudella** Faskia Kehonhuoltoa **TORSTAISIN klo 19:15-20:00** kerran kuussa. Lokakuun kehonhuolto on 2.10. torstaina. Tunnin hinta 10€, jonka voi maksaa laskulla tai liikuntaedulla. Tunnille ilmoittaudutaan laittamalla viestiä kati@elokatsu.fi. Kyseessä on pienryhmä ja ohjaajana toimii hyvinvointivalmentaja ja personal trainer Kati Sokka / elokatsu.
 
 #### Muutosvalmennus
 
