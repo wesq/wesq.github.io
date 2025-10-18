@@ -23,30 +23,25 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja kunnioittaen. Teemme monipuolisia koko kehon toiminnallisia harjoituksia, joiden avulla kehität perus- ja kestovoimaa, sekä liikkuvuutta kehossasi. Liikkeitä harjoitellaan tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti, sekä tavoittaen oikeat lihasryhmät. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Kyseessä on pienryhmä, joka treenaa ympäri vuoden ulkona.  <br/><br/>
 
-**ULKORYHMÄT TUUSULAN KELLOKOSKELLA & HELSINGIN MYLLYPUROSSA!** <br/><br/>
+**ULKORYHMÄT HELSINGIN MYLLYPUROSSA & TUUSULAN KELLOKOSKELLA!** <br/><br/>
 
-![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-left :}
-
-**_TUUSULAN KELLOKOSKEN RYHMÄ_**
-treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
-
-SYYSKAUSI **MAANANTAISIN** ajalla 4.8.-15.12.2025 **klo 17:30-18:30** (EI treenejä 6.10).  
-**Hinta: 270€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
-
-RYHMÄ ON TÄYTTYNYT
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
-![Pienryhmätreeni](/img/myllypuro_treeni.jpg "Myllypuron pienryhmä"){: .image-right :}
+![Pienryhmätreeni](/img/myllypuro_treeni.jpg "Myllypuron pienryhmä"){: .image-left :}
 
 ***HELSINGIN MYLLYPURON RYHMÄ***
 treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.)
 
-SYYSKAUSI **TORSTAISIN** ajalla 7.8.-18.12.2025 **klo 17:15-18:15** (EI treenejä 9.10.)  
-**Hinta: 270€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
+KEVÄTKAUSI´26 **TIISTAISIN** ajalla 13.1.-2.6.2026 **klo 17:15-18:15** (EI treenejä 17.2.) **Hinta: 290€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
-RYHMÄ ON TÄYTTYNYT
+ILMOITTAUTUMINEN AUKEAA MARRASKUUN ALUSSA
+
+**_TUUSULAN KELLOKOSKEN RYHMÄ_**
+treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
+
+KEVÄTKAUSI´26 **TIISTAISIN** ajalla 13.1.-2.6.2026 **klo 19:00-20:00** (EI treenejä 17.2.) **Hinta: 290€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
+
+ILMOITTAUTUMINEN AUKEAA MARRASKUUN ALUSSA
+
+![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-right :}
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
