@@ -23,7 +23,7 @@ vuodesta toiseen. Eloisa keho nauttii liikkeestä ja sen tuomasta hyvästä olos
 
 Eloisan kehon senioritunneilla vahvistat näitä ominaisuuksia, omaa kehoasi kuunnellen ja kunnioittaen. Liikkeitä harjoitellaan rauhassa tekniikka edellä, jotta opit tekemään lihaskuntoharjoittelua turvallisesti ja järkevästi. Liikkeet skaalataan aina oman tason mukaisesti, jonka johdosta voit tulla juuri sellaisena kuin olet. Ryhmään osallistumisen ainoa vaatimus on, että kävely/liikkuminen onnistuu. Harjoitellaan hyvällä fiiliksellä ja rennolla otteella, oma kehotuntemus edellä. Ikää ei ole rajattu, jokainen on tervetullut joka tuntee kuuluvansa tähän ryhmään. Kyseessä on pienryhmä, jossa saat yksilöllisempää ohjausta. Hyppää mukaan, nämä tunnit tuovat arkeesi yhteisöllisyyttä ja liikunnan iloa!  <br/><br/>
 
-![Pienryhmätreeni](/img/sennukurssi1.jpg "seniorin eloisa keho"){: .image-left :}  
+![Pienryhmätreeni](/img/seniori-jengi.jpg "seniorin eloisa keho"){: .image-left :}  
 
 ***SENIORIN ELOISA KEHO***
 pienryhmä harjoittelee Myllykylän Kylätalolla, os. Ryynimyllynkatu 1, 00920 Helsinki. Toisinaan ryhmä jumppaa myös ulkona Myllypuron alueella. Talvella jumpataan sisällä, keväällä/alkusyksystä ilmojen ollessa lämpimiä, jumpataan myös ulkona. Tunnit ohjaa Hyvinvointivalmentaja, Personal Trainer ja Liikuntaneuvoja Kati Sokka.
