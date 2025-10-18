@@ -34,14 +34,14 @@ KEVÄTKAUSI´26 **TIISTAISIN** ajalla 13.1.-2.6.2026 **klo 17:15-18:15** (EI tre
 
 ILMOITTAUTUMINEN AUKEAA MARRASKUUN ALUSSA
 
+![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-right :}
+
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
 treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
 
 KEVÄTKAUSI´26 **TIISTAISIN** ajalla 13.1.-2.6.2026 **klo 19:00-20:00** (EI treenejä 17.2.) **Hinta: 290€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
 ILMOITTAUTUMINEN AUKEAA MARRASKUUN ALUSSA
-
-![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-right :}
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
