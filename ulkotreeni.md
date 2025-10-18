@@ -33,9 +33,9 @@ treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, ha
 KEVÄTKAUSI´26 **TIISTAISIN** ajalla 13.1.-2.6.2026 **klo 17:15-18:15** (EI treenejä 17.2.) **Hinta: 290€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
 ILMOITTAUTUMINEN AUKEAA MARRASKUUN ALUSSA
-
+<br/><br/>
 ![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-right :}
-
+<br/><br/>
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
 treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
 
