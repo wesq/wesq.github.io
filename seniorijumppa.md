@@ -31,6 +31,8 @@ pienryhmä harjoittelee Myllykylän Kylätalolla, os. Ryynimyllynkatu 1, 00920 H
 **KEVÄTKAUSI´26** ajalla **13.1.-2.6.2026 (EI jumppaa 17.2.)**.  
 Jumppapäivä **TIISTAISIN** klo **12:10-12:55**.  
 **Hinta: 220€** (sis. alv) maksetaan joko käteisellä tai laskulla, ja ryhmämaksun voi maksaa myös osissa.  
+
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/JMxR97pqUqNLCMVc6){:target="_blank"}
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
