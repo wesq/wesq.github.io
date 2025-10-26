@@ -41,7 +41,7 @@ treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, h
 
 KEVÄTKAUSI´26 **TIISTAISIN** ajalla 13.1.-2.6.2026 **klo 19:00-20:00** (EI treenejä 17.2.) **Hinta: 290€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
-ILMOITTAUTUMINEN AUKEAA MARRASKUUN ALUSSA
+RYHMÄ ON TÄYTTYNYT
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
