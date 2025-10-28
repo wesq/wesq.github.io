@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Syksy 2025
-subtitle: Tule sinäkin mukaan elokatsun valmennuksiin!
+title: 2026
+subtitle: 2026 elokatsun palvelut muuttaa Lahteen!
 formspree_comment: true
 comment_teksti: 'Haluaisitko kysyä jotain ajankohtaisista asioista?'
 social-share: true
