@@ -8,15 +8,13 @@ social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-* **2025 SYYSKAUDEN pienryhmät ovat täyttyneet. Alta näet kootusti koko treenikauden tarjonnan ja löydät linkit tarkempiin ryhmäkuvauksiin ja ilmoittautumisiin:**
+* **Vuosi 2026 tuo mukanaan isoja muutoksia, kun elokatsu palveluineen muuttaa Lahteen pyörittämään Wellnex Gym naisten liikuntakeskusta. Jatkossakin pääset liikkumaan niin ryhmäliikunnan kuin yksilövalmennuksenkin merkeissä Lahden ydinkeskustassa.**
 
-* **Kellokosken Liikuntakeskus Ruukissa treenaillaan monipuolisesti voimaa, hallintaa ja liikkuvuutta kehoon erilaisissa pienryhmissä; eloLIIKE, eloVOIMA ja Aloittelijan kuntosalikurssit [Tutustu pienryhmiin & ilmoittaudu mukaan täältä](/kellokoski)**
+* **Kaipaatko valmentajan yksilöllistä apua treeneihin tai elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon, saada tukea muutoksen haasteisiin tai vaikka treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
-* **Tykkäätkö liikkua ulkona? Eloisan kehon ulkotreenit jatkuvat Kellokoskella & Myllypurossa. [Ilmoittaudu mukaan täältä](/ulkotreeni)**
+* **Tykkäätkö liikkua ulkona? Eloisan kehon ulkotreenit jatkuvat vielä tiistaisin Kellokoskella & Myllypurossa. [Lue lisää täältä](/ulkotreeni)**
 
-* **Seniorien jumppameiningit jatkuvat Myllypurossa, josta voit lukea lisää [täältä](/seniorijumppa)**
-
-* **Kaipaatko enemmän valmentajan yksilöllistä apua treeneihin tai elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon, saada tukea muutoksen haasteisiin tai vaikka treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
+* **Myös seniorien jumppameiningit jatkuvat Myllypurossa tiistaisin, josta voit lukea lisää [täältä](/seniorijumppa)**
 
 * **Jos palautumisen, unen, stressinhallinnan tai kehon kiputilojen kanssa on haasteita, voi Neurosonic-patjahoito tarjota apua tilanteeseesi. Neurosonic-hoitopatjalla on saatu hyviä tuloksia mm. näissä haasteissa, [tutustu palveluun lisää täältä](/neurosonic)**  
 
@@ -27,5 +25,5 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 
 * **Poikkeusolosuhteet & Valmennusehdot:**
 
-Elokatsu seuraa jatkuvasti vallitsevaa maailmantilannetta noudattaen yleisiä suosituksia. Mahdollisten rajoitusten myötä elokatsun palveluita voidaan toteuttaa joustavasti myös esim. ulkona ja etänä. Tavoitteena on tarjota monipuolisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on elokatsun valmennuksissa ensisijaisen tärkeää. Tulethan valmennuksiin vain täysin terveenä.
+Tavoitteena on tarjota monipuolisesti asiakkaiden arkeen mahdollisuuksia harrastaa ja pitää itsestään huolta. Säännöllisen harrastamisen ja itsestä huolta pitämisen tukeminen joustavin keinoin on elokatsun valmennuksissa ensisijaisen tärkeää. Tulethan valmennuksiin vain täysin terveenä.
 [Tutustu toiminnan ehtoihin tästä](/valmennusehdot), kun käytät elokatsun palveluita, sitoudut noudattamaan näitä valmennusehtoja.
