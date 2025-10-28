@@ -8,7 +8,7 @@ social-share: true
 bigimg: img/a_ajankohtaista_kesa23.jpg
 
 ---
-* **Vuosi 2026 tuo mukanaan isoja muutoksia, kun elokatsu palveluineen muuttaa Lahteen pyörittämään Wellnex Gym naisten liikuntakeskusta. Jatkossakin pääset liikkumaan niin ryhmäliikunnan kuin yksilövalmennuksenkin merkeissä Lahden ydinkeskustassa.**
+* **Vuosi 2026 tuo mukanaan isoja muutoksia, kun elokatsu palveluineen muuttaa Lahteen pyörittämään Wellnex Gym naisten liikuntakeskusta. Jatkossakin pääset liikkumaan kanssani niin ryhmäliikunnan kuin yksilövalmennuksenkin merkeissä Lahden ydinkeskustassa.**
 
 * **Kaipaatko valmentajan yksilöllistä apua treeneihin tai elämäntapamuutoksen tueksi? Haluatko löytää liikunnan ilon, saada tukea muutoksen haasteisiin tai vaikka treenata valmentajan ohjauksessa joka viikko? [Varaa aika maksuttomaan hyvinvointikartoitukseen](/yksilovalmennus) jonka avulla pääset konkreettisesti ottamaan ensimmäisen askeleen kohti muutosta.**
 
