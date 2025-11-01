@@ -31,13 +31,9 @@ Ryhmä kokoontuu Wellnex Gymillä välillä tammikuu-kesäkuu 2026, joka toinen 
 
 
 - Ryhmätapaamiset x12 - 75 min./kerta
-
 - Henkilökohtaiset valmennustapaamiset x2 - 45min./kerta (voit käyttää tapaamiset esimerkiksi keskusteluun, yksilölliseen liikuntasuunnitelmaan, ravintovalmennukseen tms.)
-
 - Valmentajan yksilöllinen etätuki koko valmennuksen ajan käytössäsi
-
 - Ryhmän tuki ja oma alusta WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle matkan aikana, jossa valmentaja myös mukana
-
 - Treeniohjelma salille + Kehonhuolto-ohjelma kotiin (yleisohjelmat) 
 
 
