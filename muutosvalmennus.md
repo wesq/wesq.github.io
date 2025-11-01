@@ -12,48 +12,39 @@ comment_teksti: "Kysy lisää valmennuksesta:"
 
 ![Muutosvalmennuksen porukka vauhdissa](./img/pienryhmatreenit_6.jpg){: .image-right :}
 #### Muutosvalmennus  
-Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella. Ryhmässä on voimaa, josta jaksaa ammentaa motivaatiota!  
+Kyseessä on pienryhmässä tapahtuva hyvinvointivalmennus elämäntapamuutoksen tueksi. Valmennus tähtää pysyvään muutokseen ja arjen yksilölliseen hyvinvointiin. Pääset rauhassa pysähtymään itsesi ja hyvinvointisi äärelle valmentajan ja ryhmän tuella.  
 
 ![Ravitsemus](/img/monipuolinenravitsemus.jpg "Ravinto"){: .image-left :}
 
-Valmennuksessa käymme läpi oikeanlaista tavoitteenasettelua ja muutokseen tähtäävää arjen pienien tekojen toteutusta. Pohdimme millä lisätä liikettä,
-millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista, ja vähentää stressiä. Valmennuksessa
-työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia. Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/liikkua/nukkua, vaan valmennuksessa opetellaan löytämään oman hyvinvoinnin tekoja pienin askelin, itselle sopivalla tavalla.
+Valmennuksessa käymme läpi oikeanlaista tavoitteenasettelua ja muutokseen tähtäävien arjen pienten tekojen toteutusta. Opetellaan miten lisätä liikettä arkeen, millainen on ravinnon merkitys hyvinvoinnille, sekä miten tukea omaa unta & palautumista ja vähentää stressiä. Valmennuksessa työstämme näitä teemoja luennoin, yhdessä keskustellen, liikkeellä, sekä pienin tehtävin valmennuksessa ja kotona. Valmennukseen sisältyy ryhmätapaamisten lisäksi myös henkilökohtaisia valmennustapaamisia. Valmennus ei sisällä valmiita kirjallisia ohjeita siitä, kuinka sinun tulee syödä/treenata/nukkua, vaan valmennuksessa opetellaan löytämään omaa hyvinvointiasi tukevia tekoja edeten pienin askelin kohti pysyvää muutosta. Valmennuksen sisältö pohjautuu tieteelliseen tutkimusnäyttöön ja suosituksiin. Tavoitteena on löytää Sinua tukeva kokonaisuus pysyvään muutokseen. Teemme matkaa yhdessä, mutta jokainen omista tavoitteistaan käsin.
 <br/><br/>
 !["Hyvinvointivalmennus"](/img/uusilempeaelo-hyvinvointivalmennus.jpg "Liike"){: .image-right :}
-**Tavoitteena on löytää Sinua tukeva kokonaisuus, jotta sinä voit voida paremmin.
-Omat tavoitteesi muutoksen suhteen ovat keskiössä.** Teemme matkaa yhdessä, mutta jokainen omista tavoitteistaan käsin.
-Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen priorisointia, keskustelua, yhteistä liikettä, palautumisen tukemista, oman ravinnon tarkastelua, psyykkistä hyvinvointia, sekä muuta omaan muutokseen tähtäävää prosessia, jota työstät sekä yksin, että yhdessä ryhmän kanssa. Oma tavoitteesi edellä, valmentajan tuella. Kyseessä on pienryhmävalmennus, joten yksilöllisemmän tuen takaamiseksi ryhmään otetaan maksimissaan 6 osallistujaa.
+Kyseessä on pienryhmävalmennus, joten yksilöllisen tuen takaamiseksi ryhmään otetaan maksimissaan 6 osallistujaa. Valmennus sisältää arvotyöskentelyä, omien tapojen pohtimista ja tekojen priorisointia, keskusteluja, yhteistä liikettä, palautumisen tukemista, oman ravinnon tarkastelua, psyykkistä hyvinvointia sekä muutoksen prosessointia, jota työstät yksin ja yhdessä ryhmän kanssa. Kohti omia tavoitteitasi, valmentajan tuella.
 <br/><br/>
 !["Uusi lempeä elo"](/img/uusilempeaelo4.jpg "Lepo"){: .center-block :}  
 
 **Tarkemmat tiedot toteutuksesta:** 
 
-Uusi ryhmä käynnistyy Tammikuussa 2026.  
-Ryhmä kokoontuu välillä tammikuu-kesäkuu, tarkempi aikataulu tulossa pian.
-Tässä 6 kuukautta kestävässä valmennuksessa saat yhteensä 14 valmennustapaamista; 12 ryhmätapaamista ja 2 henkilökohtaista valmennustapaamista. Lisäksi
-ryhmän tuki, sekä valmentajan jatkuva etätuki antavat sinulle paljon lisäbuustia matkallesi.  
+Ryhmä kokoontuu Wellnex Gymillä välillä tammikuu-kesäkuu 2026, joka toinen sunnuntai klo 18:15-19:30 (11.1., 25.1., 8.2., 22.2., 15.3., 29.3., 12.4., 26.4., 10.5., 24.5., 7.6., 14.6.) - ei haittaa vaikka joutuisit olemaan jollain kerralla poissa, saat tällöin kirjallisen koosteen aiheesta.  
 
 **Valmennus sisältää:**
 
 
-- Ryhmätapaamiset 2x/kk - 75 min./kerta
-Aikataulu: päivittyy myöhemmin.
-- Henkilökohtaiset valmennustapaamiset x2  
-  - Oman matkan suunnittelu (30min.)  
-  - Oma liikuntasuunnitelma / ohjelma (45min.)   
+- Ryhmätapaamiset x12 - 75 min./kerta
 
-- Valmentajan yksilöllinen etätuki koko valmennuksen ajan
-- Ryhmän oma alusta WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle matkan aikana  
+- Henkilökohtaiset valmennustapaamiset x2 - 45min./kerta (voit käyttää tapaamiset esimerkiksi keskusteluun, yksilölliseen liikuntasuunnitelmaan, ravintovalmennukseen tms.)
+
+- Valmentajan yksilöllinen etätuki koko valmennuksen ajan käytössäsi
+
+- Ryhmän tuki ja oma alusta WhatsApp:ssa keskustelulle ja yhteiselle jakamiselle matkan aikana, jossa valmentaja myös mukana
+
+- Treeniohjelma salille + Kehonhuolto-ohjelma kotiin (yleisohjelmat) 
 
 
 **HINTA:**  
-89€/kk x6 TAI 530€ kertamaksulla (hinnat sis. alv).  
-Voit maksaa myös liikuntaeduilla (Smartum, Edenred, ePassi, eazybreak).
+89€/kk x6 tai 500€ kertamaksulla (hinnat sis. alv) - voit maksaa laskulla tai liikuntaeduilla (ei muita maksuja, jos haluat käydä itsenäisesti kuntosalilla, tulee sinulla olla salikortti).
 
-\* Halutessasi voit ostaa lisää henkilökohtaisia ohjauksia alennettuun hintaan 69€ / 1h ohjaus esim. liikuntaan/palautumiseen/ravitsemukseen (ovh 79€).
-
-ILMOITTAUTUMINEN AUKEAA SYKSYLLÄ 2025
+[ILMOITTAUDU RYHMÄÄN MUKAAN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/3JuiCodEwCgbBrSZ9){:target="_blank"}
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**
 <br/>
