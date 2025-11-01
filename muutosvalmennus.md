@@ -25,7 +25,7 @@ Kyseessä on pienryhmävalmennus, joten yksilöllisen tuen takaamiseksi ryhmää
 
 **Tarkemmat tiedot toteutuksesta:** 
 
-Ryhmä kokoontuu Wellnex Gymillä välillä tammikuu-kesäkuu 2026, joka toinen sunnuntai klo 18:15-19:30 (11.1., 25.1., 8.2., 22.2., 15.3., 29.3., 12.4., 26.4., 10.5., 24.5., 7.6., 14.6.) - ei haittaa vaikka joutuisit olemaan jollain kerralla poissa, saat tällöin kirjallisen koosteen aiheesta.  
+Ryhmä kokoontuu Wellnex Gymillä Lahdessa (os. Hämeenkatu 20) välillä tammikuu-kesäkuu 2026, joka toinen sunnuntai klo 18:15-19:30 (11.1., 25.1., 8.2., 22.2., 15.3., 29.3., 12.4., 26.4., 10.5., 24.5., 7.6., 14.6.) - ei haittaa vaikka joutuisit olemaan jollain kerralla poissa, saat tällöin kirjallisen koosteen aiheesta.  
 
 **Valmennus sisältää:**
 
