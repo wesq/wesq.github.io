@@ -43,13 +43,12 @@ navbar-links:
     - -> Instagram: "https://www.instagram.com/elokatsu"
   Palvelut:
     - Yksilövalmennus: "yksilovalmennus"
-    - Ruukin PT ja pienryhmät: "kellokoski"
+    - Muutosvalmennus: "muutosvalmennus"
     - Ulkotreeni: "ulkotreeni"
     - Seniorijumppa: "seniorijumppa"
-    - Muutosvalmennus: "muutosvalmennus"
-    - Neurosonic-hoito: "neurosonic"
     - Yksityistunnit: "yksityistunnit"
     - Työhyvinvointi: "tyohyvinvointi"
+    - Neurosonic-hoito: "neurosonic"
     - Valmennusehdot: "valmennusehdot"
   Ajankohtaista:
     - 2026: "ajankohtaista"
