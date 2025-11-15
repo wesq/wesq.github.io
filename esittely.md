@@ -32,6 +32,6 @@ Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunte
 <br>
 *Jos ajattelet, että voisin olla oikea valmentaja sinulle, niin ota yhteyttä ja katsotaan yhdessä miten voisin auttaa Sinua. Parhaiten tavoitat minut sähköpostilla kati@elokatsu.fi*
 
-Löydät "Palvelut"-välilehdeltä kootusti kaikki ohjaukset ja lisätietoja niistä. Toimin pääasiassa Tuusulan Kellokoskella, lisäksi yhtenä päivänä viikossa Itä-Helsingissä. Ohjaukset voidaan toteuttaa joustavasti salilla, ulkona tai asiakkaan kotona. Kotikäynneistä veloitan + 10-20€ matkakilometreistä riippuen.
+Löydät "Palvelut"-välilehdeltä kootusti kaikki ohjaukset ja lisätietoja niistä. Valmennukset toteutetaan pääsääntöisesti Lahdessa Wellnex Gymillä, lisäksi onnistuu myös ulkona tai asiakkaan kotona. Kotikäynneistä veloitetaan + 10-20€ matkakilometreistä riippuen. Lisäksi valmennuksia on kerran viikossa tiistaisin Itä-Helsingin Myllypurossa (salilla, ulkona, asiakkaan kotona). Mahdollisuus on myös etävalmennuksiin, jotka voidaan toteuttaa joustavasti netin välityksellä minne tahansa!
 
 Kiva kun olet, juuri siinä. -Kati ❤️

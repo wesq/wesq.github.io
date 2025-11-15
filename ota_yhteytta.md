@@ -12,7 +12,7 @@ Varaa aika maksuttomaan hyvinvointikartoitukseen, joka ei sido sinua vielä mihi
 
  Elokatsu toimii hyvinvoinnin ja liikunnan parissa, vahvana haluna tuoda lempeää hyvinvointia ja liikkeen iloa ihmisten arkeen. Ohjaan lasten ja aikuisten pienryhmäliikuntaa, sekä tarjoan yksilö- ja ryhmävalmennuksia hyvinvoinnin eri osa-alueilla. Lähestymistapani hyvinvointiin on lempeän tarkasteleva, sekä yksilöä kuunteleva ja arvostava. Valmentajana vahvuuksiani on lempeä kohtaaminen, muutokseen tukeminen rauhassa pienin askelin, sekä palautumisen ja kokonaisvaltaisen hyvinvoinnin tarkastelu ja merkitys arjessa.
 
-Palveluuni kuuluvat erilaiset kehon ja mielen hyvinvointia tukevat yksilöille ja ryhmille räätälöidyt valmennukset ja liikunnanohjaukset. Elokatsun Y-tunnus: 2995020-2. Tiesithän, että kaikki elokatsun palvelut voit maksaa laskun lisäksi myös yleisimmillä liikuntaeduilla (Edenred, Smartum, ePassi, eazybreak). 
+Palveluuni kuuluvat erilaiset kehon ja mielen hyvinvointia tukevat yksilöille ja ryhmille räätälöidyt valmennukset ja liikunnanohjaukset. Elokatsun Y-tunnus: 2995020-2. Tiesithän, että kaikki elokatsun palvelut voit maksaa laskun lisäksi myös yleisimmillä liikuntaeduilla (Edenred, Smartum, ePassi). 
 
 **_Elokatsun kaikissa palveluissa noudatetaan määriteltyjä valmennusehtoja._** [Lue valmennusehdot tästä](/valmennusehdot), ostaessasi elokatsun palveluita sitoudut palveluiden valmennusehtoihin.
 

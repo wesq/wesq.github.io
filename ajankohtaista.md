@@ -20,7 +20,7 @@ bigimg: img/a_ajankohtaista_kesa23.jpg
 
 * **Jos palautumisen, unen, stressinhallinnan tai kehon kiputilojen kanssa on haasteita, voi Neurosonic-patjahoito tarjota apua tilanteeseesi. Neurosonic-hoitopatjalla on saatu hyviä tuloksia mm. näissä haasteissa, [tutustu palveluun lisää täältä](/neurosonic)**  
 
-* **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum ja eazybreak) HUOM! Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.**
+* **Elokatsun valmennuksissa voit maksaa yleisimmillä liikuntaeduilla (Edenred, ePassi, Smartum) HUOM! Liikuntaetuuksilla maksusta on sovittava etukäteen, ennenkuin lasku lähetetään.**
   
 <p></p>
  
