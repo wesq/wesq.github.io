@@ -30,18 +30,18 @@ Treeneissä vahvistat näitä ominaisuuksia kehossasi, omaa kehoa kuunnellen ja 
 ***HELSINGIN MYLLYPURON RYHMÄ***
 treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.)
 
-KEVÄTKAUSI´26 **TIISTAISIN** ajalla 13.1.-2.6.2026 **klo 17:15-18:15** (EI treenejä 17.2.) **Hinta: 290€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
+SYYSKAUSI´26 **TIISTAISIN** ajalla 4.8.-15.12.2026 **klo 17:15-18:15** kahdesti kuukaudessa. Treenit ovat 4.8., 18.8., 1.9., 15.9., 29.9., 20.10, 3.11., 17.11., 1.12., 15.12. Treenikauden hinta 150€. (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
-[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU TÄSTÄ](https://forms.gle/k6uUwxXBVLUuu97w8){:target="_blank"}
+[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/n9gbkFjjkPnAfkge7){:target="_blank"}
 <br/><br/>
 ![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-right :}
 <br/><br/>
 **_TUUSULAN KELLOKOSKEN RYHMÄ_**
 treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, harjoitukset tapahtuvat Google Meet etäyhteydellä.) 
 
-KEVÄTKAUSI´26 **TIISTAISIN** ajalla 13.1.-2.6.2026 **klo 19:00-20:00** (EI treenejä 17.2.) **Hinta: 290€** (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
+SYYSKAUSI´26 **TIISTAISIN** ajalla 4.8.-15.12.2026 **klo 19:00-20:00** kahdesti kuukaudessa. Treenit ovat 4.8., 18.8., 1.9., 15.9., 29.9., 20.10, 3.11., 17.11., 1.12., 15.12. Treenikauden hinta 150€. (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
-RYHMÄ ON TÄYTTYNYT
+[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/E4HoDbAu7xtHwvXR8){:target="_blank"}
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
