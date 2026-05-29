@@ -41,7 +41,7 @@ treenaa ulkona Kellokosken alueella. (Sään ollessa aivan mahdoton ulkoiluun, h
 
 SYYSKAUSI´26 **TIISTAISIN** ajalla 4.8.-15.12.2026 **klo 19:00-20:00** noin kaksi kertaa kuukaudessa. Treenit ovat 4.8., 18.8., 1.9., 15.9., 29.9., 20.10, 3.11., 17.11., 1.12., 15.12. Treenikauden hinta 150€. (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/E4HoDbAu7xtHwvXR8){:target="_blank"}
+RYHMÄ ON TÄYTTYNYT
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
