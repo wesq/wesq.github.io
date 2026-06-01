@@ -29,8 +29,6 @@ Eloisan kehon senioritunneilla vahvistat näitä ominaisuuksia, omaa kehoasi kuu
 pienryhmä harjoittelee Myllykylän Kylätalolla, os. Ryynimyllynkatu 1, 00920 Helsinki. Toisinaan ryhmä jumppaa myös ulkona Myllypuron alueella. Talvella jumpataan sisällä, keväällä/alkusyksystä ilmojen ollessa lämpimiä, jumpataan myös ulkona. Tunnit ohjaa Hyvinvointivalmentaja, Personal Trainer ja Liikuntaneuvoja Kati Sokka.
 
 SYYSKAUSI´26 **TIISTAISIN** ajalla 4.8.-15.12.2026 **klo 12:10-12:55** noin kaksi kertaa kuukaudessa. Treenit ovat 4.8., 18.8., 1.9., 15.9., 29.9., 20.10, 3.11., 17.11., 1.12., 15.12. Treenikauden hinta 117€. (sis. alv) maksetaan joko käteisellä tai laskulla, ja ryhmämaksun voi maksaa myös osissa.  
-
-[ILMOITTAUDU RYHMÄÄN MUKAAN TÄTÄ LINKKIÄ PAINAMALLA](https://forms.gle/QCQ2zEF1Ti7BqdrZ8){:target="_blank"}
 <br/><br/>
 
 **_Elokatsu pidättää itsellään kaikki oikeudet muutoksiin._**  
