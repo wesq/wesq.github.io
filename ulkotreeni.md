@@ -32,7 +32,7 @@ treenaa ulkona Myllypuron alueella. (Sään ollessa aivan mahdoton ulkoiluun, ha
 
 SYYSKAUSI´26 **TIISTAISIN** ajalla 4.8.-15.12.2026 **klo 17:15-18:15** noin kaksi kertaa kuukaudessa. Treenit ovat 4.8., 18.8., 1.9., 15.9., 29.9., 20.10, 3.11., 17.11., 1.12., 15.12. Treenikauden hinta 150€. (sis. alv) voidaan maksaa laskulla (kerralla tai osissa), sekä liikuntaeduilla.
 
-[ILMOITTAUDU RYHMÄÄN TÄSTÄ](https://forms.gle/n9gbkFjjkPnAfkge7){:target="_blank"}
+[RYHMÄÄN ON 1 VAPAA PAIKKA, ILMOITTAUDU TÄSTÄ](https://forms.gle/n9gbkFjjkPnAfkge7){:target="_blank"}
 <br/><br/>
 ![Pienryhmätreeni](/img/kellokoski_treeni.jpg "Kellokosken pienryhma"){: .image-right :}
 <br/><br/>
